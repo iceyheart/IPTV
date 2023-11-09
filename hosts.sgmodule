@@ -1,3 +1,4 @@
+#!name=Hosts
 [Host]
 *.netflix.com = 209.146.104.28
 *.netflix.net = 209.146.104.28

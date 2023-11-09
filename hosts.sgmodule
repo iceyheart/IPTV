@@ -1,15 +1,9 @@
 #!name=Hosts
 [Host]
 *.netflix.com = 209.146.104.28
-#*.netflix.net = 209.146.104.28
-#*.nflximg.com = 209.146.104.28
-#*.nflximg.net = 209.146.104.28
 *.nflxvideo.net = 209.146.104.28
 *.nflxso.net = 209.146.104.28
-#*.nflxext.com = 209.146.104.28
-#*.adobedtm.com = 103.165.84.60
-*.bamgrid.com = 103.165.84.60
-*.disney-plus.net = 103.165.84.60
-*.disneyplus.com = 103.165.84.60
-#*.disneyplus.com.ssl.sc.omtrdc.net = 103.165.84.60
-*.dssott.com = 103.165.84.60
+*.bamgrid.com = 45.67.200.144
+*.disney-plus.net = 45.67.200.144
+*.disneyplus.com = 45.67.200.144
+*.dssott.com = 45.67.200.144

@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:0 type="stream" tvg-id="-1" tvg-name="CCTV1" group-title="央视" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png", CCTV-1综合-高清
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001331/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:0 type="stream" tvg-id="-1" tvg-name="安徽卫视" group-title="卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png", 安徽卫视-高清
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001346/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:0 type="stream" tvg-id="-1" tvg-name="CCTV2" group-title="央视" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png", CCTV-2财经-高清
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001332/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:0 type="stream" tvg-id="-1" tvg-name="CCTV13" group-title="央视" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png", CCTV-13新闻-高清
@@ -59,8 +61,6 @@ http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001336/index.m3
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001344/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:0 type="stream" tvg-id="-1" tvg-name="北京卫视" group-title="卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png", 北京卫视-高清
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001335/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:0 type="stream" tvg-id="-1" tvg-name="安徽卫视" group-title="卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png", 安徽卫视-高清
-http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001346/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:0 type="stream" tvg-id="-1" tvg-name="深圳卫视" group-title="卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shenzhen.png", 深圳卫视-高清
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001342/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:0 type="stream" tvg-id="-1" tvg-name="黑龙江卫视" group-title="卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png", 黑龙江卫视-高清

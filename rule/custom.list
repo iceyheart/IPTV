@@ -3,5 +3,5 @@
 # DOMAIN-KEYWORD: 0
 # DOMAIN-SUFFIX: 1
 # TOTAL: 1
-DOMAIN-SUFFIX,oracle.com
-DOMAIN-SUFFIX,oraclecloud.com
+.oracle.com
+.oraclecloud.com

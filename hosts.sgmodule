@@ -2,11 +2,11 @@
 #!desc=奈飞迪斯尼sni反代
 [Host]
 #Netflix
-*.netflix.com = 209.146.104.28
-*.nflxvideo.net = 209.146.104.28
-*.nflxso.net = 209.146.104.28
+#*.netflix.com = 209.146.104.28
+#*.nflxvideo.net = 209.146.104.28
+#*.nflxso.net = 209.146.104.28
 #Disney+
-*.bamgrid.com = 209.146.104.28
-*.disney-plus.net = 209.146.104.28
-*.disneyplus.com = 209.146.104.28
-*.dssott.com = 209.146.104.28
+*.bamgrid.com = 163.53.18.113
+*.disney-plus.net = 163.53.18.113
+*.disneyplus.com = 163.53.18.113
+*.dssott.com = 163.53.18.113

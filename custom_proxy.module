@@ -1,0 +1,8 @@
+#!name=自定义proxy列表
+[Rule]
+DOMAIN-SUFFIX,free.hr,PROXY
+DOMAIN-SUFFIX,xyz,PROXY
+DOMAIN-SUFFIX,zhuifan.link,PROXY
+DOMAIN-SUFFIX,bing.com,PROXY
+DOMAIN-SUFFIX,bingapis.com,PROXY
+DOMAIN-SUFFIX,microsoftapp.net,PROXY

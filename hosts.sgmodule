@@ -1,5 +1,15 @@
 #!name=Hosts
 #!desc=奈飞迪斯尼sni反代
+[Rule]
+#Netflix
+DOMAIN-SUFFIX,netflix.com,DIRECT
+DOMAIN-SUFFIX,nflxvideo.net,DIRECT
+DOMAIN-SUFFIX,nflxso.net,DIRECT
+#Disney+
+DOMAIN-SUFFIX,bamgrid.com,DIRECT
+DOMAIN-SUFFIX,disney-plus.net,DIRECT
+DOMAIN-SUFFIX,disneyplus.com,DIRECT
+DOMAIN-SUFFIX,dssott.com,DIRECT
 [Host]
 #Netflix
 *.netflix.com = 209.146.104.109

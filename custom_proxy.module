@@ -4,6 +4,8 @@
 DOMAIN-SUFFIX,free.hr,PROXY
 DOMAIN-SUFFIX,zhuifan.link,PROXY
 DOMAIN-KEYWORD,mypikpak,PROXY
+DOMAIN-KEYWORD,sharepoint,PROXY
+#bing
 DOMAIN-SUFFIX,bing.com,PROXY
 DOMAIN-SUFFIX,bingapis.com,PROXY
 DOMAIN-SUFFIX,microsoftapp.net,PROXY

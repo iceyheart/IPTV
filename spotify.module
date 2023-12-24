@@ -1,0 +1,42 @@
+#!name=Spotify(iOS15)
+#!desc=部分解锁premium,建议重新登录,音质不能设置为超高
+# 1. 搜索界面 歌单/歌曲可以随意切换完全播放  2. 音乐库已点赞歌曲随意切换完全播放
+
+[Rule]
+DOMAIN,audio4-ak-spotify-com.akamaized.net,PROXY
+DOMAIN,cdn-spotify-experiments.conductrics.com,PROXY
+DOMAIN,heads-ak-spotify-com.akamaized.net,PROXY
+DOMAIN,spotify.com.edgesuite.net,PROXY
+DOMAIN,spotify.map.fastly.net,PROXY
+DOMAIN,spotify.map.fastlylb.net,PROXY
+DOMAIN-SUFFIX,audio-ak-spotify-com.akamaized.net,PROXY
+DOMAIN-SUFFIX,byspotify.com,PROXY
+DOMAIN-SUFFIX,heads4-ak-spotify-com.akamaized.net,PROXY
+DOMAIN-SUFFIX,pscdn.co,PROXY
+DOMAIN-SUFFIX,scdn.co,PROXY
+DOMAIN-SUFFIX,spoti.fi,PROXY
+DOMAIN-SUFFIX,spotify-com.akamaized.net,PROXY
+DOMAIN-SUFFIX,spotify-everywhere.com,PROXY
+DOMAIN-SUFFIX,spotify.com,PROXY
+DOMAIN-SUFFIX,spotify.design,PROXY
+DOMAIN-SUFFIX,spotifycdn.com,PROXY
+DOMAIN-SUFFIX,spotifycdn.net,PROXY
+DOMAIN-SUFFIX,spotifycharts.com,PROXY
+DOMAIN-SUFFIX,spotifycodes.com,PROXY
+DOMAIN-SUFFIX,spotifyforbrands.com,PROXY
+DOMAIN-SUFFIX,spotifyjobs.com,PROXY
+DOMAIN-SUFFIX,spotifynewsroom.jp,PROXY
+DOMAIN-SUFFIX,spotilocal.com,PROXY
+DOMAIN-SUFFIX,tospotify.com,PROXY
+DOMAIN-KEYWORD,-spotify-,PROXY
+DOMAIN-KEYWORD,spotify.com,PROXY
+USER-AGENT,Spotify*,PROXY
+IP-CIDR,104.154.127.126/32,PROXY,no-resolve
+IP-CIDR,35.186.224.47/32,PROXY,no-resolve
+
+[MITM]
+hostname = %APPEND% spclient.wg.spotify.com
+
+[Script]
+spotify-json = type=http-request,type=http-request,pattern=^https:\/\/spclient\.wg\.spotify\.com\/(artistview\/v1\/artist|album-entity-view\/v2\/album)\/,requires-body=0,script-path=https://raw.githubusercontent.com/app2smile/rules/master/js/spotify-json.js
+spotify-proto = type=http-response,pattern=^https:\/\/spclient\.wg\.spotify\.com\/(bootstrap\/v1\/bootstrap|user-customization-service\/v1\/customize)$,requires-body=1,binary-mode=1,max-size=0,script-path=https://raw.githubusercontent.com/app2smile/rules/master/js/spotify-proto.js,script-update-interval=0

@@ -1,6 +1,6 @@
 #!name=Netflix_ting
 #!desc=奈飞走挺线路
-[RULE]
+[Rule]
 DOMAIN-SUFFIX,*.netflix.com,ting
 DOMAIN-SUFFIX,*.nflxso.net,ting
 DOMAIN-SUFFIX,*.nflxvideo.net,ting

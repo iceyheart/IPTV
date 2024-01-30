@@ -1,6 +1,6 @@
 #!name=Netflix_HK
 #!desc=奈飞香港反代
 [Host]
-*.netflix.com = 103.20.222.174
-*.nflxvideo.net = 103.20.222.174
-*.nflxso.net = 103.20.222.174
+*.netflix.com = 46.20.109.216
+*.nflxvideo.net = 46.20.109.216
+*.nflxso.net = 46.20.109.216

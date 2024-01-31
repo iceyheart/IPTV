@@ -215,15 +215,15 @@ http://[2409:8087:2001:20:2800:0:df6e:eb19]:80/wh7f454c46tw1755251107_-172051010
 http://[2409:8087:2001:20:2800:0:df6e:eb18]:80/wh7f454c46tw1555337016_-1312521077/ott.mobaibox.com/PLTV/3/224/3221227544/index.m3u8?icpid=3&RTS=1674385965&from=40&popid=40&hms_devid=2113&prioritypopid=40&vqe=3
 #EXTINF:-1 type="stream" tvg-name="NEWTV军旅剧场" tvg-logo="https://live.fanmingming.com/tv/NEWTV军旅剧场.png" group-title="😻NewTV",军旅剧场
 http://[2409:8087:2001:20:2800:0:df6e:eb06]:80/wh7f454c46tw1755552897_-1767851709/ott.mobaibox.com/PLTV/3/224/3221227603/index.m3u8?icpid=3&RTS=1674386165&from=40&popid=40&hms_devid=2036&prioritypopid=40&vqe=3
-#EXTINF:-1 type="stream" tvg-name="NEWTV农业致富" tvg-logo="https://live.fanmingming.com/tv/NEWTV农业致富.png" group-title="😻NewTV",农业致富
+#EXTINF:-1 type="stream" tvg-name="农业致富" tvg-logo="https://live.fanmingming.com/tv/农业致富.png" group-title="😻NewTV",农业致富
 http://[2409:8087:2001:20:2800:0:df6e:eb18]:80/wh7f454c46tw518731977_-1157191011/ott.mobaibox.com/PLTV/3/224/3221227588/index.m3u8?icpid=3&RTS=1674380634&from=40&popid=40&hms_devid=2113&prioritypopid=40&vqe=3
-#EXTINF:-1 type="stream" tvg-name="NEWTV求索记录" tvg-logo="https://live.fanmingming.com/tv/NEWTV求索记录.png" group-title="😻NewTV",求索记录
+#EXTINF:-1 type="stream" tvg-name="求索记录" tvg-logo="https://live.fanmingming.com/tv/求索记录.png" group-title="😻NewTV",求索记录
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000002000032052/index.m3u8?channel-id=wasusyt&Contentid=6000000002000032052&livemode=1&stbId=3
-#EXTINF:-1 type="stream" tvg-name="NEWTV求索科学" tvg-logo="https://live.fanmingming.com/tv/NEWTV求索科学.png" group-title="😻NewTV",求索科学
+#EXTINF:-1 type="stream" tvg-name="求索科学" tvg-logo="https://live.fanmingming.com/tv/求索科学.png" group-title="😻NewTV",求索科学
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000002000032344/index.m3u8?channel-id=wasusyt&Contentid=6000000002000032344&livemode=1&stbId=3
-#EXTINF:-1 type="stream" tvg-name="NEWTV求索生活" tvg-logo="https://live.fanmingming.com/tv/NEWTV求索生活.png" group-title="😻NewTV",求索生活
+#EXTINF:-1 type="stream" tvg-name="求索生活" tvg-logo="https://live.fanmingming.com/tv/求索生活.png" group-title="😻NewTV",求索生活
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000002000003382/index.m3u8?channel-id=wasusyt&Contentid=6000000002000003382&livemode=1&stbId=3
-#EXTINF:-1 type="stream" tvg-name="NEWTV探索纪实" tvg-logo="https://live.fanmingming.com/tv/NEWTV探索纪实.png" group-title="😻NewTV",探索纪实
+#EXTINF:-1 type="stream" tvg-name="探索纪实" tvg-logo="https://live.fanmingming.com/tv/探索纪实.png" group-title="😻NewTV",探索纪实
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/5359008697329269813/index.m3u8?channel-id=wasusyt&Contentid=5359008697329269813&livemode=1&stbId=3
 #EXTINF:-1 type="stream" tvg-name="IHOT爱电竞" tvg-logo="https://live.fanmingming.com/tv/IHOT爱电竞.png" group-title="😻IPV6爱好",爱电竞
 http://[2409:8087:7000:20:1000::22]:6060/000000001000/6000000006000230630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000230630&livemode=1&stbId=3#http://[2409:8087:7000:20:1000::22]:6060/000000001000/2000000004000000054/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000054&livemode=1&stbId=3

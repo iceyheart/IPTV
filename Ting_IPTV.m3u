@@ -27,7 +27,7 @@ http://[2409:8087:2001:20:2800:0:df6e:eb04]/wh7f454c46tW1782571424_-1576923679/o
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/7185203501769528108/index.m3u8?channel-id=wasusyt&Contentid=7185203501769528108&livemode=1&stbId=3
 #EXTINF:-1 type="stream" tvg-name="亚洲影院" tvg-logo="https://live.fanmingming.com/tv/亚洲影院.png" group-title="😻IPV6精选",亚洲影院
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/5841816227539527643/index.m3u8?channel-id=wasusyt&Contentid=5841816227539527643&livemode=1&stbId=3
-#EXTINF:-1 type="stream" tvg-name="院线影视" tvg-logo="https://live.fanmingming.com/tv/院线影视.png" group-title="😻IPV6精选",院线影视
+#EXTINF:-1 type="stream" tvg-name="IHOT爱院线" tvg-logo="https://live.fanmingming.com/tv/IHOT爱院线.png" group-title="😻IPV6精选",院线影视
 http://[2409:8087:7000:20:1000::22]:6060/000000001000/2000000004000000034/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000034&livemode=1&stbId=3
 #EXTINF:-1 type="stream" tvg-name="精彩影视" tvg-logo="https://live.fanmingming.com/tv/精彩影视.png" group-title="😻IPV6精选",精彩影视
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000320630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000320630&livemode=1&stbId=3

@@ -42,9 +42,9 @@ http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001295/index.m3
 #EXTINF:0 type="stream" tvg-id="893" tvg-name="CGTN" group-title="央视" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png", CGTN-高清
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001024/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:0 type="stream" tvg-id="-1" tvg-name="凤凰中文" group-title="凤凰" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png", 凤凰卫视中文台-高清
-http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002275/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+http://[2409:8087:2001:20:2800:0:df6e:eb19]/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
 #EXTINF:0 type="stream" tvg-id="-1" tvg-name="凤凰资讯" group-title="凤凰" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png", 凤凰卫视资讯台-高清
-http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002187/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
 #EXTINF:0 type="stream" tvg-id="-1" tvg-name="CHC高清电影" group-title="CHC高清" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg", CHC高清电影-高清
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002065/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:0 type="stream" tvg-id="-1" tvg-name="CHC家庭电影" group-title="CHC高清" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg", CHC家庭影院-高清

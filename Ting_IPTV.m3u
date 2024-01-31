@@ -3,23 +3,23 @@
 http://[2409:8087:2001:20:2800:0:df6e:eb03]:80/ott.mobaibox.com/PLTV/4/224/3221228165/index.m3u8
 #EXTINF:-1 type="stream" tvg-name="CCTV6" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png" group-title="😻IPV6精选",CCTV6影视
 http://[2409:8087:2001:20:2800:0:df6e:eb06]:80/wh7f454c46tw1744141582_1739723586/ott.mobaibox.com/PLTV/3/224/3221227301/index.m3u8?icpid=3&RTS=1674386154&from=40&popid=40&hms_devid=2036&prioritypopid=40&vqe=3
-#EXTINF:-1 type="stream" tvg-name="江苏移动4K影视" tvg-logo="https://live.fanmingming.com/tv/江苏移动4K影视.png" group-title="😻IPV6精选",江苏移动4K影视
+#EXTINF:-1 type="stream" tvg-name="江苏影视" tvg-logo="https://live.fanmingming.com/tv/江苏影视.png" group-title="😻IPV6精选",江苏移动4K影视
 http://[2409:8087:2001:20:2800:0:df6e:eb04]/ott.mobaibox.com/PLTV/3/224/3221227579/index.m3u8
-#EXTINF:-1 type="stream" tvg-name="欢笑剧场 4K" tvg-logo="https://live.fanmingming.com/tv/欢笑剧场 4K.png" group-title="😻IPV6精选",欢笑剧场 4K
+#EXTINF:-1 type="stream" tvg-name="欢笑剧场" tvg-logo="https://live.fanmingming.com/tv/欢笑剧场.png" group-title="😻IPV6精选",欢笑剧场 4K
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002156/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 type="stream" tvg-name="华数 4K" tvg-logo="https://live.fanmingming.com/tv/华数 4K.png" group-title="😻IPV6精选",华数 4K
+#EXTINF:-1 type="stream" tvg-name="华数4K" tvg-logo="https://live.fanmingming.com/tv/华数4K.png" group-title="😻IPV6精选",华数 4K
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000003000004748/index.m3u8?channel-id=wasusyt&Contentid=6000000003000004748&livemode=1&stbId=3
-#EXTINF:-1 type="stream" tvg-name="复古 4K" tvg-logo="https://live.fanmingming.com/tv/复古 4K.png" group-title="😻IPV6精选",复古 4K
+#EXTINF:-1 type="stream" tvg-name="复古4K" tvg-logo="https://live.fanmingming.com/tv/复古4K.png" group-title="😻IPV6精选",复古 4K
 http://[2409:8087:2001:20:2800:0:df6e:eb15]/ott.mobaibox.com/PLTV/3/224/3221228141/index.m3u8
-#EXTINF:-1 type="stream" tvg-name="爱上 4K" tvg-logo="https://live.fanmingming.com/tv/爱上 4K.png" group-title="😻IPV6精选",爱上 4K
+#EXTINF:-1 type="stream" tvg-name="爱上4K" tvg-logo="https://live.fanmingming.com/tv/爱上4K.png" group-title="😻IPV6精选",爱上 4K
 http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000459/index.m3u8?IAS
-#EXTINF:-1 type="stream" tvg-name="纯享 4K" tvg-logo="https://live.fanmingming.com/tv/纯享 4K.png" group-title="😻IPV6精选",纯享 4K
+#EXTINF:-1 type="stream" tvg-name="纯享4K" tvg-logo="https://live.fanmingming.com/tv/纯享4K.png" group-title="😻IPV6精选",纯享 4K
 http://[2409:8087:2001:20:2800:0:df6e:eb10]:80/ott.mobaibox.com/PLTV/4/224/3221228242/index.m3u8
-#EXTINF:-1 type="stream" tvg-name="苏州 4K" tvg-logo="https://live.fanmingming.com/tv/苏州 4K.png" group-title="😻IPV6精选",苏州 4K
+#EXTINF:-1 type="stream" tvg-name="苏州4K" tvg-logo="https://live.fanmingming.com/tv/苏州4K.png" group-title="😻IPV6精选",苏州 4K
 http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
-#EXTINF:-1 type="stream" tvg-name="Love Nrture 4K「自然」" tvg-logo="https://live.fanmingming.com/tv/Love Nrture 4K「自然」.png" group-title="😻IPV6精选",Love Nrture 4K「自然」
+#EXTINF:-1 type="stream" tvg-name="LoveNature" tvg-logo="https://live.fanmingming.com/tv/LoveNature.png" group-title="😻IPV6精选",Love Nature 4K「自然」
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
-#EXTINF:-1 type="stream" tvg-name="Fashion 4K「时尚」" tvg-logo="https://live.fanmingming.com/tv/Fashion 4K「时尚」.png" group-title="😻IPV6精选",Fashion 4K「时尚」
+#EXTINF:-1 type="stream" tvg-name="fashiontv" tvg-logo="https://live.fanmingming.com/tv/fashiontv.png" group-title="😻IPV6精选",Fashion 4K「时尚」
 https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 #EXTINF:-1 type="stream" tvg-name="测试 8K" tvg-logo="https://live.fanmingming.com/tv/测试 8K.png" group-title="😻IPV6精选",测试 8K
 http://[2409:8087:2001:20:2800:0:df6e:eb04]/wh7f454c46tW1782571424_-1576923679/ott.mobaibox.com/PLTV/3/224/3221228132/index.m3u8
@@ -32,9 +32,7 @@ http://[2409:8087:7000:20:1000::22]:6060/000000001000/2000000004000000034/index.
 #EXTINF:-1 type="stream" tvg-name="精彩影视" tvg-logo="https://live.fanmingming.com/tv/精彩影视.png" group-title="😻IPV6精选",精彩影视
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000320630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000320630&livemode=1&stbId=3
 #EXTINF:-1 type="stream" tvg-name="黑莓电影" tvg-logo="https://live.fanmingming.com/tv/黑莓电影.png" group-title="😻IPV6精选",黑莓电影
-http://[2409:8087:2001:20:2800:0:df6e:eb04]/ott.mobaibox.com/PLTV/3/224/3221225567/index.m3u8#
-#EXTINF:-1 type="stream" tvg-name="http://[2409:8087:2001:20:2800:0:df6e:eb05]:80/wh7f454c46tw1557894210_-694330224/ott.mobaibox.com/PLTV/3/224/3221225567/index.m3u8?icpid=3&RTS=1674385968&from=40&popid=40&hms_devid=2041&prioritypopid=40&vqe=3" tvg-logo="https://live.fanmingming.com/tv/http://[2409:8087:2001:20:2800:0:df6e:eb05]:80/wh7f454c46tw1557894210_-694330224/ott.mobaibox.com/PLTV/3/224/3221225567/index.m3u8?icpid=3&RTS=1674385968&from=40&popid=40&hms_devid=2041&prioritypopid=40&vqe=3.png" group-title="😻IPV6精选",http://[2409:8087:2001:20:2800:0:df6e:eb05]:80/wh7f454c46tw1557894210_-694330224/ott.mobaibox.com/PLTV/3/224/3221225567/index.m3u8?icpid=3&RTS=1674385968&from=40&popid=40&hms_devid=2041&prioritypopid=40&vqe=3
-undefined
+http://[2409:8087:2001:20:2800:0:df6e:eb04]/ott.mobaibox.com/PLTV/3/224/3221225567/index.m3u8
 #EXTINF:-1 type="stream" tvg-name="动作大片" tvg-logo="https://live.fanmingming.com/tv/动作大片.png" group-title="😻IPV6精选",动作大片
 http://[2409:8087:2001:20:2800:0:df6e:eb06]:80/wh7f454c46tw1555700033_-766721196/ott.mobaibox.com/PLTV/3/224/3221227606/index.m3u8?icpid=3&RTS=1674385966&from=40&popid=40&hms_devid=2036&prioritypopid=40&vqe=3
 #EXTINF:-1 type="stream" tvg-name="明星大片" tvg-logo="https://live.fanmingming.com/tv/明星大片.png" group-title="😻IPV6精选",明星大片
@@ -347,17 +345,17 @@ http://[2409:8087:7000:20:1000::22]:6060/000000001000/2000000004000000044/index.
 http://[2409:8087:7000:20:1000::22]:6060/000000001000/6000000006000030630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000030630&livemode=1&stbId=3
 #EXTINF:-1 type="stream" tvg-name="爱院线" tvg-logo="https://live.fanmingming.com/tv/爱院线.png" group-title="😻IPV6爱好",爱院线
 http://[2409:8087:7000:20:1000::22]:6060/000000001000/2000000004000000034/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000034&livemode=1&stbId=3
-#EXTINF:-1 type="stream" tvg-name="「海南」海南自贸「IPV6」" tvg-logo="https://live.fanmingming.com/tv/「海南」海南自贸「IPV6」.png" group-title="😻IPV6地方",「海南」海南自贸「IPV6」
+#EXTINF:-1 type="stream" tvg-name="海南自贸" tvg-logo="https://live.fanmingming.com/tv/海南自贸.png" group-title="😻IPV6地方",「海南」海南自贸「IPV6」
 http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000320/index.m3u8?IAS
-#EXTINF:-1 type="stream" tvg-name="「海南」海南新闻「IPV6」" tvg-logo="https://live.fanmingming.com/tv/「海南」海南新闻「IPV6」.png" group-title="😻IPV6地方",「海南」海南新闻「IPV6」
+#EXTINF:-1 type="stream" tvg-name="海南新闻" tvg-logo="https://live.fanmingming.com/tv/海南新闻.png" group-title="😻IPV6地方",「海南」海南新闻「IPV6」
 http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000321/index.m3u8?IAS
-#EXTINF:-1 type="stream" tvg-name="「海南」海南文旅「IPV6」" tvg-logo="https://live.fanmingming.com/tv/「海南」海南文旅「IPV6」.png" group-title="😻IPV6地方",「海南」海南文旅「IPV6」
+#EXTINF:-1 type="stream" tvg-name="海南文旅" tvg-logo="https://live.fanmingming.com/tv/海南文旅.png" group-title="😻IPV6地方",「海南」海南文旅「IPV6」
 http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000322/index.m3u8?IAS
-#EXTINF:-1 type="stream" tvg-name="「海南」海南少儿「IPV6」" tvg-logo="https://live.fanmingming.com/tv/「海南」海南少儿「IPV6」.png" group-title="😻IPV6地方",「海南」海南少儿「IPV6」
+#EXTINF:-1 type="stream" tvg-name="海南少儿" tvg-logo="https://live.fanmingming.com/tv/海南少儿.png" group-title="😻IPV6地方",「海南」海南少儿「IPV6」
 http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000323/index.m3u8?IAS
-#EXTINF:-1 type="stream" tvg-name="「海南」海南公共「IPV6」" tvg-logo="https://live.fanmingming.com/tv/「海南」海南公共「IPV6」.png" group-title="😻IPV6地方",「海南」海南公共「IPV6」
+#EXTINF:-1 type="stream" tvg-name="海南公共" tvg-logo="https://live.fanmingming.com/tv/海南公共.png" group-title="😻IPV6地方",「海南」海南公共「IPV6」
 http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000382/index.m3u8?IAS
-#EXTINF:-1 type="stream" tvg-name="「海南」三亚卫视「IPV6」" tvg-logo="https://live.fanmingming.com/tv/「海南」三亚卫视「IPV6」.png" group-title="😻IPV6地方",「海南」三亚卫视「IPV6」
+#EXTINF:-1 type="stream" tvg-name="三亚卫视" tvg-logo="https://live.fanmingming.com/tv/三亚卫视.png" group-title="😻IPV6地方",「海南」三亚卫视「IPV6」
 http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/00000001000000060000000000000136/index.m3u8?IAS
 #EXTINF:-1 type="stream" tvg-name="「四川」北川电视一套" tvg-logo="https://live.fanmingming.com/tv/「四川」北川电视一套.png" group-title="😻IPV6地方",「四川」北川电视一套
 http://live.sctvcloud.com/live/bcgqlive.m3u8?zsicd

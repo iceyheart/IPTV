@@ -1649,66 +1649,6 @@ http://mmitv.top/pltv/yy.php?id=1354888751
 http://epg.112114.xyz/douyu/8770422
 #EXTINF:-1 type="stream" tvg-name="爱情公寓" tvg-logo="https://live.fanmingming.com/tv/爱情公寓.png" group-title="🎬电影频道",爱情公寓
 http://epg.112114.xyz/douyu/6863367
-#EXTINF:-1 type="stream" tvg-name="纬来篮球" tvg-logo="https://live.fanmingming.com/tv/纬来篮球.png" group-title="🏆体育频道",纬来篮球
-http://hls.szsummer.cn/live/446035/playlist.m3u8?k=32f9ec7c13e4b390289143a8e1b2a898&t=1840341130#https://cloud.yumixiu768.com/tmp/123.m3u8
-#EXTINF:-1 type="stream" tvg-name="广东体育" tvg-logo="https://live.fanmingming.com/tv/广东体育.png" group-title="🏆体育频道",广东体育
-http://111.221.137.154:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 type="stream" tvg-name="广东体育" tvg-logo="https://live.fanmingming.com/tv/广东体育.png" group-title="🏆体育频道",广东体育
-http://218.17.196.234:9901/tsfile/live/1001_1.m3u8
-#EXTINF:-1 type="stream" tvg-name="安徽体育" tvg-logo="https://live.fanmingming.com/tv/安徽体育.png" group-title="🏆体育频道",安徽体育
-http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3/hls.m3u8
-#EXTINF:-1 type="stream" tvg-name="咪咕体育" tvg-logo="https://live.fanmingming.com/tv/咪咕体育.png" group-title="🏆体育频道",咪咕体育
-http://maomao.kandiantv.cn/m3u8.php?/migu/654102378
-#EXTINF:-1 type="stream" tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="🏆体育频道",CCTV5
-http://111.20.40.173/PLTV/88888893/224/3221226395/index.m3u8
-#EXTINF:-1 type="stream" tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png" group-title="🏆体育频道",CCTV5+
-http://hms184nc1972679574.live.aikan.miguvideo.com/wh7f454c46tw4035956330_-1197773273/wd_r2/cctv/cctv5plusnew/2500/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=112.45.97.120&timestamp=20230208130700&ContentId=265106763&timezone=UTC&mtv_session=b1d7170ccd660150baa2e9435d787064&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=dfe2cfbc447ddc224a226f33be3d0f39
-#EXTINF:-1 type="stream" tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="🏆体育频道",CCTV16
-http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226921/1.m3u8
-#EXTINF:-1 type="stream" tvg-name="五星体育" tvg-logo="https://live.fanmingming.com/tv/五星体育.png" group-title="🏆体育频道",五星体育
-http://222.71.90.218:8888/newlive/live/hls/56/live.m3u8
-#EXTINF:-1 type="stream" tvg-name="赛事经典" tvg-logo="https://live.fanmingming.com/tv/赛事经典.png" group-title="🏆体育频道",赛事经典
-http://maomao.kandiantv.cn/m3u8.php?/migu/646596895
-#EXTINF:-1 type="stream" tvg-name="体坛名栏" tvg-logo="https://live.fanmingming.com/tv/体坛名栏.png" group-title="🏆体育频道",体坛名栏
-http://maomao.kandiantv.cn/m3u8.php?/migu/629943305
-#EXTINF:-1 type="stream" tvg-name="先锋乒羽" tvg-logo="https://live.fanmingming.com/tv/先锋乒羽.png" group-title="🏆体育频道",先锋乒羽
-http://106.39.160.155/live.aishang.ctlcdn.com/00000110240320_1/playlist.m3u8?CONTENTID=00000110240320_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
-#EXTINF:-1 type="stream" tvg-name="先锋乒羽" tvg-logo="https://live.fanmingming.com/tv/先锋乒羽.png" group-title="🏆体育频道",先锋乒羽
-http://106.39.160.133/live.aishang.ctlcdn.com/00000110240320_1/encoder/0/playlist.m3u8?CONTENTID=00000110240320_1
-#EXTINF:-1 type="stream" tvg-name="先锋乒羽" tvg-logo="https://live.fanmingming.com/tv/先锋乒羽.png" group-title="🏆体育频道",先锋乒羽
-http://httpdvb.slave.yqdtv.com:13164/playurl?programid=4200000116&playtype=live&protocol=hls&playtoken=31603YEQXREOPEG10&accesstoken=G79E6023V21307D1TD05FABJB53102ABM786710FEI3282697DK98BDA6.m3u8
-#EXTINF:-1 type="stream" tvg-name="劲爆体育" tvg-logo="https://live.fanmingming.com/tv/劲爆体育.png" group-title="🏆体育频道",劲爆体育
-http://223.109.210.41/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel43038/index.m3u8
-#EXTINF:-1 type="stream" tvg-name="劲爆体育" tvg-logo="https://live.fanmingming.com/tv/劲爆体育.png" group-title="🏆体育频道",劲爆体育
-http://223.109.210.41/4309-tx.otvstream.otvcloud.com/otv/skcc/live/channel43084/index.m3u8
-#EXTINF:-1 type="stream" tvg-name="劲爆体育" tvg-logo="https://live.fanmingming.com/tv/劲爆体育.png" group-title="🏆体育频道",劲爆体育
-http://httpdvb.slave.shuliyun.com:13164/playurl?programid=4200000101&playtype=live&protocol=hls&accesstoken=G8E222BE4V21307D1TBC062A6JF7E607ABM7B61CDEDID068875K98BDB0&playtoken=ABCDEFGHI.m3u8
-#EXTINF:-1 type="stream" tvg-name="魅力足球" tvg-logo="https://live.fanmingming.com/tv/魅力足球.png" group-title="🏆体育频道",魅力足球
-http://223.109.210.41/4309-tx.otvstream.otvcloud.com/otv/skcc/live/channel43083/index.m3u8
-#EXTINF:-1 type="stream" tvg-name="风云足球" tvg-logo="https://live.fanmingming.com/tv/风云足球.png" group-title="🏆体育频道",风云足球
-http://111.20.40.170/PLTV/88888893/224/3221226984/index.m3u8
-#EXTINF:-1 type="stream" tvg-name="国外体育6" tvg-logo="https://live.fanmingming.com/tv/国外体育6.png" group-title="🏆体育频道",国外体育6
-http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8
-#EXTINF:-1 type="stream" tvg-name="美国摔角&" tvg-logo="https://live.fanmingming.com/tv/美国摔角&.png" group-title="🏆体育频道",美国摔角&
-https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
-#EXTINF:-1 type="stream" tvg-name="阿伦直播不定时" tvg-logo="https://live.fanmingming.com/tv/阿伦直播不定时.png" group-title="🏆体育频道",阿伦直播不定时
-https://pull.lianggexinxi.xyz/live/stream-676201_lhd.flv?auth_key=1697009064-0-0-0f43b82816ab23e1a7d9c05c444bda79
-#EXTINF:-1 type="stream" tvg-name="王中直播不定时" tvg-logo="https://live.fanmingming.com/tv/王中直播不定时.png" group-title="🏆体育频道",王中直播不定时
-https://pull.lianggexinxi.xyz/live/stream-505246_lhd.flv?auth_key=1697008824-0-0-c004071c191a3bd0928215ed175f1647
-#EXTINF:-1 type="stream" tvg-name="小七直播不定时" tvg-logo="https://live.fanmingming.com/tv/小七直播不定时.png" group-title="🏆体育频道",小七直播不定时
-https://pull.lianggexinxi.xyz/live/stream-418311_lsd.m3u8?_=1698249099856
-#EXTINF:-1 type="stream" tvg-name="叨叨直播不定时" tvg-logo="https://live.fanmingming.com/tv/叨叨直播不定时.png" group-title="🏆体育频道",叨叨直播不定时
-https://pull.lianggexinxi.xyz/live/stream-507928_lhd.flv?auth_key=1697008644-0-0-109717475c07bf7a012644ef823765af
-#EXTINF:-1 type="stream" tvg-name="大邱直播不定时" tvg-logo="https://live.fanmingming.com/tv/大邱直播不定时.png" group-title="🏆体育频道",大邱直播不定时
-https://pull.lianggexinxi.xyz/live/stream-600428_lsd.m3u8?_=1697006121706
-#EXTINF:-1 type="stream" tvg-name="大神直播不定时" tvg-logo="https://live.fanmingming.com/tv/大神直播不定时.png" group-title="🏆体育频道",大神直播不定时
-https://pull.lianggexinxi.xyz/live/stream-600428_lsd.m3u8?_=1697004264631
-#EXTINF:-1 type="stream" tvg-name="酷迪直播不定时" tvg-logo="https://live.fanmingming.com/tv/酷迪直播不定时.png" group-title="🏆体育频道",酷迪直播不定时
-https://pull.lianggexinxi.xyz/live/stream-705956_lhd.flv?auth_key=1697008884-0-0-6da68819d1e2ebac3b52ad78589ea297
-#EXTINF:-1 type="stream" tvg-name="老师直播不定时" tvg-logo="https://live.fanmingming.com/tv/老师直播不定时.png" group-title="🏆体育频道",老师直播不定时
-https://pull.lianggexinxi.xyz/live/stream-600428_lhd.flv?auth_key=1697008944-0-0-c25e48e127303de01e525604574b3511
-#EXTINF:-1 type="stream" tvg-name="米哥直播不定时" tvg-logo="https://live.fanmingming.com/tv/米哥直播不定时.png" group-title="🏆体育频道",米哥直播不定时
-https://pull.lianggexinxi.xyz/live/stream-431228_lsd.m3u8?_=1698248787521
 #EXTINF:-1 type="stream" tvg-name="咪咕全民热练" tvg-logo="https://live.fanmingming.com/tv/咪咕全民热练.png" group-title="😻I咪咕直播",咪咕全民热练
 http://[2409:8087:2001:20:2800:0:df6e:eb26]:80/wh7f454c46tw2441972983_964717723/ott.mobaibox.com/PLTV/3/224/3221228427/index.m3u8?icpid=3&RTS=1674369672&from=40&popid=40&hms_devid=2293&prioritypopid=40&vqe=3
 #EXTINF:-1 type="stream" tvg-name="咪咕视频1" tvg-logo="https://live.fanmingming.com/tv/咪咕视频1.png" group-title="😻I咪咕直播",咪咕视频1

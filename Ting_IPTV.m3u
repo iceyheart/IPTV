@@ -49,43 +49,41 @@ http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888890/224/322122
 http://[2409:8087:2001:20:2800:0:df6e:eb03]:80/ott.mobaibox.com/PLTV/4/224/3221228165/index.m3u8
 #EXTINF:-1 type="stream" tvg-name="CCTV4K" tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png" group-title="😻IPV6央视",CCTV4K
 http://[2409:8087:2001:20:2800:0:df6e:eb12]:80/ott.mobaibox.com/PLTV/3/224/3221228228/index.m3u8
-#EXTINF:-1 type="stream" tvg-name="CCTV1综合 Max16M1080" tvg-logo="https://live.fanmingming.com/tv/CCTV1综合 Max16M1080.png" group-title="😻IPV6央视",CCTV1综合 Max16M1080
+#EXTINF:-1 type="stream" tvg-name="CCTV1综合 Max16M1080" tvg-logo="https://live.fanmingming.com/tv/CCTV1综合 Max16M1080.png" group-title="😻IPV6央视",CCTV1综合
 http://[2409:8087:2001:20:2800:0:df6e:eb02]:80/wh7f454c46tw1528379826_-632121028/ott.mobaibox.com/PLTV/3/224/3221228149/index.m3u8?icpid=3&RTS=1674385938&from=40&popid=40&hms_devid=2039&prioritypopid=40&vqe=3
-#EXTINF:-1 type="stream" tvg-name="CCTV2财经 12M1080" tvg-logo="https://live.fanmingming.com/tv/CCTV2财经 12M1080.png" group-title="😻IPV6央视",CCTV2财经 12M1080
+#EXTINF:-1 type="stream" tvg-name="CCTV2财经 12M1080" tvg-logo="https://live.fanmingming.com/tv/CCTV2财经 12M1080.png" group-title="😻IPV6央视",CCTV2财经
 http://[2409:8087:2001:20:2800:0:df6e:eb17]:80/wh7f454c46tw1925564042_904960692/ott.mobaibox.com/PLTV/3/224/3221228094/index.m3u8?icpid=3&RTS=1674386335&from=40&popid=40&hms_devid=2114&prioritypopid=40&vqe=3
-#EXTINF:-1 type="stream" tvg-name="CCTV2财经 HEVC" tvg-logo="https://live.fanmingming.com/tv/CCTV2财经 HEVC.png" group-title="😻IPV6央视",CCTV2财经 HEVC
-http://[2409:8087:2001:20:2800:0:df6e:eb1a]:80/wh7f454c46tw3967193921_-498281574/ott.mobaibox.com/PLTV/3/224/3221228118/index.m3u8?icpid=3&RTS=1674379787&from=40&ocs=2_2409:8087:2001:20:2800:0:df6e:eb18_80&popid=40&hms_devid=2116&prioritypopid=40&vqe=3
-#EXTINF:-1 type="stream" tvg-name="CCTV3综艺 Max16M1080" tvg-logo="https://live.fanmingming.com/tv/CCTV3综艺 Max16M1080.png" group-title="😻IPV6央视",CCTV3综艺 Max16M1080
+#EXTINF:-1 type="stream" tvg-name="CCTV3综艺 Max16M1080" tvg-logo="https://live.fanmingming.com/tv/CCTV3综艺 Max16M1080.png" group-title="😻IPV6央视",CCTV3综艺
 http://[2409:8087:2001:20:2800:0:df6e:eb20]/ott.mobaibox.com/PLTV/4/224/3221228499/index.m3u8
-#EXTINF:-1 type="stream" tvg-name="CCTV4中文国际 7.5M1080HEVC" tvg-logo="https://live.fanmingming.com/tv/CCTV4中文国际 7.5M1080HEVC.png" group-title="😻IPV6央视",CCTV4中文国际 7.5M1080HEVC
+#EXTINF:-1 type="stream" tvg-name="CCTV4中文国际 7.5M1080HEVC" tvg-logo="https://live.fanmingming.com/tv/CCTV4中文国际 7.5M1080HEVC.png" group-title="😻IPV6央视",CCTV4中文国际
 http://[2409:8087:2001:20:2800:0:df6e:eb15]:80/wh7f454c46tw1530850219_-1071979536/ott.mobaibox.com/PLTV/3/224/3221228156/index.m3u8?icpid=3&RTS=1674385941&from=40&popid=40&hms_devid=2115&prioritypopid=40&vqe=3
-#EXTINF:-1 type="stream" tvg-name="CCTV5体育 5.5M1080HEVC" tvg-logo="https://live.fanmingming.com/tv/CCTV5体育 5.5M1080HEVC.png" group-title="😻IPV6央视",CCTV5体育 5.5M1080HEVC
+#EXTINF:-1 type="stream" tvg-name="CCTV5体育 5.5M1080HEVC" tvg-logo="https://live.fanmingming.com/tv/CCTV5体育 5.5M1080HEVC.png" group-title="😻IPV6央视",CCTV5体育
 http://[2409:8087:2001:20:2800:0:df6e:eb03]:80/wh7f454c46tw1742999522_-1268549470/ott.mobaibox.com/PLTV/3/224/3221227661/index.m3u8?icpid=3&RTS=1674386153&from=40&ocs=2_2409:8087:2001:20:2800:0:df6e:eb0a_80&popid=40&hms_devid=2039&prioritypopid=40&vqe=3
-#EXTINF:-1 type="stream" tvg-name="CCTV5+体育赛事 5.5M1080HEVC" tvg-logo="https://live.fanmingming.com/tv/CCTV5+体育赛事 5.5M1080HEVC.png" group-title="😻IPV6央视",CCTV5+体育赛事 5.5M1080HEVC
+#EXTINF:-1 type="stream" tvg-name="CCTV5+体育赛事 5.5M1080HEVC" tvg-logo="https://live.fanmingming.com/tv/CCTV5+体育赛事 5.5M1080HEVC.png" group-title="😻IPV6央视",CCTV5+体育赛事
 http://[2409:8087:2001:20:2800:0:df6e:eb0c]:80/wh7f454c46tw88332140_-467580104/ott.mobaibox.com/PLTV/3/224/3221227714/index.m3u8?icpid=3&RTS=1674380203&from=40&ocs=2_2409:8087:2004:20:2800:0:df6e:ec04_80&popid=40&hms_devid=2040&prioritypopid=40&vqe=3
-#EXTINF:-1 type="stream" tvg-name="CCTV6电影 5.5M1080HEVC" tvg-logo="https://live.fanmingming.com/tv/CCTV6电影 5.5M1080HEVC.png" group-title="😻IPV6央视",CCTV6电影 5.5M1080HEVC
+#EXTINF:-1 type="stream" tvg-name="CCTV6电影 5.5M1080HEVC" tvg-logo="https://live.fanmingming.com/tv/CCTV6电影 5.5M1080HEVC.png" group-title="😻IPV6央视",CCTV6电影
 http://[2409:8087:2001:20:2800:0:df6e:eb0a]:80/wh7f454c46tw2052044866_-899881280/ott.mobaibox.com/PLTV/3/224/3221227664/index.m3u8?icpid=3&RTS=1674386462&from=40&popid=40&hms_devid=2038&prioritypopid=40&vqe=3
-#EXTINF:-1 type="stream" tvg-name="CCTV7国防军事 4M1080" tvg-logo="https://live.fanmingming.com/tv/CCTV7国防军事 4M1080.png" group-title="😻IPV6央视",CCTV7国防军事 4M1080
+#EXTINF:-1 type="stream" tvg-name="CCTV7国防军事 4M1080" tvg-logo="https://live.fanmingming.com/tv/CCTV7国防军事 4M1080.png" group-title="😻IPV6央视",CCTV7国防军事
 http://[2409:8087:2001:20:2800:0:df6e:eb02]:80/wh7f454c46tw92557228_-1933811851/ott.mobaibox.com/PLTV/3/224/3221225546/index.m3u8?icpid=3&RTS=1674380207&from=40&popid=40&hms_devid=2039&prioritypopid=40&vqe=3
-#EXTINF:-1 type="stream" tvg-name="CCTV8电视剧 5.5M1080HEVC" tvg-logo="https://live.fanmingming.com/tv/CCTV8电视剧 5.5M1080HEVC.png" group-title="😻IPV6央视",CCTV8电视剧 5.5M1080HEVC
+#EXTINF:-1 type="stream" tvg-name="CCTV8电视剧 5.5M1080HEVC" tvg-logo="https://live.fanmingming.com/tv/CCTV8电视剧 5.5M1080HEVC.png" group-title="😻IPV6央视",CCTV8电视剧
 http://[2409:8087:2001:20:2800:0:df6e:eb0a]:80/wh7f454c46tw93879323_-994152053/ott.mobaibox.com/PLTV/3/224/3221227667/index.m3u8?icpid=3&RTS=1674380209&from=40&popid=40&hms_devid=2038&prioritypopid=40&vqe=3
-#EXTINF:-1 type="stream" tvg-name="CCTV9纪录 4M1080" tvg-logo="https://live.fanmingming.com/tv/CCTV9纪录 4M1080.png" group-title="😻IPV6央视",CCTV9纪录 4M1080
+#EXTINF:-1 type="stream" tvg-name="CCTV9纪录 4M1080" tvg-logo="https://live.fanmingming.com/tv/CCTV9纪录 4M1080.png" group-title="😻IPV6央视",CCTV9纪录
 http://[2409:8087:2001:20:2800:0:df6e:eb04]:80/wh7f454c46tw95099346_1105596677/ott.mobaibox.com/PLTV/3/224/3221225532/index.m3u8?icpid=3&RTS=1674380210&from=40&popid=40&hms_devid=2041&prioritypopid=40&vqe=3
-#EXTINF:-1 type="stream" tvg-name="CCTV10科教 4M1080" tvg-logo="https://live.fanmingming.com/tv/CCTV10科教 4M1080.png" group-title="😻IPV6央视",CCTV10科教 4M1080
+#EXTINF:-1 type="stream" tvg-name="CCTV10科教 4M1080" tvg-logo="https://live.fanmingming.com/tv/CCTV10科教 4M1080.png" group-title="😻IPV6央视",CCTV10科教
 http://[2409:8087:2001:20:2800:0:df6e:eb02]:80/wh7f454c46tw96144984_1004980906/ott.mobaibox.com/PLTV/3/224/3221225550/index.m3u8?icpid=3&RTS=1674380211&from=40&popid=40&hms_devid=2039&prioritypopid=40&vqe=3
-#EXTINF:-1 type="stream" tvg-name="CCTV11戏曲 4M1080" tvg-logo="https://live.fanmingming.com/tv/CCTV11戏曲 4M1080.png" group-title="😻IPV6央视",CCTV11戏曲 4M1080
+#EXTINF:-1 type="stream" tvg-name="CCTV11戏曲 4M1080" tvg-logo="https://live.fanmingming.com/tv/CCTV11戏曲 4M1080.png" group-title="😻IPV6央视",CCTV11戏曲
 http://[2409:8087:2001:20:2800:0:df6e:eb0e]:80/wh7f454c46tw1745802037_-1916607101/ott.mobaibox.com/PLTV/3/224/3221227384/index.m3u8?icpid=3&RTS=1674386156&from=40&popid=40&hms_devid=2111&prioritypopid=40&vqe=3
-#EXTINF:-1 type="stream" tvg-name="CCTV12社会与法 4M1080" tvg-logo="https://live.fanmingming.com/tv/CCTV12社会与法 4M1080.png" group-title="😻IPV6央视",CCTV12社会与法 4M1080
+#EXTINF:-1 type="stream" tvg-name="CCTV12社会与法 4M1080" tvg-logo="https://live.fanmingming.com/tv/CCTV12社会与法 4M1080.png" group-title="😻IPV6央视",CCTV12社会与法
 http://[2409:8087:2001:20:2800:0:df6e:eb0c]:80/wh7f454c46tw1537965986_-156154489/ott.mobaibox.com/PLTV/3/224/3221225556/index.m3u8?icpid=3&RTS=1674385948&from=40&popid=40&hms_devid=2040&prioritypopid=40&vqe=3
-#EXTINF:-1 type="stream" tvg-name="CCTV13新闻 4M1080" tvg-logo="https://live.fanmingming.com/tv/CCTV13新闻 4M1080.png" group-title="😻IPV6央视",CCTV13新闻 4M1080
+#EXTINF:-1 type="stream" tvg-name="CCTV13新闻 4M1080" tvg-logo="https://live.fanmingming.com/tv/CCTV13新闻 4M1080.png" group-title="😻IPV6央视",CCTV13新闻
 http://[2409:8087:6a01:1020::c]/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225748/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 type="stream" tvg-name="CCTV14少儿 4M1080" tvg-logo="https://live.fanmingming.com/tv/CCTV14少儿 4M1080.png" group-title="😻IPV6央视",CCTV14少儿 4M1080
+#EXTINF:-1 type="stream" tvg-name="CCTV14少儿 4M1080" tvg-logo="https://live.fanmingming.com/tv/CCTV14少儿 4M1080.png" group-title="😻IPV6央视",CCTV14少儿
 http://[2409:8087:2001:20:2800:0:df6e:eb0c]:80/wh7f454c46tw1538868426_-568781539/ott.mobaibox.com/PLTV/3/224/3221227201/index.m3u8?icpid=3&RTS=1674385949&from=40&popid=40&hms_devid=2040&prioritypopid=40&vqe=3
-#EXTINF:-1 type="stream" tvg-name="CCTV15音乐 3.5M1080" tvg-logo="https://live.fanmingming.com/tv/CCTV15音乐 3.5M1080.png" group-title="😻IPV6央视",CCTV15音乐 3.5M1080
+#EXTINF:-1 type="stream" tvg-name="CCTV15音乐 3.5M1080" tvg-logo="https://live.fanmingming.com/tv/CCTV15音乐 3.5M1080.png" group-title="😻IPV6央视",CCTV15音乐
 http://[2409:8087:2001:20:2800:0:df6e:eb02]:80/wh7f454c46tw1206123286_628792276/ott.mobaibox.com/PLTV/3/224/3221227538/index.m3u8?icpid=3&RTS=1674381321&from=40&popid=40&hms_devid=2039&prioritypopid=40&vqe=3
 #EXTINF:-1 type="stream" tvg-name="CCTV16奥林匹克频道" tvg-logo="https://live.fanmingming.com/tv/CCTV16奥林匹克频道.png" group-title="😻IPV6央视",CCTV16奥林匹克频道
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002395/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 type="stream" tvg-name="CCTV17农村农业 4M1080" tvg-logo="https://live.fanmingming.com/tv/CCTV17农村农业 4M1080.png" group-title="😻IPV6央视",CCTV17农村农业 4M1080
+#EXTINF:-1 type="stream" tvg-name="CCTV17农村农业 4M1080" tvg-logo="https://live.fanmingming.com/tv/CCTV17农村农业 4M1080.png" group-title="😻IPV6央视",CCTV17农村农业
 http://[2409:8087:2001:20:2800:0:df6e:eb16]:80/wh7f454c46tw1539643182_-109940761/ott.mobaibox.com/PLTV/3/224/3221227589/index.m3u8?icpid=3&RTS=1674385950&from=40&popid=40&hms_devid=2114&prioritypopid=40&vqe=3
 #EXTINF:-1 type="stream" tvg-name="CCTV电视指南" tvg-logo="https://live.fanmingming.com/tv/CCTV电视指南.png" group-title="😻IPV6央视",CCTV电视指南
 http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226987/index.m3u8
@@ -115,81 +113,57 @@ http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3
 http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226975/index.m3u8
 #EXTINF:-1 type="stream" tvg-name="厦门卫视" tvg-logo="https://live.fanmingming.com/tv/厦门卫视.png" group-title="😻IPV6卫视",厦门卫视
 http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226219/index.m3u8#http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000193/index.m3u8?fmmv6#http://live.aishang.ctlcdn.com/00000110240159_1/playlist.m3u8?CONTENTID=00000110240159_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR#http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226219/index.m3u8
-#EXTINF:-1 type="stream" tvg-name="东南卫视 5.5M1080HEVC" tvg-logo="https://live.fanmingming.com/tv/东南卫视 5.5M1080HEVC.png" group-title="😻IPV6卫视",东南卫视 5.5M1080HEVC
+#EXTINF:-1 type="stream" tvg-name="东南卫视 5.5M1080HEVC" tvg-logo="https://live.fanmingming.com/tv/东南卫视 5.5M1080HEVC.png" group-title="😻IPV6卫视",东南卫视
 http://[2409:8087:2001:20:2800:0:df6e:eb0b]:80/wh7f454c46tw1481870012_-1505625723/ott.mobaibox.com/PLTV/3/224/3221227670/index.m3u8?icpid=3&RTS=1674381597&from=40&popid=40&hms_devid=2038&prioritypopid=40&vqe=3
-#EXTINF:-1 type="stream" tvg-name="东方卫视HEVC" tvg-logo="https://live.fanmingming.com/tv/东方卫视HEVC.png" group-title="😻IPV6卫视",东方卫视HEVC
-http://[2409:8087:2001:20:2800:0:df6e:eb21]:80/wh7f454c46tw145917302_1381458537/ott.mobaibox.com/PLTV/3/224/3221228425/index.m3u8?icpid=3&RTS=1674371671&from=40&popid=40&hms_devid=2290&prioritypopid=40&vqe=3
-#EXTINF:-1 type="stream" tvg-name="东方卫视 Max16M1080" tvg-logo="https://live.fanmingming.com/tv/东方卫视 Max16M1080.png" group-title="😻IPV6卫视",东方卫视 Max16M1080
+#EXTINF:-1 type="stream" tvg-name="东方卫视 Max16M1080" tvg-logo="https://live.fanmingming.com/tv/东方卫视 Max16M1080.png" group-title="😻IPV6卫视",东方卫视
 http://[2409:8087:2001:20:2800:0:df6e:eb17]:80/wh7f454c46tw1928619653_-1503168431/ott.mobaibox.com/PLTV/3/224/3221227511/index.m3u8?icpid=3&RTS=1674386339&from=40&popid=40&hms_devid=2114&prioritypopid=40&vqe=3
-#EXTINF:-1 type="stream" tvg-name="云南卫视 4M1080" tvg-logo="https://live.fanmingming.com/tv/云南卫视 4M1080.png" group-title="😻IPV6卫视",云南卫视 4M1080
+#EXTINF:-1 type="stream" tvg-name="云南卫视 4M1080" tvg-logo="https://live.fanmingming.com/tv/云南卫视 4M1080.png" group-title="😻IPV6卫视",云南卫视
 http://[2409:8087:2001:20:2800:0:df6e:eb05]:80/wh7f454c46tw1300046831_-189750076/ott.mobaibox.com/PLTV/3/224/3221225591/index.m3u8?icpid=3&RTS=1674377120&from=40&popid=40&hms_devid=2041&prioritypopid=40&vqe=3
-#EXTINF:-1 type="stream" tvg-name="北京卫视 4M1080" tvg-logo="https://live.fanmingming.com/tv/北京卫视 4M1080.png" group-title="😻IPV6卫视",北京卫视 4M1080
-http://[2409:8087:2001:20:2800:0:df6e:eb07]:80/wh7f454c46tw2053622677_1535084124/ott.mobaibox.com/PLTV/3/224/3221227246/index.m3u8?icpid=3&RTS=1674386464&from=40&popid=40&hms_devid=2036&prioritypopid=40&vqe=3
-#EXTINF:-1 type="stream" tvg-name="北京卫视 Max16M1080" tvg-logo="https://live.fanmingming.com/tv/北京卫视 Max16M1080.png" group-title="😻IPV6卫视",北京卫视 Max16M1080
+#EXTINF:-1 type="stream" tvg-name="北京卫视 Max16M1080" tvg-logo="https://live.fanmingming.com/tv/北京卫视 Max16M1080.png" group-title="😻IPV6卫视",北京卫视
 http://[2409:8087:2001:20:2800:0:df6e:eb0b]:80/wh7f454c46tw823289767_-833132954/ott.mobaibox.com/PLTV/3/224/3221227508/index.m3u8?icpid=3&RTS=1674380938&from=40&popid=40&hms_devid=2038&prioritypopid=40&vqe=3
-#EXTINF:-1 type="stream" tvg-name="吉林卫视 4M1080" tvg-logo="https://live.fanmingming.com/tv/吉林卫视 4M1080.png" group-title="😻IPV6卫视",吉林卫视 4M1080
-http://[2409:8087:2001:20:2800:0:df6e:eb0a]:80/wh7f454c46tw342769965_-1981608007/ott.mobaibox.com/PLTV/3/224/3221228028/index.m3u8?icpid=3&RTS=1674380458&from=40&popid=40&hms_devid=2038&prioritypopid=40&vqe=3
-#EXTINF:-1 type="stream" tvg-name="四川卫视 4M1080" tvg-logo="https://live.fanmingming.com/tv/四川卫视 4M1080.png" group-title="😻IPV6卫视",四川卫视 4M1080
-http://[2409:8087:2001:20:2800:0:df6e:eb09]/wh7f454c46tw2502717081_11504314/ott.mobaibox.com/PLTV/3/224/3221227556/index.m3u8?icpid=3&RTS=1669701103&from=40&popid=40&hms_devid=2037&prioritypopid=40&vqe=3
-#EXTINF:-1 type="stream" tvg-name="天津卫视 4M1080" tvg-logo="https://live.fanmingming.com/tv/天津卫视 4M1080.png" group-title="😻IPV6卫视",天津卫视 4M1080
-http://[2409:8087:2001:20:2800:0:df6e:eb06]:80/wh7f454c46tw195619489_1991259086/ott.mobaibox.com/PLTV/3/224/3221227212/index.m3u8?icpid=3&RTS=1674380311&from=40&popid=40&hms_devid=2036&prioritypopid=40&vqe=3
-#EXTINF:-1 type="stream" tvg-name="天津卫视 Max16M1080" tvg-logo="https://live.fanmingming.com/tv/天津卫视 Max16M1080.png" group-title="😻IPV6卫视",天津卫视 Max16M1080
-http://[2409:8087:2001:20:2800:0:df6e:eb11]:80/wh7f454c46tw196835302_-677158849/ott.mobaibox.com/PLTV/3/224/3221227488/index.m3u8?icpid=3&RTS=1674380312&from=40&popid=40&hms_devid=2110&prioritypopid=40&vqe=3
-#EXTINF:-1 type="stream" tvg-name="安徽卫视 3.5M1080" tvg-logo="https://live.fanmingming.com/tv/安徽卫视 3.5M1080.png" group-title="😻IPV6卫视",安徽卫视 3.5M1080
-http://[2409:8087:2001:20:2800:0:df6e:eb19]:80/wh7f454c46tw197120493_402056634/ott.mobaibox.com/PLTV/3/224/3221225634/index.m3u8?icpid=3&RTS=1674380312&from=40&popid=40&hms_devid=2113&prioritypopid=40&vqe=3
-#EXTINF:-1 type="stream" tvg-name="安徽卫视 Max16M1080" tvg-logo="https://live.fanmingming.com/tv/安徽卫视 Max16M1080.png" group-title="😻IPV6卫视",安徽卫视 Max16M1080
-http://[2409:8087:2001:20:2800:0:df6e:eb12]:80/wh7f454c46tw198496833_-887574231/ott.mobaibox.com/PLTV/3/224/3221227558/index.m3u8?icpid=3&RTS=1674380313&from=40&popid=40&hms_devid=2112&prioritypopid=40&vqe=3
-#EXTINF:-1 type="stream" tvg-name="山东卫视 4M1080" tvg-logo="https://live.fanmingming.com/tv/山东卫视 4M1080.png" group-title="😻IPV6卫视",山东卫视 4M1080
-http://[2409:8087:2001:20:2800:0:df6e:eb07]:80/wh7f454c46tw198928259_-1438986513/ott.mobaibox.com/PLTV/3/224/3221227621/index.m3u8?icpid=3&RTS=1674380314&from=40&popid=40&hms_devid=2036&prioritypopid=40&vqe=3
-#EXTINF:-1 type="stream" tvg-name="山东卫视 Max16M1080" tvg-logo="https://live.fanmingming.com/tv/山东卫视 Max16M1080.png" group-title="😻IPV6卫视",山东卫视 Max16M1080
-http://[2409:8087:2001:20:2800:0:df6e:eb11]:80/wh7f454c46tw1544961519_-2095343288/ott.mobaibox.com/PLTV/3/224/3221227517/index.m3u8?icpid=3&RTS=1674385955&from=40&popid=40&hms_devid=2110&prioritypopid=40&vqe=3
-#EXTINF:-1 type="stream" tvg-name="广东卫视 4M1080" tvg-logo="https://live.fanmingming.com/tv/广东卫视 4M1080.png" group-title="😻IPV6卫视",广东卫视 4M1080
-http://[2409:8087:2001:20:2800:0:df6e:eb06]:80/wh7f454c46tw1749616194_1855037741/ott.mobaibox.com/PLTV/3/224/3221227249/index.m3u8?icpid=3&RTS=1674386160&from=40&popid=40&hms_devid=2036&prioritypopid=40&vqe=3
-#EXTINF:-1 type="stream" tvg-name="广东卫视 Max16M1080" tvg-logo="https://live.fanmingming.com/tv/广东卫视 Max16M1080.png" group-title="😻IPV6卫视",广东卫视 Max16M1080
-http://[2409:8087:2001:20:2800:0:df6e:eb03]:80/wh7f454c46tw201843385_424516234/ott.mobaibox.com/PLTV/3/224/3221227476/index.m3u8?icpid=3&RTS=1674380317&from=40&popid=40&hms_devid=2039&prioritypopid=40&vqe=3
-#EXTINF:-1 type="stream" tvg-name="江苏卫视 4M1080" tvg-logo="https://live.fanmingming.com/tv/江苏卫视 4M1080.png" group-title="😻IPV6卫视",江苏卫视 4M1080
-http://[2409:8087:2001:20:2800:0:df6e:eb06]:80/wh7f454c46tw202473475_-1896827182/ott.mobaibox.com/PLTV/3/224/3221227255/index.m3u8?icpid=3&RTS=1674380317&from=40&popid=40&hms_devid=2036&prioritypopid=40&vqe=3
-#EXTINF:-1 type="stream" tvg-name="江苏卫视 Max16M1080" tvg-logo="https://live.fanmingming.com/tv/江苏卫视 Max16M1080.png" group-title="😻IPV6卫视",江苏卫视 Max16M1080
-http://[2409:8087:2001:20:2800:0:df6e:eb13]:80/wh7f454c46tw204459999_1563573197/ott.mobaibox.com/PLTV/3/224/3221228097/index.m3u8?icpid=3&RTS=1674380319&from=40&popid=40&hms_devid=2112&prioritypopid=40&vqe=3
-#EXTINF:-1 type="stream" tvg-name="江西卫视 5.5M1080HEVC" tvg-logo="https://live.fanmingming.com/tv/江西卫视 5.5M1080HEVC.png" group-title="😻IPV6卫视",江西卫视 5.5M1080HEVC
-http://[2409:8087:2001:20:2800:0:df6e:eb0c]:80/wh7f454c46tw1751397903_-1568649182/ott.mobaibox.com/PLTV/3/224/3221227738/index.m3u8?icpid=3&RTS=1674386161&from=40&popid=40&hms_devid=2040&prioritypopid=40&vqe=3
-#EXTINF:-1 type="stream" tvg-name="河北卫视 4M1080" tvg-logo="https://live.fanmingming.com/tv/河北卫视 4M1080.png" group-title="😻IPV6卫视",河北卫视 4M1080
-http://[2409:8087:2001:20:2800:0:df6e:eb07]:80/wh7f454c46tw1567506605_718632069/ott.mobaibox.com/PLTV/3/224/3221227545/index.m3u8?icpid=3&RTS=1674385977&from=40&popid=40&hms_devid=2036&prioritypopid=40&vqe=3
-#EXTINF:-1 type="stream" tvg-name="河南卫视 4M1080" tvg-logo="https://live.fanmingming.com/tv/河南卫视 4M1080.png" group-title="😻IPV6卫视",河南卫视 4M1080
-http://[2409:8087:2001:20:2800:0:df6e:eb07]:80/wh7f454c46tw1760610571_1986142982/ott.mobaibox.com/PLTV/3/224/3221227521/index.m3u8?icpid=3&RTS=1674386171&from=40&popid=40&hms_devid=2036&prioritypopid=40&vqe=3
-#EXTINF:-1 type="stream" tvg-name="浙江卫视 4M1080" tvg-logo="https://live.fanmingming.com/tv/浙江卫视 4M1080.png" group-title="😻IPV6卫视",浙江卫视 4M1080
-http://[2409:8087:2001:20:2800:0:df6e:eb06]:80/wh7f454c46tw1549378093_1832251100/ott.mobaibox.com/PLTV/3/224/3221227215/index.m3u8?icpid=3&RTS=1674385959&from=40&popid=40&hms_devid=2036&prioritypopid=40&vqe=3
-#EXTINF:-1 type="stream" tvg-name="浙江卫视 Max16M1080" tvg-logo="https://live.fanmingming.com/tv/浙江卫视 Max16M1080.png" group-title="😻IPV6卫视",浙江卫视 Max16M1080
+#EXTINF:-1 type="stream" tvg-name="浙江卫视 Max16M1080" tvg-logo="https://live.fanmingming.com/tv/浙江卫视 Max16M1080.png" group-title="😻IPV6卫视",浙江卫视
 http://[2409:8087:2001:20:2800:0:df6e:eb10]:80/wh7f454c46tw207135716_1985466075/ott.mobaibox.com/PLTV/3/224/3221227491/index.m3u8?icpid=3&RTS=1674380322&from=40&popid=40&hms_devid=2110&prioritypopid=40&vqe=3
-#EXTINF:-1 type="stream" tvg-name="海南卫视 4M1080" tvg-logo="https://live.fanmingming.com/tv/海南卫视 4M1080.png" group-title="😻IPV6卫视",海南卫视 4M1080
+#EXTINF:-1 type="stream" tvg-name="吉林卫视 4M1080" tvg-logo="https://live.fanmingming.com/tv/吉林卫视 4M1080.png" group-title="😻IPV6卫视",吉林卫视
+http://[2409:8087:2001:20:2800:0:df6e:eb0a]:80/wh7f454c46tw342769965_-1981608007/ott.mobaibox.com/PLTV/3/224/3221228028/index.m3u8?icpid=3&RTS=1674380458&from=40&popid=40&hms_devid=2038&prioritypopid=40&vqe=3
+#EXTINF:-1 type="stream" tvg-name="四川卫视 4M1080" tvg-logo="https://live.fanmingming.com/tv/四川卫视 4M1080.png" group-title="😻IPV6卫视",四川卫视
+http://[2409:8087:2001:20:2800:0:df6e:eb09]/wh7f454c46tw2502717081_11504314/ott.mobaibox.com/PLTV/3/224/3221227556/index.m3u8?icpid=3&RTS=1669701103&from=40&popid=40&hms_devid=2037&prioritypopid=40&vqe=3
+#EXTINF:-1 type="stream" tvg-name="天津卫视 Max16M1080" tvg-logo="https://live.fanmingming.com/tv/天津卫视 Max16M1080.png" group-title="😻IPV6卫视",天津卫视
+http://[2409:8087:2001:20:2800:0:df6e:eb11]:80/wh7f454c46tw196835302_-677158849/ott.mobaibox.com/PLTV/3/224/3221227488/index.m3u8?icpid=3&RTS=1674380312&from=40&popid=40&hms_devid=2110&prioritypopid=40&vqe=3
+#EXTINF:-1 type="stream" tvg-name="安徽卫视 Max16M1080" tvg-logo="https://live.fanmingming.com/tv/安徽卫视 Max16M1080.png" group-title="😻IPV6卫视",安徽卫视
+http://[2409:8087:2001:20:2800:0:df6e:eb12]:80/wh7f454c46tw198496833_-887574231/ott.mobaibox.com/PLTV/3/224/3221227558/index.m3u8?icpid=3&RTS=1674380313&from=40&popid=40&hms_devid=2112&prioritypopid=40&vqe=3
+#EXTINF:-1 type="stream" tvg-name="山东卫视 Max16M1080" tvg-logo="https://live.fanmingming.com/tv/山东卫视 Max16M1080.png" group-title="😻IPV6卫视",山东卫视
+http://[2409:8087:2001:20:2800:0:df6e:eb11]:80/wh7f454c46tw1544961519_-2095343288/ott.mobaibox.com/PLTV/3/224/3221227517/index.m3u8?icpid=3&RTS=1674385955&from=40&popid=40&hms_devid=2110&prioritypopid=40&vqe=3
+#EXTINF:-1 type="stream" tvg-name="广东卫视 Max16M1080" tvg-logo="https://live.fanmingming.com/tv/广东卫视 Max16M1080.png" group-title="😻IPV6卫视",广东卫视
+http://[2409:8087:2001:20:2800:0:df6e:eb03]:80/wh7f454c46tw201843385_424516234/ott.mobaibox.com/PLTV/3/224/3221227476/index.m3u8?icpid=3&RTS=1674380317&from=40&popid=40&hms_devid=2039&prioritypopid=40&vqe=3
+#EXTINF:-1 type="stream" tvg-name="江苏卫视 Max16M1080" tvg-logo="https://live.fanmingming.com/tv/江苏卫视 Max16M1080.png" group-title="😻IPV6卫视",江苏卫视
+http://[2409:8087:2001:20:2800:0:df6e:eb13]:80/wh7f454c46tw204459999_1563573197/ott.mobaibox.com/PLTV/3/224/3221228097/index.m3u8?icpid=3&RTS=1674380319&from=40&popid=40&hms_devid=2112&prioritypopid=40&vqe=3
+#EXTINF:-1 type="stream" tvg-name="江西卫视 5.5M1080HEVC" tvg-logo="https://live.fanmingming.com/tv/江西卫视 5.5M1080HEVC.png" group-title="😻IPV6卫视",江西卫视
+http://[2409:8087:2001:20:2800:0:df6e:eb0c]:80/wh7f454c46tw1751397903_-1568649182/ott.mobaibox.com/PLTV/3/224/3221227738/index.m3u8?icpid=3&RTS=1674386161&from=40&popid=40&hms_devid=2040&prioritypopid=40&vqe=3
+#EXTINF:-1 type="stream" tvg-name="河北卫视 4M1080" tvg-logo="https://live.fanmingming.com/tv/河北卫视 4M1080.png" group-title="😻IPV6卫视",河北卫视
+http://[2409:8087:2001:20:2800:0:df6e:eb07]:80/wh7f454c46tw1567506605_718632069/ott.mobaibox.com/PLTV/3/224/3221227545/index.m3u8?icpid=3&RTS=1674385977&from=40&popid=40&hms_devid=2036&prioritypopid=40&vqe=3
+#EXTINF:-1 type="stream" tvg-name="河南卫视 4M1080" tvg-logo="https://live.fanmingming.com/tv/河南卫视 4M1080.png" group-title="😻IPV6卫视",河南卫视
+http://[2409:8087:2001:20:2800:0:df6e:eb07]:80/wh7f454c46tw1760610571_1986142982/ott.mobaibox.com/PLTV/3/224/3221227521/index.m3u8?icpid=3&RTS=1674386171&from=40&popid=40&hms_devid=2036&prioritypopid=40&vqe=3
+#EXTINF:-1 type="stream" tvg-name="海南卫视 4M1080" tvg-logo="https://live.fanmingming.com/tv/海南卫视 4M1080.png" group-title="😻IPV6卫视",海南卫视
 http://[2409:8087:2001:20:2800:0:df6e:eb05]:80/wh7f454c46tw1760762625_-423271938/ott.mobaibox.com/PLTV/3/224/3221228101/index.m3u8?icpid=3&RTS=1674386171&from=40&popid=40&hms_devid=2041&prioritypopid=40&vqe=3
-#EXTINF:-1 type="stream" tvg-name="深圳卫视 4M1080" tvg-logo="https://live.fanmingming.com/tv/深圳卫视 4M1080.png" group-title="😻IPV6卫视",深圳卫视 4M1080
+#EXTINF:-1 type="stream" tvg-name="深圳卫视 4M1080" tvg-logo="https://live.fanmingming.com/tv/深圳卫视 4M1080.png" group-title="😻IPV6卫视",深圳卫视
 http://[2409:8087:2001:20:2800:0:df6e:eb1a]:80/wh7f454c46tw207777730_-119365339/ott.mobaibox.com/PLTV/3/224/3221227624/index.m3u8?icpid=3&RTS=1674380323&from=40&popid=40&hms_devid=2116&prioritypopid=40&vqe=3
-#EXTINF:-1 type="stream" tvg-name="深圳卫视 Max16M1080" tvg-logo="https://live.fanmingming.com/tv/深圳卫视 Max16M1080.png" group-title="😻IPV6卫视",深圳卫视 Max16M1080
+#EXTINF:-1 type="stream" tvg-name="深圳卫视 Max16M1080" tvg-logo="https://live.fanmingming.com/tv/深圳卫视 Max16M1080.png" group-title="😻IPV6卫视",深圳卫视
 http://[2409:8087:2001:20:2800:0:df6e:eb10]:80/wh7f454c46tw209094840_889003019/ott.mobaibox.com/PLTV/3/224/3221227555/index.m3u8?icpid=3&RTS=1674380324&from=40&popid=40&hms_devid=2110&prioritypopid=40&vqe=3
-#EXTINF:-1 type="stream" tvg-name="湖北卫视 5M1080HEVC" tvg-logo="https://live.fanmingming.com/tv/湖北卫视 5M1080HEVC.png" group-title="😻IPV6卫视",湖北卫视 5M1080HEVC
-http://[2409:8087:2001:20:2800:0:df6e:eb03]:80/wh7f454c46tw210191902_-158401056/ott.mobaibox.com/PLTV/3/224/3221227703/index.m3u8?icpid=3&RTS=1674380325&from=40&popid=40&hms_devid=2039&prioritypopid=40&vqe=3
-#EXTINF:-1 type="stream" tvg-name="湖北卫视 Max16M1080" tvg-logo="https://live.fanmingming.com/tv/湖北卫视 Max16M1080.png" group-title="😻IPV6卫视",湖北卫视 Max16M1080
+#EXTINF:-1 type="stream" tvg-name="湖北卫视 Max16M1080" tvg-logo="https://live.fanmingming.com/tv/湖北卫视 Max16M1080.png" group-title="😻IPV6卫视",湖北卫视
 http://[2409:8087:2001:20:2800:0:df6e:eb10]:80/wh7f454c46tw1752644276_-1948147358/ott.mobaibox.com/PLTV/3/224/3221227479/index.m3u8?icpid=3&RTS=1674386163&from=40&popid=40&hms_devid=2110&prioritypopid=40&vqe=3
-#EXTINF:-1 type="stream" tvg-name="湖南卫视 4M1080" tvg-logo="https://live.fanmingming.com/tv/湖南卫视 4M1080.png" group-title="😻IPV6卫视",湖南卫视 4M1080
-http://[2409:8087:2001:20:2800:0:df6e:eb04]:80/wh7f454c46tw2055394169_1305357411/ott.mobaibox.com/PLTV/3/224/3221227220/index.m3u8?icpid=3&RTS=1674386465&from=40&popid=40&hms_devid=2041&prioritypopid=40&vqe=3
-#EXTINF:-1 type="stream" tvg-name="湖南卫视 Max16M1080" tvg-logo="https://live.fanmingming.com/tv/湖南卫视 Max16M1080.png" group-title="😻IPV6卫视",湖南卫视 Max16M1080
+#EXTINF:-1 type="stream" tvg-name="湖南卫视 Max16M1080" tvg-logo="https://live.fanmingming.com/tv/湖南卫视 Max16M1080.png" group-title="😻IPV6卫视",湖南卫视
 http://[2409:8087:2001:20:2800:0:df6e:eb16]:80/wh7f454c46tw1229968665_-2033076102/ott.mobaibox.com/PLTV/3/224/3221227482/index.m3u8?icpid=3&RTS=1674385640&from=40&popid=40&hms_devid=2114&prioritypopid=40&vqe=3
-#EXTINF:-1 type="stream" tvg-name="甘肃卫视 4M1080" tvg-logo="https://live.fanmingming.com/tv/甘肃卫视 4M1080.png" group-title="😻IPV6卫视",甘肃卫视 4M1080
+#EXTINF:-1 type="stream" tvg-name="甘肃卫视 4M1080" tvg-logo="https://live.fanmingming.com/tv/甘肃卫视 4M1080.png" group-title="😻IPV6卫视",甘肃卫视
 http://[2409:8087:2001:20:2800:0:df6e:eb1b]:80/wh7f454c46tw1625690606_1267463833/ott.mobaibox.com/PLTV/3/224/3221227568/index.m3u8?icpid=3&RTS=1674377446&from=40&popid=40&hms_devid=2116&prioritypopid=40&vqe=3
-#EXTINF:-1 type="stream" tvg-name="贵州卫视 4M1080" tvg-logo="https://live.fanmingming.com/tv/贵州卫视 4M1080.png" group-title="😻IPV6卫视",贵州卫视 4M1080
+#EXTINF:-1 type="stream" tvg-name="贵州卫视 4M1080" tvg-logo="https://live.fanmingming.com/tv/贵州卫视 4M1080.png" group-title="😻IPV6卫视",贵州卫视
 http://[2409:8087:2001:20:2800:0:df6e:eb1b]:80/wh7f454c46tw1568871343_-998620180/ott.mobaibox.com/PLTV/3/224/3221227551/index.m3u8?icpid=3&RTS=1674385979&from=40&popid=40&hms_devid=2116&prioritypopid=40&vqe=3
-#EXTINF:-1 type="stream" tvg-name="辽宁卫视 5.5M1080HEVC" tvg-logo="https://live.fanmingming.com/tv/辽宁卫视 5.5M1080HEVC.png" group-title="😻IPV6卫视",辽宁卫视 5.5M1080HEVC
-http://[2409:8087:2001:20:2800:0:df6e:eb0c]:80/wh7f454c46tw1932285680_928895632/ott.mobaibox.com/PLTV/3/224/3221227676/index.m3u8?icpid=3&RTS=1674386342&from=40&popid=40&hms_devid=2040&prioritypopid=40&vqe=3
-#EXTINF:-1 type="stream" tvg-name="辽宁卫视 Max16M1080" tvg-logo="https://live.fanmingming.com/tv/辽宁卫视 Max16M1080.png" group-title="😻IPV6卫视",辽宁卫视 Max16M1080
+#EXTINF:-1 type="stream" tvg-name="辽宁卫视 Max16M1080" tvg-logo="https://live.fanmingming.com/tv/辽宁卫视 Max16M1080.png" group-title="😻IPV6卫视",辽宁卫视
 http://[2409:8087:2001:20:2800:0:df6e:eb17]:80/wh7f454c46tw1753714405_1982208640/ott.mobaibox.com/PLTV/3/224/3221227485/index.m3u8?icpid=3&RTS=1674386164&from=40&popid=40&hms_devid=2114&prioritypopid=40&vqe=3
-#EXTINF:-1 type="stream" tvg-name="重庆卫视 5.5M1080HEVC" tvg-logo="https://live.fanmingming.com/tv/重庆卫视 5.5M1080HEVC.png" group-title="😻IPV6卫视",重庆卫视 5.5M1080HEVC
+#EXTINF:-1 type="stream" tvg-name="重庆卫视 5.5M1080HEVC" tvg-logo="https://live.fanmingming.com/tv/重庆卫视 5.5M1080HEVC.png" group-title="😻IPV6卫视",重庆卫视
 http://[2409:8087:2001:20:2800:0:df6e:eb0d]:80/wh7f454c46tw515202699_-176956124/ott.mobaibox.com/PLTV/3/224/3221227729/index.m3u8?icpid=3&RTS=1674380630&from=40&popid=40&hms_devid=2040&prioritypopid=40&vqe=3
-#EXTINF:-1 type="stream" tvg-name="青海卫视 4M1080" tvg-logo="https://live.fanmingming.com/tv/青海卫视 4M1080.png" group-title="😻IPV6卫视",青海卫视 4M1080
+#EXTINF:-1 type="stream" tvg-name="青海卫视 4M1080" tvg-logo="https://live.fanmingming.com/tv/青海卫视 4M1080.png" group-title="😻IPV6卫视",青海卫视
 http://[2409:8087:2001:20:2800:0:df6e:eb1a]:80/wh7f454c46tw348498084_-2063977587/ott.mobaibox.com/PLTV/3/224/3221227554/index.m3u8?icpid=3&RTS=1674380463&from=40&popid=40&hms_devid=2116&prioritypopid=40&vqe=3
-#EXTINF:-1 type="stream" tvg-name="黑龙江卫视 4M1080" tvg-logo="https://live.fanmingming.com/tv/黑龙江卫视 4M1080.png" group-title="😻IPV6卫视",黑龙江卫视 4M1080
-http://[2409:8087:2001:20:2800:0:df6e:eb07]:80/wh7f454c46tw515505966_53770455/ott.mobaibox.com/PLTV/3/224/3221227252/index.m3u8?icpid=3&RTS=1674380630&from=40&popid=40&hms_devid=2036&prioritypopid=40&vqe=3
-#EXTINF:-1 type="stream" tvg-name="黑龙江卫视 Max16M1080" tvg-logo="https://live.fanmingming.com/tv/黑龙江卫视 Max16M1080.png" group-title="😻IPV6卫视",黑龙江卫视 Max16M1080
+#EXTINF:-1 type="stream" tvg-name="黑龙江卫视 Max16M1080" tvg-logo="https://live.fanmingming.com/tv/黑龙江卫视 Max16M1080.png" group-title="😻IPV6卫视",黑龙江卫视
 http://[2409:8087:2001:20:2800:0:df6e:eb16]:80/wh7f454c46tw1754506897_714399677/ott.mobaibox.com/PLTV/3/224/3221227514/index.m3u8?icpid=3&RTS=1674386164&from=40&popid=40&hms_devid=2114&prioritypopid=40&vqe=3
 #EXTINF:-1 type="stream" tvg-name="超级综艺" tvg-logo="https://live.fanmingming.com/tv/超级综艺.png" group-title="😻NewTV",超级综艺
 http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226009/index.m3u8

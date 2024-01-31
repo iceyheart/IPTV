@@ -223,7 +223,7 @@ http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000002000032052/index.
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000002000032344/index.m3u8?channel-id=wasusyt&Contentid=6000000002000032344&livemode=1&stbId=3
 #EXTINF:-1 type="stream" tvg-name="求索生活" tvg-logo="https://live.fanmingming.com/tv/求索生活.png" group-title="😻NewTV",求索生活
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000002000003382/index.m3u8?channel-id=wasusyt&Contentid=6000000002000003382&livemode=1&stbId=3
-#EXTINF:-1 type="stream" tvg-name="探索纪实" tvg-logo="https://live.fanmingming.com/tv/探索纪实.png" group-title="😻NewTV",探索纪实
+#EXTINF:-1 type="stream" tvg-name="求索纪录" tvg-logo="https://live.fanmingming.com/tv/求索纪录.png" group-title="😻NewTV",求索纪录
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/5359008697329269813/index.m3u8?channel-id=wasusyt&Contentid=5359008697329269813&livemode=1&stbId=3
 #EXTINF:-1 type="stream" tvg-name="IHOT爱电竞" tvg-logo="https://live.fanmingming.com/tv/IHOT爱电竞.png" group-title="😻IPV6爱好",爱电竞
 http://[2409:8087:7000:20:1000::22]:6060/000000001000/6000000006000230630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000230630&livemode=1&stbId=3#http://[2409:8087:7000:20:1000::22]:6060/000000001000/2000000004000000054/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000054&livemode=1&stbId=3

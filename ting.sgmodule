@@ -1,6 +1,6 @@
 #!name=Netflix_ting
 #!desc=奈飞走挺代理
 [Rule]
-DOMAIN-SUFFIX,netflix.com,ting
-DOMAIN-SUFFIX,nflxso.net,ting
-DOMAIN-SUFFIX,nflxvideo.net,ting
+DOMAIN-SUFFIX,netflix.com,HK
+DOMAIN-SUFFIX,nflxso.net,HK
+DOMAIN-SUFFIX,nflxvideo.net,HK

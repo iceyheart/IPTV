@@ -1,6 +1,6 @@
 # NAME: Primevideo
-.amazon.com
-.amazonvideo.com
-.aiv-cdn.net
-.aiv-delivery.net
-.a2z.com
+DOMAIN-SUFFIX,amazon.com
+DOMAIN-SUFFIX,amazonvideo.com
+DOMAIN-SUFFIX,aiv-cdn.net
+DOMAIN-SUFFIX,aiv-delivery.net
+DOMAIN-SUFFIX,a2z.com

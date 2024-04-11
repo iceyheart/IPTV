@@ -1,4 +1,6 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
+#EXTINF:-1 tvg-id="CCTV分屏预览" tvg-name="CCTV分屏预览" tvg-logo="https://live.fanmingming.com/tv/CCTV分屏预览.png" group-title="央视频道",CCTV分屏预览
+http://112.50.243.8/PLTV/88888888/224/3221226664/1.m3u8
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视频道",CCTV-1
 http://112.50.243.8/PLTV/88888888/224/3221226908/1.m3u8
 #EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="央视频道",CCTV-2
@@ -215,8 +217,6 @@ http://112.50.243.8/PLTV/88888888/224/3221226851/1.m3u8
 #EXTINF:-1 tvg-id="茶频道" tvg-name=茶频道" tvg-logo="https://live.fanmingming.com/tv/茶.png" group-title="其他频道",茶频道
 http://112.50.243.8/PLTV/88888888/224/3221226859/1.m3u8
 
-#EXTINF:-1 ,分屏预览	超清
-http://112.50.243.8/PLTV/88888888/224/3221226664/1.m3u8
 #EXTINF:-1 tvg-id="纯享4K" tvg-name=纯享4K" tvg-logo="https://live.fanmingming.com/tv/纯享4K.png" group-title="其他频道",纯享4K
 http://112.50.243.8/PLTV/88888888/224/3221226825/1.m3u8
 #EXTINF:-1 tvg-id="芒果互娱" tvg-name=芒果互娱" tvg-logo="https://live.fanmingming.com/tv/芒果互娱.png" group-title="其他频道",芒果互娱

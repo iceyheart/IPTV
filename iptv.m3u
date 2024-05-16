@@ -7,13 +7,15 @@ http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226908/1.m3u8
 #EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="央视频道",CCTV-2
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225923/1.m3u8
 #EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png" group-title="央视频道",CCTV-3
-http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227055/1.m3u8
+http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000382/index.m3u8?IAS
 #EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" group-title="央视频道",CCTV-4
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225802/1.m3u8
 #EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="央视频道",CCTV-5
-http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227170/1.m3u8
+http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000376/index.m3u8?IAS
+#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png" group-title="央视频道",CCTV-5+
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225939/1.m3u8
 #EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png" group-title="央视频道",CCTV-6
-http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227137/1.m3u8
+http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000379/index.m3u8?IAS
 #EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://live.fanmingming.com/tv/CCTV7.png" group-title="央视频道",CCTV-7
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225927/1.m3u8
 #EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://live.fanmingming.com/tv/CCTV8.png" group-title="央视频道",CCTV-8
@@ -36,8 +38,6 @@ http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225818/1.m3u8
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227162/1.m3u8
 #EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" group-title="央视频道",CCTV-17
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226986/1.m3u8
-#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png" group-title="央视频道",CCTV-5+
-http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225939/1.m3u8
 #EXTINF:-1 tvg-id="CGTN英语" tvg-name="CGTN英语" tvg-logo="https://live.fanmingming.com/tv/CGTN.png" group-title="央视频道",CGTN英语
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225822/1.m3u8
 #EXTINF:-1 tvg-id="CGTN法语" tvg-name="CGTN法语" tvg-logo="https://live.fanmingming.com/tv/CGTN法语.png" group-title="央视频道",CGTN法语
@@ -71,24 +71,8 @@ http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227198/1.m3u8
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227202/1.m3u8
 #EXTINF:-1 tvg-id="厦门卫视" tvg-name="厦门卫视" tvg-logo="https://live.fanmingming.com/tv/厦门卫视.png" group-title="福建频道",厦门卫视
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226781/1.m3u8
-#EXTINF:-1 tvg-id="福州新闻综合" tvg-name="福州新闻综合" tvg-logo="http://www.tvyan.com/uploads/dianshi/fztv1.jpg" group-title="福建频道",福州新闻综合
-http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227157/1.m3u8
 #EXTINF:-1 tvg-id="厦门综合" tvg-name="厦门综合" tvg-logo="https://live.fanmingming.com/tv/厦门1.png" group-title="福建频道",厦门综合
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226814/1.m3u8
-#EXTINF:-1 tvg-id="漳州新闻综合" tvg-name="漳州新闻综合" tvg-logo="http://www.tvyan.com/uploads/dianshi/zhangzhou.jpg" group-title="福建频道",漳州新闻综合
-http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227169/1.m3u8
-#EXTINF:-1 tvg-id="泉州新闻综合" tvg-name="泉州新闻综合" tvg-logo="http://www.tvyan.com/uploads/dianshi/quanzhou.jpg" group-title="福建频道",泉州新闻综合
-http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227165/1.m3u8
-#EXTINF:-1 tvg-id="三明新闻综合" tvg-name="三明新闻综合" tvg-logo="http://www.tvyan.com/uploads/dianshi/sanming.jpg" group-title="福建频道",三明新闻综合
-http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227173/1.m3u8
-#EXTINF:-1 tvg-id="莆田新闻综合" tvg-name="莆田新闻综合" tvg-logo="http://www.tvyan.com/uploads/dianshi/ptxwzh.jpg" group-title="福建频道",莆田新闻综合
-http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227161/1.m3u8
-#EXTINF:-1 tvg-id="南平新闻综合" tvg-name="南平新闻综合" tvg-logo="http://www.tvyan.com/uploads/dianshi/nanping.jpg" group-title="福建频道",南平新闻综合
-http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227066/1.m3u8
-#EXTINF:-1 tvg-id="龙岩新闻综合" tvg-name="龙岩新闻综合" tvg-logo="http://www.tvyan.com/uploads/dianshi/longyan.jpg" group-title="福建频道",龙岩新闻综合
-http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227200/1.m3u8
-#EXTINF:-1 tvg-id="宁德新闻综合" tvg-name="宁德新闻综合" tvg-logo="http://www.tvyan.com/uploads/dianshi/ningde.jpg" group-title="福建频道",宁德新闻综合
-http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227196/1.m3u8
 
 #EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://live.fanmingming.com/tv/东方卫视.png" group-title="卫视频道",东方卫视
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227059/1.m3u8
@@ -168,9 +152,9 @@ http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225894/1.m3u8
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227252/1.m3u8
 
 #EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰资讯.png" group-title="港澳台频道",凤凰资讯
-http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227226/1.m3u8
+http://113.64.145.231:8081/hls/36/index.m3u8
 #EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰中文.png" group-title="港澳台频道",凤凰中文
-http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227222/1.m3u8
+http://113.64.145.231:8081/hls/37/index.m3u8
 
 #EXTINF:-1 tvg-id="CETV1" tvg-name="CETV1" tvg-logo="https://live.fanmingming.com/tv/CETV1.png" group-title="其他频道",CETV1
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227067/1.m3u8

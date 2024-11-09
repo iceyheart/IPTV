@@ -1,4 +1,5 @@
-.bamgrid.com = 209.146.104.19
-.disney-plus.net = 209.146.104.19
-.disneyplus.com = 209.146.104.19
-.dssott.com = 209.146.104.19
+#!name=Disney+
+.bamgrid.com
+.disney-plus.net
+.disneyplus.com
+.dssott.com

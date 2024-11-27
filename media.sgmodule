@@ -12,3 +12,10 @@
 *.max.com = 38.47.227.151
 *.brightline.tv = 38.47.227.151
 *.braze.com = 38.47.227.151
+[Rule]
+# Max
+DOMAIN-SET,https://raw.githubusercontent.com/iceyheart/IPTV/main/hbomax.list,DIRECT
+# Netflix
+DOMAIN-SET,https://raw.githubusercontent.com/iceyheart/IPTV/main/netflix.list,DIRECT
+# Disney+
+DOMAIN-SET,https://raw.githubusercontent.com/iceyheart/IPTV/main/disney.list,DIRECT

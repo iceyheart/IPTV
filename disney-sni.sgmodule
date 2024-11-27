@@ -1,0 +1,10 @@
+#!name=Disney-sni
+#!desc=迪斯尼反代
+[Host]
+*.bamgrid.com = 91.229.133.189
+*.disneyplus.com = 209.146.104.19
+*.disney-plus.net = 209.146.104.19
+*.dssott.com = 209.146.104.19
+[Rule]
+# Disney+
+DOMAIN-SET,https://raw.githubusercontent.com/iceyheart/IPTV/main/disney.list,DIRECT

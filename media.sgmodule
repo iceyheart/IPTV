@@ -1,0 +1,14 @@
+#!name=media-sni
+#!desc=流媒体反代
+[Host]
+*.netflix.com = 2406:4440:0:103::14
+*.nflxvideo.net = 2406:4440:0:103::14
+*.nflxso.net = 2406:4440:0:103::14
+*.bamgrid.com = 91.229.133.189
+*.disneyplus.com = 209.146.104.19
+*.disney-plus.net = 209.146.104.19
+*.dssott.com = 209.146.104.19
+*.discomax.com = 38.47.227.151
+*.max.com = 38.47.227.151
+*.brightline.tv = 38.47.227.151
+*.braze.com = 38.47.227.151

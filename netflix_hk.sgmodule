@@ -1,6 +1,0 @@
-#!name=Netflix_HK
-#!desc=奈飞香港反代
-[Host]
-*.netflix.com = 2406:4440:0:103::14
-*.nflxvideo.net = 2406:4440:0:103::14
-*.nflxso.net = 2406:4440:0:103::14

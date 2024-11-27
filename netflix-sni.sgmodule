@@ -1,5 +1,5 @@
-#!name=media-sni
-#!desc=流媒体反代
+#!name=netflix-sni
+#!desc=netflix反代
 [Host]
 *.netflix.com = 2406:4440:0:103::14
 *.nflxvideo.net = 2406:4440:0:103::14

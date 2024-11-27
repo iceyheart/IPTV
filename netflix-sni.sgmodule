@@ -1,0 +1,9 @@
+#!name=media-sni
+#!desc=流媒体反代
+[Host]
+*.netflix.com = 2406:4440:0:103::14
+*.nflxvideo.net = 2406:4440:0:103::14
+*.nflxso.net = 2406:4440:0:103::14
+[Rule]
+# Netflix
+DOMAIN-SET,https://raw.githubusercontent.com/iceyheart/IPTV/main/netflix.list,DIRECT

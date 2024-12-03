@@ -8,10 +8,8 @@
 *.disneyplus.com = 209.146.104.19
 *.disney-plus.net = 209.146.104.19
 *.dssott.com = 209.146.104.19
-*.discomax.com = 38.47.227.151
-*.max.com = 38.47.227.151
-*.brightline.tv = 38.47.227.151
-*.braze.com = 38.47.227.151
+*.discomax.com = 38.207.129.180
+*.max.com = 38.207.129.180
 [Rule]
 # Max
 DOMAIN-SET,https://raw.githubusercontent.com/iceyheart/IPTV/main/hbomax.list,DIRECT

@@ -10,7 +10,6 @@
 *.dssott.com = 38.207.129.180
 *.discomax.com = 38.207.129.180
 *.max.com = 38.207.129.180
-*.braze.com = 38.207.129.180
 [Rule]
 # Max
 DOMAIN-SET,https://raw.githubusercontent.com/iceyheart/IPTV/main/hbomax.list,DIRECT

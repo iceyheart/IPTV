@@ -4,10 +4,10 @@
 *.netflix.com = 38.207.129.180
 *.nflxvideo.net = 38.207.129.180
 *.nflxso.net = 38.207.129.180
-*.bamgrid.com = 91.229.133.189
-*.disneyplus.com = 209.146.104.19
-*.disney-plus.net = 209.146.104.19
-*.dssott.com = 209.146.104.19
+*.bamgrid.com = 38.207.129.180
+*.disneyplus.com = 38.207.129.180
+*.disney-plus.net = 38.207.129.180
+*.dssott.com = 38.207.129.180
 *.discomax.com = 38.207.129.180
 *.max.com = 38.207.129.180
 [Rule]

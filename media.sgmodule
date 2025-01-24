@@ -1,9 +1,9 @@
 #!name=media-sni
 #!desc=流媒体反代
 [Host]
-*.netflix.com = 38.207.129.180
-*.nflxvideo.net = 38.207.129.180
-*.nflxso.net = 38.207.129.180
+*.netflix.com = 156.226.168.248
+*.nflxvideo.net = 156.226.168.248
+*.nflxso.net = 156.226.168.248
 *.bamgrid.com = 38.207.129.180
 *.disneyplus.com = 38.207.129.180
 *.disney-plus.net = 38.207.129.180

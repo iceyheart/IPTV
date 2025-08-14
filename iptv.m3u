@@ -179,8 +179,6 @@ http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227303/1.m3u8
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227331/1.m3u8
 #EXTINF:-1 tvg-id="哒啵电竞" tvg-name="哒啵电竞" tvg-logo="https://down.ymschh.top/tv/DBDJ.png" group-title="其他频道",哒啵电竞
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227252/1.m3u8
-#EXTINF:-1 tvg-id="五星体育" tvg-name="五星体育" tvg-logo="https://down.ymschh.top/tv/WXTY.png" group-title="其他频道",五星体育
-http://[2409:8087:5e08:24::15]:6610/000000001000/2000000002000000007/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000007&IASHttpSessionId=OTT19594820240419041339000523
 #EXTINF:-1 tvg-id="金鹰卡通" tvg-name="金鹰卡通" tvg-logo="https://down.ymschh.top/tv/JYKT.png" group-title="其他频道",金鹰卡通
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227018/1.m3u8
 #EXTINF:-1 tvg-id="卡酷少儿" tvg-name="卡酷少儿" tvg-logo="https://down.ymschh.top/tv/KKSE.png" group-title="其他频道",卡酷少儿
@@ -191,39 +189,18 @@ http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227335/1.m3u8
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227339/1.m3u8
 #EXTINF:-1 tvg-id="嘉佳卡通" tvg-name="嘉佳卡通" tvg-logo="https://down.ymschh.top/tv/JJKT.png" group-title="其他频道",嘉佳卡通
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227230/1.m3u8
-#EXTINF:-1 tvg-id="游戏风云" tvg-name="游戏风云" tvg-logo="https://down.ymschh.top/tv/YXFY.png" group-title="其他频道",游戏风云
-http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227075/1.m3u8
-#EXTINF:-1 tvg-id="乐游" tvg-name="乐游" tvg-logo="https://down.ymschh.top/tv/LY.png" group-title="其他频道",乐游
-http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227083/1.m3u8
-#EXTINF:-1 tvg-id="纪实人文" tvg-name="纪实人文" tvg-logo="https://down.ymschh.top/tv/JSRW.png" group-title="其他频道",纪实人文
-http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225946/1.m3u8
+#EXTINF:-1 tvg-id="纪实科教" tvg-name="北京纪实科教" tvg-logo="https://down.ymschh.top/tv/BJJSKJ.png" group-title="其他频道",纪实科教
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225944/1.m3u8
 #EXTINF:-1 tvg-id="中国天气" tvg-name="中国天气" tvg-logo="https://down.ymschh.top/tv/ZGTQ.png" group-title="其他频道",中国天气
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227210/1.m3u8
 #EXTINF:-1 tvg-id="金鹰纪实" tvg-name="金鹰纪实" tvg-logo="https://down.ymschh.top/tv/JYJS.png" group-title="其他频道",金鹰纪实
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226937/1.m3u8
-#EXTINF:-1 tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="https://down.ymschh.top/tv/HXJC.png" group-title="其他频道",欢笑剧场
-http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227145/1.m3u8
-#EXTINF:-1 tvg-id="都市剧场" tvg-name="都市剧场" tvg-logo="https://down.ymschh.top/tv/DSJC.png" group-title="其他频道",都市剧场
-http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227204/1.m3u8
-#EXTINF:-1 tvg-id="法治天地" tvg-name="法治天地" tvg-logo="https://down.ymschh.top/tv/FZTD.png" group-title="其他频道",法治天地
-http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227176/1.m3u8
-#EXTINF:-1 tvg-id="东方财经" tvg-name="东方财经" tvg-logo="https://down.ymschh.top/tv/DFCJ.png" group-title="其他频道",东方财经
-http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227087/1.m3u8
-#EXTINF:-1 tvg-id="金色学堂" tvg-name="金色学堂" tvg-logo="https://down.ymschh.top/tv/JSXT.png" group-title="其他频道",金色学堂
-http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227208/1.m3u8
 #EXTINF:-1 tvg-id="快乐垂钓" tvg-name="快乐垂钓" tvg-logo="https://down.ymschh.top/tv/KLCD.png" group-title="其他频道",快乐垂钓
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226940/1.m3u8
-#EXTINF:-1 tvg-id="生活时尚" tvg-name="生活时尚" tvg-logo="https://down.ymschh.top/tv/SHSS.png" group-title="其他频道",生活时尚
-http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227091/1.m3u8
 #EXTINF:-1 tvg-id="先锋乒羽" tvg-name=先锋乒羽" tvg-logo="https://down.ymschh.top/tv/XFPY.png" group-title="其他频道",先锋乒羽
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226851/1.m3u8
 #EXTINF:-1 tvg-id="茶" tvg-name=茶" tvg-logo="https://down.ymschh.top/tv/C.png" group-title="其他频道",茶频道
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226859/1.m3u8
-
-#EXTINF:-1 tvg-id="纯享4K" tvg-name=纯享4K" tvg-logo="https://down.ymschh.top/tv/CX4K.png" group-title="其他频道",纯享4K
-http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226825/1.m3u8
-#EXTINF:-1 tvg-id="芒果互娱" tvg-name=芒果互娱" tvg-logo="https://down.ymschh.top/tv/MGHY.png" group-title="其他频道",芒果互娱
-http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226887/1.m3u8
 
 #EXTINF:-1 tvg-id="newtv潮妈辣婆" tvg-name="潮妈辣婆" tvg-logo="https://down.ymschh.top/tv/CMLP.png" group-title="NewTV系列",潮妈辣婆
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227311/1.m3u8

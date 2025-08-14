@@ -37,7 +37,7 @@ http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227162/1.m3u8
 #EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://down.ymschh.top/tv/CCTV17.png" group-title="央视频道",CCTV-17
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226986/1.m3u8
 #EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://down.ymschh.top/tv/CCTV4K.png" group-title="央视频道",CCTV4K
-rtsp://112.50.233.148/PLTV/88888888/224/3221227488/136427084.smil
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227510/1.m3u8
 #EXTINF:-1 tvg-id="CGTN英语" tvg-name="CGTN英语" tvg-logo="https://down.ymschh.top/tv/CGTN.png" group-title="央视频道",CGTN英语
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225822/1.m3u8
 #EXTINF:-1 tvg-id="CGTN纪录" tvg-name="CGTN纪录" tvg-logo="https://down.ymschh.top/tv/CGTNDoc.png" group-title="央视频道",CGTN纪录
@@ -108,7 +108,7 @@ http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227141/1.m3u8
 #EXTINF:-1 tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="https://epg.51zmt.top:8001/tb1/ws/chongqing.png" group-title="卫视频道",重庆卫视
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227240/1.m3u8
 #EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://down.ymschh.top/tv/BJ4K.png" group-title="卫视频道",北京卫视4K
-rtsp://112.50.233.148/PLTV/88888888/224/3221227476/135487844.smil
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227514/1.m3u8
 #EXTINF:-1 tvg-id="云南卫视" tvg-name="云南卫视" tvg-logo="https://epg.51zmt.top:8001/tb1/ws/yunnan.png" group-title="卫视频道",云南卫视
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227181/1.m3u8
 #EXTINF:-1 tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://epg.51zmt.top:8001/tb1/ws/henan.png" group-title="卫视频道",河南卫视
@@ -167,14 +167,16 @@ http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226825/1.m3u8
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227314/1.m3u8
 #EXTINF:-1 tvg-id="睛彩竞技" tvg-name="睛彩竞技" tvg-logo="https://down.ymschh.top/tv/JCJJ.png" group-title="其他频道",睛彩竞技
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227047/1.m3u8
+#EXTINF:-1 tvg-id="睛彩广场舞" tvg-name="睛彩广场舞" tvg-logo="https://down.ymschh.top/tv/JCGCW.png" group-title="其他频道",睛彩广场舞
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227343/1.m3u8
 #EXTINF:-1 tvg-id="睛彩篮球" tvg-name="睛彩篮球" tvg-logo="https://down.ymschh.top/tv/JCLQ.png" group-title="其他频道",睛彩篮球
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227158/1.m3u8
 #EXTINF:-1 tvg-id="黑莓电影" tvg-name="黑莓电影" tvg-logo="https://down.ymschh.top/tv/HMDY.png" group-title="其他频道",黑莓电影
-http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225891/1.m3u8
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227448/1.m3u8
 #EXTINF:-1 tvg-id="黑莓动画" tvg-name="黑莓动画" tvg-logo="https://down.ymschh.top/tv/HMDH.png" group-title="其他频道",黑莓动画
-http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225878/1.m3u8
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227303/1.m3u8
 #EXTINF:-1 tvg-id="哒啵赛事" tvg-name="哒啵赛事" tvg-logo="https://down.ymschh.top/tv/DBSS.png" group-title="其他频道",哒啵赛事
-http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225894/1.m3u8
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227331/1.m3u8
 #EXTINF:-1 tvg-id="哒啵电竞" tvg-name="哒啵电竞" tvg-logo="https://down.ymschh.top/tv/DBDJ.png" group-title="其他频道",哒啵电竞
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227252/1.m3u8
 #EXTINF:-1 tvg-id="五星体育" tvg-name="五星体育" tvg-logo="https://down.ymschh.top/tv/WXTY.png" group-title="其他频道",五星体育
@@ -223,41 +225,41 @@ http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226825/1.m3u8
 #EXTINF:-1 tvg-id="芒果互娱" tvg-name=芒果互娱" tvg-logo="https://down.ymschh.top/tv/MGHY.png" group-title="其他频道",芒果互娱
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226887/1.m3u8
 
-#EXTINF:-1 tvg-id="newtv潮妈辣婆" tvg-name="潮妈辣婆" tvg-logo="https://epg.51zmt.top:8001/tb1/tv/NEWTV潮妈辣婆.png" group-title="NewTV系列",潮妈辣婆
-http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226107/1.m3u8
-#EXTINF:-1 tvg-id="newtv爱情喜剧" tvg-name="newtv爱情喜剧" tvg-logo="https://epg.51zmt.top:8001/tb1/tv/NEWTV爱情喜剧.png" group-title="NewTV系列",爱情喜剧
-http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225877/1.m3u8
-#EXTINF:-1 tvg-id="newtv动作电影" tvg-name="newtv动作电影" tvg-logo="https://epg.51zmt.top:8001/tb1/tv/NEWTV动作电影.png" group-title="NewTV系列",动作电影
+#EXTINF:-1 tvg-id="newtv潮妈辣婆" tvg-name="潮妈辣婆" tvg-logo="https://down.ymschh.top/tv/CMLP.png" group-title="NewTV系列",潮妈辣婆
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227311/1.m3u8
+#EXTINF:-1 tvg-id="newtv爱情喜剧" tvg-name="爱情喜剧" tvg-logo="https://epg.51zmt.top:8001/tb1/tv/NEWTV爱情喜剧.png" group-title="NewTV系列",爱情喜剧
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227462/1.m3u8
+#EXTINF:-1 tvg-id="newtv动作电影" tvg-name="动作电影" tvg-logo="https://epg.51zmt.top:8001/tb1/tv/NEWTV动作电影.png" group-title="NewTV系列",动作电影
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225879/1.m3u8
-#EXTINF:-1 tvg-id="newtv古装剧场" tvg-name="newtv古装剧场" tvg-logo="https://epg.51zmt.top:8001/tb1/tv/NEWTV古装剧场.png" group-title="NewTV系列",古装剧场
-http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225880/1.m3u8
-#EXTINF:-1 tvg-id="newtv武博世界" tvg-name="newtv武博世界" tvg-logo="https://epg.51zmt.top:8001/tb1/tv/NEWTV武博世界.png" group-title="NewTV系列",武博世界
+#EXTINF:-1 tvg-id="newtv古装剧场" tvg-name="古装剧场" tvg-logo="https://down.ymschh.top/tv/GZJC.png" group-title="NewTV系列",古装剧场
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227307/1.m3u8
+#EXTINF:-1 tvg-id="newtv武博世界" tvg-name="武博世界" tvg-logo="https://epg.51zmt.top:8001/tb1/tv/NEWTV武博世界.png" group-title="NewTV系列",武博世界
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225881/1.m3u8
-#EXTINF:-1 tvg-id="newtv家庭剧场" tvg-name="newtv家庭剧场" tvg-logo="https://epg.51zmt.top:8001/tb1/tv/NEWTV家庭剧场.png" group-title="NewTV系列",家庭剧场
-http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225882/1.m3u8
-#EXTINF:-1 tvg-id="newtv怡伴健康" tvg-name="newtv怡伴健康" tvg-logo="https://epg.51zmt.top:8001/tb1/tv/NEWTV怡伴健康.png" group-title="NewTV系列",怡伴健康
+#EXTINF:-1 tvg-id="newtv家庭剧场" tvg-name="家庭剧场" tvg-logo="https://down.ymschh.top/tv/JTJC.png" group-title="NewTV系列",家庭剧场
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227457/1.m3u8
+#EXTINF:-1 tvg-id="newtv怡伴健康" tvg-name="怡伴健康" tvg-logo="https://epg.51zmt.top:8001/tb1/tv/NEWTV怡伴健康.png" group-title="NewTV系列",怡伴健康
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225883/1.m3u8
-#EXTINF:-1 tvg-id="newtv金牌综艺" tvg-name="newtv金牌综艺" tvg-logo="https://epg.51zmt.top:8001/tb1/tv/NEWTV金牌综艺.png" group-title="NewTV系列",金牌综艺
-http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225884/1.m3u8
-#EXTINF:-1 tvg-id="newtv惊悚悬疑" tvg-name="newtv惊悚悬疑" tvg-logo="https://epg.51zmt.top:8001/tb1/tv/NEWTV惊悚悬疑.png" group-title="NewTV系列",惊悚悬疑
-http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225885/1.m3u8
-#EXTINF:-1 tvg-id="newtv精品体育" tvg-name="newtv精品体育" tvg-logo="https://epg.51zmt.top:8001/tb1/tv/NEWTV精品体育.png" group-title="NewTV系列",精品体育
-http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225886/1.m3u8
-#EXTINF:-1 tvg-id="newtv军旅剧场" tvg-name="newtv军旅剧场" tvg-logo="https://epg.51zmt.top:8001/tb1/tv/NEWTV军旅剧场.png" group-title="NewTV系列",军旅剧场
-http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225887/1.m3u8
-#EXTINF:-1 tvg-id="newtv精品纪录" tvg-name="newtv精品纪录" tvg-logo="https://epg.51zmt.top:8001/tb1/tv/NEWTV精品纪录.png" group-title="NewTV系列",精品纪录
-http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225888/1.m3u8
-#EXTINF:-1 tvg-id="newtv精品大剧" tvg-name="newtv精品大剧" tvg-logo="https://epg.51zmt.top:8001/tb1/tv/NEWTV精品大剧.png" group-title="NewTV系列",精品大剧
-http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225889/1.m3u8
-#EXTINF:-1 tvg-id="newtv军事评论" tvg-name="newtv军事评论" tvg-logo="https://epg.51zmt.top:8001/tb1/tv/NEWTV军事评论.png" group-title="NewTV系列",军事评论
-http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225890/1.m3u8
-#EXTINF:-1 tvg-id="newtv明星大片" tvg-name="newtv明星大片" tvg-logo="https://epg.51zmt.top:8001/tb1/tv/NEWTV明星大片.png" group-title="NewTV系列",明星大片
+#EXTINF:-1 tvg-id="newtv金牌综艺" tvg-name="金牌综艺" tvg-logo="https://down.ymschh.top/tv/JPZY.png" group-title="NewTV系列",金牌综艺
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227469/1.m3u8
+#EXTINF:-1 tvg-id="newtv惊悚悬疑" tvg-name="惊悚悬疑" tvg-logo="https://down.ymschh.top/tv/JSXY.png" group-title="NewTV系列",惊悚悬疑
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227466/1.m3u8
+#EXTINF:-1 tvg-id="newtv精品体育" tvg-name="精品体育" tvg-logo="https://down.ymschh.top/tv/JPTY.png" group-title="NewTV系列",精品体育
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227470/1.m3u8
+#EXTINF:-1 tvg-id="newtv军旅剧场" tvg-name="军旅剧场" tvg-logo="https://down.ymschh.top/tv/JLJC.png" group-title="NewTV系列",军旅剧场
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227465/1.m3u8
+#EXTINF:-1 tvg-id="newtv精品纪录" tvg-name="精品纪录" tvg-logo="https://down.ymschh.top/tv/JPJL.png" group-title="NewTV系列",精品纪录
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227461/1.m3u8
+#EXTINF:-1 tvg-id="newtv精品大剧" tvg-name="精品大剧" tvg-logo="https://down.ymschh.top/tv/JPDJ.png" group-title="NewTV系列",精品大剧
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227315/1.m3u8
+#EXTINF:-1 tvg-id="newtv军事评论" tvg-name="军事评论" tvg-logo="https://down.ymschh.top/tv/JSPL.png" group-title="NewTV系列",军事评论
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227452/1.m3u8
+#EXTINF:-1 tvg-id="newtv明星大片" tvg-name="明星大片" tvg-logo="https://down.ymschh.top/tv/MXDP.png" group-title="NewTV系列",明星大片
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225893/1.m3u8
-#EXTINF:-1 tvg-id="newtv中国功夫" tvg-name="newtv中国功夫" tvg-logo="https://epg.51zmt.top:8001/tb1/tv/NEWTV中国功夫.png" group-title="NewTV系列",中国功夫
+#EXTINF:-1 tvg-id="newtv中国功夫" tvg-name="中国功夫" tvg-logo="https://down.ymschh.top/tv/ZGGF.png" group-title="NewTV系列",中国功夫
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225896/1.m3u8
-#EXTINF:-1 tvg-id="newtv炫舞未来" tvg-name="newtv炫舞未来" tvg-logo="https://epg.51zmt.top:8001/tb1/tv/NEWTV炫舞未来.png" group-title="NewTV系列",炫舞未来
-http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226699/1.m3u8
-#EXTINF:-1 tvg-id="精品萌宠" tvg-name="精品萌宠" tvg-logo="https://down.ymschh.top/tv/JPMC.png" group-title="NewTV系列",精品萌宠
+#EXTINF:-1 tvg-id="newtv炫舞未来" tvg-name="炫舞未来" tvg-logo="https://down.ymschh.top/tv/XWWL.png" group-title="NewTV系列",炫舞未来
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227319/1.m3u8
+#EXTINF:-1 tvg-id="newtv精品萌宠" tvg-name="精品萌宠" tvg-logo="https://down.ymschh.top/tv/JPMC.png" group-title="NewTV系列",精品萌宠
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227183/1.m3u8
 
 

@@ -210,12 +210,8 @@ http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227462/1.m3u8
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225879/1.m3u8
 #EXTINF:-1 tvg-id="newtv古装剧场" tvg-name="古装剧场" tvg-logo="https://down.ymschh.top/tv/GZJC.png" group-title="NewTV系列",古装剧场
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227307/1.m3u8
-#EXTINF:-1 tvg-id="newtv武博世界" tvg-name="武博世界" tvg-logo="https://epg.51zmt.top:8001/tb1/tv/NEWTV武博世界.png" group-title="NewTV系列",武博世界
-http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225881/1.m3u8
 #EXTINF:-1 tvg-id="newtv家庭剧场" tvg-name="家庭剧场" tvg-logo="https://down.ymschh.top/tv/JTJC.png" group-title="NewTV系列",家庭剧场
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227457/1.m3u8
-#EXTINF:-1 tvg-id="newtv怡伴健康" tvg-name="怡伴健康" tvg-logo="https://epg.51zmt.top:8001/tb1/tv/NEWTV怡伴健康.png" group-title="NewTV系列",怡伴健康
-http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225883/1.m3u8
 #EXTINF:-1 tvg-id="newtv金牌综艺" tvg-name="金牌综艺" tvg-logo="https://down.ymschh.top/tv/JPZY.png" group-title="NewTV系列",金牌综艺
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227469/1.m3u8
 #EXTINF:-1 tvg-id="newtv惊悚悬疑" tvg-name="惊悚悬疑" tvg-logo="https://down.ymschh.top/tv/JSXY.png" group-title="NewTV系列",惊悚悬疑
@@ -230,10 +226,6 @@ http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227461/1.m3u8
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227315/1.m3u8
 #EXTINF:-1 tvg-id="newtv军事评论" tvg-name="军事评论" tvg-logo="https://down.ymschh.top/tv/JSPL.png" group-title="NewTV系列",军事评论
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227452/1.m3u8
-#EXTINF:-1 tvg-id="newtv明星大片" tvg-name="明星大片" tvg-logo="https://down.ymschh.top/tv/MXDP.png" group-title="NewTV系列",明星大片
-http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225893/1.m3u8
-#EXTINF:-1 tvg-id="newtv中国功夫" tvg-name="中国功夫" tvg-logo="https://down.ymschh.top/tv/ZGGF.png" group-title="NewTV系列",中国功夫
-http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225896/1.m3u8
 #EXTINF:-1 tvg-id="newtv炫舞未来" tvg-name="炫舞未来" tvg-logo="https://down.ymschh.top/tv/XWWL.png" group-title="NewTV系列",炫舞未来
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227319/1.m3u8
 #EXTINF:-1 tvg-id="newtv精品萌宠" tvg-name="精品萌宠" tvg-logo="https://down.ymschh.top/tv/JPMC.png" group-title="NewTV系列",精品萌宠

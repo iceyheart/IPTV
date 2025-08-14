@@ -135,16 +135,22 @@ http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227248/1.m3u8
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227168/1.m3u8
 #EXTINF:-1 tvg-id="西藏卫视" tvg-name="西藏卫视" tvg-logo="https://epg.51zmt.top:8001/tb1/ws/xizang.png" group-title="卫视频道",西藏卫视
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227217/1.m3u8
-#EXTINF:-1 tvg-id="大湾区卫视" tvg-name="大湾区卫视" tvg-logo="https://down.ymschh.top/tv/DWQ.png" group-title="卫视频道",大湾区卫视
-http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227214/1.m3u8
 #EXTINF:-1 tvg-id="三沙卫视" tvg-name="三沙卫视" tvg-logo="https://epg.51zmt.top:8001/tb1/ws/sansha.png" group-title="卫视频道",三沙卫视
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227172/1.m3u8
 
 
-#EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://epg.51zmt.top:8001/tb1/tv/凤凰资讯.png" group-title="港澳台频道",凤凰资讯
-http://113.64.145.231:8081/hls/36/index.m3u8
-#EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg.51zmt.top:8001/tb1/tv/凤凰中文.png" group-title="港澳台频道",凤凰中文
-http://113.64.145.231:8081/hls/37/index.m3u8
+#EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://down.ymschh.top/tv/FHZX.png" group-title="港澳台频道",凤凰资讯
+http://bxtv.3a.ink/api.php?id=fhzx
+#EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://down.ymschh.top/tv/FHZW.png" group-title="港澳台频道",凤凰中文
+http://bxtv.3a.ink/api.php?id=fhzw
+#EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://down.ymschh.top/tv/FHXG.png" group-title="港澳台频道",凤凰香港
+http://bxtv.3a.ink/api.php?id=fhhk
+#EXTINF:-1 tvg-id="NOW新闻" tvg-name="NOW新闻" tvg-logo="https://down.ymschh.top/tv/NOWXW.png" group-title="港澳台频道",NOW新闻
+http://bxtv.3a.ink/api.php?id=now
+#EXTINF:-1 tvg-id="无线新闻 tvg-name="无线新闻" tvg-logo="https://down.ymschh.top/tv/WXXW.png" group-title="港澳台频道",无线新闻
+http://bxtv.3a.ink/api.php?id=wxxw
+#EXTINF:-1 tvg-id="中天新闻" tvg-name="中天新闻" tvg-logo="https://down.ymschh.top/tv/ZTXW.png" group-title="港澳台频道",中天新闻
+http://bxtv.3a.ink/api.php?id=ztxw
 
 #EXTINF:-1 tvg-id="CETV1" tvg-name="CETV1" tvg-logo="https://epg.51zmt.top:8001/tb1/tv/CETV1.png" group-title="其他频道",CETV1
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227067/1.m3u8

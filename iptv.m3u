@@ -36,6 +36,8 @@ http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225818/1.m3u8
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227162/1.m3u8
 #EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://down.ymschh.top/tv/CCTV17.png" group-title="央视频道",CCTV-17
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226986/1.m3u8
+#EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://down.ymschh.top/tv/CCTV4K.png" group-title="央视频道",CCTV4K
+rtsp://112.50.233.148/PLTV/88888888/224/3221227488/136427084.smil
 #EXTINF:-1 tvg-id="CGTN英语" tvg-name="CGTN英语" tvg-logo="https://down.ymschh.top/tv/CGTN.png" group-title="央视频道",CGTN英语
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225822/1.m3u8
 #EXTINF:-1 tvg-id="CGTN纪录" tvg-name="CGTN纪录" tvg-logo="https://down.ymschh.top/tv/CGTNDoc.png" group-title="央视频道",CGTN纪录
@@ -81,14 +83,14 @@ http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227160/1.m3u8
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225825/1.m3u8
 #EXTINF:-1 tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="https://epg.51zmt.top:8001/tb1/ws/hebei.png" group-title="卫视频道",河北卫视
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227063/1.m3u8
-#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://epg.51zmt.top:8001/tb1/ws/gangdong.png" group-title="卫视频道",广东卫视
-http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227164/1.m3u8
+#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://down.ymschh.top/tv/GD4K.png" group-title="卫视频道",广东卫视4K
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227391/1.m3u8
 #EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://epg.51zmt.top:8001/tb1/ws/shandong.png" group-title="卫视频道",山东卫视
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227236/1.m3u8
 #EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://epg.51zmt.top:8001/tb1/ws/hubei.png" group-title="卫视频道",湖北卫视
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227111/1.m3u8
-#EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://epg.51zmt.top:8001/tb1/ws/shenzen.png" group-title="卫视频道",深圳卫视
-http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227242/1.m3u8
+#EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://down.ymschh.top/tv/SZ4K.png" group-title="卫视频道",深圳卫视4K
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227489/1.m3u8
 #EXTINF:-1 tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://epg.51zmt.top:8001/tb1/ws/heilongjiang.png" group-title="卫视频道",黑龙江卫视
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227197/1.m3u8
 #EXTINF:-1 tvg-id="贵州卫视" tvg-name="贵州卫视" tvg-logo="https://epg.51zmt.top:8001/tb1/ws/guizhou.png" group-title="卫视频道",贵州卫视
@@ -105,8 +107,8 @@ http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227209/1.m3u8
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227141/1.m3u8
 #EXTINF:-1 tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="https://epg.51zmt.top:8001/tb1/ws/chongqing.png" group-title="卫视频道",重庆卫视
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227240/1.m3u8
-#EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://epg.51zmt.top:8001/tb1/ws/beijing.png" group-title="卫视频道",北京卫视
-http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227246/1.m3u8
+#EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://down.ymschh.top/tv/BJ4K.png" group-title="卫视频道",北京卫视4K
+rtsp://112.50.233.148/PLTV/88888888/224/3221227476/135487844.smil
 #EXTINF:-1 tvg-id="云南卫视" tvg-name="云南卫视" tvg-logo="https://epg.51zmt.top:8001/tb1/ws/yunnan.png" group-title="卫视频道",云南卫视
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227181/1.m3u8
 #EXTINF:-1 tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://epg.51zmt.top:8001/tb1/ws/henan.png" group-title="卫视频道",河南卫视
@@ -159,6 +161,14 @@ http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227206/1.m3u8
 #EXTINF:-1 tvg-id="CETV4" tvg-name="CETV4" tvg-logo="https://epg.51zmt.top:8001/tb1/tv/CETV4.png" group-title="其他频道",CETV4
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227192/1.m3u8
 
+#EXTINF:-1 tvg-id="纯享4K" tvg-name="纯享4K" tvg-logo="https://down.ymschh.top/tv/CX4K.png" group-title="其他频道",纯享4K
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226825/1.m3u8
+#EXTINF:-1 tvg-id="睛彩青少" tvg-name="睛彩青少" tvg-logo="https://down.ymschh.top/tv/JCQS.png" group-title="其他频道",睛彩青少
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227314/1.m3u8
+#EXTINF:-1 tvg-id="睛彩竞技" tvg-name="睛彩竞技" tvg-logo="https://down.ymschh.top/tv/JCJJ.png" group-title="其他频道",睛彩竞技
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227047/1.m3u8
+#EXTINF:-1 tvg-id="睛彩篮球" tvg-name="睛彩篮球" tvg-logo="https://down.ymschh.top/tv/JCLQ.png" group-title="其他频道",睛彩篮球
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227158/1.m3u8
 #EXTINF:-1 tvg-id="黑莓电影" tvg-name="黑莓电影" tvg-logo="https://down.ymschh.top/tv/HMDY.png" group-title="其他频道",黑莓电影
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225891/1.m3u8
 #EXTINF:-1 tvg-id="黑莓动画" tvg-name="黑莓动画" tvg-logo="https://down.ymschh.top/tv/HMDH.png" group-title="其他频道",黑莓动画
@@ -172,11 +182,11 @@ http://[2409:8087:5e08:24::15]:6610/000000001000/2000000002000000007/index.m3u8?
 #EXTINF:-1 tvg-id="金鹰卡通" tvg-name="金鹰卡通" tvg-logo="https://down.ymschh.top/tv/JYKT.png" group-title="其他频道",金鹰卡通
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227018/1.m3u8
 #EXTINF:-1 tvg-id="卡酷少儿" tvg-name="卡酷少儿" tvg-logo="https://down.ymschh.top/tv/KKSE.png" group-title="其他频道",卡酷少儿
-http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225871/1.m3u8
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227456/1.m3u8
 #EXTINF:-1 tvg-id="哈哈炫动" tvg-name="哈哈炫动" tvg-logo="https://down.ymschh.top/tv/HHXD.png" group-title="其他频道",哈哈炫动
-http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225872/1.m3u8
-#EXTINF:-1 tvg-id="动漫秀场" tvg-name="动漫秀场" tvg-logo="https://down.ymschh.top/tv/DMXC.png" group-title="其他频道",动漫秀场
-http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227071/1.m3u8
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227335/1.m3u8
+#EXTINF:-1 tvg-id="优漫卡通" tvg-name="优漫卡通" tvg-logo="https://down.ymschh.top/tv/YMKT.png" group-title="其他频道",优漫卡通
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227339/1.m3u8
 #EXTINF:-1 tvg-id="嘉佳卡通" tvg-name="嘉佳卡通" tvg-logo="https://down.ymschh.top/tv/JJKT.png" group-title="其他频道",嘉佳卡通
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227230/1.m3u8
 #EXTINF:-1 tvg-id="游戏风云" tvg-name="游戏风云" tvg-logo="https://down.ymschh.top/tv/YXFY.png" group-title="其他频道",游戏风云

@@ -37,8 +37,8 @@ jobs:
             [ -z "$ch" ] && continue
             echo "处理频道: $ch"
             for f in "$TMPDIR/1.xml" "$TMPDIR/2.xml"; do
-              xmlstarlet sel -t -c "/tv/channel[@id='$ch']" "$f" >> e.xml || true
-              xmlstarlet sel -t -c "/tv/programme[@channel='$ch']" "$f" >> e.xml || true
+              xmlstarlet sel -t -c "/tv/channel[@id='$ch']" "$f" >> epg.xml || true
+              xmlstarlet sel -t -c "/tv/programme[@channel='$ch']" "$f" >> epg.xml || true
             done
           done < channels.txt
 

@@ -14,15 +14,17 @@ jobs:
 
       - name: Install dependencies
         run: |
-          sudo apt-get update
-          sudo apt-get install -y xmlstarlet curl
+          apt update
+          apt install -y xmlstarlet curl
 
       - name: Download and merge EPG
         run: |
           set -e
           TMPDIR=$(mktemp -d)
-
+          
+          #列表文件
           grep -o 'tvg-id="[^"]*"' iptv.m3u | cut -d'"' -f2 > $TMPDIR/channels.txt
+          
           # 下载文件
           curl -s -o "$TMPDIR/1.xml" "https://epg.112114.xyz/pp.xml"
           curl -s -o "$TMPDIR/2.xml" "https://mytvsuperepg.860775.xyz/epg.xml"

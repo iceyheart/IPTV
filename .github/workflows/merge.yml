@@ -8,11 +8,14 @@ on:
 jobs:
   merge-epg:
     runs-on: ubuntu-latest
+    
     steps:
       - name: Checkout repo
         uses: actions/checkout@v4
+        
       - name: Install dependencies
-        run: sudo apt-get update && sudo apt-get install -y xmlstarlet curl
+        run: sudo apt update && sudo apt install -y xmlstarlet curl
+        
       - name: Download and merge EPG
         run: |
           set -e

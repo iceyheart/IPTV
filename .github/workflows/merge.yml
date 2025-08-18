@@ -1,29 +1,27 @@
 name: Merge EPG XML
 
 on:
-  workflow_dispatch:
+  workflow_dispatch:   # 手动触发
   schedule:
-    - cron: "15 16,18,20,22,0,2,4,6,8,10,12,14 * * *"
+    - cron: "0 0 * * *"   # 每天 0 点自动执行 (UTC 时间)
 
 jobs:
   merge-epg:
     runs-on: ubuntu-latest
-    
+
     steps:
       - name: Checkout repo
         uses: actions/checkout@v4
-        
+
       - name: Install dependencies
-        run: sudo apt update && sudo apt install -y xmlstarlet curl
-        
+        run: sudo apt-get update && sudo apt-get install -y xmlstarlet curl
+
       - name: Download and merge EPG
         run: |
           set -e
           TMPDIR=$(mktemp -d)
-          
-          #建立channel文件
-          grep -o 'tvg-id="[^"]*"' iptv.m3u | cut -d'"' -f2 > channels.txt
-          
+
+          grep -o 'tvg-id="[^"]*"' iptv.m3u | cut -d'"' -f2 > $TMPDIR/channels.txt
           # 下载文件
           curl -s -o "$TMPDIR/1.xml" "https://epg.112114.xyz/pp.xml"
           curl -s -o "$TMPDIR/2.xml" "https://mytvsuperepg.860775.xyz/epg.xml"
@@ -40,17 +38,18 @@ jobs:
               xmlstarlet sel -t -c "/tv/channel[@id='$ch']" "$f" >> epg.xml || true
               xmlstarlet sel -t -c "/tv/programme[@channel='$ch']" "$f" >> epg.xml || true
             done
-          done < channels.txt
+          done < $TMPDIR/channels.txt
 
           echo '</tv>' >> epg.xml
 
           rm -rf "$TMPDIR"
           echo "合并完成 -> epg.xml"
+
          git config --local user.name "github-actions[bot]"
          git config --local user.email "github-actions[bot]@users.noreply.github.com"
          git add epg.xml
          git commit -m "EPG Update."
-    - name: Push changes
-      run: git push origin main
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+     - name: Push changes
+       run: git push origin main
+       env:
+         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

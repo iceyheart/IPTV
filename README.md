@@ -1,2 +1,2 @@
 # IPTV
-m3u for IPTV channel through IPV6
+m3u for IPTV channel only use in FJ

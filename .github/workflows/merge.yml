@@ -13,8 +13,7 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Install dependencies
-        run: apt install -y xmlstarlet curl
-        
+        run: apt update && apt install -y xmlstarlet curl
       - name: Download and merge EPG
         run: |
           set -e

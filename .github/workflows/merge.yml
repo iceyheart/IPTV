@@ -11,13 +11,11 @@ jobs:
     steps:
       - name: Checkout repo
         uses: actions/checkout@v4
-
-      - name: Install dependencies
-        run: |
-          apt update
           
       - name: Download and merge EPG
         run: |
+          apt update
+          apt install -y xmlstarlet curl
           set -e
           TMPDIR=$(mktemp -d)
           

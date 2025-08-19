@@ -1,0 +1,48 @@
+
+name: EPG Update
+on:
+  push:
+  schedule:
+    - cron: '15 16,18,20,22,0,2,4,6,8,10,12,14 * * *'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v3
+    - name: Update EPG Files
+      run: |
+        apt update
+        apt install -y xmlstarlet curl
+        set -e
+        TMPDIR=$(mktemp -d)
+         
+        #列表文件
+        grep -o 'tvg-id="[^"]*"' iptv.m3u | cut -d'"' -f2 > $TMPDIR/channels.txt
+         
+        # 下载文件
+        curl -s -o "$TMPDIR/1.xml" "https://epg.112114.xyz/pp.xml"
+        curl -s -o "$TMPDIR/2.xml" "https://mytvsuperepg.860775.xyz/epg.xml"
+        # 初始化输出
+        echo '<?xml version="1.0" encoding="UTF-8"?>' > epg.xml
+        echo '<tv>' >> epg.xml
+        # 按频道列表筛选
+        while read -r ch; do
+            [ -z "$ch" ] && continue
+            echo "处理频道: $ch"
+            for f in "$TMPDIR/1.xml" "$TMPDIR/2.xml"; do
+              xmlstarlet sel -t -c "/tv/channel[@id='$ch']" "$f" >> epg.xml || true
+              xmlstarlet sel -t -c "/tv/programme[@channel='$ch']" "$f" >> epg.xml || true
+            done
+        done < $TMPDIR/channels.txt
+        echo '</tv>' >> epg.xml
+        rm -rf "$TMPDIR"
+        echo "合并完成 -> epg.xml"
+         git config --local user.name "github-actions[bot]"
+         git config --local user.email "github-actions[bot]@users.noreply.github.com"
+         git add epg.xml
+         git commit -m "EPG Update."
+   - name: Push changes
+     run: git push origin main
+       env:
+         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

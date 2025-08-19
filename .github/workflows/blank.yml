@@ -46,8 +46,6 @@ jobs:
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git add epg.xml
           git commit -m "EPG Update."
-          
-      - name: Push changes
-         run: git push origin main
-         env:
-           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          git push origin main
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

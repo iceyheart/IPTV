@@ -7,10 +7,6 @@ on:
 jobs:
   merge-epg:
     runs-on: ubuntu-latest
-
-    steps:
-      - name: Checkout repo
-        uses: actions/checkout@v4
           
       - name: Download and merge EPG
         run: |

@@ -8323,6 +8323,12 @@
 		<title lang="zh">远方的家4K 我家那片海 红蓝辉映 文化盘锦</title>
 	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250820202200 +0800" stop="20250820210400 +0800">
 		<title lang="zh">远方的家4K 我家那片海 大辽河畔 鱼米之乡</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250820211400 +0800" stop="20250820212400 +0800">
+		<title lang="zh">秘境之眼4K 攀雀筑巢记</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250820212400 +0800" stop="20250820221400 +0800">
+		<title lang="zh">玩的是古 第二季4K 第3集</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250820221400 +0800" stop="20250820230300 +0800">
+		<title lang="zh">往事如歌4K 第2集</title>
 	</programme><channel id="&#x775B;&#x5F69;&#x9752;&#x5C11;">
 		<display-name lang="zh">睛彩青少</display-name>
 	</channel><programme channel="&#x775B;&#x5F69;&#x9752;&#x5C11;" start="20250820000000 +0800" stop="20250820000100 +0800">
@@ -8647,6 +8653,8 @@
 		<title lang="zh">绝对忠诚之国家利益</title>
 	</programme><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20250820193000 +0800" stop="20250820210800 +0800">
 		<title lang="zh">不是钱的事</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20250820210800 +0800" stop="20250820224200 +0800">
+		<title lang="zh">生死96小时</title>
 	</programme><channel id="&#x9ED1;&#x8393;&#x52A8;&#x753B;">
 		<display-name lang="zh">黑莓动画</display-name>
 	</channel><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20250820000900 +0800" stop="20250820013100 +0800">
@@ -8677,6 +8685,8 @@
 		<title lang="zh">01_王的微笑</title>
 	</programme><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20250820200200 +0800" stop="20250820213700 +0800">
 		<title lang="zh">蜡笔小新：决一胜负！逆袭的机器人爸爸</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20250820213700 +0800" stop="20250820231000 +0800">
+		<title lang="zh">蜡笔小新：梦境世界大突击</title>
 	</programme><channel id="&#x54D2;&#x5575;&#x8D5B;&#x4E8B;">
 		<display-name lang="zh">哒啵赛事</display-name>
 	</channel><programme channel="&#x54D2;&#x5575;&#x8D5B;&#x4E8B;" start="20250820000000 +0800" stop="20250820000400 +0800">
@@ -10083,6 +10093,12 @@
 		<title lang="zh">18_春色寄情人</title>
 	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20250820200600 +0800" stop="20250820204500 +0800">
 		<title lang="zh">19_春色寄情人</title>
+	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20250820204500 +0800" stop="20250820211500 +0800">
+		<title lang="zh">《八段锦》推荐第31期</title>
+	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20250820211500 +0800" stop="20250820220100 +0800">
+		<title lang="zh">20_春色寄情人</title>
+	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20250820220100 +0800" stop="20250820225800 +0800">
+		<title lang="zh">21_春色寄情人</title>
 	</programme><channel id="&#x52A8;&#x4F5C;&#x7535;&#x5F71;">
 		<display-name lang="zh">动作电影</display-name>
 	</channel><programme channel="&#x52A8;&#x4F5C;&#x7535;&#x5F71;" start="20250820001100 +0800" stop="20250820021600 +0800">
@@ -10123,6 +10139,10 @@
 		<title lang="zh">《八段锦》推荐第31期</title>
 	</programme><programme channel="&#x52A8;&#x4F5C;&#x7535;&#x5F71;" start="20250820195800 +0800" stop="20250820212500 +0800">
 		<title lang="zh">战斧行动</title>
+	</programme><programme channel="&#x52A8;&#x4F5C;&#x7535;&#x5F71;" start="20250820212500 +0800" stop="20250820215500 +0800">
+		<title lang="zh">《八段锦》推荐第31期</title>
+	</programme><programme channel="&#x52A8;&#x4F5C;&#x7535;&#x5F71;" start="20250820215500 +0800" stop="20250820233100 +0800">
+		<title lang="zh">欲火追击</title>
 	</programme><channel id="&#x53E4;&#x88C5;&#x5267;&#x573A;">
 		<display-name lang="zh">古装剧场</display-name>
 	</channel><programme channel="&#x53E4;&#x88C5;&#x5267;&#x573A;" start="20250820000000 +0800" stop="20250820001500 +0800">
@@ -10315,6 +10335,10 @@
 		<title lang="zh">《八段锦》推荐第31期</title>
 	</programme><programme channel="&#x60CA;&#x609A;&#x60AC;&#x7591;" start="20250820202800 +0800" stop="20250820214300 +0800">
 		<title lang="zh">怪谈五命河</title>
+	</programme><programme channel="&#x60CA;&#x609A;&#x60AC;&#x7591;" start="20250820214300 +0800" stop="20250820221300 +0800">
+		<title lang="zh">《八段锦》推荐第31期</title>
+	</programme><programme channel="&#x60CA;&#x609A;&#x60AC;&#x7591;" start="20250820221300 +0800" stop="20250820234500 +0800">
+		<title lang="zh">变体</title>
 	</programme><channel id="&#x7CBE;&#x54C1;&#x4F53;&#x80B2;">
 		<display-name lang="zh">精品体育</display-name>
 	</channel><programme channel="&#x7CBE;&#x54C1;&#x4F53;&#x80B2;" start="20250820000000 +0800" stop="20250820001200 +0800">

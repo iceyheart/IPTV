@@ -2060,9 +2060,9 @@
 		<title lang="zh">中华人民共和国国歌</title>
 	</programme><programme channel="&#x4E1C;&#x65B9;&#x536B;&#x89C6;" start="20250820070100 +0800" stop="20250820085900 +0800">
 		<title lang="zh">看东方</title>
-	</programme><programme channel="&#x4E1C;&#x65B9;&#x536B;&#x89C6;" start="20250820085900 +0800" stop="20250820090300 +0800">
+	</programme><programme channel="&#x4E1C;&#x65B9;&#x536B;&#x89C6;" start="20250820085900 +0800" stop="20250820090400 +0800">
 		<title lang="zh">天气预报</title>
-	</programme><programme channel="&#x4E1C;&#x65B9;&#x536B;&#x89C6;" start="20250820090300 +0800" stop="20250820094700 +0800">
+	</programme><programme channel="&#x4E1C;&#x65B9;&#x536B;&#x89C6;" start="20250820090400 +0800" stop="20250820094700 +0800">
 		<title lang="zh">宿敌（10）</title>
 	</programme><programme channel="&#x4E1C;&#x65B9;&#x536B;&#x89C6;" start="20250820094700 +0800" stop="20250820103100 +0800">
 		<title lang="zh">宿敌（11）</title>
@@ -2080,9 +2080,9 @@
 		<title lang="zh">妻子的谎言（2）</title>
 	</programme><programme channel="&#x4E1C;&#x65B9;&#x536B;&#x89C6;" start="20250820132300 +0800" stop="20250820140600 +0800">
 		<title lang="zh">妻子的谎言（3）</title>
-	</programme><programme channel="&#x4E1C;&#x65B9;&#x536B;&#x89C6;" start="20250820140600 +0800" stop="20250820144800 +0800">
+	</programme><programme channel="&#x4E1C;&#x65B9;&#x536B;&#x89C6;" start="20250820140600 +0800" stop="20250820144900 +0800">
 		<title lang="zh">妻子的谎言（4）</title>
-	</programme><programme channel="&#x4E1C;&#x65B9;&#x536B;&#x89C6;" start="20250820144800 +0800" stop="20250820153100 +0800">
+	</programme><programme channel="&#x4E1C;&#x65B9;&#x536B;&#x89C6;" start="20250820144900 +0800" stop="20250820153100 +0800">
 		<title lang="zh">妻子的谎言（5）</title>
 	</programme><programme channel="&#x4E1C;&#x65B9;&#x536B;&#x89C6;" start="20250820153100 +0800" stop="20250820161300 +0800">
 		<title lang="zh">妻子的谎言（6）</title>
@@ -8317,6 +8317,12 @@
 		<title lang="zh">味道4K 原味乡间b7攀枝花篇</title>
 	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250820181000 +0800" stop="20250820185000 +0800">
 		<title lang="zh">探索b7发现4K 同德史前遗址发掘纪实</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250820185000 +0800" stop="20250820194000 +0800">
+		<title lang="zh">国家公园——万物共生之境4K 第3集 生命交响</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250820194000 +0800" stop="20250820202200 +0800">
+		<title lang="zh">远方的家4K 我家那片海 红蓝辉映 文化盘锦</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250820202200 +0800" stop="20250820210400 +0800">
+		<title lang="zh">远方的家4K 我家那片海 大辽河畔 鱼米之乡</title>
 	</programme><channel id="&#x775B;&#x5F69;&#x9752;&#x5C11;">
 		<display-name lang="zh">睛彩青少</display-name>
 	</channel><programme channel="&#x775B;&#x5F69;&#x9752;&#x5C11;" start="20250820000000 +0800" stop="20250820000100 +0800">
@@ -8639,6 +8645,8 @@
 		<title lang="zh">燃冬</title>
 	</programme><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20250820180700 +0800" stop="20250820193000 +0800">
 		<title lang="zh">绝对忠诚之国家利益</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20250820193000 +0800" stop="20250820210800 +0800">
+		<title lang="zh">不是钱的事</title>
 	</programme><channel id="&#x9ED1;&#x8393;&#x52A8;&#x753B;">
 		<display-name lang="zh">黑莓动画</display-name>
 	</channel><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20250820000900 +0800" stop="20250820013100 +0800">
@@ -8665,6 +8673,10 @@
 		<title lang="zh">蜡笔小新：我的搬家物语 仙人掌大袭击</title>
 	</programme><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20250820180400 +0800" stop="20250820194200 +0800">
 		<title lang="zh">04_孤独的路 勇敢的心</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20250820194200 +0800" stop="20250820200200 +0800">
+		<title lang="zh">01_王的微笑</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20250820200200 +0800" stop="20250820213700 +0800">
+		<title lang="zh">蜡笔小新：决一胜负！逆袭的机器人爸爸</title>
 	</programme><channel id="&#x54D2;&#x5575;&#x8D5B;&#x4E8B;">
 		<display-name lang="zh">哒啵赛事</display-name>
 	</channel><programme channel="&#x54D2;&#x5575;&#x8D5B;&#x4E8B;" start="20250820000000 +0800" stop="20250820000400 +0800">
@@ -10065,6 +10077,12 @@
 		<title lang="zh">保罗麦克牛皮凉席</title>
 	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20250820170800 +0800" stop="20250820183000 +0800">
 		<title lang="zh">书写人生</title>
+	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20250820183000 +0800" stop="20250820185900 +0800">
+		<title lang="zh">《八段锦》推荐第31期</title>
+	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20250820185900 +0800" stop="20250820200600 +0800">
+		<title lang="zh">18_春色寄情人</title>
+	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20250820200600 +0800" stop="20250820204500 +0800">
+		<title lang="zh">19_春色寄情人</title>
 	</programme><channel id="&#x52A8;&#x4F5C;&#x7535;&#x5F71;">
 		<display-name lang="zh">动作电影</display-name>
 	</channel><programme channel="&#x52A8;&#x4F5C;&#x7535;&#x5F71;" start="20250820001100 +0800" stop="20250820021600 +0800">
@@ -10099,6 +10117,12 @@
 		<title lang="zh">王牌保镖之疾速追击</title>
 	</programme><programme channel="&#x52A8;&#x4F5C;&#x7535;&#x5F71;" start="20250820173800 +0800" stop="20250820181700 +0800">
 		<title lang="zh">祛湿专题分享</title>
+	</programme><programme channel="&#x52A8;&#x4F5C;&#x7535;&#x5F71;" start="20250820181700 +0800" stop="20250820192800 +0800">
+		<title lang="zh">重装战警</title>
+	</programme><programme channel="&#x52A8;&#x4F5C;&#x7535;&#x5F71;" start="20250820192800 +0800" stop="20250820195800 +0800">
+		<title lang="zh">《八段锦》推荐第31期</title>
+	</programme><programme channel="&#x52A8;&#x4F5C;&#x7535;&#x5F71;" start="20250820195800 +0800" stop="20250820212500 +0800">
+		<title lang="zh">战斧行动</title>
 	</programme><channel id="&#x53E4;&#x88C5;&#x5267;&#x573A;">
 		<display-name lang="zh">古装剧场</display-name>
 	</channel><programme channel="&#x53E4;&#x88C5;&#x5267;&#x573A;" start="20250820000000 +0800" stop="20250820001500 +0800">
@@ -10287,6 +10311,10 @@
 		<title lang="zh">危险境地</title>
 	</programme><programme channel="&#x60CA;&#x609A;&#x60AC;&#x7591;" start="20250820181500 +0800" stop="20250820195800 +0800">
 		<title lang="zh">毒战（普通话版）</title>
+	</programme><programme channel="&#x60CA;&#x609A;&#x60AC;&#x7591;" start="20250820195800 +0800" stop="20250820202800 +0800">
+		<title lang="zh">《八段锦》推荐第31期</title>
+	</programme><programme channel="&#x60CA;&#x609A;&#x60AC;&#x7591;" start="20250820202800 +0800" stop="20250820214300 +0800">
+		<title lang="zh">怪谈五命河</title>
 	</programme><channel id="&#x7CBE;&#x54C1;&#x4F53;&#x80B2;">
 		<display-name lang="zh">精品体育</display-name>
 	</channel><programme channel="&#x7CBE;&#x54C1;&#x4F53;&#x80B2;" start="20250820000000 +0800" stop="20250820001200 +0800">

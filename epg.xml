@@ -8285,6 +8285,10 @@
 		<title lang="zh">味道4K 原味乡间b7桐城篇</title>
 	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250820093800 +0800" stop="20250820100800 +0800">
 		<title lang="zh">味道4K 原味乡间b7攀枝花篇</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250820100800 +0800" stop="20250820104800 +0800">
+		<title lang="zh">探索b7发现4K 同德史前遗址发掘纪实</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250820104800 +0800" stop="20250820113800 +0800">
+		<title lang="zh">国家公园——万物共生之境4K 第3集 生命交响</title>
 	</programme><channel id="&#x775B;&#x5F69;&#x9752;&#x5C11;">
 		<display-name lang="zh">睛彩青少</display-name>
 	</channel><programme channel="&#x775B;&#x5F69;&#x9752;&#x5C11;" start="20250820000000 +0800" stop="20250820000100 +0800">
@@ -8595,6 +8599,8 @@
 		<title lang="zh">丢羊</title>
 	</programme><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20250820084500 +0800" stop="20250820100400 +0800">
 		<title lang="zh">七剑降魔传</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20250820100400 +0800" stop="20250820113900 +0800">
+		<title lang="zh">精灵闺蜜</title>
 	</programme><channel id="&#x9ED1;&#x8393;&#x52A8;&#x753B;">
 		<display-name lang="zh">黑莓动画</display-name>
 	</channel><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20250820000900 +0800" stop="20250820013100 +0800">
@@ -8611,6 +8617,8 @@
 		<title lang="zh">哆啦A梦：伴我同行</title>
 	</programme><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20250820090700 +0800" stop="20250820103600 +0800">
 		<title lang="zh">西游记之七十二变</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20250820103600 +0800" stop="20250820130400 +0800">
+		<title lang="zh">01_小人物 大历史</title>
 	</programme><channel id="&#x54D2;&#x5575;&#x8D5B;&#x4E8B;">
 		<display-name lang="zh">哒啵赛事</display-name>
 	</channel><programme channel="&#x54D2;&#x5575;&#x8D5B;&#x4E8B;" start="20250820000000 +0800" stop="20250820000400 +0800">
@@ -10009,6 +10017,10 @@
 		<title lang="zh">祛湿专题分享</title>
 	</programme><programme channel="&#x52A8;&#x4F5C;&#x7535;&#x5F71;" start="20250820075000 +0800" stop="20250820100800 +0800">
 		<title lang="zh">佣兵传奇</title>
+	</programme><programme channel="&#x52A8;&#x4F5C;&#x7535;&#x5F71;" start="20250820100800 +0800" stop="20250820104700 +0800">
+		<title lang="zh">祛湿专题分享</title>
+	</programme><programme channel="&#x52A8;&#x4F5C;&#x7535;&#x5F71;" start="20250820104700 +0800" stop="20250820120800 +0800">
+		<title lang="zh">人类削减计划</title>
 	</programme><channel id="&#x53E4;&#x88C5;&#x5267;&#x573A;">
 		<display-name lang="zh">古装剧场</display-name>
 	</channel><programme channel="&#x53E4;&#x88C5;&#x5267;&#x573A;" start="20250820000000 +0800" stop="20250820001500 +0800">
@@ -10179,6 +10191,10 @@
 		<title lang="zh">喋血外星人</title>
 	</programme><programme channel="&#x60CA;&#x609A;&#x60AC;&#x7591;" start="20250820084300 +0800" stop="20250820100600 +0800">
 		<title lang="zh">怪兽2:史前异种</title>
+	</programme><programme channel="&#x60CA;&#x609A;&#x60AC;&#x7591;" start="20250820100600 +0800" stop="20250820104600 +0800">
+		<title lang="zh">虾青素推广片4001087099</title>
+	</programme><programme channel="&#x60CA;&#x609A;&#x60AC;&#x7591;" start="20250820104600 +0800" stop="20250820115000 +0800">
+		<title lang="zh">铁甲狂猴之亡命雷霆</title>
 	</programme><channel id="&#x7CBE;&#x54C1;&#x4F53;&#x80B2;">
 		<display-name lang="zh">精品体育</display-name>
 	</channel><programme channel="&#x7CBE;&#x54C1;&#x4F53;&#x80B2;" start="20250820000000 +0800" stop="20250820001200 +0800">

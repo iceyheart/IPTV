@@ -2086,11 +2086,11 @@
 		<title lang="zh">妻子的谎言（9）</title>
 	</programme><programme channel="&#x4E1C;&#x65B9;&#x536B;&#x89C6;" start="20250821135800 +0800" stop="20250821144100 +0800">
 		<title lang="zh">妻子的谎言（10）</title>
-	</programme><programme channel="&#x4E1C;&#x65B9;&#x536B;&#x89C6;" start="20250821144100 +0800" stop="20250821152500 +0800">
+	</programme><programme channel="&#x4E1C;&#x65B9;&#x536B;&#x89C6;" start="20250821144100 +0800" stop="20250821152600 +0800">
 		<title lang="zh">妻子的谎言（11）</title>
-	</programme><programme channel="&#x4E1C;&#x65B9;&#x536B;&#x89C6;" start="20250821152500 +0800" stop="20250821160700 +0800">
+	</programme><programme channel="&#x4E1C;&#x65B9;&#x536B;&#x89C6;" start="20250821152600 +0800" stop="20250821160800 +0800">
 		<title lang="zh">妻子的谎言（12）</title>
-	</programme><programme channel="&#x4E1C;&#x65B9;&#x536B;&#x89C6;" start="20250821160700 +0800" stop="20250821164900 +0800">
+	</programme><programme channel="&#x4E1C;&#x65B9;&#x536B;&#x89C6;" start="20250821160800 +0800" stop="20250821164900 +0800">
 		<title lang="zh">妻子的谎言（13）</title>
 	</programme><programme channel="&#x4E1C;&#x65B9;&#x536B;&#x89C6;" start="20250821164900 +0800" stop="20250821170400 +0800">
 		<title lang="zh">妻子的谎言（14）</title>
@@ -8121,6 +8121,12 @@
 		<title lang="zh">味道4K 原味乡间b7铅山篇（下）</title>
 	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250821180500 +0800" stop="20250821184500 +0800">
 		<title lang="zh">探索b7发现4K 岭南早期文化探源（上）</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250821184500 +0800" stop="20250821193400 +0800">
+		<title lang="zh">国家公园——万物共生之境4K 第4集 回归之路</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250821193400 +0800" stop="20250821201600 +0800">
+		<title lang="zh">远方的家4K 我家那片海 渤海湾里的锦绣之地</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250821201600 +0800" stop="20250821205800 +0800">
+		<title lang="zh">远方的家4K 我家那片海 渤海之滨 多彩滨州</title>
 	</programme><channel id="&#x775B;&#x5F69;&#x9752;&#x5C11;">
 		<display-name lang="zh">睛彩青少</display-name>
 	</channel><programme channel="&#x775B;&#x5F69;&#x9752;&#x5C11;" start="20250821000000 +0800" stop="20250821000100 +0800">
@@ -8449,6 +8455,10 @@
 		<title lang="zh">特种兵归来4替身疑云</title>
 	</programme><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20250821162900 +0800" stop="20250821183700 +0800">
 		<title lang="zh">变形金刚：超能勇士崛起</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20250821183700 +0800" stop="20250821201800 +0800">
+		<title lang="zh">忍者神龟：变种时代</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20250821201800 +0800" stop="20250821221000 +0800">
+		<title lang="zh">温暖的抱抱</title>
 	</programme><channel id="&#x9ED1;&#x8393;&#x52A8;&#x753B;">
 		<display-name lang="zh">黑莓动画</display-name>
 	</channel><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20250821010500 +0800" stop="20250821022700 +0800">
@@ -8475,6 +8485,10 @@
 		<title lang="zh">名侦探柯南：纯黑的恶梦 中文版</title>
 	</programme><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20250821170100 +0800" stop="20250821183500 +0800">
 		<title lang="zh">计时引爆摩天楼 中文版</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20250821183500 +0800" stop="20250821195800 +0800">
+		<title lang="zh">淘气包马小跳</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20250821195800 +0800" stop="20250821210400 +0800">
+		<title lang="zh">角落小伙伴电影版 魔法绘本里的新朋友（普通话）</title>
 	</programme><channel id="&#x54D2;&#x5575;&#x8D5B;&#x4E8B;">
 		<display-name lang="zh">哒啵赛事</display-name>
 	</channel><programme channel="&#x54D2;&#x5575;&#x8D5B;&#x4E8B;" start="20250821000000 +0800" stop="20250821015200 +0800">
@@ -9841,6 +9855,12 @@
 		<title lang="zh">保罗麦克牛皮凉席</title>
 	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20250821173200 +0800" stop="20250821185300 +0800">
 		<title lang="zh">人生阔别</title>
+	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20250821185300 +0800" stop="20250821192300 +0800">
+		<title lang="zh">《八段锦》推荐第31期</title>
+	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20250821192300 +0800" stop="20250821200800 +0800">
+		<title lang="zh">02_香水佳人</title>
+	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20250821200800 +0800" stop="20250821205500 +0800">
+		<title lang="zh">03_香水佳人</title>
 	</programme><channel id="&#x52A8;&#x4F5C;&#x7535;&#x5F71;">
 		<display-name lang="zh">动作电影</display-name>
 	</channel><programme channel="&#x52A8;&#x4F5C;&#x7535;&#x5F71;" start="20250821002000 +0800" stop="20250821021000 +0800">
@@ -9873,6 +9893,10 @@
 		<title lang="zh">祛湿专题分享</title>
 	</programme><programme channel="&#x52A8;&#x4F5C;&#x7535;&#x5F71;" start="20250821173500 +0800" stop="20250821190100 +0800">
 		<title lang="zh">复仇计划</title>
+	</programme><programme channel="&#x52A8;&#x4F5C;&#x7535;&#x5F71;" start="20250821190100 +0800" stop="20250821193100 +0800">
+		<title lang="zh">《八段锦》推荐第31期</title>
+	</programme><programme channel="&#x52A8;&#x4F5C;&#x7535;&#x5F71;" start="20250821193100 +0800" stop="20250821210300 +0800">
+		<title lang="zh">独立日大电影</title>
 	</programme><channel id="&#x53E4;&#x88C5;&#x5267;&#x573A;">
 		<display-name lang="zh">古装剧场</display-name>
 	</channel><programme channel="&#x53E4;&#x88C5;&#x5267;&#x573A;" start="20250821000000 +0800" stop="20250821000900 +0800">
@@ -10053,6 +10077,12 @@
 		<title lang="zh">间谍同盟（普通话版）</title>
 	</programme><programme channel="&#x60CA;&#x609A;&#x60AC;&#x7591;" start="20250821165700 +0800" stop="20250821181900 +0800">
 		<title lang="zh">人类削减计划</title>
+	</programme><programme channel="&#x60CA;&#x609A;&#x60AC;&#x7591;" start="20250821181900 +0800" stop="20250821195300 +0800">
+		<title lang="zh">陆小凤传奇之幽灵山庄</title>
+	</programme><programme channel="&#x60CA;&#x609A;&#x60AC;&#x7591;" start="20250821195300 +0800" stop="20250821202300 +0800">
+		<title lang="zh">《八段锦》推荐第31期</title>
+	</programme><programme channel="&#x60CA;&#x609A;&#x60AC;&#x7591;" start="20250821202300 +0800" stop="20250821214800 +0800">
+		<title lang="zh">陆小凤传奇之绣花大盗</title>
 	</programme><channel id="&#x7CBE;&#x54C1;&#x4F53;&#x80B2;">
 		<display-name lang="zh">精品体育</display-name>
 	</channel><programme channel="&#x7CBE;&#x54C1;&#x4F53;&#x80B2;" start="20250821000000 +0800" stop="20250821002100 +0800">

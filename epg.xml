@@ -8127,6 +8127,14 @@
 		<title lang="zh">远方的家4K 我家那片海 渤海湾里的锦绣之地</title>
 	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250821201600 +0800" stop="20250821205800 +0800">
 		<title lang="zh">远方的家4K 我家那片海 渤海之滨 多彩滨州</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250821205800 +0800" stop="20250821210400 +0800">
+		<title lang="zh">美丽中国自然4K 河北系列 雪中湿地</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250821210900 +0800" stop="20250821211900 +0800">
+		<title lang="zh">秘境之眼4K 昆嵛山的夜行者</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250821211900 +0800" stop="20250821220800 +0800">
+		<title lang="zh">黄河之歌4K 第1集 黄河西来</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250821220800 +0800" stop="20250821225700 +0800">
+		<title lang="zh">往事如歌4K 第3集</title>
 	</programme><channel id="&#x775B;&#x5F69;&#x9752;&#x5C11;">
 		<display-name lang="zh">睛彩青少</display-name>
 	</channel><programme channel="&#x775B;&#x5F69;&#x9752;&#x5C11;" start="20250821000000 +0800" stop="20250821000100 +0800">
@@ -8459,6 +8467,8 @@
 		<title lang="zh">忍者神龟：变种时代</title>
 	</programme><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20250821201800 +0800" stop="20250821221000 +0800">
 		<title lang="zh">温暖的抱抱</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20250821221000 +0800" stop="20250821234500 +0800">
+		<title lang="zh">燕赤霞猎妖传</title>
 	</programme><channel id="&#x9ED1;&#x8393;&#x52A8;&#x753B;">
 		<display-name lang="zh">黑莓动画</display-name>
 	</channel><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20250821010500 +0800" stop="20250821022700 +0800">
@@ -8489,6 +8499,10 @@
 		<title lang="zh">淘气包马小跳</title>
 	</programme><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20250821195800 +0800" stop="20250821210400 +0800">
 		<title lang="zh">角落小伙伴电影版 魔法绘本里的新朋友（普通话）</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20250821210400 +0800" stop="20250821220800 +0800">
+		<title lang="zh">角落小伙伴电影版 蓝色月夜的魔法之子（普通话版）</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20250821220800 +0800" stop="20250821234600 +0800">
+		<title lang="zh">银魂最终篇</title>
 	</programme><channel id="&#x54D2;&#x5575;&#x8D5B;&#x4E8B;">
 		<display-name lang="zh">哒啵赛事</display-name>
 	</channel><programme channel="&#x54D2;&#x5575;&#x8D5B;&#x4E8B;" start="20250821000000 +0800" stop="20250821015200 +0800">
@@ -9861,6 +9875,12 @@
 		<title lang="zh">02_香水佳人</title>
 	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20250821200800 +0800" stop="20250821205500 +0800">
 		<title lang="zh">03_香水佳人</title>
+	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20250821205500 +0800" stop="20250821212500 +0800">
+		<title lang="zh">《八段锦》推荐第31期</title>
+	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20250821212500 +0800" stop="20250821221000 +0800">
+		<title lang="zh">04_香水佳人</title>
+	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20250821221000 +0800" stop="20250821225600 +0800">
+		<title lang="zh">05_香水佳人</title>
 	</programme><channel id="&#x52A8;&#x4F5C;&#x7535;&#x5F71;">
 		<display-name lang="zh">动作电影</display-name>
 	</channel><programme channel="&#x52A8;&#x4F5C;&#x7535;&#x5F71;" start="20250821002000 +0800" stop="20250821021000 +0800">
@@ -9897,6 +9917,10 @@
 		<title lang="zh">《八段锦》推荐第31期</title>
 	</programme><programme channel="&#x52A8;&#x4F5C;&#x7535;&#x5F71;" start="20250821193100 +0800" stop="20250821210300 +0800">
 		<title lang="zh">独立日大电影</title>
+	</programme><programme channel="&#x52A8;&#x4F5C;&#x7535;&#x5F71;" start="20250821210300 +0800" stop="20250821213300 +0800">
+		<title lang="zh">《八段锦》推荐第31期</title>
+	</programme><programme channel="&#x52A8;&#x4F5C;&#x7535;&#x5F71;" start="20250821213300 +0800" stop="20250821232200 +0800">
+		<title lang="zh">对抗</title>
 	</programme><channel id="&#x53E4;&#x88C5;&#x5267;&#x573A;">
 		<display-name lang="zh">古装剧场</display-name>
 	</channel><programme channel="&#x53E4;&#x88C5;&#x5267;&#x573A;" start="20250821000000 +0800" stop="20250821000900 +0800">
@@ -10083,6 +10107,8 @@
 		<title lang="zh">《八段锦》推荐第31期</title>
 	</programme><programme channel="&#x60CA;&#x609A;&#x60AC;&#x7591;" start="20250821202300 +0800" stop="20250821214800 +0800">
 		<title lang="zh">陆小凤传奇之绣花大盗</title>
+	</programme><programme channel="&#x60CA;&#x609A;&#x60AC;&#x7591;" start="20250821214800 +0800" stop="20250821221800 +0800">
+		<title lang="zh">《八段锦》推荐第31期</title>
 	</programme><channel id="&#x7CBE;&#x54C1;&#x4F53;&#x80B2;">
 		<display-name lang="zh">精品体育</display-name>
 	</channel><programme channel="&#x7CBE;&#x54C1;&#x4F53;&#x80B2;" start="20250821000000 +0800" stop="20250821002100 +0800">

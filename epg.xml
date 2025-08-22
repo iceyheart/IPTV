@@ -2180,9 +2180,9 @@
 		<title lang="zh">妻子的谎言（19）</title>
 	</programme><programme channel="&#x4E1C;&#x65B9;&#x536B;&#x89C6;" start="20250822164400 +0800" stop="20250822170500 +0800">
 		<title lang="zh">妻子的谎言（20）</title>
-	</programme><programme channel="&#x4E1C;&#x65B9;&#x536B;&#x89C6;" start="20250822170500 +0800" stop="20250822173100 +0800">
+	</programme><programme channel="&#x4E1C;&#x65B9;&#x536B;&#x89C6;" start="20250822170500 +0800" stop="20250822173200 +0800">
 		<title lang="zh">名医话养生（149）</title>
-	</programme><programme channel="&#x4E1C;&#x65B9;&#x536B;&#x89C6;" start="20250822173100 +0800" stop="20250822180000 +0800">
+	</programme><programme channel="&#x4E1C;&#x65B9;&#x536B;&#x89C6;" start="20250822173200 +0800" stop="20250822180000 +0800">
 		<title lang="zh">东方新娱乐</title>
 	</programme><programme channel="&#x4E1C;&#x65B9;&#x536B;&#x89C6;" start="20250822180000 +0800" stop="20250822185700 +0800">
 		<title lang="zh">东方新闻</title>
@@ -8432,6 +8432,12 @@
 		<title lang="zh">味道4K 穿街走巷b7丹棱篇</title>
 	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250822180900 +0800" stop="20250822184900 +0800">
 		<title lang="zh">探索b7发现4K 岭南早期文化探源（下）</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250822184900 +0800" stop="20250822193900 +0800">
+		<title lang="zh">国家公园——万物共生之境4K 第5集 万物生息</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250822193900 +0800" stop="20250822202100 +0800">
+		<title lang="zh">远方的家4K 我家那片海 活力滨海 创新潍坊</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250822202100 +0800" stop="20250822210200 +0800">
+		<title lang="zh">远方的家4K 我家那片海 海上仙山 幸福家园</title>
 	</programme><channel id="&#x775B;&#x5F69;&#x9752;&#x5C11;">
 		<display-name lang="zh">睛彩青少</display-name>
 	</channel><programme channel="&#x775B;&#x5F69;&#x9752;&#x5C11;" start="20250822000000 +0800" stop="20250822000100 +0800">
@@ -8750,6 +8756,10 @@
 		<title lang="zh">特种兵归来之绝地营救</title>
 	</programme><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20250822171100 +0800" stop="20250822184100 +0800">
 		<title lang="zh">大哥大</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20250822184100 +0800" stop="20250822202100 +0800">
+		<title lang="zh">忍者神龟：变种大乱斗</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20250822202100 +0800" stop="20250822222400 +0800">
+		<title lang="zh">暮光之城3：月食</title>
 	</programme><channel id="&#x9ED1;&#x8393;&#x52A8;&#x753B;">
 		<display-name lang="zh">黑莓动画</display-name>
 	</channel><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20250822011500 +0800" stop="20250822025300 +0800">
@@ -8774,6 +8784,10 @@
 		<title lang="zh">业火的向日葵 日语版</title>
 	</programme><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20250822164400 +0800" stop="20250822183200 +0800">
 		<title lang="zh">迷宫的十字路口 中文版</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20250822183200 +0800" stop="20250822195600 +0800">
+		<title lang="zh">虹猫蓝兔火凤凰</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20250822195600 +0800" stop="20250822210200 +0800">
+		<title lang="zh">狐妖小红娘b7月红2</title>
 	</programme><channel id="&#x54D2;&#x5575;&#x8D5B;&#x4E8B;">
 		<display-name lang="zh">哒啵赛事</display-name>
 	</channel><programme channel="&#x54D2;&#x5575;&#x8D5B;&#x4E8B;" start="20250822000000 +0800" stop="20250822000200 +0800">
@@ -10106,6 +10120,12 @@
 		<title lang="zh">保罗麦克牛皮凉席</title>
 	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20250822173100 +0800" stop="20250822185600 +0800">
 		<title lang="zh">柯克维尔的奇迹</title>
+	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20250822185600 +0800" stop="20250822192600 +0800">
+		<title lang="zh">《八段锦》推荐第31期</title>
+	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20250822192600 +0800" stop="20250822201100 +0800">
+		<title lang="zh">07_香水佳人</title>
+	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20250822201100 +0800" stop="20250822204100 +0800">
+		<title lang="zh">《八段锦》推荐第31期</title>
 	</programme><channel id="&#x52A8;&#x4F5C;&#x7535;&#x5F71;">
 		<display-name lang="zh">动作电影</display-name>
 	</channel><programme channel="&#x52A8;&#x4F5C;&#x7535;&#x5F71;" start="20250822001100 +0800" stop="20250822015100 +0800">
@@ -10138,6 +10158,10 @@
 		<title lang="zh">祛湿专题分享</title>
 	</programme><programme channel="&#x52A8;&#x4F5C;&#x7535;&#x5F71;" start="20250822172100 +0800" stop="20250822184300 +0800">
 		<title lang="zh">疯狂追击者</title>
+	</programme><programme channel="&#x52A8;&#x4F5C;&#x7535;&#x5F71;" start="20250822184300 +0800" stop="20250822191300 +0800">
+		<title lang="zh">《八段锦》推荐第31期</title>
+	</programme><programme channel="&#x52A8;&#x4F5C;&#x7535;&#x5F71;" start="20250822191300 +0800" stop="20250822205800 +0800">
+		<title lang="zh">鬼吹灯之南海归墟</title>
 	</programme><channel id="&#x53E4;&#x88C5;&#x5267;&#x573A;">
 		<display-name lang="zh">古装剧场</display-name>
 	</channel><programme channel="&#x53E4;&#x88C5;&#x5267;&#x573A;" start="20250822000000 +0800" stop="20250822003200 +0800">
@@ -10326,6 +10350,10 @@
 		<title lang="zh">星际迷航：暗黑无界</title>
 	</programme><programme channel="&#x60CA;&#x609A;&#x60AC;&#x7591;" start="20250822174200 +0800" stop="20250822190000 +0800">
 		<title lang="zh">恐龙侵袭</title>
+	</programme><programme channel="&#x60CA;&#x609A;&#x60AC;&#x7591;" start="20250822190000 +0800" stop="20250822193000 +0800">
+		<title lang="zh">《八段锦》推荐第31期</title>
+	</programme><programme channel="&#x60CA;&#x609A;&#x60AC;&#x7591;" start="20250822193000 +0800" stop="20250822213500 +0800">
+		<title lang="zh">雪国列车</title>
 	</programme><channel id="&#x7CBE;&#x54C1;&#x4F53;&#x80B2;">
 		<display-name lang="zh">精品体育</display-name>
 	</channel><programme channel="&#x7CBE;&#x54C1;&#x4F53;&#x80B2;" start="20250822000000 +0800" stop="20250822010800 +0800">

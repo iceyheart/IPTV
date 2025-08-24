@@ -8190,6 +8190,14 @@
 		<title lang="zh">秘境之眼4K 秘境江之源</title>
 	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250824131800 +0800" stop="20250824140700 +0800">
 		<title lang="zh">黄河之歌4K 第4集 大浪淘沙</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250824140700 +0800" stop="20250824145700 +0800">
+		<title lang="zh">曹雪芹与红楼梦4K 第3集 生于末世运偏消</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250824145700 +0800" stop="20250824151200 +0800">
+		<title lang="zh">艺术里的奥林匹克4K 江中泛舟图</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250824151200 +0800" stop="20250824154000 +0800">
+		<title lang="zh">好吃客4K 北京胡同</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250824154000 +0800" stop="20250824160400 +0800">
+		<title lang="zh">了不起的冬天4K 第4集 有“范儿”</title>
 	</programme><channel id="&#x775B;&#x5F69;&#x9752;&#x5C11;">
 		<display-name lang="zh">睛彩青少</display-name>
 	</channel><programme channel="&#x775B;&#x5F69;&#x9752;&#x5C11;" start="20250824000000 +0800" stop="20250824025000 +0800">
@@ -8506,6 +8514,8 @@
 		<title lang="zh">银翼的魔术师</title>
 	</programme><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20250824135000 +0800" stop="20250824151900 +0800">
 		<title lang="zh">七十七公里</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20250824151900 +0800" stop="20250824164300 +0800">
+		<title lang="zh">向阳农庄的罗曼史</title>
 	</programme><channel id="&#x9ED1;&#x8393;&#x52A8;&#x753B;">
 		<display-name lang="zh">黑莓动画</display-name>
 	</channel><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20250824005200 +0800" stop="20250824021400 +0800">
@@ -8528,6 +8538,10 @@
 		<title lang="zh">海绵宝宝：水兵陆战队</title>
 	</programme><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20250824130900 +0800" stop="20250824144100 +0800">
 		<title lang="zh">蜡笔小新：梦境世界大突击</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20250824144100 +0800" stop="20250824154700 +0800">
+		<title lang="zh">狐妖小红娘b7月红2</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20250824154700 +0800" stop="20250824173800 +0800">
+		<title lang="zh">名侦探柯南：纯黑的恶梦 中文版</title>
 	</programme><channel id="&#x54D2;&#x5575;&#x8D5B;&#x4E8B;">
 		<display-name lang="zh">哒啵赛事</display-name>
 	</channel><programme channel="&#x54D2;&#x5575;&#x8D5B;&#x4E8B;" start="20250824000000 +0800" stop="20250824000200 +0800">
@@ -9872,6 +9886,14 @@
 		<title lang="zh">38_爱的阶梯</title>
 	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20250824132300 +0800" stop="20250824140400 +0800">
 		<title lang="zh">39_爱的阶梯</title>
+	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20250824140400 +0800" stop="20250824143400 +0800">
+		<title lang="zh">睡眠专题分享</title>
+	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20250824143400 +0800" stop="20250824151200 +0800">
+		<title lang="zh">40_爱的阶梯</title>
+	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20250824151200 +0800" stop="20250824160100 +0800">
+		<title lang="zh">41_爱的阶梯</title>
+	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20250824160100 +0800" stop="20250824172800 +0800">
+		<title lang="zh">弥天之谎</title>
 	</programme><channel id="&#x52A8;&#x4F5C;&#x7535;&#x5F71;">
 		<display-name lang="zh">动作电影</display-name>
 	</channel><programme channel="&#x52A8;&#x4F5C;&#x7535;&#x5F71;" start="20250824003200 +0800" stop="20250824020900 +0800">
@@ -9900,6 +9922,10 @@
 		<title lang="zh">黑藤黑根俪缇植物黑发霜</title>
 	</programme><programme channel="&#x52A8;&#x4F5C;&#x7535;&#x5F71;" start="20250824134900 +0800" stop="20250824145500 +0800">
 		<title lang="zh">肇事者</title>
+	</programme><programme channel="&#x52A8;&#x4F5C;&#x7535;&#x5F71;" start="20250824145500 +0800" stop="20250824153400 +0800">
+		<title lang="zh">祛湿专题分享</title>
+	</programme><programme channel="&#x52A8;&#x4F5C;&#x7535;&#x5F71;" start="20250824153400 +0800" stop="20250824172500 +0800">
+		<title lang="zh">一个好人</title>
 	</programme><channel id="&#x53E4;&#x88C5;&#x5267;&#x573A;">
 		<display-name lang="zh">古装剧场</display-name>
 	</channel><programme channel="&#x53E4;&#x88C5;&#x5267;&#x573A;" start="20250824000000 +0800" stop="20250824000900 +0800">
@@ -10082,6 +10108,8 @@
 		<title lang="zh">扫毒3：人在天涯</title>
 	</programme><programme channel="&#x60CA;&#x609A;&#x60AC;&#x7591;" start="20250824134400 +0800" stop="20250824150300 +0800">
 		<title lang="zh">沙鹰行动</title>
+	</programme><programme channel="&#x60CA;&#x609A;&#x60AC;&#x7591;" start="20250824150300 +0800" stop="20250824162400 +0800">
+		<title lang="zh">锦衣之下之血滴子</title>
 	</programme><channel id="&#x7CBE;&#x54C1;&#x4F53;&#x80B2;">
 		<display-name lang="zh">精品体育</display-name>
 	</channel><programme channel="&#x7CBE;&#x54C1;&#x4F53;&#x80B2;" start="20250824000000 +0800" stop="20250824005500 +0800">

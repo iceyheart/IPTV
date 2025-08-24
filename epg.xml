@@ -7436,12 +7436,20 @@
 		<title lang="zh">如果国宝会说话 第一季4K 殷墟嵌绿松石甲骨：刻辞骨柶</title>
 	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250825033600 +0800" stop="20250825041800 +0800">
 		<title lang="zh">远方的家4K 我家那片海 扬帆起航 走向深蓝</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250825041800 +0800" stop="20250825050000 +0800">
+		<title lang="zh">远方的家4K 我家那片海 海洋科技汇聚蓝谷</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250825051000 +0800" stop="20250825052000 +0800">
+		<title lang="zh">秘境之眼4K 岷山秘岭</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250825052000 +0800" stop="20250825060900 +0800">
+		<title lang="zh">黄河之歌4K 第5集 惊涛拍岸</title>
 	</programme><channel id="&#x9ED1;&#x8393;&#x7535;&#x5F71;">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20250825003400 +0800" stop="20250825023700 +0800">
 		<title lang="zh">一次别离</title>
 	</programme><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20250825023700 +0800" stop="20250825044800 +0800">
 		<title lang="zh">哥斯拉2：怪兽之王</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20250825044800 +0800" stop="20250825062000 +0800">
+		<title lang="zh">举起手来2：追击阿多丸号</title>
 	</programme><channel id="&#x9ED1;&#x8393;&#x52A8;&#x753B;">
 		<display-name lang="zh">黑莓动画</display-name>
 	</channel><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20250825010800 +0800" stop="20250825023600 +0800">
@@ -7450,6 +7458,8 @@
 		<title lang="zh">西行纪之穷奇地洞</title>
 	</programme><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20250825035400 +0800" stop="20250825052100 +0800">
 		<title lang="zh">棉球方块历险记</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20250825052100 +0800" stop="20250825065100 +0800">
+		<title lang="zh">摩登森林之美食总动员</title>
 	</programme><channel id="&#x91D1;&#x9E70;&#x5361;&#x901A;">
 		<display-name lang="zh">金鹰卡通</display-name>
 	</channel><programme channel="&#x91D1;&#x9E70;&#x5361;&#x901A;" start="20250825000000 +0800" stop="20250825032000 +0800">

@@ -8174,6 +8174,14 @@
 		<title lang="zh">味道4K 原味乡间b7永新篇（上）</title>
 	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250824093600 +0800" stop="20250824100500 +0800">
 		<title lang="zh">味道4K 原味乡间b7永新篇（下）</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250824100500 +0800" stop="20250824104500 +0800">
+		<title lang="zh">探索b7发现4K 邯郸后百家北墓地</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250824104500 +0800" stop="20250824113000 +0800">
+		<title lang="zh">传承b7智慧篇4K 第2集 时光之鉴</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250824113000 +0800" stop="20250824113500 +0800">
+		<title lang="zh">如果国宝会说话 第一季4K 妇好玉凤：凤凰传奇</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250824113500 +0800" stop="20250824121700 +0800">
+		<title lang="zh">远方的家4K 我家那片海 威海：尽享海滨新生活</title>
 	</programme><channel id="&#x775B;&#x5F69;&#x9752;&#x5C11;">
 		<display-name lang="zh">睛彩青少</display-name>
 	</channel><programme channel="&#x775B;&#x5F69;&#x9752;&#x5C11;" start="20250824000000 +0800" stop="20250824025000 +0800">
@@ -8484,6 +8492,10 @@
 		<title lang="zh">公路美人</title>
 	</programme><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20250824090200 +0800" stop="20250824103400 +0800">
 		<title lang="zh">为了明天升起的太阳</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20250824103400 +0800" stop="20250824120200 +0800">
+		<title lang="zh">一路不消停</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20250824120200 +0800" stop="20250824135000 +0800">
+		<title lang="zh">银翼的魔术师</title>
 	</programme><channel id="&#x9ED1;&#x8393;&#x52A8;&#x753B;">
 		<display-name lang="zh">黑莓动画</display-name>
 	</channel><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20250824005200 +0800" stop="20250824021400 +0800">
@@ -8500,6 +8512,10 @@
 		<title lang="zh">虹猫蓝兔火凤凰</title>
 	</programme><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20250824092200 +0800" stop="20250824105000 +0800">
 		<title lang="zh">太空勇狗队</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20250824105000 +0800" stop="20250824114000 +0800">
+		<title lang="zh">01_超级火箭发动机</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20250824114000 +0800" stop="20250824130900 +0800">
+		<title lang="zh">海绵宝宝：水兵陆战队</title>
 	</programme><channel id="&#x54D2;&#x5575;&#x8D5B;&#x4E8B;">
 		<display-name lang="zh">哒啵赛事</display-name>
 	</channel><programme channel="&#x54D2;&#x5575;&#x8D5B;&#x4E8B;" start="20250824000000 +0800" stop="20250824000200 +0800">
@@ -9836,6 +9852,12 @@
 		<title lang="zh">黑藤黑根俪缇植物黑发霜</title>
 	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20250824090800 +0800" stop="20250824105900 +0800">
 		<title lang="zh">人生阔别</title>
+	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20250824105900 +0800" stop="20250824114200 +0800">
+		<title lang="zh">37_爱的阶梯</title>
+	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20250824114200 +0800" stop="20250824121200 +0800">
+		<title lang="zh">虾青素推广片4001087099</title>
+	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20250824121200 +0800" stop="20250824132300 +0800">
+		<title lang="zh">38_爱的阶梯</title>
 	</programme><channel id="&#x52A8;&#x4F5C;&#x7535;&#x5F71;">
 		<display-name lang="zh">动作电影</display-name>
 	</channel><programme channel="&#x52A8;&#x4F5C;&#x7535;&#x5F71;" start="20250824003200 +0800" stop="20250824020900 +0800">
@@ -9856,6 +9878,10 @@
 		<title lang="zh">祛湿专题分享</title>
 	</programme><programme channel="&#x52A8;&#x4F5C;&#x7535;&#x5F71;" start="20250824094300 +0800" stop="20250824110700 +0800">
 		<title lang="zh">大狂蜂：起源</title>
+	</programme><programme channel="&#x52A8;&#x4F5C;&#x7535;&#x5F71;" start="20250824110700 +0800" stop="20250824113700 +0800">
+		<title lang="zh">宝岛台湾高粱酒</title>
+	</programme><programme channel="&#x52A8;&#x4F5C;&#x7535;&#x5F71;" start="20250824113700 +0800" stop="20250824132000 +0800">
+		<title lang="zh">极地追击</title>
 	</programme><channel id="&#x53E4;&#x88C5;&#x5267;&#x573A;">
 		<display-name lang="zh">古装剧场</display-name>
 	</channel><programme channel="&#x53E4;&#x88C5;&#x5267;&#x573A;" start="20250824000000 +0800" stop="20250824000900 +0800">
@@ -10030,6 +10056,12 @@
 		<title lang="zh">杀机四伏</title>
 	</programme><programme channel="&#x60CA;&#x609A;&#x60AC;&#x7591;" start="20250824091700 +0800" stop="20250824102900 +0800">
 		<title lang="zh">逃出无人岛</title>
+	</programme><programme channel="&#x60CA;&#x609A;&#x60AC;&#x7591;" start="20250824102900 +0800" stop="20250824110900 +0800">
+		<title lang="zh">虾青素推广片4001087099</title>
+	</programme><programme channel="&#x60CA;&#x609A;&#x60AC;&#x7591;" start="20250824110900 +0800" stop="20250824113900 +0800">
+		<title lang="zh">宝岛台湾高粱酒</title>
+	</programme><programme channel="&#x60CA;&#x609A;&#x60AC;&#x7591;" start="20250824113900 +0800" stop="20250824134400 +0800">
+		<title lang="zh">扫毒3：人在天涯</title>
 	</programme><channel id="&#x7CBE;&#x54C1;&#x4F53;&#x80B2;">
 		<display-name lang="zh">精品体育</display-name>
 	</channel><programme channel="&#x7CBE;&#x54C1;&#x4F53;&#x80B2;" start="20250824000000 +0800" stop="20250824005500 +0800">

@@ -8272,6 +8272,10 @@
 		<title lang="zh">远方的家4K 我家那片海 威海：尽享海滨新生活</title>
 	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250824201400 +0800" stop="20250824205600 +0800">
 		<title lang="zh">远方的家4K 我家那片海 山海之间 魅力青岛</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250824210100 +0800" stop="20250824210600 +0800">
+		<title lang="zh">美丽中国自然4K 三江源系列 高原湿地</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250824211600 +0800" stop="20250824220500 +0800">
+		<title lang="zh">黄河之歌4K 第4集 大浪淘沙</title>
 	</programme><channel id="&#x775B;&#x5F69;&#x9752;&#x5C11;">
 		<display-name lang="zh">睛彩青少</display-name>
 	</channel><programme channel="&#x775B;&#x5F69;&#x9752;&#x5C11;" start="20250824000000 +0800" stop="20250824025000 +0800">
@@ -8594,6 +8598,8 @@
 		<title lang="zh">刑警兄弟</title>
 	</programme><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20250824181600 +0800" stop="20250824204500 +0800">
 		<title lang="zh">变形金刚2</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20250824204500 +0800" stop="20250824223700 +0800">
+		<title lang="zh">南方车站的聚会</title>
 	</programme><channel id="&#x9ED1;&#x8393;&#x52A8;&#x753B;">
 		<display-name lang="zh">黑莓动画</display-name>
 	</channel><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20250824005200 +0800" stop="20250824021400 +0800">
@@ -8626,6 +8632,8 @@
 		<title lang="zh">计时引爆摩天楼 中文版</title>
 	</programme><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20250824195700 +0800" stop="20250824212000 +0800">
 		<title lang="zh">淘气包马小跳</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20250824212000 +0800" stop="20250824222600 +0800">
+		<title lang="zh">角落小伙伴电影版 魔法绘本里的新朋友（普通话）</title>
 	</programme><channel id="&#x54D2;&#x5575;&#x8D5B;&#x4E8B;">
 		<display-name lang="zh">哒啵赛事</display-name>
 	</channel><programme channel="&#x54D2;&#x5575;&#x8D5B;&#x4E8B;" start="20250824000000 +0800" stop="20250824000200 +0800">
@@ -9988,6 +9996,12 @@
 		<title lang="zh">18_香水佳人</title>
 	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20250824195900 +0800" stop="20250824204500 +0800">
 		<title lang="zh">19_香水佳人</title>
+	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20250824204500 +0800" stop="20250824211500 +0800">
+		<title lang="zh">《八段锦》推荐第32期</title>
+	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20250824211500 +0800" stop="20250824220000 +0800">
+		<title lang="zh">20_香水佳人</title>
+	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20250824220000 +0800" stop="20250824224600 +0800">
+		<title lang="zh">21_香水佳人</title>
 	</programme><channel id="&#x52A8;&#x4F5C;&#x7535;&#x5F71;">
 		<display-name lang="zh">动作电影</display-name>
 	</channel><programme channel="&#x52A8;&#x4F5C;&#x7535;&#x5F71;" start="20250824003200 +0800" stop="20250824020900 +0800">
@@ -10028,6 +10042,10 @@
 		<title lang="zh">《八段锦》推荐第32期</title>
 	</programme><programme channel="&#x52A8;&#x4F5C;&#x7535;&#x5F71;" start="20250824200400 +0800" stop="20250824211900 +0800">
 		<title lang="zh">铁血：生死隧战</title>
+	</programme><programme channel="&#x52A8;&#x4F5C;&#x7535;&#x5F71;" start="20250824211900 +0800" stop="20250824214900 +0800">
+		<title lang="zh">《八段锦》推荐第32期</title>
+	</programme><programme channel="&#x52A8;&#x4F5C;&#x7535;&#x5F71;" start="20250824214900 +0800" stop="20250824231700 +0800">
+		<title lang="zh">特别追踪</title>
 	</programme><channel id="&#x53E4;&#x88C5;&#x5267;&#x573A;">
 		<display-name lang="zh">古装剧场</display-name>
 	</channel><programme channel="&#x53E4;&#x88C5;&#x5267;&#x573A;" start="20250824000000 +0800" stop="20250824000900 +0800">

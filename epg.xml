@@ -7523,6 +7523,10 @@
 		<title lang="zh">远方的家4K 我家那片海 多面即墨的惬意生活</title>
 	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250826041200 +0800" stop="20250826045400 +0800">
 		<title lang="zh">远方的家4K 我家那片海 日照：耕海牧渔喜丰收</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250826045900 +0800" stop="20250826050400 +0800">
+		<title lang="zh">美丽中国自然4K 三江源系列 高原游侠</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250826051400 +0800" stop="20250826060400 +0800">
+		<title lang="zh">黄河之歌4K 第6集 海晏河清</title>
 	</programme><channel id="&#x9ED1;&#x8393;&#x7535;&#x5F71;">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20250826002300 +0800" stop="20250826014600 +0800">
@@ -7531,6 +7535,8 @@
 		<title lang="zh">修复生命</title>
 	</programme><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20250826031800 +0800" stop="20250826044900 +0800">
 		<title lang="zh">勇敢新泽西</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20250826044900 +0800" stop="20250826061000 +0800">
+		<title lang="zh">书写人生</title>
 	</programme><channel id="&#x9ED1;&#x8393;&#x52A8;&#x753B;">
 		<display-name lang="zh">黑莓动画</display-name>
 	</channel><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20250826002700 +0800" stop="20250826015500 +0800">
@@ -7539,6 +7545,8 @@
 		<title lang="zh">西行纪之穷奇地洞</title>
 	</programme><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20250826031300 +0800" stop="20250826044100 +0800">
 		<title lang="zh">棉球方块历险记</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20250826044100 +0800" stop="20250826061000 +0800">
+		<title lang="zh">摩登森林之美食总动员</title>
 	</programme><channel id="&#x91D1;&#x9E70;&#x5361;&#x901A;">
 		<display-name lang="zh">金鹰卡通</display-name>
 	</channel><programme channel="&#x91D1;&#x9E70;&#x5361;&#x901A;" start="20250826000000 +0800" stop="20250826032000 +0800">

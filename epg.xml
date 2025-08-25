@@ -3800,14 +3800,12 @@
 		<title lang="zh">转播：新闻联播</title>
 	</programme><programme channel="&#x5E7F;&#x897F;&#x536B;&#x89C6;" start="20250825193500 +0800" stop="20250825201800 +0800">
 		<title lang="zh">美丽剧场30集：亮剑(10)</title>
-	</programme><programme channel="&#x5E7F;&#x897F;&#x536B;&#x89C6;" start="20250825201800 +0800" stop="20250825202500 +0800">
+	</programme><programme channel="&#x5E7F;&#x897F;&#x536B;&#x89C6;" start="20250825201800 +0800" stop="20250825203000 +0800">
 		<title lang="zh">广西海洋天气预报</title>
-	</programme><programme channel="&#x5E7F;&#x897F;&#x536B;&#x89C6;" start="20250825202500 +0800" stop="20250825212000 +0800">
-		<title lang="zh">美丽剧场30集：亮剑(11)</title>
-	</programme><programme channel="&#x5E7F;&#x897F;&#x536B;&#x89C6;" start="20250825212000 +0800" stop="20250825215000 +0800">
+	</programme><programme channel="&#x5E7F;&#x897F;&#x536B;&#x89C6;" start="20250825203000 +0800" stop="20250825214500 +0800">
+		<title lang="zh">首播：《2025“八桂楷模”发布会》</title>
+	</programme><programme channel="&#x5E7F;&#x897F;&#x536B;&#x89C6;" start="20250825214500 +0800" stop="20250825223500 +0800">
 		<title lang="zh">首播：遇见好书</title>
-	</programme><programme channel="&#x5E7F;&#x897F;&#x536B;&#x89C6;" start="20250825215000 +0800" stop="20250825223500 +0800">
-		<title lang="zh">百寿探秘（精编版）</title>
 	</programme><programme channel="&#x5E7F;&#x897F;&#x536B;&#x89C6;" start="20250825223500 +0800" stop="20250825233000 +0800">
 		<title lang="zh">传奇剧场41集：地道战(9)</title>
 	</programme><programme channel="&#x5E7F;&#x897F;&#x536B;&#x89C6;" start="20250825233000 +0800" stop="20250825235900 +0800">
@@ -8394,6 +8392,14 @@
 		<title lang="zh">味道4K 原味乡间b7萧县篇（下）</title>
 	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250825180200 +0800" stop="20250825184200 +0800">
 		<title lang="zh">探索b7发现4K 探秘河套人</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250825184200 +0800" stop="20250825192700 +0800">
+		<title lang="zh">传承b7智慧篇4K 第3集 配比之妙</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250825192700 +0800" stop="20250825193200 +0800">
+		<title lang="zh">如果国宝会说话 第一季4K 鸮尊：一只猫头鹰的待遇</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250825193700 +0800" stop="20250825201900 +0800">
+		<title lang="zh">远方的家4K 我家那片海 扬帆起航 走向深蓝</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250825201900 +0800" stop="20250825210100 +0800">
+		<title lang="zh">远方的家4K 我家那片海 海洋科技汇聚蓝谷</title>
 	</programme><channel id="&#x775B;&#x5F69;&#x9752;&#x5C11;">
 		<display-name lang="zh">睛彩青少</display-name>
 	</channel><programme channel="&#x775B;&#x5F69;&#x9752;&#x5C11;" start="20250825000000 +0800" stop="20250825015000 +0800">
@@ -8720,6 +8726,8 @@
 		<title lang="zh">嗝嗝老师</title>
 	</programme><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20250825165600 +0800" stop="20250825183400 +0800">
 		<title lang="zh">哈佛少女的快乐清单</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20250825183400 +0800" stop="20250825210800 +0800">
+		<title lang="zh">变形金刚3</title>
 	</programme><channel id="&#x9ED1;&#x8393;&#x52A8;&#x753B;">
 		<display-name lang="zh">黑莓动画</display-name>
 	</channel><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20250825010800 +0800" stop="20250825023600 +0800">
@@ -8748,6 +8756,10 @@
 		<title lang="zh">海绵宝宝：水兵陆战队</title>
 	</programme><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20250825173600 +0800" stop="20250825182600 +0800">
 		<title lang="zh">06_田</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20250825182600 +0800" stop="20250825195200 +0800">
+		<title lang="zh">汪汪队立大功大电影（普通话版）</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20250825195200 +0800" stop="20250825212900 +0800">
+		<title lang="zh">银魂最终篇</title>
 	</programme><channel id="&#x54D2;&#x5575;&#x8D5B;&#x4E8B;">
 		<display-name lang="zh">哒啵赛事</display-name>
 	</channel><programme channel="&#x54D2;&#x5575;&#x8D5B;&#x4E8B;" start="20250825000000 +0800" stop="20250825015300 +0800">
@@ -10176,6 +10188,12 @@
 		<title lang="zh">AMOS钛多功能电饭煲惠选款（新）-渠道（右）</title>
 	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20250825180300 +0800" stop="20250825184900 +0800">
 		<title lang="zh">25_香水佳人</title>
+	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20250825184900 +0800" stop="20250825193700 +0800">
+		<title lang="zh">AMOS钛多功能电饭煲惠选款（新）-渠道（右）</title>
+	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20250825193700 +0800" stop="20250825202200 +0800">
+		<title lang="zh">26_香水佳人</title>
+	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20250825202200 +0800" stop="20250825211100 +0800">
+		<title lang="zh">自然之臻阿拉善冬季荒漠肉苁蓉100%纯原浆-渠道（右）</title>
 	</programme><channel id="&#x52A8;&#x4F5C;&#x7535;&#x5F71;">
 		<display-name lang="zh">动作电影</display-name>
 	</channel><programme channel="&#x52A8;&#x4F5C;&#x7535;&#x5F71;" start="20250825000600 +0800" stop="20250825010900 +0800">
@@ -10208,6 +10226,10 @@
 		<title lang="zh">HENGSH恒适艾灸按摩床垫-渠道（右）</title>
 	</programme><programme channel="&#x52A8;&#x4F5C;&#x7535;&#x5F71;" start="20250825180500 +0800" stop="20250825191600 +0800">
 		<title lang="zh">猎枭行动</title>
+	</programme><programme channel="&#x52A8;&#x4F5C;&#x7535;&#x5F71;" start="20250825191600 +0800" stop="20250825201200 +0800">
+		<title lang="zh">美康利健心血通激光治疗仪升级款-渠道（右）</title>
+	</programme><programme channel="&#x52A8;&#x4F5C;&#x7535;&#x5F71;" start="20250825201200 +0800" stop="20250825213700 +0800">
+		<title lang="zh">非常营救</title>
 	</programme><channel id="&#x53E4;&#x88C5;&#x5267;&#x573A;">
 		<display-name lang="zh">古装剧场</display-name>
 	</channel><programme channel="&#x53E4;&#x88C5;&#x5267;&#x573A;" start="20250825000000 +0800" stop="20250825002400 +0800">
@@ -10414,6 +10436,10 @@
 		<title lang="zh">重案行动之连环凶杀（普通话版）</title>
 	</programme><programme channel="&#x60CA;&#x609A;&#x60AC;&#x7591;" start="20250825172600 +0800" stop="20250825192400 +0800">
 		<title lang="zh">间谍同盟（普通话版）</title>
+	</programme><programme channel="&#x60CA;&#x609A;&#x60AC;&#x7591;" start="20250825192400 +0800" stop="20250825201200 +0800">
+		<title lang="zh">AMOS钛多功能电饭煲惠选款（新）-渠道（右）</title>
+	</programme><programme channel="&#x60CA;&#x609A;&#x60AC;&#x7591;" start="20250825201200 +0800" stop="20250825213400 +0800">
+		<title lang="zh">人类削减计划</title>
 	</programme><channel id="&#x7CBE;&#x54C1;&#x4F53;&#x80B2;">
 		<display-name lang="zh">精品体育</display-name>
 	</channel><programme channel="&#x7CBE;&#x54C1;&#x4F53;&#x80B2;" start="20250825000000 +0800" stop="20250825004200 +0800">

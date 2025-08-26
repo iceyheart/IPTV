@@ -8269,6 +8269,8 @@
 		<title lang="zh">味道4K 我的家乡菜b7瑞昌篇</title>
 	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250826093900 +0800" stop="20250826100900 +0800">
 		<title lang="zh">味道4K 我的家乡菜b7绵阳篇</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250826100900 +0800" stop="20250826104900 +0800">
+		<title lang="zh">探索b7发现4K 寻找漏卧侯</title>
 	</programme><channel id="&#x775B;&#x5F69;&#x9752;&#x5C11;">
 		<display-name lang="zh">睛彩青少</display-name>
 	</channel><programme channel="&#x775B;&#x5F69;&#x9752;&#x5C11;" start="20250826000000 +0800" stop="20250826000100 +0800">
@@ -8599,6 +8601,8 @@
 		<title lang="zh">冒牌大哥</title>
 	</programme><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20250826081300 +0800" stop="20250826094700 +0800">
 		<title lang="zh">你若安好</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20250826094700 +0800" stop="20250826112600 +0800">
+		<title lang="zh">全职高手之巅峰荣耀</title>
 	</programme><channel id="&#x9ED1;&#x8393;&#x52A8;&#x753B;">
 		<display-name lang="zh">黑莓动画</display-name>
 	</channel><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20250826002700 +0800" stop="20250826015500 +0800">
@@ -8615,6 +8619,8 @@
 		<title lang="zh">神奇乐园历险记（普通话版）</title>
 	</programme><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20250826090300 +0800" stop="20250826103100 +0800">
 		<title lang="zh">太空神鹰</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20250826103100 +0800" stop="20250826115400 +0800">
+		<title lang="zh">淘气包马小跳</title>
 	</programme><channel id="&#x54D2;&#x5575;&#x8D5B;&#x4E8B;">
 		<display-name lang="zh">哒啵赛事</display-name>
 	</channel><programme channel="&#x54D2;&#x5575;&#x8D5B;&#x4E8B;" start="20250826000000 +0800" stop="20250826000200 +0800">
@@ -9863,6 +9869,10 @@
 		<title lang="zh">49_爱的阶梯</title>
 	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20250826090000 +0800" stop="20250826094900 +0800">
 		<title lang="zh">美康利健激光前列腺治疗仪-渠道（右）</title>
+	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20250826094900 +0800" stop="20250826102900 +0800">
+		<title lang="zh">50_爱的阶梯</title>
+	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20250826102900 +0800" stop="20250826110800 +0800">
+		<title lang="zh">51_爱的阶梯</title>
 	</programme><channel id="&#x52A8;&#x4F5C;&#x7535;&#x5F71;">
 		<display-name lang="zh">动作电影</display-name>
 	</channel><programme channel="&#x52A8;&#x4F5C;&#x7535;&#x5F71;" start="20250826003600 +0800" stop="20250826013800 +0800">
@@ -9879,6 +9889,8 @@
 		<title lang="zh">零点定理</title>
 	</programme><programme channel="&#x52A8;&#x4F5C;&#x7535;&#x5F71;" start="20250826083000 +0800" stop="20250826101800 +0800">
 		<title lang="zh">上海王</title>
+	</programme><programme channel="&#x52A8;&#x4F5C;&#x7535;&#x5F71;" start="20250826101800 +0800" stop="20250826105300 +0800">
+		<title lang="zh">美国云杉新一代强力PPC结节通-渠道（右）</title>
 	</programme><channel id="&#x53E4;&#x88C5;&#x5267;&#x573A;">
 		<display-name lang="zh">古装剧场</display-name>
 	</channel><programme channel="&#x53E4;&#x88C5;&#x5267;&#x573A;" start="20250826000000 +0800" stop="20250826000200 +0800">
@@ -10073,6 +10085,8 @@
 		<title lang="zh">终结者：黑暗命运</title>
 	</programme><programme channel="&#x60CA;&#x609A;&#x60AC;&#x7591;" start="20250826090900 +0800" stop="20250826095800 +0800">
 		<title lang="zh">美康利健激光前列腺治疗仪-渠道（右）</title>
+	</programme><programme channel="&#x60CA;&#x609A;&#x60AC;&#x7591;" start="20250826095800 +0800" stop="20250826113400 +0800">
+		<title lang="zh">皇牌空战</title>
 	</programme><channel id="&#x7CBE;&#x54C1;&#x4F53;&#x80B2;">
 		<display-name lang="zh">精品体育</display-name>
 	</channel><programme channel="&#x7CBE;&#x54C1;&#x4F53;&#x80B2;" start="20250826000000 +0800" stop="20250826001300 +0800">

@@ -8331,6 +8331,12 @@
 		<title lang="zh">味道4K 我的家乡菜b7绵阳篇</title>
 	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250826181300 +0800" stop="20250826185300 +0800">
 		<title lang="zh">探索b7发现4K 寻找漏卧侯</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250826185300 +0800" stop="20250826193800 +0800">
+		<title lang="zh">传承b7智慧篇4K 第4集 火候之彩</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250826193800 +0800" stop="20250826202000 +0800">
+		<title lang="zh">远方的家4K 我家那片海 多面即墨的惬意生活</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250826202000 +0800" stop="20250826210200 +0800">
+		<title lang="zh">远方的家4K 我家那片海 日照：耕海牧渔喜丰收</title>
 	</programme><channel id="&#x775B;&#x5F69;&#x9752;&#x5C11;">
 		<display-name lang="zh">睛彩青少</display-name>
 	</channel><programme channel="&#x775B;&#x5F69;&#x9752;&#x5C11;" start="20250826000000 +0800" stop="20250826000100 +0800">
@@ -8673,6 +8679,8 @@
 		<title lang="zh">信者</title>
 	</programme><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20250826171800 +0800" stop="20250826195600 +0800">
 		<title lang="zh">变形金刚4：绝迹重生</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20250826195600 +0800" stop="20250826215000 +0800">
+		<title lang="zh">亲爱的新年好</title>
 	</programme><channel id="&#x9ED1;&#x8393;&#x52A8;&#x753B;">
 		<display-name lang="zh">黑莓动画</display-name>
 	</channel><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20250826002700 +0800" stop="20250826015500 +0800">
@@ -8701,6 +8709,10 @@
 		<title lang="zh">虹猫蓝兔火凤凰</title>
 	</programme><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20250826172000 +0800" stop="20250826184800 +0800">
 		<title lang="zh">海绵宝宝：水兵陆战队</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20250826184800 +0800" stop="20250826201400 +0800">
+		<title lang="zh">汪汪队立大功大电影（普通话版）</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20250826201400 +0800" stop="20250826204900 +0800">
+		<title lang="zh">西游记之七十二变</title>
 	</programme><channel id="&#x54D2;&#x5575;&#x8D5B;&#x4E8B;">
 		<display-name lang="zh">哒啵赛事</display-name>
 	</channel><programme channel="&#x54D2;&#x5575;&#x8D5B;&#x4E8B;" start="20250826000000 +0800" stop="20250826000200 +0800">
@@ -9971,6 +9983,10 @@
 		<title lang="zh">30_香水佳人</title>
 	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20250826181100 +0800" stop="20250826185600 +0800">
 		<title lang="zh">01_独爱一生</title>
+	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20250826185600 +0800" stop="20250826194400 +0800">
+		<title lang="zh">AMOS钛多功能电饭煲惠选款（新）-渠道（右）</title>
+	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20250826194400 +0800" stop="20250826212900 +0800">
+		<title lang="zh">真爱之书</title>
 	</programme><channel id="&#x52A8;&#x4F5C;&#x7535;&#x5F71;">
 		<display-name lang="zh">动作电影</display-name>
 	</channel><programme channel="&#x52A8;&#x4F5C;&#x7535;&#x5F71;" start="20250826003600 +0800" stop="20250826013800 +0800">
@@ -10001,6 +10017,10 @@
 		<title lang="zh">HENGSH恒适艾灸按摩床垫-渠道（右）</title>
 	</programme><programme channel="&#x52A8;&#x4F5C;&#x7535;&#x5F71;" start="20250826165900 +0800" stop="20250826183000 +0800">
 		<title lang="zh">全境警戒</title>
+	</programme><programme channel="&#x52A8;&#x4F5C;&#x7535;&#x5F71;" start="20250826183000 +0800" stop="20250826192600 +0800">
+		<title lang="zh">美康利健心血通激光治疗仪升级款-渠道（右）</title>
+	</programme><programme channel="&#x52A8;&#x4F5C;&#x7535;&#x5F71;" start="20250826192600 +0800" stop="20250826210000 +0800">
+		<title lang="zh">卧虎悍将</title>
 	</programme><channel id="&#x53E4;&#x88C5;&#x5267;&#x573A;">
 		<display-name lang="zh">古装剧场</display-name>
 	</channel><programme channel="&#x53E4;&#x88C5;&#x5267;&#x573A;" start="20250826000000 +0800" stop="20250826000200 +0800">
@@ -10209,6 +10229,10 @@
 		<title lang="zh">Healthwow100%南极磷虾油高吸收尊贵组-渠道（右）</title>
 	</programme><programme channel="&#x60CA;&#x609A;&#x60AC;&#x7591;" start="20250826173500 +0800" stop="20250826191100 +0800">
 		<title lang="zh">第一滴血3</title>
+	</programme><programme channel="&#x60CA;&#x609A;&#x60AC;&#x7591;" start="20250826191100 +0800" stop="20250826195900 +0800">
+		<title lang="zh">AMOS钛多功能电饭煲惠选款（新）-渠道（右）</title>
+	</programme><programme channel="&#x60CA;&#x609A;&#x60AC;&#x7591;" start="20250826195900 +0800" stop="20250826215900 +0800">
+		<title lang="zh">拆弹专家（普通话版）</title>
 	</programme><channel id="&#x7CBE;&#x54C1;&#x4F53;&#x80B2;">
 		<display-name lang="zh">精品体育</display-name>
 	</channel><programme channel="&#x7CBE;&#x54C1;&#x4F53;&#x80B2;" start="20250826000000 +0800" stop="20250826001300 +0800">

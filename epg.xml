@@ -8311,6 +8311,12 @@
 		<title lang="zh">远方的家4K 我家那片海 粤西明珠 湛江故事</title>
 	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250829201600 +0800" stop="20250829205800 +0800">
 		<title lang="zh">远方的家4K 我家那片海 璀璨深圳 活力闪耀</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250829205800 +0800" stop="20250829210300 +0800">
+		<title lang="zh">美丽中国自然4K 岭南之南系列 蓝喉蜂虎</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250829210800 +0800" stop="20250829211800 +0800">
+		<title lang="zh">秘境之眼4K 虎影探秘</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250829211800 +0800" stop="20250829220700 +0800">
+		<title lang="zh">跟着唐诗去旅行4K 第3集 王维 长安</title>
 	</programme><channel id="&#x775B;&#x5F69;&#x9752;&#x5C11;">
 		<display-name lang="zh">睛彩青少</display-name>
 	</channel><programme channel="&#x775B;&#x5F69;&#x9752;&#x5C11;" start="20250829000000 +0800" stop="20250829000100 +0800">
@@ -8617,6 +8623,8 @@
 		<title lang="zh">好嗨的历险记</title>
 	</programme><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20250829183400 +0800" stop="20250829203600 +0800">
 		<title lang="zh">逆行人生</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20250829203600 +0800" stop="20250829223500 +0800">
+		<title lang="zh">非诚勿扰3</title>
 	</programme><channel id="&#x9ED1;&#x8393;&#x52A8;&#x753B;">
 		<display-name lang="zh">黑莓动画</display-name>
 	</channel><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20250829001500 +0800" stop="20250829014400 +0800">
@@ -8661,6 +8669,14 @@
 		<title lang="zh">01_宇宙信使</title>
 	</programme><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20250829202900 +0800" stop="20250829203400 +0800">
 		<title lang="zh">04_巡天巨眼</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20250829204400 +0800" stop="20250829204900 +0800">
+		<title lang="zh">07_探寻新元素</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20250829205900 +0800" stop="20250829210400 +0800">
+		<title lang="zh">01_摹张萱虢国夫人游春图</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20250829211400 +0800" stop="20250829211900 +0800">
+		<title lang="zh">04_乾隆皇帝射猎图</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20250829212400 +0800" stop="20250829214900 +0800">
+		<title lang="zh">01_大地上的成长</title>
 	</programme><channel id="&#x54D2;&#x5575;&#x8D5B;&#x4E8B;">
 		<display-name lang="zh">哒啵赛事</display-name>
 	</channel><programme channel="&#x54D2;&#x5575;&#x8D5B;&#x4E8B;" start="20250829000000 +0800" stop="20250829000200 +0800">
@@ -9985,6 +10001,8 @@
 		<title lang="zh">AMOS钛多功能电饭煲惠选款（新）-渠道（右）</title>
 	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20250829193100 +0800" stop="20250829205900 +0800">
 		<title lang="zh">情比山高</title>
+	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20250829205900 +0800" stop="20250829214800 +0800">
+		<title lang="zh">自然之臻阿拉善冬季荒漠肉苁蓉100%纯原浆-渠道（右）</title>
 	</programme><channel id="&#x52A8;&#x4F5C;&#x7535;&#x5F71;">
 		<display-name lang="zh">动作电影</display-name>
 	</channel><programme channel="&#x52A8;&#x4F5C;&#x7535;&#x5F71;" start="20250829004400 +0800" stop="20250829021200 +0800">
@@ -10017,6 +10035,10 @@
 		<title lang="zh">美康利健心血通激光治疗仪升级款-渠道（右）</title>
 	</programme><programme channel="&#x52A8;&#x4F5C;&#x7535;&#x5F71;" start="20250829192200 +0800" stop="20250829205100 +0800">
 		<title lang="zh">终极硬汉</title>
+	</programme><programme channel="&#x52A8;&#x4F5C;&#x7535;&#x5F71;" start="20250829205100 +0800" stop="20250829214000 +0800">
+		<title lang="zh">美康利健激光前列腺治疗仪-渠道（右）</title>
+	</programme><programme channel="&#x52A8;&#x4F5C;&#x7535;&#x5F71;" start="20250829214000 +0800" stop="20250829225700 +0800">
+		<title lang="zh">致命玩家</title>
 	</programme><channel id="&#x53E4;&#x88C5;&#x5267;&#x573A;">
 		<display-name lang="zh">古装剧场</display-name>
 	</channel><programme channel="&#x53E4;&#x88C5;&#x5267;&#x573A;" start="20250829000000 +0800" stop="20250829004300 +0800">

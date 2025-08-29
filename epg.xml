@@ -8223,6 +8223,16 @@
 		<title lang="zh">传承b7智慧篇4K 第7集 数据之恒</title>
 	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250829113500 +0800" stop="20250829121700 +0800">
 		<title lang="zh">远方的家4K 我家那片海 粤西明珠 湛江故事</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250829121700 +0800" stop="20250829125800 +0800">
+		<title lang="zh">远方的家4K 我家那片海 璀璨深圳 活力闪耀</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250829125800 +0800" stop="20250829130400 +0800">
+		<title lang="zh">美丽中国自然4K 岭南之南系列 蓝喉蜂虎</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250829130900 +0800" stop="20250829131900 +0800">
+		<title lang="zh">秘境之眼4K 虎影探秘</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250829131900 +0800" stop="20250829140800 +0800">
+		<title lang="zh">跟着唐诗去旅行4K 第3集 王维 长安</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250829140800 +0800" stop="20250829145700 +0800">
+		<title lang="zh">天宫建造4K 第2集</title>
 	</programme><channel id="&#x775B;&#x5F69;&#x9752;&#x5C11;">
 		<display-name lang="zh">睛彩青少</display-name>
 	</channel><programme channel="&#x775B;&#x5F69;&#x9752;&#x5C11;" start="20250829000000 +0800" stop="20250829000100 +0800">
@@ -8519,6 +8529,10 @@
 		<title lang="zh">消失的情人节</title>
 	</programme><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20250829105000 +0800" stop="20250829123700 +0800">
 		<title lang="zh">鲍勃b7马利：一份爱</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20250829123700 +0800" stop="20250829140500 +0800">
+		<title lang="zh">憨豆特工3</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20250829140500 +0800" stop="20250829153800 +0800">
+		<title lang="zh">反贪风暴之加密危机</title>
 	</programme><channel id="&#x9ED1;&#x8393;&#x52A8;&#x753B;">
 		<display-name lang="zh">黑莓动画</display-name>
 	</channel><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20250829001500 +0800" stop="20250829014400 +0800">
@@ -8539,6 +8553,10 @@
 		<title lang="zh">淘气包马小跳</title>
 	</programme><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20250829112100 +0800" stop="20250829125000 +0800">
 		<title lang="zh">金猴降妖</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20250829125000 +0800" stop="20250829134000 +0800">
+		<title lang="zh">01_杜甫 江湖</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20250829134000 +0800" stop="20250829142900 +0800">
+		<title lang="zh">02_孟浩然 故人</title>
 	</programme><channel id="&#x54D2;&#x5575;&#x8D5B;&#x4E8B;">
 		<display-name lang="zh">哒啵赛事</display-name>
 	</channel><programme channel="&#x54D2;&#x5575;&#x8D5B;&#x4E8B;" start="20250829000000 +0800" stop="20250829000200 +0800">
@@ -9845,6 +9863,12 @@
 		<title lang="zh">酷跑青春</title>
 	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20250829114100 +0800" stop="20250829122700 +0800">
 		<title lang="zh">12_独爱一生</title>
+	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20250829122700 +0800" stop="20250829131500 +0800">
+		<title lang="zh">英国奥戈那负离子空气循环扇-渠道（右）</title>
+	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20250829131500 +0800" stop="20250829140100 +0800">
+		<title lang="zh">13_独爱一生</title>
+	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20250829140100 +0800" stop="20250829144600 +0800">
+		<title lang="zh">14_独爱一生</title>
 	</programme><channel id="&#x52A8;&#x4F5C;&#x7535;&#x5F71;">
 		<display-name lang="zh">动作电影</display-name>
 	</channel><programme channel="&#x52A8;&#x4F5C;&#x7535;&#x5F71;" start="20250829004400 +0800" stop="20250829021200 +0800">
@@ -9865,6 +9889,8 @@
 		<title lang="zh">美国云杉新一代强力PPC结节通-渠道（右）</title>
 	</programme><programme channel="&#x52A8;&#x4F5C;&#x7535;&#x5F71;" start="20250829114700 +0800" stop="20250829134100 +0800">
 		<title lang="zh">西风烈</title>
+	</programme><programme channel="&#x52A8;&#x4F5C;&#x7535;&#x5F71;" start="20250829134100 +0800" stop="20250829142900 +0800">
+		<title lang="zh">双峰驼王新疆有机纯驼乳粉（新）-渠道（右）</title>
 	</programme><channel id="&#x53E4;&#x88C5;&#x5267;&#x573A;">
 		<display-name lang="zh">古装剧场</display-name>
 	</channel><programme channel="&#x53E4;&#x88C5;&#x5267;&#x573A;" start="20250829000000 +0800" stop="20250829004300 +0800">
@@ -10065,6 +10091,8 @@
 		<title lang="zh">涉嫌之人</title>
 	</programme><programme channel="&#x60CA;&#x609A;&#x60AC;&#x7591;" start="20250829120000 +0800" stop="20250829124800 +0800">
 		<title lang="zh">英国奥戈那负离子空气循环扇-渠道（右）</title>
+	</programme><programme channel="&#x60CA;&#x609A;&#x60AC;&#x7591;" start="20250829124800 +0800" stop="20250829151300 +0800">
+		<title lang="zh">危机13小时</title>
 	</programme><channel id="&#x7CBE;&#x54C1;&#x4F53;&#x80B2;">
 		<display-name lang="zh">精品体育</display-name>
 	</channel><programme channel="&#x7CBE;&#x54C1;&#x4F53;&#x80B2;" start="20250829000000 +0800" stop="20250829001000 +0800">

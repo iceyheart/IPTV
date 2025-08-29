@@ -7472,6 +7472,14 @@
 		<title lang="zh">传承 第二季4K 第一集 江湖</title>
 	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250830033600 +0800" stop="20250830041800 +0800">
 		<title lang="zh">远方的家4K 我家那片海 文化沃土 深圳画卷</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250830041800 +0800" stop="20250830050000 +0800">
+		<title lang="zh">远方的家4K 我家那片海 山海连城 宜居深圳</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250830050000 +0800" stop="20250830050500 +0800">
+		<title lang="zh">美丽中国自然4K 岭南之南系列 绿海龟</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250830051000 +0800" stop="20250830052000 +0800">
+		<title lang="zh">秘境之眼4K 金丝猴成长记</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250830052000 +0800" stop="20250830060900 +0800">
+		<title lang="zh">跟着唐诗去旅行4K 第4集 岑参 边塞</title>
 	</programme><channel id="&#x9ED1;&#x8393;&#x7535;&#x5F71;">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20250830004100 +0800" stop="20250830021700 +0800">
@@ -7480,6 +7488,8 @@
 		<title lang="zh">极海迷窟</title>
 	</programme><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20250830034300 +0800" stop="20250830051500 +0800">
 		<title lang="zh">虚拟世界</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20250830051500 +0800" stop="20250830064800 +0800">
+		<title lang="zh">九妹</title>
 	</programme><channel id="&#x9ED1;&#x8393;&#x52A8;&#x753B;">
 		<display-name lang="zh">黑莓动画</display-name>
 	</channel><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20250830000000 +0800" stop="20250830012900 +0800">
@@ -7488,6 +7498,10 @@
 		<title lang="zh">西行纪之穷奇地洞</title>
 	</programme><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20250830024700 +0800" stop="20250830041400 +0800">
 		<title lang="zh">棉球方块历险记</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20250830041400 +0800" stop="20250830054300 +0800">
+		<title lang="zh">摩登森林之美食总动员</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20250830054300 +0800" stop="20250830071400 +0800">
+		<title lang="zh">太空夺旗</title>
 	</programme><channel id="&#x91D1;&#x9E70;&#x5361;&#x901A;">
 		<display-name lang="zh">金鹰卡通</display-name>
 	</channel><programme channel="&#x91D1;&#x9E70;&#x5361;&#x901A;" start="20250830000000 +0800" stop="20250830032000 +0800">

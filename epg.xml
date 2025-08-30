@@ -8280,6 +8280,10 @@
 		<title lang="zh">远方的家4K 我家那片海 文化沃土 深圳画卷</title>
 	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250830202100 +0800" stop="20250830210300 +0800">
 		<title lang="zh">远方的家4K 我家那片海 山海连城 宜居深圳</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250830211300 +0800" stop="20250830212300 +0800">
+		<title lang="zh">秘境之眼4K 金丝猴成长记</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250830212300 +0800" stop="20250830221200 +0800">
+		<title lang="zh">跟着唐诗去旅行4K 第4集 岑参 边塞</title>
 	</programme><channel id="&#x775B;&#x5F69;&#x9752;&#x5C11;">
 		<display-name lang="zh">睛彩青少</display-name>
 	</channel><programme channel="&#x775B;&#x5F69;&#x9752;&#x5C11;" start="20250830000000 +0800" stop="20250830000100 +0800">
@@ -8586,6 +8590,8 @@
 		<title lang="zh">影</title>
 	</programme><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20250830191600 +0800" stop="20250830211100 +0800">
 		<title lang="zh">扫黑b7决不放弃</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20250830211100 +0800" stop="20250830225900 +0800">
+		<title lang="zh">绝密特勤队</title>
 	</programme><channel id="&#x9ED1;&#x8393;&#x52A8;&#x753B;">
 		<display-name lang="zh">黑莓动画</display-name>
 	</channel><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20250830000000 +0800" stop="20250830012900 +0800">
@@ -8620,6 +8626,12 @@
 		<title lang="zh">西游记之七十二变</title>
 	</programme><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20250830202200 +0800" stop="20250830204700 +0800">
 		<title lang="zh">01_俑气冲天</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20250830211100 +0800" stop="20250830213600 +0800">
+		<title lang="zh">03_“装”，我们是认真的</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20250830213600 +0800" stop="20250830220100 +0800">
+		<title lang="zh">04_堆里最靓的仔</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20250830220100 +0800" stop="20250830222500 +0800">
+		<title lang="zh">05_龙族来了</title>
 	</programme><channel id="&#x54D2;&#x5575;&#x8D5B;&#x4E8B;">
 		<display-name lang="zh">哒啵赛事</display-name>
 	</channel><programme channel="&#x54D2;&#x5575;&#x8D5B;&#x4E8B;" start="20250830000000 +0800" stop="20250830015500 +0800">
@@ -9956,6 +9968,8 @@
 		<title lang="zh">21_独爱一生</title>
 	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20250830201900 +0800" stop="20250830210800 +0800">
 		<title lang="zh">自然之臻阿拉善冬季荒漠肉苁蓉100%纯原浆-渠道（右）</title>
+	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20250830210800 +0800" stop="20250830223400 +0800">
+		<title lang="zh">少年棋王</title>
 	</programme><channel id="&#x52A8;&#x4F5C;&#x7535;&#x5F71;">
 		<display-name lang="zh">动作电影</display-name>
 	</channel><programme channel="&#x52A8;&#x4F5C;&#x7535;&#x5F71;" start="20250830005800 +0800" stop="20250830023200 +0800">
@@ -9990,6 +10004,8 @@
 		<title lang="zh">美康利健心血通激光治疗仪升级款-渠道（右）</title>
 	</programme><programme channel="&#x52A8;&#x4F5C;&#x7535;&#x5F71;" start="20250830202100 +0800" stop="20250830212700 +0800">
 		<title lang="zh">猎心之迷毒之罪</title>
+	</programme><programme channel="&#x52A8;&#x4F5C;&#x7535;&#x5F71;" start="20250830212700 +0800" stop="20250830221500 +0800">
+		<title lang="zh">美康利健激光前列腺治疗仪-渠道（右）</title>
 	</programme><channel id="&#x53E4;&#x88C5;&#x5267;&#x573A;">
 		<display-name lang="zh">古装剧场</display-name>
 	</channel><programme channel="&#x53E4;&#x88C5;&#x5267;&#x573A;" start="20250830000000 +0800" stop="20250830003600 +0800">
@@ -10208,6 +10224,8 @@
 		<title lang="zh">AMOS钛多功能电饭煲惠选款（新）-渠道（右）</title>
 	</programme><programme channel="&#x60CA;&#x609A;&#x60AC;&#x7591;" start="20250830201700 +0800" stop="20250830213900 +0800">
 		<title lang="zh">人类削减计划</title>
+	</programme><programme channel="&#x60CA;&#x609A;&#x60AC;&#x7591;" start="20250830213900 +0800" stop="20250830222700 +0800">
+		<title lang="zh">AMOS钛多功能电饭煲惠选款（新）-渠道（右）</title>
 	</programme><channel id="&#x7CBE;&#x54C1;&#x4F53;&#x80B2;">
 		<display-name lang="zh">精品体育</display-name>
 	</channel><programme channel="&#x7CBE;&#x54C1;&#x4F53;&#x80B2;" start="20250830000000 +0800" stop="20250830001000 +0800">

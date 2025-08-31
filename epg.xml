@@ -7444,6 +7444,14 @@
 		<title lang="zh">传承 第二季4K 第三集 德行</title>
 	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250901033500 +0800" stop="20250901041700 +0800">
 		<title lang="zh">远方的家4K 我家那片海 木兰溪畔 寻味莆田</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250901041700 +0800" stop="20250901045900 +0800">
+		<title lang="zh">远方的家4K 我家那片海 莆田的美丽乡村</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250901045900 +0800" stop="20250901050400 +0800">
+		<title lang="zh">美丽中国自然4K 广东南澳系列 风之岛</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250901051000 +0800" stop="20250901052000 +0800">
+		<title lang="zh">秘境之眼4K 中华秋沙鸭</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250901052000 +0800" stop="20250901060900 +0800">
+		<title lang="zh">跟着唐诗去旅行 第二季4K 第1集 石鼓歌</title>
 	</programme><channel id="&#x9ED1;&#x8393;&#x7535;&#x5F71;">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20250901000900 +0800" stop="20250901034600 +0800">
@@ -7452,12 +7460,18 @@
 		<title lang="zh">白鹿原</title>
 	</programme><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20250901034600 +0800" stop="20250901053700 +0800">
 		<title lang="zh">血战湘江</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20250901053700 +0800" stop="20250901070000 +0800">
+		<title lang="zh">墨菲定律</title>
 	</programme><channel id="&#x9ED1;&#x8393;&#x52A8;&#x753B;">
 		<display-name lang="zh">黑莓动画</display-name>
 	</channel><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20250901000900 +0800" stop="20250901030700 +0800">
 		<title lang="zh">专题节目</title>
 	</programme><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20250901030700 +0800" stop="20250901042400 +0800">
 		<title lang="zh">西行纪之穷奇地洞</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20250901042400 +0800" stop="20250901054900 +0800">
+		<title lang="zh">虹猫蓝兔火凤凰</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20250901054900 +0800" stop="20250901071700 +0800">
+		<title lang="zh">太空勇狗队</title>
 	</programme><channel id="&#x91D1;&#x9E70;&#x5361;&#x901A;">
 		<display-name lang="zh">金鹰卡通</display-name>
 	</channel><programme channel="&#x91D1;&#x9E70;&#x5361;&#x901A;" start="20250901000000 +0800" stop="20250901032000 +0800">

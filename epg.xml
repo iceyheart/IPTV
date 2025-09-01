@@ -8402,6 +8402,12 @@
 		<title lang="zh">味道4K 美味天津</title>
 	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250901180700 +0800" stop="20250901184700 +0800">
 		<title lang="zh">探索b7发现4K 劫后余存的王陵</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250901184700 +0800" stop="20250901193500 +0800">
+		<title lang="zh">传承 第二季4K 第三集 德行</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250901193500 +0800" stop="20250901201700 +0800">
+		<title lang="zh">远方的家4K 我家那片海 木兰溪畔 寻味莆田</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250901201700 +0800" stop="20250901205900 +0800">
+		<title lang="zh">远方的家4K 我家那片海 莆田的美丽乡村</title>
 	</programme><channel id="&#x775B;&#x5F69;&#x9752;&#x5C11;">
 		<display-name lang="zh">睛彩青少</display-name>
 	</channel><programme channel="&#x775B;&#x5F69;&#x9752;&#x5C11;" start="20250901000000 +0800" stop="20250901000100 +0800">
@@ -8702,6 +8708,8 @@
 		<title lang="zh">重案行动之捣毒任务</title>
 	</programme><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20250901181600 +0800" stop="20250901194000 +0800">
 		<title lang="zh">孙悟空大战盘丝洞</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20250901194000 +0800" stop="20250901211000 +0800">
+		<title lang="zh">雷霆行动</title>
 	</programme><channel id="&#x9ED1;&#x8393;&#x52A8;&#x753B;">
 		<display-name lang="zh">黑莓动画</display-name>
 	</channel><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20250901000900 +0800" stop="20250901030700 +0800">
@@ -8734,6 +8742,18 @@
 		<title lang="zh">01_石鼓歌</title>
 	</programme><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20250901173900 +0800" stop="20250901182900 +0800">
 		<title lang="zh">02_寒江雪</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20250901182900 +0800" stop="20250901191800 +0800">
+		<title lang="zh">03_出塞曲</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20250901192800 +0800" stop="20250901193300 +0800">
+		<title lang="zh">03_穿越千年的干饭神器</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20250901194300 +0800" stop="20250901194800 +0800">
+		<title lang="zh">06_祖先的小怪兽</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20250901195800 +0800" stop="20250901200300 +0800">
+		<title lang="zh">09_地下保镖</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20250901201300 +0800" stop="20250901201800 +0800">
+		<title lang="zh">02_东方超环</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20250901202800 +0800" stop="20250901203300 +0800">
+		<title lang="zh">05_追星逐梦</title>
 	</programme><channel id="&#x54D2;&#x5575;&#x8D5B;&#x4E8B;">
 		<display-name lang="zh">哒啵赛事</display-name>
 	</channel><programme channel="&#x54D2;&#x5575;&#x8D5B;&#x4E8B;" start="20250901000000 +0800" stop="20250901004100 +0800">
@@ -10046,6 +10066,12 @@
 		<title lang="zh">28_独爱一生</title>
 	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20250901173400 +0800" stop="20250901182200 +0800">
 		<title lang="zh">AMOS钛多功能电饭煲惠选款（新）-渠道（右）</title>
+	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20250901182200 +0800" stop="20250901190800 +0800">
+		<title lang="zh">29_独爱一生</title>
+	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20250901190800 +0800" stop="20250901195600 +0800">
+		<title lang="zh">AMOS钛多功能电饭煲惠选款（新）-渠道（右）</title>
+	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20250901195600 +0800" stop="20250901204100 +0800">
+		<title lang="zh">30_独爱一生</title>
 	</programme><channel id="&#x52A8;&#x4F5C;&#x7535;&#x5F71;">
 		<display-name lang="zh">动作电影</display-name>
 	</channel><programme channel="&#x52A8;&#x4F5C;&#x7535;&#x5F71;" start="20250901003600 +0800" stop="20250901032200 +0800">
@@ -10076,6 +10102,10 @@
 		<title lang="zh">HENGSH恒适艾灸按摩床垫-渠道（右）</title>
 	</programme><programme channel="&#x52A8;&#x4F5C;&#x7535;&#x5F71;" start="20250901173000 +0800" stop="20250901190000 +0800">
 		<title lang="zh">夺宝家庭</title>
+	</programme><programme channel="&#x52A8;&#x4F5C;&#x7535;&#x5F71;" start="20250901190000 +0800" stop="20250901195600 +0800">
+		<title lang="zh">美康利健心血通激光治疗仪升级款-渠道（右）</title>
+	</programme><programme channel="&#x52A8;&#x4F5C;&#x7535;&#x5F71;" start="20250901195600 +0800" stop="20250901214000 +0800">
+		<title lang="zh">捍卫者</title>
 	</programme><channel id="&#x53E4;&#x88C5;&#x5267;&#x573A;">
 		<display-name lang="zh">古装剧场</display-name>
 	</channel><programme channel="&#x53E4;&#x88C5;&#x5267;&#x573A;" start="20250901000000 +0800" stop="20250901000500 +0800">
@@ -10274,6 +10304,10 @@
 		<title lang="zh">双峰驼王新疆有机纯驼乳粉（新）-渠道（右）</title>
 	</programme><programme channel="&#x60CA;&#x609A;&#x60AC;&#x7591;" start="20250901165100 +0800" stop="20250901184900 +0800">
 		<title lang="zh">暮光之城4：破晓（上）（英文版）</title>
+	</programme><programme channel="&#x60CA;&#x609A;&#x60AC;&#x7591;" start="20250901184900 +0800" stop="20250901193700 +0800">
+		<title lang="zh">HENGSH恒适艾灸按摩床垫-渠道（右）</title>
+	</programme><programme channel="&#x60CA;&#x609A;&#x60AC;&#x7591;" start="20250901193700 +0800" stop="20250901214900 +0800">
+		<title lang="zh">星际迷航：暗黑无界</title>
 	</programme><channel id="&#x7CBE;&#x54C1;&#x4F53;&#x80B2;">
 		<display-name lang="zh">精品体育</display-name>
 	</channel><programme channel="&#x7CBE;&#x54C1;&#x4F53;&#x80B2;" start="20250901000000 +0800" stop="20250901000800 +0800">

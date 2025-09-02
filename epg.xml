@@ -8306,6 +8306,10 @@
 		<title lang="zh">探索b7发现4K 北京延庆西屯墓地</title>
 	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250902104400 +0800" stop="20250902113200 +0800">
 		<title lang="zh">传承 第二季4K 第四集 师徒</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250902113200 +0800" stop="20250902121400 +0800">
+		<title lang="zh">远方的家4K 我家那片海 滨海之城 魅力宁波</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250902121400 +0800" stop="20250902125600 +0800">
+		<title lang="zh">远方的家4K 我家那片海 光影汇聚 多彩宁波</title>
 	</programme><channel id="&#x775B;&#x5F69;&#x9752;&#x5C11;">
 		<display-name lang="zh">睛彩青少</display-name>
 	</channel><programme channel="&#x775B;&#x5F69;&#x9752;&#x5C11;" start="20250902000000 +0800" stop="20250902000100 +0800">
@@ -8600,6 +8604,8 @@
 		<title lang="zh">外来书记</title>
 	</programme><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20250902104600 +0800" stop="20250902121100 +0800">
 		<title lang="zh">神探徐有功</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20250902121100 +0800" stop="20250902135600 +0800">
+		<title lang="zh">叱咤风云</title>
 	</programme><channel id="&#x9ED1;&#x8393;&#x52A8;&#x753B;">
 		<display-name lang="zh">黑莓动画</display-name>
 	</channel><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20250902010900 +0800" stop="20250902023100 +0800">
@@ -8620,6 +8626,8 @@
 		<title lang="zh">03_一骑红尘妃子笑 皇家快递 七日送到</title>
 	</programme><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20250902100000 +0800" stop="20250902114000 +0800">
 		<title lang="zh">第十四个目标 中文版</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20250902114000 +0800" stop="20250902131900 +0800">
+		<title lang="zh">通往天国的倒计时 中文版</title>
 	</programme><channel id="&#x54D2;&#x5575;&#x8D5B;&#x4E8B;">
 		<display-name lang="zh">哒啵赛事</display-name>
 	</channel><programme channel="&#x54D2;&#x5575;&#x8D5B;&#x4E8B;" start="20250902000000 +0800" stop="20250902005300 +0800">
@@ -9868,6 +9876,10 @@
 		<title lang="zh">13_爱的阶梯</title>
 	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20250902102300 +0800" stop="20250902111500 +0800">
 		<title lang="zh">14_爱的阶梯</title>
+	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20250902111500 +0800" stop="20250902120000 +0800">
+		<title lang="zh">15_爱的阶梯</title>
+	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20250902120000 +0800" stop="20250902124800 +0800">
+		<title lang="zh">英国奥戈那负离子空气循环扇-渠道（右）</title>
 	</programme><channel id="&#x52A8;&#x4F5C;&#x7535;&#x5F71;">
 		<display-name lang="zh">动作电影</display-name>
 	</channel><programme channel="&#x52A8;&#x4F5C;&#x7535;&#x5F71;" start="20250902002900 +0800" stop="20250902015400 +0800">
@@ -9886,6 +9898,8 @@
 		<title lang="zh">荒野逃生</title>
 	</programme><programme channel="&#x52A8;&#x4F5C;&#x7535;&#x5F71;" start="20250902104100 +0800" stop="20250902111600 +0800">
 		<title lang="zh">美国云杉新一代强力PPC结节通-渠道（右）</title>
+	</programme><programme channel="&#x52A8;&#x4F5C;&#x7535;&#x5F71;" start="20250902111600 +0800" stop="20250902122300 +0800">
+		<title lang="zh">破千者之天下公敌</title>
 	</programme><channel id="&#x53E4;&#x88C5;&#x5267;&#x573A;">
 		<display-name lang="zh">古装剧场</display-name>
 	</channel><programme channel="&#x53E4;&#x88C5;&#x5267;&#x573A;" start="20250902000000 +0800" stop="20250902000600 +0800">
@@ -10080,6 +10094,8 @@
 		<title lang="zh">何首乌防脱育发精华液-渠道（右）</title>
 	</programme><programme channel="&#x60CA;&#x609A;&#x60AC;&#x7591;" start="20250902100800 +0800" stop="20250902115000 +0800">
 		<title lang="zh">缉枪</title>
+	</programme><programme channel="&#x60CA;&#x609A;&#x60AC;&#x7591;" start="20250902115000 +0800" stop="20250902122500 +0800">
+		<title lang="zh">美国云杉新一代强力PPC结节通-渠道（右）</title>
 	</programme><channel id="&#x7CBE;&#x54C1;&#x4F53;&#x80B2;">
 		<display-name lang="zh">精品体育</display-name>
 	</channel><programme channel="&#x7CBE;&#x54C1;&#x4F53;&#x80B2;" start="20250902000000 +0800" stop="20250902003100 +0800">

@@ -7530,12 +7530,20 @@
 		<title lang="zh">传承 第二季4K 第六集 流变</title>
 	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250904034000 +0800" stop="20250904042200 +0800">
 		<title lang="zh">远方的家4K 山河锦绣看中国 百年港城 守望相依</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250904042200 +0800" stop="20250904050400 +0800">
+		<title lang="zh">远方的家4K 山河锦绣看中国 山海情深 雄关漫漫</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250904051400 +0800" stop="20250904052400 +0800">
+		<title lang="zh">秘境之眼4K 羌塘秘境</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250904052400 +0800" stop="20250904061400 +0800">
+		<title lang="zh">跟着唐诗去旅行 第二季4K 第4集 琵琶行</title>
 	</programme><channel id="&#x9ED1;&#x8393;&#x7535;&#x5F71;">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20250904013200 +0800" stop="20250904032700 +0800">
 		<title lang="zh">左右</title>
 	</programme><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20250904032700 +0800" stop="20250904050700 +0800">
 		<title lang="zh">警察故事</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20250904050700 +0800" stop="20250904065500 +0800">
+		<title lang="zh">汉密尔顿：国家利益</title>
 	</programme><channel id="&#x9ED1;&#x8393;&#x52A8;&#x753B;">
 		<display-name lang="zh">黑莓动画</display-name>
 	</channel><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20250904000200 +0800" stop="20250904012300 +0800">
@@ -7544,6 +7552,8 @@
 		<title lang="zh">画江湖之天罡</title>
 	</programme><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20250904030400 +0800" stop="20250904044300 +0800">
 		<title lang="zh">01_假面骑士令和第一世代（日语版）</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20250904044300 +0800" stop="20250904060700 +0800">
+		<title lang="zh">绝代双骄之天外有天</title>
 	</programme><channel id="&#x91D1;&#x9E70;&#x5361;&#x901A;">
 		<display-name lang="zh">金鹰卡通</display-name>
 	</channel><programme channel="&#x91D1;&#x9E70;&#x5361;&#x901A;" start="20250904000000 +0800" stop="20250904032000 +0800">

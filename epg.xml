@@ -8558,6 +8558,12 @@
 		<title lang="zh">远方的家4K 山河锦绣看中国 百年港城 守望相依</title>
 	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250904201600 +0800" stop="20250904205800 +0800">
 		<title lang="zh">远方的家4K 山河锦绣看中国 山海情深 雄关漫漫</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250904205800 +0800" stop="20250904210300 +0800">
+		<title lang="zh">美丽中国自然4K 广东南澳系列 海底之“风”</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250904210800 +0800" stop="20250904211800 +0800">
+		<title lang="zh">秘境之眼4K 羌塘秘境</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250904211800 +0800" stop="20250904220700 +0800">
+		<title lang="zh">跟着唐诗去旅行 第二季4K 第4集 琵琶行</title>
 	</programme><channel id="&#x775B;&#x5F69;&#x9752;&#x5C11;">
 		<display-name lang="zh">睛彩青少</display-name>
 	</channel><programme channel="&#x775B;&#x5F69;&#x9752;&#x5C11;" start="20250904000000 +0800" stop="20250904000100 +0800">
@@ -8918,6 +8924,18 @@
 		<title lang="zh">15_喜羊羊与灰太狼之嘻哈闯世界之三</title>
 	</programme><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20250904202600 +0800" stop="20250904204100 +0800">
 		<title lang="zh">16_喜羊羊与灰太狼之嘻哈闯世界之三</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20250904204100 +0800" stop="20250904205600 +0800">
+		<title lang="zh">17_喜羊羊与灰太狼之嘻哈闯世界之三</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20250904205600 +0800" stop="20250904211100 +0800">
+		<title lang="zh">18_喜羊羊与灰太狼之嘻哈闯世界之三</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20250904211100 +0800" stop="20250904212600 +0800">
+		<title lang="zh">19_喜羊羊与灰太狼之嘻哈闯世界之三</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20250904212600 +0800" stop="20250904214100 +0800">
+		<title lang="zh">20_喜羊羊与灰太狼之嘻哈闯世界之三</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20250904214100 +0800" stop="20250904215600 +0800">
+		<title lang="zh">21_喜羊羊与灰太狼之嘻哈闯世界之三</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20250904215600 +0800" stop="20250904221100 +0800">
+		<title lang="zh">22_喜羊羊与灰太狼之嘻哈闯世界之三</title>
 	</programme><channel id="&#x54D2;&#x5575;&#x8D5B;&#x4E8B;">
 		<display-name lang="zh">哒啵赛事</display-name>
 	</channel><programme channel="&#x54D2;&#x5575;&#x8D5B;&#x4E8B;" start="20250904000000 +0800" stop="20250904013900 +0800">
@@ -10192,6 +10210,10 @@
 		<title lang="zh">15_永安梦</title>
 	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20250904201200 +0800" stop="20250904205900 +0800">
 		<title lang="zh">16_永安梦</title>
+	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20250904205900 +0800" stop="20250904214800 +0800">
+		<title lang="zh">自然之臻阿拉善冬季荒漠肉苁蓉100%纯原浆-渠道（右）</title>
+	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20250904214800 +0800" stop="20250904234200 +0800">
+		<title lang="zh">澄沙之味</title>
 	</programme><channel id="&#x52A8;&#x4F5C;&#x7535;&#x5F71;">
 		<display-name lang="zh">动作电影</display-name>
 	</channel><programme channel="&#x52A8;&#x4F5C;&#x7535;&#x5F71;" start="20250904001500 +0800" stop="20250904013600 +0800">
@@ -10226,6 +10248,8 @@
 		<title lang="zh">美康利健心血通激光治疗仪升级款-渠道（右）</title>
 	</programme><programme channel="&#x52A8;&#x4F5C;&#x7535;&#x5F71;" start="20250904200300 +0800" stop="20250904212300 +0800">
 		<title lang="zh">街区大作战</title>
+	</programme><programme channel="&#x52A8;&#x4F5C;&#x7535;&#x5F71;" start="20250904212300 +0800" stop="20250904221100 +0800">
+		<title lang="zh">美康利健激光前列腺治疗仪-渠道（右）</title>
 	</programme><channel id="&#x53E4;&#x88C5;&#x5267;&#x573A;">
 		<display-name lang="zh">古装剧场</display-name>
 	</channel><programme channel="&#x53E4;&#x88C5;&#x5267;&#x573A;" start="20250904000000 +0800" stop="20250904003200 +0800">
@@ -10438,6 +10462,8 @@
 		<title lang="zh">HENGSH恒适艾灸按摩床垫-渠道（右）</title>
 	</programme><programme channel="&#x60CA;&#x609A;&#x60AC;&#x7591;" start="20250904194000 +0800" stop="20250904211400 +0800">
 		<title lang="zh">九纹龙史进之除恶史家村</title>
+	</programme><programme channel="&#x60CA;&#x609A;&#x60AC;&#x7591;" start="20250904211400 +0800" stop="20250904221000 +0800">
+		<title lang="zh">美康利健心血通激光治疗仪升级款-渠道（右）</title>
 	</programme><channel id="&#x7CBE;&#x54C1;&#x4F53;&#x80B2;">
 		<display-name lang="zh">精品体育</display-name>
 	</channel><programme channel="&#x7CBE;&#x54C1;&#x4F53;&#x80B2;" start="20250904000000 +0800" stop="20250904014000 +0800">

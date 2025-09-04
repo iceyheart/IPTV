@@ -7552,6 +7552,14 @@
 		<title lang="zh">5亿年，岩石里的生命奇迹 第一季4K 第1集 凤姣昆明鱼</title>
 	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250905033400 +0800" stop="20250905041500 +0800">
 		<title lang="zh">远方的家4K 山河锦绣看中国 山海港城 幸福家园</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250905041500 +0800" stop="20250905045700 +0800">
+		<title lang="zh">远方的家4K 山河锦绣看中国 黄海西岸 活力盐城</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250905045700 +0800" stop="20250905050300 +0800">
+		<title lang="zh">美丽中国自然4K 广东南澳系列 百年古榕</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250905050800 +0800" stop="20250905051800 +0800">
+		<title lang="zh">秘境之眼4K 婺源珍禽录</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250905051800 +0800" stop="20250905060700 +0800">
+		<title lang="zh">跟着唐诗去旅行 第二季4K 第5集 双星会</title>
 	</programme><channel id="&#x9ED1;&#x8393;&#x7535;&#x5F71;">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20250905004000 +0800" stop="20250905021200 +0800">
@@ -7560,6 +7568,8 @@
 		<title lang="zh">警察故事4：简单任务</title>
 	</programme><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20250905035400 +0800" stop="20250905051900 +0800">
 		<title lang="zh">黄飞鸿之武神林世荣</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20250905051900 +0800" stop="20250905070000 +0800">
+		<title lang="zh">超能游戏者</title>
 	</programme><channel id="&#x9ED1;&#x8393;&#x52A8;&#x753B;">
 		<display-name lang="zh">黑莓动画</display-name>
 	</channel><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20250905001100 +0800" stop="20250905014000 +0800">
@@ -7568,6 +7578,10 @@
 		<title lang="zh">星际大逃亡</title>
 	</programme><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20250905030900 +0800" stop="20250905042700 +0800">
 		<title lang="zh">西行纪之穷奇地洞</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20250905042700 +0800" stop="20250905055200 +0800">
+		<title lang="zh">虹猫蓝兔火凤凰</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20250905055200 +0800" stop="20250905072000 +0800">
+		<title lang="zh">太空勇狗队</title>
 	</programme><channel id="&#x91D1;&#x9E70;&#x5361;&#x901A;">
 		<display-name lang="zh">金鹰卡通</display-name>
 	</channel><programme channel="&#x91D1;&#x9E70;&#x5361;&#x901A;" start="20250905000000 +0800" stop="20250905032000 +0800">

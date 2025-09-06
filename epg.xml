@@ -8323,6 +8323,10 @@
 		<title lang="zh">远方的家4K 山河锦绣看中国 黄海之滨 生态家园</title>
 	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250906201400 +0800" stop="20250906205600 +0800">
 		<title lang="zh">远方的家4K 山河锦绣看中国 江海成陆 沃野家园</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250906210100 +0800" stop="20250906210600 +0800">
+		<title lang="zh">美丽中国自然4K 栗喉蜂虎系列 忙碌的狩猎者</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250906211600 +0800" stop="20250906220600 +0800">
+		<title lang="zh">跟着唐诗去旅行 第二季4K 第6集 相见难</title>
 	</programme><channel id="&#x775B;&#x5F69;&#x9752;&#x5C11;">
 		<display-name lang="zh">睛彩青少</display-name>
 	</channel><programme channel="&#x775B;&#x5F69;&#x9752;&#x5C11;" start="20250906000000 +0800" stop="20250906000100 +0800">
@@ -8677,6 +8681,10 @@
 		<title lang="zh">绣春刀b7修罗战场</title>
 	</programme><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20250906183800 +0800" stop="20250906203300 +0800">
 		<title lang="zh">疯狂的外星人</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20250906203300 +0800" stop="20250906214700 +0800">
+		<title lang="zh">维和冲锋：绝境求生</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20250906214700 +0800" stop="20250906232800 +0800">
+		<title lang="zh">平原上的火焰</title>
 	</programme><channel id="&#x9ED1;&#x8393;&#x52A8;&#x753B;">
 		<display-name lang="zh">黑莓动画</display-name>
 	</channel><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20250906011200 +0800" stop="20250906024000 +0800">
@@ -8707,6 +8715,12 @@
 		<title lang="zh">海绵宝宝：水兵陆战队</title>
 	</programme><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20250906193300 +0800" stop="20250906205900 +0800">
 		<title lang="zh">汪汪队立大功大电影（普通话版）</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20250906205900 +0800" stop="20250906213400 +0800">
+		<title lang="zh">西游记之七十二变</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20250906213400 +0800" stop="20250906215800 +0800">
+		<title lang="zh">01_俑气冲天</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20250906215800 +0800" stop="20250906222300 +0800">
+		<title lang="zh">02_玉不卷 不成器</title>
 	</programme><channel id="&#x54D2;&#x5575;&#x8D5B;&#x4E8B;">
 		<display-name lang="zh">哒啵赛事</display-name>
 	</channel><programme channel="&#x54D2;&#x5575;&#x8D5B;&#x4E8B;" start="20250906000000 +0800" stop="20250906000600 +0800">
@@ -10069,6 +10083,10 @@
 		<title lang="zh">《八段锦》推荐第34期</title>
 	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20250906195900 +0800" stop="20250906204800 +0800">
 		<title lang="zh">22_永安梦</title>
+	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20250906204800 +0800" stop="20250906211800 +0800">
+		<title lang="zh">《八段锦》推荐第34期</title>
+	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20250906211800 +0800" stop="20250906220200 +0800">
+		<title lang="zh">23_永安梦</title>
 	</programme><channel id="&#x52A8;&#x4F5C;&#x7535;&#x5F71;">
 		<display-name lang="zh">动作电影</display-name>
 	</channel><programme channel="&#x52A8;&#x4F5C;&#x7535;&#x5F71;" start="20250906000500 +0800" stop="20250906021100 +0800">
@@ -10099,6 +10117,8 @@
 		<title lang="zh">《八段锦》推荐第34期</title>
 	</programme><programme channel="&#x52A8;&#x4F5C;&#x7535;&#x5F71;" start="20250906200300 +0800" stop="20250906214400 +0800">
 		<title lang="zh">毒。诫</title>
+	</programme><programme channel="&#x52A8;&#x4F5C;&#x7535;&#x5F71;" start="20250906214400 +0800" stop="20250906221400 +0800">
+		<title lang="zh">《八段锦》推荐第34期</title>
 	</programme><channel id="&#x53E4;&#x88C5;&#x5267;&#x573A;">
 		<display-name lang="zh">古装剧场</display-name>
 	</channel><programme channel="&#x53E4;&#x88C5;&#x5267;&#x573A;" start="20250906000000 +0800" stop="20250906000600 +0800">
@@ -10297,6 +10317,8 @@
 		<title lang="zh">《八段锦》推荐第34期</title>
 	</programme><programme channel="&#x60CA;&#x609A;&#x60AC;&#x7591;" start="20250906195700 +0800" stop="20250906213900 +0800">
 		<title lang="zh">全城通缉</title>
+	</programme><programme channel="&#x60CA;&#x609A;&#x60AC;&#x7591;" start="20250906213900 +0800" stop="20250906220900 +0800">
+		<title lang="zh">《八段锦》推荐第34期</title>
 	</programme><channel id="&#x7CBE;&#x54C1;&#x4F53;&#x80B2;">
 		<display-name lang="zh">精品体育</display-name>
 	</channel><programme channel="&#x7CBE;&#x54C1;&#x4F53;&#x80B2;" start="20250906000000 +0800" stop="20250906001000 +0800">

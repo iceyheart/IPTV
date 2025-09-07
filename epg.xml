@@ -7572,12 +7572,20 @@
 		<title lang="zh">艺术里的奥林匹克4K 溪山独钓图</title>
 	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250908032900 +0800" stop="20250908041000 +0800">
 		<title lang="zh">远方的家4K 畅游边疆（2） 多彩南宁 活力壮乡</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250908041000 +0800" stop="20250908045100 +0800">
+		<title lang="zh">远方的家4K 畅游边疆（3） 中国西南“山海关”</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250908045700 +0800" stop="20250908050200 +0800">
+		<title lang="zh">美丽中国自然4K 栗喉蜂虎系列 家族的力量</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250908051200 +0800" stop="20250908061200 +0800">
+		<title lang="zh">神奇的中国4K</title>
 	</programme><channel id="&#x9ED1;&#x8393;&#x7535;&#x5F71;">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20250908004400 +0800" stop="20250908031000 +0800">
 		<title lang="zh">第八日的蝉</title>
 	</programme><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20250908031000 +0800" stop="20250908050700 +0800">
 		<title lang="zh">红楼梦之金玉良缘</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20250908050700 +0800" stop="20250908063000 +0800">
+		<title lang="zh">狄仁杰之降魔咒</title>
 	</programme><channel id="&#x9ED1;&#x8393;&#x52A8;&#x753B;">
 		<display-name lang="zh">黑莓动画</display-name>
 	</channel><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20250908001100 +0800" stop="20250908014000 +0800">
@@ -7586,6 +7594,10 @@
 		<title lang="zh">星际大逃亡</title>
 	</programme><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20250908030800 +0800" stop="20250908042600 +0800">
 		<title lang="zh">西行纪之穷奇地洞</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20250908042600 +0800" stop="20250908055100 +0800">
+		<title lang="zh">虹猫蓝兔火凤凰</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20250908055100 +0800" stop="20250908071900 +0800">
+		<title lang="zh">太空勇狗队</title>
 	</programme><channel id="&#x91D1;&#x9E70;&#x5361;&#x901A;">
 		<display-name lang="zh">金鹰卡通</display-name>
 	</channel><programme channel="&#x91D1;&#x9E70;&#x5361;&#x901A;" start="20250908000000 +0800" stop="20250908032000 +0800">

@@ -8460,6 +8460,10 @@
 		<title lang="zh">远方的家4K 山河锦绣看中国 西北边陲 大美伊犁</title>
 	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250907201200 +0800" stop="20250907205300 +0800">
 		<title lang="zh">远方的家4K 畅游边疆（1） 多滋多味 千年邕城</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250907205900 +0800" stop="20250907210400 +0800">
+		<title lang="zh">美丽中国自然4K 栗喉蜂虎系列 男儿当自强</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250907211400 +0800" stop="20250907220300 +0800">
+		<title lang="zh">中国智慧 老子篇4K</title>
 	</programme><channel id="&#x775B;&#x5F69;&#x9752;&#x5C11;">
 		<display-name lang="zh">睛彩青少</display-name>
 	</channel><programme channel="&#x775B;&#x5F69;&#x9752;&#x5C11;" start="20250907000000 +0800" stop="20250907000100 +0800">
@@ -8782,6 +8786,8 @@
 		<title lang="zh">血证一九二八</title>
 	</programme><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20250907190900 +0800" stop="20250907210800 +0800">
 		<title lang="zh">来福大酒店</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20250907210800 +0800" stop="20250907225100 +0800">
+		<title lang="zh">那个不为人知的故事</title>
 	</programme><channel id="&#x9ED1;&#x8393;&#x52A8;&#x753B;">
 		<display-name lang="zh">黑莓动画</display-name>
 	</channel><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20250907000100 +0800" stop="20250907012300 +0800">
@@ -8836,6 +8842,16 @@
 		<title lang="zh">15_喜羊羊与灰太狼之嘻哈闯世界之三</title>
 	</programme><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20250907202600 +0800" stop="20250907204100 +0800">
 		<title lang="zh">16_喜羊羊与灰太狼之嘻哈闯世界之三</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20250907204100 +0800" stop="20250907205600 +0800">
+		<title lang="zh">17_喜羊羊与灰太狼之嘻哈闯世界之三</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20250907205600 +0800" stop="20250907211100 +0800">
+		<title lang="zh">18_喜羊羊与灰太狼之嘻哈闯世界之三</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20250907211100 +0800" stop="20250907212600 +0800">
+		<title lang="zh">19_喜羊羊与灰太狼之嘻哈闯世界之三</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20250907212600 +0800" stop="20250907214100 +0800">
+		<title lang="zh">20_喜羊羊与灰太狼之嘻哈闯世界之三</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20250907215600 +0800" stop="20250907221100 +0800">
+		<title lang="zh">22_喜羊羊与灰太狼之嘻哈闯世界之三</title>
 	</programme><channel id="&#x54D2;&#x5575;&#x8D5B;&#x4E8B;">
 		<display-name lang="zh">哒啵赛事</display-name>
 	</channel><programme channel="&#x54D2;&#x5575;&#x8D5B;&#x4E8B;" start="20250907000000 +0800" stop="20250907000200 +0800">
@@ -10204,6 +10220,10 @@
 		<title lang="zh">03_舍不得星星</title>
 	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20250907202900 +0800" stop="20250907205900 +0800">
 		<title lang="zh">《八段锦》推荐第35期</title>
+	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20250907205900 +0800" stop="20250907214600 +0800">
+		<title lang="zh">04_舍不得星星</title>
+	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20250907214600 +0800" stop="20250907223200 +0800">
+		<title lang="zh">05_舍不得星星</title>
 	</programme><channel id="&#x52A8;&#x4F5C;&#x7535;&#x5F71;">
 		<display-name lang="zh">动作电影</display-name>
 	</channel><programme channel="&#x52A8;&#x4F5C;&#x7535;&#x5F71;" start="20250907000000 +0800" stop="20250907022000 +0800">
@@ -10232,6 +10252,10 @@
 		<title lang="zh">《八段锦》推荐第35期</title>
 	</programme><programme channel="&#x52A8;&#x4F5C;&#x7535;&#x5F71;" start="20250907190600 +0800" stop="20250907203400 +0800">
 		<title lang="zh">特别追踪</title>
+	</programme><programme channel="&#x52A8;&#x4F5C;&#x7535;&#x5F71;" start="20250907203400 +0800" stop="20250907210400 +0800">
+		<title lang="zh">《八段锦》推荐第35期</title>
+	</programme><programme channel="&#x52A8;&#x4F5C;&#x7535;&#x5F71;" start="20250907210400 +0800" stop="20250907224900 +0800">
+		<title lang="zh">肇事者</title>
 	</programme><channel id="&#x53E4;&#x88C5;&#x5267;&#x573A;">
 		<display-name lang="zh">古装剧场</display-name>
 	</channel><programme channel="&#x53E4;&#x88C5;&#x5267;&#x573A;" start="20250907000000 +0800" stop="20250907000700 +0800">
@@ -10426,6 +10450,10 @@
 		<title lang="zh">《八段锦》推荐第34期</title>
 	</programme><programme channel="&#x60CA;&#x609A;&#x60AC;&#x7591;" start="20250907194500 +0800" stop="20250907210700 +0800">
 		<title lang="zh">人类削减计划</title>
+	</programme><programme channel="&#x60CA;&#x609A;&#x60AC;&#x7591;" start="20250907210700 +0800" stop="20250907213700 +0800">
+		<title lang="zh">《八段锦》推荐第34期</title>
+	</programme><programme channel="&#x60CA;&#x609A;&#x60AC;&#x7591;" start="20250907213700 +0800" stop="20250907231100 +0800">
+		<title lang="zh">陆小凤传奇之幽灵山庄</title>
 	</programme><channel id="&#x7CBE;&#x54C1;&#x4F53;&#x80B2;">
 		<display-name lang="zh">精品体育</display-name>
 	</channel><programme channel="&#x7CBE;&#x54C1;&#x4F53;&#x80B2;" start="20250907000000 +0800" stop="20250907002400 +0800">

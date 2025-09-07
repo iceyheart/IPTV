@@ -8358,6 +8358,12 @@
 		<title lang="zh">远方的家4K 山河锦绣看中国 西北边陲 大美伊犁</title>
 	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250907121200 +0800" stop="20250907125300 +0800">
 		<title lang="zh">远方的家4K 畅游边疆（1） 多滋多味 千年邕城</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250907125900 +0800" stop="20250907130400 +0800">
+		<title lang="zh">美丽中国自然4K 栗喉蜂虎系列 男儿当自强</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250907131400 +0800" stop="20250907140300 +0800">
+		<title lang="zh">中国智慧 老子篇4K</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250907140300 +0800" stop="20250907145200 +0800">
+		<title lang="zh">智造美好生活4K 第3集 慧 城市</title>
 	</programme><channel id="&#x775B;&#x5F69;&#x9752;&#x5C11;">
 		<display-name lang="zh">睛彩青少</display-name>
 	</channel><programme channel="&#x775B;&#x5F69;&#x9752;&#x5C11;" start="20250907000000 +0800" stop="20250907000100 +0800">
@@ -8672,6 +8678,8 @@
 		<title lang="zh">百团大战</title>
 	</programme><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20250907121200 +0800" stop="20250907135200 +0800">
 		<title lang="zh">第十四个目标</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20250907135200 +0800" stop="20250907152800 +0800">
+		<title lang="zh">灵犬雪莉：冒险再出发</title>
 	</programme><channel id="&#x9ED1;&#x8393;&#x52A8;&#x753B;">
 		<display-name lang="zh">黑莓动画</display-name>
 	</channel><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20250907000100 +0800" stop="20250907012300 +0800">
@@ -8694,6 +8702,8 @@
 		<title lang="zh">03_王维 长安</title>
 	</programme><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20250907112200 +0800" stop="20250907130200 +0800">
 		<title lang="zh">第十四个目标 中文版</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20250907130200 +0800" stop="20250907144100 +0800">
+		<title lang="zh">通往天国的倒计时 中文版</title>
 	</programme><channel id="&#x54D2;&#x5575;&#x8D5B;&#x4E8B;">
 		<display-name lang="zh">哒啵赛事</display-name>
 	</channel><programme channel="&#x54D2;&#x5575;&#x8D5B;&#x4E8B;" start="20250907000000 +0800" stop="20250907000200 +0800">
@@ -10040,6 +10050,10 @@
 		<title lang="zh">36_爱的阶梯</title>
 	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20250907120000 +0800" stop="20250907123100 +0800">
 		<title lang="zh">保罗麦克牛皮凉席</title>
+	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20250907123100 +0800" stop="20250907134400 +0800">
+		<title lang="zh">37_爱的阶梯</title>
+	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20250907134400 +0800" stop="20250907142500 +0800">
+		<title lang="zh">38_爱的阶梯</title>
 	</programme><channel id="&#x52A8;&#x4F5C;&#x7535;&#x5F71;">
 		<display-name lang="zh">动作电影</display-name>
 	</channel><programme channel="&#x52A8;&#x4F5C;&#x7535;&#x5F71;" start="20250907000000 +0800" stop="20250907022000 +0800">
@@ -10056,6 +10070,8 @@
 		<title lang="zh">保罗麦克牛皮凉席</title>
 	</programme><programme channel="&#x52A8;&#x4F5C;&#x7535;&#x5F71;" start="20250907121300 +0800" stop="20250907135900 +0800">
 		<title lang="zh">复仇计划</title>
+	</programme><programme channel="&#x52A8;&#x4F5C;&#x7535;&#x5F71;" start="20250907135900 +0800" stop="20250907142900 +0800">
+		<title lang="zh">睡眠专题分享</title>
 	</programme><channel id="&#x53E4;&#x88C5;&#x5267;&#x573A;">
 		<display-name lang="zh">古装剧场</display-name>
 	</channel><programme channel="&#x53E4;&#x88C5;&#x5267;&#x573A;" start="20250907000000 +0800" stop="20250907000700 +0800">
@@ -10238,6 +10254,8 @@
 		<title lang="zh">保罗麦克牛皮凉席</title>
 	</programme><programme channel="&#x60CA;&#x609A;&#x60AC;&#x7591;" start="20250907120200 +0800" stop="20250907134300 +0800">
 		<title lang="zh">怒火冲天</title>
+	</programme><programme channel="&#x60CA;&#x609A;&#x60AC;&#x7591;" start="20250907134300 +0800" stop="20250907150700 +0800">
+		<title lang="zh">重案行动之连环凶杀（普通话版）</title>
 	</programme><channel id="&#x7CBE;&#x54C1;&#x4F53;&#x80B2;">
 		<display-name lang="zh">精品体育</display-name>
 	</channel><programme channel="&#x7CBE;&#x54C1;&#x4F53;&#x80B2;" start="20250907000000 +0800" stop="20250907002400 +0800">

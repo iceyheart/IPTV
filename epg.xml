@@ -8478,6 +8478,12 @@
 		<title lang="zh">远方的家4K 畅游边疆（2） 多彩南宁 活力壮乡</title>
 	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250908200900 +0800" stop="20250908205000 +0800">
 		<title lang="zh">远方的家4K 畅游边疆（3） 中国西南“山海关”</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250908210000 +0800" stop="20250908211000 +0800">
+		<title lang="zh">秘境之眼4K 钱江源水岸秘境</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250908211000 +0800" stop="20250908221000 +0800">
+		<title lang="zh">神奇的中国4K</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250908221000 +0800" stop="20250908230000 +0800">
+		<title lang="zh">智造美好生活4K 第4集 绿 生态</title>
 	</programme><channel id="&#x775B;&#x5F69;&#x9752;&#x5C11;">
 		<display-name lang="zh">睛彩青少</display-name>
 	</channel><programme channel="&#x775B;&#x5F69;&#x9752;&#x5C11;" start="20250908000000 +0800" stop="20250908000100 +0800">
@@ -8810,6 +8816,8 @@
 		<title lang="zh">永不妥协</title>
 	</programme><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20250908200900 +0800" stop="20250908213900 +0800">
 		<title lang="zh">绑架游戏</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20250908213900 +0800" stop="20250908231600 +0800">
+		<title lang="zh">根本停不下来</title>
 	</programme><channel id="&#x9ED1;&#x8393;&#x52A8;&#x753B;">
 		<display-name lang="zh">黑莓动画</display-name>
 	</channel><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20250908001100 +0800" stop="20250908014000 +0800">
@@ -8838,6 +8846,10 @@
 		<title lang="zh">01_王的微笑</title>
 	</programme><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20250908201000 +0800" stop="20250908205500 +0800">
 		<title lang="zh">01_宇宙信使</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20250908205500 +0800" stop="20250908212000 +0800">
+		<title lang="zh">01_摹张萱虢国夫人游春图</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20250908212000 +0800" stop="20250908232100 +0800">
+		<title lang="zh">01_大地上的成长</title>
 	</programme><channel id="&#x54D2;&#x5575;&#x8D5B;&#x4E8B;">
 		<display-name lang="zh">哒啵赛事</display-name>
 	</channel><programme channel="&#x54D2;&#x5575;&#x8D5B;&#x4E8B;" start="20250908000000 +0800" stop="20250908003000 +0800">
@@ -10204,6 +10216,10 @@
 		<title lang="zh">我的青春期</title>
 	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20250908201900 +0800" stop="20250908204900 +0800">
 		<title lang="zh">《八段锦》推荐第35期</title>
+	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20250908204900 +0800" stop="20250908213600 +0800">
+		<title lang="zh">07_舍不得星星</title>
+	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20250908213600 +0800" stop="20250908222300 +0800">
+		<title lang="zh">08_舍不得星星</title>
 	</programme><channel id="&#x52A8;&#x4F5C;&#x7535;&#x5F71;">
 		<display-name lang="zh">动作电影</display-name>
 	</channel><programme channel="&#x52A8;&#x4F5C;&#x7535;&#x5F71;" start="20250908001400 +0800" stop="20250908023400 +0800">
@@ -10234,6 +10250,10 @@
 		<title lang="zh">《八段锦》推荐第35期</title>
 	</programme><programme channel="&#x52A8;&#x4F5C;&#x7535;&#x5F71;" start="20250908200800 +0800" stop="20250908213900 +0800">
 		<title lang="zh">一个好人</title>
+	</programme><programme channel="&#x52A8;&#x4F5C;&#x7535;&#x5F71;" start="20250908213900 +0800" stop="20250908220900 +0800">
+		<title lang="zh">《八段锦》推荐第35期</title>
+	</programme><programme channel="&#x52A8;&#x4F5C;&#x7535;&#x5F71;" start="20250908220900 +0800" stop="20250908233200 +0800">
+		<title lang="zh">初级特工</title>
 	</programme><channel id="&#x53E4;&#x88C5;&#x5267;&#x573A;">
 		<display-name lang="zh">古装剧场</display-name>
 	</channel><programme channel="&#x53E4;&#x88C5;&#x5267;&#x573A;" start="20250908000000 +0800" stop="20250908001100 +0800">
@@ -10430,6 +10450,10 @@
 		<title lang="zh">《八段锦》推荐第34期</title>
 	</programme><programme channel="&#x60CA;&#x609A;&#x60AC;&#x7591;" start="20250908193300 +0800" stop="20250908204800 +0800">
 		<title lang="zh">狄仁杰之伏妖篇</title>
+	</programme><programme channel="&#x60CA;&#x609A;&#x60AC;&#x7591;" start="20250908204800 +0800" stop="20250908211800 +0800">
+		<title lang="zh">《八段锦》推荐第34期</title>
+	</programme><programme channel="&#x60CA;&#x609A;&#x60AC;&#x7591;" start="20250908211800 +0800" stop="20250908224600 +0800">
+		<title lang="zh">怪探司马洛之密室谍影</title>
 	</programme><channel id="&#x7CBE;&#x54C1;&#x4F53;&#x80B2;">
 		<display-name lang="zh">精品体育</display-name>
 	</channel><programme channel="&#x7CBE;&#x54C1;&#x4F53;&#x80B2;" start="20250908000000 +0800" stop="20250908000700 +0800">

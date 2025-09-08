@@ -8488,6 +8488,10 @@
 		<title lang="zh">好吃客4K 锡林郭勒</title>
 	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250908153800 +0800" stop="20250908161800 +0800">
 		<title lang="zh">荣宝斋4K 第3集 斋藏绝技</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250908161800 +0800" stop="20250908164500 +0800">
+		<title lang="zh">记住乡愁4K 第七季 第58集 恩阳——知义感恩巴子城</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250908164500 +0800" stop="20250908171300 +0800">
+		<title lang="zh">记住乡愁4K 第七季 第59集 遵义——革命转折地 千古忠义城</title>
 	</programme><channel id="&#x775B;&#x5F69;&#x9752;&#x5C11;">
 		<display-name lang="zh">睛彩青少</display-name>
 	</channel><programme channel="&#x775B;&#x5F69;&#x9752;&#x5C11;" start="20250908000000 +0800" stop="20250908000100 +0800">
@@ -10190,6 +10194,8 @@
 		<title lang="zh">睡眠专题分享</title>
 	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20250908151200 +0800" stop="20250908162700 +0800">
 		<title lang="zh">43_爱的阶梯</title>
+	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20250908162700 +0800" stop="20250908170200 +0800">
+		<title lang="zh">44_爱的阶梯</title>
 	</programme><channel id="&#x52A8;&#x4F5C;&#x7535;&#x5F71;">
 		<display-name lang="zh">动作电影</display-name>
 	</channel><programme channel="&#x52A8;&#x4F5C;&#x7535;&#x5F71;" start="20250908001400 +0800" stop="20250908023400 +0800">
@@ -10210,6 +10216,8 @@
 		<title lang="zh">睡眠专题分享</title>
 	</programme><programme channel="&#x52A8;&#x4F5C;&#x7535;&#x5F71;" start="20250908144200 +0800" stop="20250908163000 +0800">
 		<title lang="zh">使命营救</title>
+	</programme><programme channel="&#x52A8;&#x4F5C;&#x7535;&#x5F71;" start="20250908163000 +0800" stop="20250908175700 +0800">
+		<title lang="zh">死亡斗士</title>
 	</programme><channel id="&#x53E4;&#x88C5;&#x5267;&#x573A;">
 		<display-name lang="zh">古装剧场</display-name>
 	</channel><programme channel="&#x53E4;&#x88C5;&#x5267;&#x573A;" start="20250908000000 +0800" stop="20250908001100 +0800">
@@ -10398,6 +10406,8 @@
 		<title lang="zh">死亡斗士</title>
 	</programme><programme channel="&#x60CA;&#x609A;&#x60AC;&#x7591;" start="20250908161500 +0800" stop="20250908162600 +0800">
 		<title lang="zh">睡眠专题分享</title>
+	</programme><programme channel="&#x60CA;&#x609A;&#x60AC;&#x7591;" start="20250908163600 +0800" stop="20250908174400 +0800">
+		<title lang="zh">使命营救</title>
 	</programme><channel id="&#x7CBE;&#x54C1;&#x4F53;&#x80B2;">
 		<display-name lang="zh">精品体育</display-name>
 	</channel><programme channel="&#x7CBE;&#x54C1;&#x4F53;&#x80B2;" start="20250908000000 +0800" stop="20250908000700 +0800">

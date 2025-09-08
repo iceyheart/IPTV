@@ -7675,6 +7675,22 @@
 		<display-name lang="zh">纯享4K</display-name>
 	</channel><programme channel="&#x7EAF;&#x4EAB;4K" start="20250909000900 +0800" stop="20250909003700 +0800">
 		<title lang="zh">记住乡愁4K第八季 桃源村——桃源深处有人家</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250909003700 +0800" stop="20250909010500 +0800">
+		<title lang="zh">记住乡愁4K第八季 骆驼湾村——只要有信心 黄土变成金</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250909010500 +0800" stop="20250909013400 +0800">
+		<title lang="zh">味道4K 原味乡间b7舒城篇</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250909013400 +0800" stop="20250909020400 +0800">
+		<title lang="zh">味道4K 原味乡间b7英德篇（1）</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250909020400 +0800" stop="20250909024400 +0800">
+		<title lang="zh">探索b7发现4K “劫后余存”的公主墓</title>
+	</programme><channel id="&#x9ED1;&#x8393;&#x7535;&#x5F71;">
+		<display-name lang="zh">黑莓电影</display-name>
+	</channel><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20250909010400 +0800" stop="20250909024800 +0800">
+		<title lang="zh">深海越狱</title>
+	</programme><channel id="&#x9ED1;&#x8393;&#x52A8;&#x753B;">
+		<display-name lang="zh">黑莓动画</display-name>
+	</channel><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20250909011100 +0800" stop="20250909023300 +0800">
+		<title lang="zh">黑猫警长之翡翠之星</title>
 	</programme><channel id="&#x91D1;&#x9E70;&#x5361;&#x901A;">
 		<display-name lang="zh">金鹰卡通</display-name>
 	</channel><programme channel="&#x91D1;&#x9E70;&#x5361;&#x901A;" start="20250909000000 +0800" stop="20250909032000 +0800">

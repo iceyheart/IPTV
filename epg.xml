@@ -8474,6 +8474,10 @@
 		<title lang="zh">艺术里的奥林匹克4K 溪山独钓图</title>
 	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250908113600 +0800" stop="20250908121700 +0800">
 		<title lang="zh">远方的家4K 畅游边疆（2） 多彩南宁 活力壮乡</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250908121700 +0800" stop="20250908125800 +0800">
+		<title lang="zh">远方的家4K 畅游边疆（3） 中国西南“山海关”</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250908125800 +0800" stop="20250908130300 +0800">
+		<title lang="zh">美丽中国自然4K 栗喉蜂虎系列 为爱坚守</title>
 	</programme><channel id="&#x775B;&#x5F69;&#x9752;&#x5C11;">
 		<display-name lang="zh">睛彩青少</display-name>
 	</channel><programme channel="&#x775B;&#x5F69;&#x9752;&#x5C11;" start="20250908000000 +0800" stop="20250908000100 +0800">
@@ -8816,6 +8820,8 @@
 		<title lang="zh">淘气包马小跳</title>
 	</programme><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20250908111700 +0800" stop="20250908124600 +0800">
 		<title lang="zh">金猴降妖</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20250908124600 +0800" stop="20250908165200 +0800">
+		<title lang="zh">01_杜甫 江湖</title>
 	</programme><channel id="&#x54D2;&#x5575;&#x8D5B;&#x4E8B;">
 		<display-name lang="zh">哒啵赛事</display-name>
 	</channel><programme channel="&#x54D2;&#x5575;&#x8D5B;&#x4E8B;" start="20250908000000 +0800" stop="20250908003000 +0800">
@@ -10160,6 +10166,10 @@
 		<title lang="zh">47_三生三世枕上书</title>
 	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20250908104200 +0800" stop="20250908121300 +0800">
 		<title lang="zh">星语心愿之再爱</title>
+	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20250908121300 +0800" stop="20250908124400 +0800">
+		<title lang="zh">保罗麦克牛皮凉席</title>
+	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20250908124400 +0800" stop="20250908140200 +0800">
+		<title lang="zh">41_爱的阶梯</title>
 	</programme><channel id="&#x52A8;&#x4F5C;&#x7535;&#x5F71;">
 		<display-name lang="zh">动作电影</display-name>
 	</channel><programme channel="&#x52A8;&#x4F5C;&#x7535;&#x5F71;" start="20250908001400 +0800" stop="20250908023400 +0800">
@@ -10174,6 +10184,8 @@
 		<title lang="zh">人口交易</title>
 	</programme><programme channel="&#x52A8;&#x4F5C;&#x7535;&#x5F71;" start="20250908114600 +0800" stop="20250908121700 +0800">
 		<title lang="zh">保罗麦克牛皮凉席</title>
+	</programme><programme channel="&#x52A8;&#x4F5C;&#x7535;&#x5F71;" start="20250908121700 +0800" stop="20250908141200 +0800">
+		<title lang="zh">海豹突击队大战僵尸</title>
 	</programme><channel id="&#x53E4;&#x88C5;&#x5267;&#x573A;">
 		<display-name lang="zh">古装剧场</display-name>
 	</channel><programme channel="&#x53E4;&#x88C5;&#x5267;&#x573A;" start="20250908000000 +0800" stop="20250908001100 +0800">
@@ -10354,6 +10366,10 @@
 		<title lang="zh">太空骨王骨胶原蛋白肽</title>
 	</programme><programme channel="&#x60CA;&#x609A;&#x60AC;&#x7591;" start="20250908104000 +0800" stop="20250908120600 +0800">
 		<title lang="zh">复仇计划</title>
+	</programme><programme channel="&#x60CA;&#x609A;&#x60AC;&#x7591;" start="20250908120600 +0800" stop="20250908123600 +0800">
+		<title lang="zh">保罗麦克牛皮凉席</title>
+	</programme><programme channel="&#x60CA;&#x609A;&#x60AC;&#x7591;" start="20250908123600 +0800" stop="20250908143800 +0800">
+		<title lang="zh">潜伏者</title>
 	</programme><channel id="&#x7CBE;&#x54C1;&#x4F53;&#x80B2;">
 		<display-name lang="zh">精品体育</display-name>
 	</channel><programme channel="&#x7CBE;&#x54C1;&#x4F53;&#x80B2;" start="20250908000000 +0800" stop="20250908000700 +0800">

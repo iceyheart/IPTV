@@ -8483,6 +8483,12 @@
 		<title lang="zh">秘境之眼4K 黄河滩涂上的精灵</title>
 	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250909132200 +0800" stop="20250909142200 +0800">
 		<title lang="zh">巅峰使命4K 第二次青藏科考2022珠峰科考纪实</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250909142200 +0800" stop="20250909151000 +0800">
+		<title lang="zh">智造美好生活4K 第6集 创 未来</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250909151000 +0800" stop="20250909153900 +0800">
+		<title lang="zh">好吃客4K 昆明</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250909153900 +0800" stop="20250909161900 +0800">
+		<title lang="zh">荣宝斋4K 第3集 斋藏绝技</title>
 	</programme><channel id="&#x775B;&#x5F69;&#x9752;&#x5C11;">
 		<display-name lang="zh">睛彩青少</display-name>
 	</channel><programme channel="&#x775B;&#x5F69;&#x9752;&#x5C11;" start="20250909000000 +0800" stop="20250909000100 +0800">
@@ -8791,6 +8797,8 @@
 		<title lang="zh">蜡笔小新剧场版2014</title>
 	</programme><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20250909132800 +0800" stop="20250909145400 +0800">
 		<title lang="zh">反诈风暴之不可饶恕</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20250909145400 +0800" stop="20250909170700 +0800">
+		<title lang="zh">雄狮少年2</title>
 	</programme><channel id="&#x9ED1;&#x8393;&#x52A8;&#x753B;">
 		<display-name lang="zh">黑莓动画</display-name>
 	</channel><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20250909011100 +0800" stop="20250909023300 +0800">
@@ -8817,6 +8825,8 @@
 		<title lang="zh">通往天国的倒计时 中文版</title>
 	</programme><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20250909132100 +0800" stop="20250909150200 +0800">
 		<title lang="zh">蜡笔小新：我的搬家物语 仙人掌大袭击</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20250909150200 +0800" stop="20250909173000 +0800">
+		<title lang="zh">01_千里之堤 溃于蚁穴</title>
 	</programme><channel id="&#x54D2;&#x5575;&#x8D5B;&#x4E8B;">
 		<display-name lang="zh">哒啵赛事</display-name>
 	</channel><programme channel="&#x54D2;&#x5575;&#x8D5B;&#x4E8B;" start="20250909000000 +0800" stop="20250909000200 +0800">
@@ -10145,6 +10155,12 @@
 		<title lang="zh">47_爱的阶梯</title>
 	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20250909140500 +0800" stop="20250909143600 +0800">
 		<title lang="zh">48_爱的阶梯</title>
+	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20250909143600 +0800" stop="20250909150600 +0800">
+		<title lang="zh">睡眠专题分享</title>
+	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20250909150600 +0800" stop="20250909154700 +0800">
+		<title lang="zh">49_爱的阶梯</title>
+	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20250909154700 +0800" stop="20250909162600 +0800">
+		<title lang="zh">50_爱的阶梯</title>
 	</programme><channel id="&#x52A8;&#x4F5C;&#x7535;&#x5F71;">
 		<display-name lang="zh">动作电影</display-name>
 	</channel><programme channel="&#x52A8;&#x4F5C;&#x7535;&#x5F71;" start="20250909000200 +0800" stop="20250909022400 +0800">
@@ -10163,6 +10179,8 @@
 		<title lang="zh">喋血外星人</title>
 	</programme><programme channel="&#x52A8;&#x4F5C;&#x7535;&#x5F71;" start="20250909135900 +0800" stop="20250909142900 +0800">
 		<title lang="zh">睡眠专题分享</title>
+	</programme><programme channel="&#x52A8;&#x4F5C;&#x7535;&#x5F71;" start="20250909142900 +0800" stop="20250909162700 +0800">
+		<title lang="zh">狄仁杰之焚天异火</title>
 	</programme><channel id="&#x53E4;&#x88C5;&#x5267;&#x573A;">
 		<display-name lang="zh">古装剧场</display-name>
 	</channel><programme channel="&#x53E4;&#x88C5;&#x5267;&#x573A;" start="20250909000000 +0800" stop="20250909001400 +0800">
@@ -10345,6 +10363,10 @@
 		<title lang="zh">异形寄生：起源</title>
 	</programme><programme channel="&#x60CA;&#x609A;&#x60AC;&#x7591;" start="20250909131800 +0800" stop="20250909150300 +0800">
 		<title lang="zh">鬼吹灯之南海归墟</title>
+	</programme><programme channel="&#x60CA;&#x609A;&#x60AC;&#x7591;" start="20250909151300 +0800" stop="20250909152300 +0800">
+		<title lang="zh">睡眠专题分享</title>
+	</programme><programme channel="&#x60CA;&#x609A;&#x60AC;&#x7591;" start="20250909153300 +0800" stop="20250909170300 +0800">
+		<title lang="zh">黑楼惊魂</title>
 	</programme><channel id="&#x7CBE;&#x54C1;&#x4F53;&#x80B2;">
 		<display-name lang="zh">精品体育</display-name>
 	</channel><programme channel="&#x7CBE;&#x54C1;&#x4F53;&#x80B2;" start="20250909000000 +0800" stop="20250909002100 +0800">

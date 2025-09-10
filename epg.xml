@@ -7588,10 +7588,24 @@
 		<display-name lang="zh">纯享4K</display-name>
 	</channel><programme channel="&#x7EAF;&#x4EAB;4K" start="20250911001300 +0800" stop="20250911004100 +0800">
 		<title lang="zh">记住乡愁4K第八季 六渡河村——清风拂栗海 万里渡河来</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250911004100 +0800" stop="20250911010900 +0800">
+		<title lang="zh">记住乡愁4K第八季 周窝村——音乐敲响幸福门</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250911010900 +0800" stop="20250911013900 +0800">
+		<title lang="zh">味道4K 原味乡间b7德江篇 下</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250911013900 +0800" stop="20250911020800 +0800">
+		<title lang="zh">味道4K 美味天津</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250911020800 +0800" stop="20250911024800 +0800">
+		<title lang="zh">探索b7发现4K 洛阳朱仓北朝墓</title>
+	</programme><channel id="&#x9ED1;&#x8393;&#x7535;&#x5F71;">
+		<display-name lang="zh">黑莓电影</display-name>
+	</channel><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20250911010200 +0800" stop="20250911030200 +0800">
+		<title lang="zh">再见金钱，前往贫困村</title>
 	</programme><channel id="&#x9ED1;&#x8393;&#x52A8;&#x753B;">
 		<display-name lang="zh">黑莓动画</display-name>
 	</channel><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20250911000400 +0800" stop="20250911012500 +0800">
 		<title lang="zh">黑猫警长之翡翠之星</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20250911012500 +0800" stop="20250911030600 +0800">
+		<title lang="zh">画江湖之天罡</title>
 	</programme><channel id="&#x91D1;&#x9E70;&#x5361;&#x901A;">
 		<display-name lang="zh">金鹰卡通</display-name>
 	</channel><programme channel="&#x91D1;&#x9E70;&#x5361;&#x901A;" start="20250911000000 +0800" stop="20250911032000 +0800">

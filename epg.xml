@@ -8377,6 +8377,10 @@
 		<title lang="zh">远方的家4K 畅游边疆（6） 百色百味</title>
 	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250910201200 +0800" stop="20250910205400 +0800">
 		<title lang="zh">远方的家4K 畅游边疆（7） 万山千姿百色城</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250910205900 +0800" stop="20250910210400 +0800">
+		<title lang="zh">美丽中国自然4K 栗喉蜂虎系列 守护绿莺雀</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250910211400 +0800" stop="20250910220400 +0800">
+		<title lang="zh">大太平洋4K 第一集 激情</title>
 	</programme><channel id="&#x775B;&#x5F69;&#x9752;&#x5C11;">
 		<display-name lang="zh">睛彩青少</display-name>
 	</channel><programme channel="&#x775B;&#x5F69;&#x9752;&#x5C11;" start="20250910000000 +0800" stop="20250910000100 +0800">
@@ -8679,6 +8683,8 @@
 		<title lang="zh">东北告别天团2</title>
 	</programme><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20250910190600 +0800" stop="20250910210300 +0800">
 		<title lang="zh">嗝嗝老师</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20250910210300 +0800" stop="20250910230800 +0800">
+		<title lang="zh">迫降航班</title>
 	</programme><channel id="&#x9ED1;&#x8393;&#x52A8;&#x753B;">
 		<display-name lang="zh">黑莓动画</display-name>
 	</channel><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20250910002900 +0800" stop="20250910015800 +0800">
@@ -8707,6 +8713,10 @@
 		<title lang="zh">01_王的微笑</title>
 	</programme><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20250910202800 +0800" stop="20250910211300 +0800">
 		<title lang="zh">01_宇宙信使</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20250910211300 +0800" stop="20250910213700 +0800">
+		<title lang="zh">01_摹张萱虢国夫人游春图</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20250910213700 +0800" stop="20250910233900 +0800">
+		<title lang="zh">01_大地上的成长</title>
 	</programme><channel id="&#x54D2;&#x5575;&#x8D5B;&#x4E8B;">
 		<display-name lang="zh">哒啵赛事</display-name>
 	</channel><programme channel="&#x54D2;&#x5575;&#x8D5B;&#x4E8B;" start="20250910000000 +0800" stop="20250910020600 +0800">
@@ -10015,6 +10025,10 @@
 		<title lang="zh">19_舍不得星星</title>
 	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20250910203100 +0800" stop="20250910211600 +0800">
 		<title lang="zh">20_舍不得星星</title>
+	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20250910211600 +0800" stop="20250910214600 +0800">
+		<title lang="zh">《美丽密码》推荐第120期</title>
+	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20250910214600 +0800" stop="20250910225500 +0800">
+		<title lang="zh">飞鸿笑传</title>
 	</programme><channel id="&#x52A8;&#x4F5C;&#x7535;&#x5F71;">
 		<display-name lang="zh">动作电影</display-name>
 	</channel><programme channel="&#x52A8;&#x4F5C;&#x7535;&#x5F71;" start="20250910000000 +0800" stop="20250910003000 +0800">
@@ -10295,6 +10309,10 @@
 		<title lang="zh">《超级美味》推荐第4期30分钟</title>
 	</programme><programme channel="&#x60CA;&#x609A;&#x60AC;&#x7591;" start="20250910193000 +0800" stop="20250910211000 +0800">
 		<title lang="zh">制暴</title>
+	</programme><programme channel="&#x60CA;&#x609A;&#x60AC;&#x7591;" start="20250910211000 +0800" stop="20250910214000 +0800">
+		<title lang="zh">《时尚新达人》推荐第一期</title>
+	</programme><programme channel="&#x60CA;&#x609A;&#x60AC;&#x7591;" start="20250910214000 +0800" stop="20250910230200 +0800">
+		<title lang="zh">狄仁杰之降魔咒</title>
 	</programme><channel id="&#x7CBE;&#x54C1;&#x4F53;&#x80B2;">
 		<display-name lang="zh">精品体育</display-name>
 	</channel><programme channel="&#x7CBE;&#x54C1;&#x4F53;&#x80B2;" start="20250910000000 +0800" stop="20250910011900 +0800">

@@ -8313,6 +8313,12 @@
 		<title lang="zh">味道4K 原味乡间b7英德篇（3）</title>
 	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250910101000 +0800" stop="20250910105000 +0800">
 		<title lang="zh">探索b7发现4K 姑蔑古国寻踪</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250910105000 +0800" stop="20250910112000 +0800">
+		<title lang="zh">传承 第三季4K 第五集 承心</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250910112500 +0800" stop="20250910113900 +0800">
+		<title lang="zh">艺术里的奥林匹克4K 网球派对</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250910113900 +0800" stop="20250910122100 +0800">
+		<title lang="zh">远方的家4K 畅游边疆（6） 百色百味</title>
 	</programme><channel id="&#x775B;&#x5F69;&#x9752;&#x5C11;">
 		<display-name lang="zh">睛彩青少</display-name>
 	</channel><programme channel="&#x775B;&#x5F69;&#x9752;&#x5C11;" start="20250910000000 +0800" stop="20250910000100 +0800">
@@ -8603,6 +8609,8 @@
 		<title lang="zh">冒牌大哥</title>
 	</programme><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20250910091400 +0800" stop="20250910105100 +0800">
 		<title lang="zh">人鱼缚</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20250910105100 +0800" stop="20250910123600 +0800">
+		<title lang="zh">叱咤风云</title>
 	</programme><channel id="&#x9ED1;&#x8393;&#x52A8;&#x753B;">
 		<display-name lang="zh">黑莓动画</display-name>
 	</channel><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20250910002900 +0800" stop="20250910015800 +0800">
@@ -8621,6 +8629,8 @@
 		<title lang="zh">狐妖小红娘b7月红2</title>
 	</programme><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20250910101100 +0800" stop="20250910113400 +0800">
 		<title lang="zh">淘气包马小跳</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20250910113400 +0800" stop="20250910130400 +0800">
+		<title lang="zh">金猴降妖</title>
 	</programme><channel id="&#x54D2;&#x5575;&#x8D5B;&#x4E8B;">
 		<display-name lang="zh">哒啵赛事</display-name>
 	</channel><programme channel="&#x54D2;&#x5575;&#x8D5B;&#x4E8B;" start="20250910000000 +0800" stop="20250910020600 +0800">
@@ -9899,6 +9909,12 @@
 		<title lang="zh">52_爱的阶梯</title>
 	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20250910102200 +0800" stop="20250910105200 +0800">
 		<title lang="zh">《超级美味》推荐第4期30分钟</title>
+	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20250910105200 +0800" stop="20250910112900 +0800">
+		<title lang="zh">53_爱的阶梯</title>
+	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20250910112900 +0800" stop="20250910121100 +0800">
+		<title lang="zh">54_爱的阶梯</title>
+	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20250910121100 +0800" stop="20250910124100 +0800">
+		<title lang="zh">《时尚新达人》推荐第一期</title>
 	</programme><channel id="&#x52A8;&#x4F5C;&#x7535;&#x5F71;">
 		<display-name lang="zh">动作电影</display-name>
 	</channel><programme channel="&#x52A8;&#x4F5C;&#x7535;&#x5F71;" start="20250910000000 +0800" stop="20250910003000 +0800">
@@ -9921,6 +9937,10 @@
 		<title lang="zh">《超级美味》推荐第4期30分钟</title>
 	</programme><programme channel="&#x52A8;&#x4F5C;&#x7535;&#x5F71;" start="20250910095900 +0800" stop="20250910110300 +0800">
 		<title lang="zh">铁甲狂猴之亡命雷霆</title>
+	</programme><programme channel="&#x52A8;&#x4F5C;&#x7535;&#x5F71;" start="20250910110300 +0800" stop="20250910113200 +0800">
+		<title lang="zh">《时尚新达人》推荐第一期</title>
+	</programme><programme channel="&#x52A8;&#x4F5C;&#x7535;&#x5F71;" start="20250910113200 +0800" stop="20250910124800 +0800">
+		<title lang="zh">铁血：生死隧战</title>
 	</programme><channel id="&#x53E4;&#x88C5;&#x5267;&#x573A;">
 		<display-name lang="zh">古装剧场</display-name>
 	</channel><programme channel="&#x53E4;&#x88C5;&#x5267;&#x573A;" start="20250910000000 +0800" stop="20250910000500 +0800">
@@ -10139,6 +10159,8 @@
 		<title lang="zh">特工追缉令</title>
 	</programme><programme channel="&#x60CA;&#x609A;&#x60AC;&#x7591;" start="20250910103100 +0800" stop="20250910110100 +0800">
 		<title lang="zh">《超级美味》推荐第4期30分钟</title>
+	</programme><programme channel="&#x60CA;&#x609A;&#x60AC;&#x7591;" start="20250910110100 +0800" stop="20250910122800 +0800">
+		<title lang="zh">粉碎罪恶</title>
 	</programme><channel id="&#x7CBE;&#x54C1;&#x4F53;&#x80B2;">
 		<display-name lang="zh">精品体育</display-name>
 	</channel><programme channel="&#x7CBE;&#x54C1;&#x4F53;&#x80B2;" start="20250910000000 +0800" stop="20250910011900 +0800">

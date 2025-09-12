@@ -7462,7 +7462,29 @@
     <title>難忘經典系列: 大名鼎鼎靚聲唱家班演唱會 (上篇) [粵]</title>
   </programme><programme start="20250914053000 +0800" stop="20250914060000 +0800" channel="PHK">
     <title>新聞今日談 [普]</title>
-  </programme><channel id="&#x91D1;&#x9E70;&#x5361;&#x901A;">
+  </programme><channel id="&#x7EAF;&#x4EAB;4K">
+		<display-name lang="zh">纯享4K</display-name>
+	</channel><programme channel="&#x7EAF;&#x4EAB;4K" start="20250913002100 +0800" stop="20250913004900 +0800">
+		<title lang="zh">记住乡愁4K第八季 德胜村——坝上草原金银滩</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250913004900 +0800" stop="20250913011700 +0800">
+		<title lang="zh">记住乡愁4K第八季 措麦村——碧湖之下 青稞飘香</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250913011700 +0800" stop="20250913014600 +0800">
+		<title lang="zh">味道4K 原味乡间b7襄阳篇（2）</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250913014600 +0800" stop="20250913021500 +0800">
+		<title lang="zh">味道4K 原味乡间b7襄阳篇（3）</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250913021500 +0800" stop="20250913025500 +0800">
+		<title lang="zh">探索b7发现4K 高原上的千年古道</title>
+	</programme><channel id="&#x9ED1;&#x8393;&#x7535;&#x5F71;">
+		<display-name lang="zh">黑莓电影</display-name>
+	</channel><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20250913011100 +0800" stop="20250913024300 +0800">
+		<title lang="zh">鬼吹灯之湘西密藏</title>
+	</programme><channel id="&#x9ED1;&#x8393;&#x52A8;&#x753B;">
+		<display-name lang="zh">黑莓动画</display-name>
+	</channel><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20250913000800 +0800" stop="20250913013600 +0800">
+		<title lang="zh">星际大逃亡</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20250913013600 +0800" stop="20250913025400 +0800">
+		<title lang="zh">西行纪之穷奇地洞</title>
+	</programme><channel id="&#x91D1;&#x9E70;&#x5361;&#x901A;">
 		<display-name lang="zh">金鹰卡通</display-name>
 	</channel><programme channel="&#x91D1;&#x9E70;&#x5361;&#x901A;" start="20250913000000 +0800" stop="20250913032000 +0800">
 		<title lang="zh">奇妙萌可之魔法甜心</title>

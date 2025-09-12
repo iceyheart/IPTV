@@ -8488,6 +8488,10 @@
 		<title lang="zh">远方的家4K 奇妙云之南 多彩西双版纳</title>
 	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250912200800 +0800" stop="20250912205000 +0800">
 		<title lang="zh">远方的家4K 奇妙云之南 澜沧韵律 寨舞茶香</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250912210000 +0800" stop="20250912215000 +0800">
+		<title lang="zh">大太平洋4K 第三集 狂暴</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250912215000 +0800" stop="20250912222000 +0800">
+		<title lang="zh">寻古中国4K 稻谷记b7晨曦寻稻</title>
 	</programme><channel id="&#x775B;&#x5F69;&#x9752;&#x5C11;">
 		<display-name lang="zh">睛彩青少</display-name>
 	</channel><programme channel="&#x775B;&#x5F69;&#x9752;&#x5C11;" start="20250912000000 +0800" stop="20250912000100 +0800">
@@ -8772,6 +8776,8 @@
 		<title lang="zh">男神时代</title>
 	</programme><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20250912182900 +0800" stop="20250912203200 +0800">
 		<title lang="zh">暮光之城3：月食</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20250912203200 +0800" stop="20250912223700 +0800">
+		<title lang="zh">热烈</title>
 	</programme><channel id="&#x9ED1;&#x8393;&#x52A8;&#x753B;">
 		<display-name lang="zh">黑莓动画</display-name>
 	</channel><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20250912005000 +0800" stop="20250912021200 +0800">
@@ -10034,6 +10040,12 @@
 		<title lang="zh">《超级美味》推荐第4期30分钟</title>
 	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20250912194800 +0800" stop="20250912203400 +0800">
 		<title lang="zh">27_舍不得星星</title>
+	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20250912203400 +0800" stop="20250912210400 +0800">
+		<title lang="zh">《美丽密码》推荐第120期</title>
+	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20250912210400 +0800" stop="20250912215000 +0800">
+		<title lang="zh">28_舍不得星星</title>
+	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20250912215000 +0800" stop="20250912223600 +0800">
+		<title lang="zh">29_舍不得星星</title>
 	</programme><channel id="&#x52A8;&#x4F5C;&#x7535;&#x5F71;">
 		<display-name lang="zh">动作电影</display-name>
 	</channel><programme channel="&#x52A8;&#x4F5C;&#x7535;&#x5F71;" start="20250912000800 +0800" stop="20250912003800 +0800">
@@ -10074,6 +10086,8 @@
 		<title lang="zh">沙鹰行动</title>
 	</programme><programme channel="&#x52A8;&#x4F5C;&#x7535;&#x5F71;" start="20250912202300 +0800" stop="20250912205300 +0800">
 		<title lang="zh">《时尚新达人》推荐第一期</title>
+	</programme><programme channel="&#x52A8;&#x4F5C;&#x7535;&#x5F71;" start="20250912205300 +0800" stop="20250912221800 +0800">
+		<title lang="zh">猎仇者</title>
 	</programme><channel id="&#x53E4;&#x88C5;&#x5267;&#x573A;">
 		<display-name lang="zh">古装剧场</display-name>
 	</channel><programme channel="&#x53E4;&#x88C5;&#x5267;&#x573A;" start="20250912000000 +0800" stop="20250912000700 +0800">
@@ -10304,6 +10318,8 @@
 		<title lang="zh">《超级美味》推荐第4期30分钟</title>
 	</programme><programme channel="&#x60CA;&#x609A;&#x60AC;&#x7591;" start="20250912200800 +0800" stop="20250912213400 +0800">
 		<title lang="zh">骑手杰克</title>
+	</programme><programme channel="&#x60CA;&#x609A;&#x60AC;&#x7591;" start="20250912213400 +0800" stop="20250912220400 +0800">
+		<title lang="zh">《时尚新达人》推荐第一期</title>
 	</programme><channel id="&#x7CBE;&#x54C1;&#x4F53;&#x80B2;">
 		<display-name lang="zh">精品体育</display-name>
 	</channel><programme channel="&#x7CBE;&#x54C1;&#x4F53;&#x80B2;" start="20250912000000 +0800" stop="20250912014100 +0800">

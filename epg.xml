@@ -8412,6 +8412,14 @@
 		<title lang="zh">大太平洋4K 第三集 狂暴</title>
 	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250912135800 +0800" stop="20250912142800 +0800">
 		<title lang="zh">寻古中国4K 稻谷记b7晨曦寻稻</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250912142800 +0800" stop="20250912145300 +0800">
+		<title lang="zh">辣椒的征途4K 第2集 谁是辣中霸主</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250912145300 +0800" stop="20250912152200 +0800">
+		<title lang="zh">好吃客4K 海南四大名菜</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250912152200 +0800" stop="20250912160200 +0800">
+		<title lang="zh">荣宝斋4K 第5集 脉动新声</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250912160200 +0800" stop="20250912163000 +0800">
+		<title lang="zh">记住乡愁4K第八季 昊苑村——贺兰山下美酒香</title>
 	</programme><channel id="&#x775B;&#x5F69;&#x9752;&#x5C11;">
 		<display-name lang="zh">睛彩青少</display-name>
 	</channel><programme channel="&#x775B;&#x5F69;&#x9752;&#x5C11;" start="20250912000000 +0800" stop="20250912000100 +0800">
@@ -8690,6 +8698,8 @@
 		<title lang="zh">人生阔别</title>
 	</programme><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20250912135400 +0800" stop="20250912153600 +0800">
 		<title lang="zh">蜡笔小新剧场版2020</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20250912153600 +0800" stop="20250912165900 +0800">
+		<title lang="zh">大话西游：至尊宝</title>
 	</programme><channel id="&#x9ED1;&#x8393;&#x52A8;&#x753B;">
 		<display-name lang="zh">黑莓动画</display-name>
 	</channel><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20250912005000 +0800" stop="20250912021200 +0800">
@@ -8710,6 +8720,8 @@
 		<title lang="zh">通往天国的倒计时 中文版</title>
 	</programme><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20250912130000 +0800" stop="20250912144200 +0800">
 		<title lang="zh">蜡笔小新：我的搬家物语 仙人掌大袭击</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20250912144200 +0800" stop="20250912170900 +0800">
+		<title lang="zh">01_千里之堤 溃于蚁穴</title>
 	</programme><channel id="&#x54D2;&#x5575;&#x8D5B;&#x4E8B;">
 		<display-name lang="zh">哒啵赛事</display-name>
 	</channel><programme channel="&#x54D2;&#x5575;&#x8D5B;&#x4E8B;" start="20250912000000 +0800" stop="20250912000200 +0800">
@@ -9928,6 +9940,12 @@
 		<title lang="zh">A咖美丽</title>
 	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20250912140800 +0800" stop="20250912144700 +0800">
 		<title lang="zh">64_爱的阶梯</title>
+	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20250912144700 +0800" stop="20250912151700 +0800">
+		<title lang="zh">《超级美味》推荐第4期30分钟</title>
+	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20250912151700 +0800" stop="20250912160000 +0800">
+		<title lang="zh">65_爱的阶梯</title>
+	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20250912160000 +0800" stop="20250912163000 +0800">
+		<title lang="zh">《超级美味》推荐第4期30分钟</title>
 	</programme><channel id="&#x52A8;&#x4F5C;&#x7535;&#x5F71;">
 		<display-name lang="zh">动作电影</display-name>
 	</channel><programme channel="&#x52A8;&#x4F5C;&#x7535;&#x5F71;" start="20250912000800 +0800" stop="20250912003800 +0800">
@@ -9956,6 +9974,8 @@
 		<title lang="zh">追凶十九年</title>
 	</programme><programme channel="&#x52A8;&#x4F5C;&#x7535;&#x5F71;" start="20250912141400 +0800" stop="20250912144400 +0800">
 		<title lang="zh">《超级美味》推荐第4期30分钟</title>
+	</programme><programme channel="&#x52A8;&#x4F5C;&#x7535;&#x5F71;" start="20250912144400 +0800" stop="20250912162200 +0800">
+		<title lang="zh">死亡之舞</title>
 	</programme><channel id="&#x53E4;&#x88C5;&#x5267;&#x573A;">
 		<display-name lang="zh">古装剧场</display-name>
 	</channel><programme channel="&#x53E4;&#x88C5;&#x5267;&#x573A;" start="20250912000000 +0800" stop="20250912000700 +0800">
@@ -10174,6 +10194,10 @@
 		<title lang="zh">《时尚新达人》推荐第一期</title>
 	</programme><programme channel="&#x60CA;&#x609A;&#x60AC;&#x7591;" start="20250912133900 +0800" stop="20250912153200 +0800">
 		<title lang="zh">无人区</title>
+	</programme><programme channel="&#x60CA;&#x609A;&#x60AC;&#x7591;" start="20250912153200 +0800" stop="20250912160200 +0800">
+		<title lang="zh">《超级美味》推荐第4期30分钟</title>
+	</programme><programme channel="&#x60CA;&#x609A;&#x60AC;&#x7591;" start="20250912160200 +0800" stop="20250912173100 +0800">
+		<title lang="zh">鲨卷风3</title>
 	</programme><channel id="&#x7CBE;&#x54C1;&#x4F53;&#x80B2;">
 		<display-name lang="zh">精品体育</display-name>
 	</channel><programme channel="&#x7CBE;&#x54C1;&#x4F53;&#x80B2;" start="20250912000000 +0800" stop="20250912014100 +0800">

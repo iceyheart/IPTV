@@ -7241,7 +7241,29 @@
     <title>難忘經典系列: 大名鼎鼎靚聲唱家班演唱會 (下篇) [粵]</title>
   </programme><programme start="20250915053000 +0800" stop="20250915060000 +0800" channel="PHK">
     <title>新聞今日談 [普]</title>
-  </programme><channel id="&#x91D1;&#x9E70;&#x5361;&#x901A;">
+  </programme><channel id="&#x7EAF;&#x4EAB;4K">
+		<display-name lang="zh">纯享4K</display-name>
+	</channel><programme channel="&#x7EAF;&#x4EAB;4K" start="20250914000800 +0800" stop="20250914003600 +0800">
+		<title lang="zh">记住乡愁4K第八季 顾家善村——万事善为乐 生活如花香</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250914003600 +0800" stop="20250914010400 +0800">
+		<title lang="zh">记住乡愁4K第八季 詹家岗村——岗上人家 禾下乘凉</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250914010400 +0800" stop="20250914013300 +0800">
+		<title lang="zh">味道4K 原味乡间b7襄阳篇（4）</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250914013300 +0800" stop="20250914020200 +0800">
+		<title lang="zh">味道4K 原味乡间b7德江篇 上</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250914020200 +0800" stop="20250914024200 +0800">
+		<title lang="zh">探索b7发现4K 史前古城探秘</title>
+	</programme><channel id="&#x9ED1;&#x8393;&#x7535;&#x5F71;">
+		<display-name lang="zh">黑莓电影</display-name>
+	</channel><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20250914003500 +0800" stop="20250914022000 +0800">
+		<title lang="zh">鬼吹灯之南海归墟</title>
+	</programme><channel id="&#x9ED1;&#x8393;&#x52A8;&#x753B;">
+		<display-name lang="zh">黑莓动画</display-name>
+	</channel><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20250914004900 +0800" stop="20250914021100 +0800">
+		<title lang="zh">神奇乐园历险记（普通话版）</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20250914021100 +0800" stop="20250914033800 +0800">
+		<title lang="zh">棉球方块历险记</title>
+	</programme><channel id="&#x91D1;&#x9E70;&#x5361;&#x901A;">
 		<display-name lang="zh">金鹰卡通</display-name>
 	</channel><programme channel="&#x91D1;&#x9E70;&#x5361;&#x901A;" start="20250914000000 +0800" stop="20250914032000 +0800">
 		<title lang="zh">奇妙萌可之闪亮宝石</title>

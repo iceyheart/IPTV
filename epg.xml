@@ -8380,6 +8380,10 @@
 		<title lang="zh">好吃客4K 绍兴</title>
 	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250913194100 +0800" stop="20250913202300 +0800">
 		<title lang="zh">远方的家4K 奇妙云之南 身临“奇”境 畅游临沧</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250913202300 +0800" stop="20250913210500 +0800">
+		<title lang="zh">远方的家 奇妙云之南 高原明珠 山水大理</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250913211500 +0800" stop="20250913220500 +0800">
+		<title lang="zh">大太平洋4K 第四集 饕餮</title>
 	</programme><channel id="&#x775B;&#x5F69;&#x9752;&#x5C11;">
 		<display-name lang="zh">睛彩青少</display-name>
 	</channel><programme channel="&#x775B;&#x5F69;&#x9752;&#x5C11;" start="20250913000000 +0800" stop="20250913000100 +0800">
@@ -8688,6 +8692,8 @@
 		<title lang="zh">暮光之城4：破晓（上）</title>
 	</programme><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20250913200500 +0800" stop="20250913215600 +0800">
 		<title lang="zh">百元之恋</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20250913215600 +0800" stop="20250913003500 +0800">
+		<title lang="zh">变形金刚4：绝迹重生</title>
 	</programme><channel id="&#x9ED1;&#x8393;&#x52A8;&#x753B;">
 		<display-name lang="zh">黑莓动画</display-name>
 	</channel><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20250913000800 +0800" stop="20250913013600 +0800">
@@ -8724,6 +8730,8 @@
 		<title lang="zh">01_去远方</title>
 	</programme><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20250913201400 +0800" stop="20250913215200 +0800">
 		<title lang="zh">银魂最终篇</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20250913215200 +0800" stop="20250913231600 +0800">
+		<title lang="zh">虹猫蓝兔火凤凰</title>
 	</programme><channel id="&#x54D2;&#x5575;&#x8D5B;&#x4E8B;">
 		<display-name lang="zh">哒啵赛事</display-name>
 	</channel><programme channel="&#x54D2;&#x5575;&#x8D5B;&#x4E8B;" start="20250913000000 +0800" stop="20250913022200 +0800">
@@ -10158,6 +10166,12 @@
 		<title lang="zh">02_无所畏惧</title>
 	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20250913195300 +0800" stop="20250913202300 +0800">
 		<title lang="zh">《超级美味》推荐第6期</title>
+	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20250913202300 +0800" stop="20250913210500 +0800">
+		<title lang="zh">03_无所畏惧</title>
+	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20250913210500 +0800" stop="20250913213400 +0800">
+		<title lang="zh">《超级美味》推荐第5期30分钟</title>
+	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20250913213400 +0800" stop="20250913221600 +0800">
+		<title lang="zh">04_无所畏惧</title>
 	</programme><channel id="&#x52A8;&#x4F5C;&#x7535;&#x5F71;">
 		<display-name lang="zh">动作电影</display-name>
 	</channel><programme channel="&#x52A8;&#x4F5C;&#x7535;&#x5F71;" start="20250913001000 +0800" stop="20250913003000 +0800">
@@ -10198,6 +10212,10 @@
 		<title lang="zh">【推荐】-舒安柔按摩椅</title>
 	</programme><programme channel="&#x52A8;&#x4F5C;&#x7535;&#x5F71;" start="20250913184900 +0800" stop="20250913201900 +0800">
 		<title lang="zh">战狼</title>
+	</programme><programme channel="&#x52A8;&#x4F5C;&#x7535;&#x5F71;" start="20250913201900 +0800" stop="20250913204900 +0800">
+		<title lang="zh">《超级美味》推荐第5期30分钟</title>
+	</programme><programme channel="&#x52A8;&#x4F5C;&#x7535;&#x5F71;" start="20250913204900 +0800" stop="20250913222100 +0800">
+		<title lang="zh">超时空救兵</title>
 	</programme><channel id="&#x53E4;&#x88C5;&#x5267;&#x573A;">
 		<display-name lang="zh">古装剧场</display-name>
 	</channel><programme channel="&#x53E4;&#x88C5;&#x5267;&#x573A;" start="20250913000000 +0800" stop="20250913000600 +0800">
@@ -10438,6 +10456,10 @@
 		<title lang="zh">《超级美味》推荐第6期</title>
 	</programme><programme channel="&#x60CA;&#x609A;&#x60AC;&#x7591;" start="20250913184500 +0800" stop="20250913204200 +0800">
 		<title lang="zh">暮光之城4：破晓（上）（英文版）</title>
+	</programme><programme channel="&#x60CA;&#x609A;&#x60AC;&#x7591;" start="20250913204200 +0800" stop="20250913211200 +0800">
+		<title lang="zh">《超级美味》推荐第6期</title>
+	</programme><programme channel="&#x60CA;&#x609A;&#x60AC;&#x7591;" start="20250913211200 +0800" stop="20250913232500 +0800">
+		<title lang="zh">星际迷航：暗黑无界</title>
 	</programme><channel id="&#x7CBE;&#x54C1;&#x4F53;&#x80B2;">
 		<display-name lang="zh">精品体育</display-name>
 	</channel><programme channel="&#x7CBE;&#x54C1;&#x4F53;&#x80B2;" start="20250913000000 +0800" stop="20250913003800 +0800">

@@ -8123,6 +8123,12 @@
 		<title lang="zh">辣椒的征途4K 第4集 吃辣的小概率事件</title>
 	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250914140900 +0800" stop="20250914142400 +0800">
 		<title lang="zh">艺术里的奥林匹克4K 内人双陆图</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250914142400 +0800" stop="20250914144800 +0800">
+		<title lang="zh">了不起的冬天4K 第1集 速度的艺术</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250914144800 +0800" stop="20250914151600 +0800">
+		<title lang="zh">好吃客4K 北京胡同</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250914151600 +0800" stop="20250914160500 +0800">
+		<title lang="zh">黄河之歌4K 第1集 黄河西来</title>
 	</programme><channel id="&#x775B;&#x5F69;&#x9752;&#x5C11;">
 		<display-name lang="zh">睛彩青少</display-name>
 	</channel><programme channel="&#x775B;&#x5F69;&#x9752;&#x5C11;" start="20250914000000 +0800" stop="20250914024000 +0800">
@@ -8427,6 +8433,8 @@
 		<title lang="zh">弓马啸西风</title>
 	</programme><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20250914123900 +0800" stop="20250914144800 +0800">
 		<title lang="zh">惊天魔盗团2</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20250914144800 +0800" stop="20250914161700 +0800">
+		<title lang="zh">妖铃铃</title>
 	</programme><channel id="&#x9ED1;&#x8393;&#x52A8;&#x753B;">
 		<display-name lang="zh">黑莓动画</display-name>
 	</channel><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20250914004900 +0800" stop="20250914021100 +0800">
@@ -8447,6 +8455,8 @@
 		<title lang="zh">太空勇狗队</title>
 	</programme><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20250914131500 +0800" stop="20250914144300 +0800">
 		<title lang="zh">海绵宝宝：水兵陆战队</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20250914144300 +0800" stop="20250914161600 +0800">
+		<title lang="zh">蜡笔小新：梦境世界大突击</title>
 	</programme><channel id="&#x54D2;&#x5575;&#x8D5B;&#x4E8B;">
 		<display-name lang="zh">哒啵赛事</display-name>
 	</channel><programme channel="&#x54D2;&#x5575;&#x8D5B;&#x4E8B;" start="20250914000000 +0800" stop="20250914000100 +0800">
@@ -9801,6 +9811,10 @@
 		<title lang="zh">04_你比星光美丽</title>
 	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20250914141600 +0800" stop="20250914150200 +0800">
 		<title lang="zh">05_你比星光美丽</title>
+	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20250914150200 +0800" stop="20250914153200 +0800">
+		<title lang="zh">【推荐】-舒安柔按摩椅</title>
+	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20250914153200 +0800" stop="20250914163200 +0800">
+		<title lang="zh">扑通扑通花少年</title>
 	</programme><channel id="&#x52A8;&#x4F5C;&#x7535;&#x5F71;">
 		<display-name lang="zh">动作电影</display-name>
 	</channel><programme channel="&#x52A8;&#x4F5C;&#x7535;&#x5F71;" start="20250914000200 +0800" stop="20250914002200 +0800">
@@ -9829,6 +9843,10 @@
 		<title lang="zh">【推荐】-舒安柔按摩椅</title>
 	</programme><programme channel="&#x52A8;&#x4F5C;&#x7535;&#x5F71;" start="20250914124800 +0800" stop="20250914142000 +0800">
 		<title lang="zh">独立日大电影</title>
+	</programme><programme channel="&#x52A8;&#x4F5C;&#x7535;&#x5F71;" start="20250914142000 +0800" stop="20250914145000 +0800">
+		<title lang="zh">【推荐】-舒安柔按摩椅</title>
+	</programme><programme channel="&#x52A8;&#x4F5C;&#x7535;&#x5F71;" start="20250914145000 +0800" stop="20250914162100 +0800">
+		<title lang="zh">虚拟世界</title>
 	</programme><channel id="&#x53E4;&#x88C5;&#x5267;&#x573A;">
 		<display-name lang="zh">古装剧场</display-name>
 	</channel><programme channel="&#x53E4;&#x88C5;&#x5267;&#x573A;" start="20250914000000 +0800" stop="20250914001900 +0800">
@@ -10059,6 +10077,8 @@
 		<title lang="zh">【推荐】-舒安柔按摩椅</title>
 	</programme><programme channel="&#x60CA;&#x609A;&#x60AC;&#x7591;" start="20250914135400 +0800" stop="20250914152000 +0800">
 		<title lang="zh">复仇计划</title>
+	</programme><programme channel="&#x60CA;&#x609A;&#x60AC;&#x7591;" start="20250914152000 +0800" stop="20250914172100 +0800">
+		<title lang="zh">潜伏者</title>
 	</programme><channel id="&#x7CBE;&#x54C1;&#x4F53;&#x80B2;">
 		<display-name lang="zh">精品体育</display-name>
 	</channel><programme channel="&#x7CBE;&#x54C1;&#x4F53;&#x80B2;" start="20250914000000 +0800" stop="20250914005200 +0800">

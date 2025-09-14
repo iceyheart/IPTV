@@ -4032,59 +4032,69 @@
 		<title lang="zh">热血剧场:亮剑</title>
 	</programme><channel id="&#x7518;&#x8083;&#x536B;&#x89C6;">
 		<display-name lang="zh">甘肃卫视</display-name>
-	</channel><programme channel="&#x7518;&#x8083;&#x536B;&#x89C6;" start="20250914003300 +0800" stop="20250914005800 +0800">
-		<title lang="zh">晚间剧场</title>
-	</programme><programme channel="&#x7518;&#x8083;&#x536B;&#x89C6;" start="20250914005800 +0800" stop="20250914013500 +0800">
-		<title lang="zh">纪录30分</title>
-	</programme><programme channel="&#x7518;&#x8083;&#x536B;&#x89C6;" start="20250914013500 +0800" stop="20250914020600 +0800">
-		<title lang="zh">甘肃新闻</title>
-	</programme><programme channel="&#x7518;&#x8083;&#x536B;&#x89C6;" start="20250914020600 +0800" stop="20250914030500 +0800">
-		<title lang="zh">如意甘肃我的家</title>
-	</programme><programme channel="&#x7518;&#x8083;&#x536B;&#x89C6;" start="20250914030500 +0800" stop="20250914034000 +0800">
-		<title lang="zh">法治伴你行</title>
-	</programme><programme channel="&#x7518;&#x8083;&#x536B;&#x89C6;" start="20250914034000 +0800" stop="20250914035700 +0800">
+	</channel><programme channel="&#x7518;&#x8083;&#x536B;&#x89C6;" start="20250914002000 +0800" stop="20250914005200 +0800">
+		<title lang="zh">上甘岭(6)</title>
+	</programme><programme channel="&#x7518;&#x8083;&#x536B;&#x89C6;" start="20250914005200 +0800" stop="20250914012600 +0800">
+		<title lang="zh">纪录30分:叶圣陶(上)</title>
+	</programme><programme channel="&#x7518;&#x8083;&#x536B;&#x89C6;" start="20250914012600 +0800" stop="20250914015900 +0800">
+		<title lang="zh">绝密543(3)</title>
+	</programme><programme channel="&#x7518;&#x8083;&#x536B;&#x89C6;" start="20250914015900 +0800" stop="20250914023400 +0800">
+		<title lang="zh">绝密543(4)</title>
+	</programme><programme channel="&#x7518;&#x8083;&#x536B;&#x89C6;" start="20250914023400 +0800" stop="20250914030400 +0800">
+		<title lang="zh">绝密543(5)</title>
+	</programme><programme channel="&#x7518;&#x8083;&#x536B;&#x89C6;" start="20250914030400 +0800" stop="20250914033900 +0800">
+		<title lang="zh">纪录30分:大敦煌(3)</title>
+	</programme><programme channel="&#x7518;&#x8083;&#x536B;&#x89C6;" start="20250914033900 +0800" stop="20250914034900 +0800">
+		<title lang="zh">劳模纪录工程:崔义明</title>
+	</programme><programme channel="&#x7518;&#x8083;&#x536B;&#x89C6;" start="20250914034900 +0800" stop="20250914042000 +0800">
+		<title lang="zh">绝密543(6)</title>
+	</programme><programme channel="&#x7518;&#x8083;&#x536B;&#x89C6;" start="20250914042000 +0800" stop="20250914045000 +0800">
+		<title lang="zh">绝密543(7)</title>
+	</programme><programme channel="&#x7518;&#x8083;&#x536B;&#x89C6;" start="20250914045000 +0800" stop="20250914052500 +0800">
+		<title lang="zh">绝密543(8)</title>
+	</programme><programme channel="&#x7518;&#x8083;&#x536B;&#x89C6;" start="20250914052500 +0800" stop="20250914055500 +0800">
+		<title lang="zh">上甘岭(7)</title>
+	</programme><programme channel="&#x7518;&#x8083;&#x536B;&#x89C6;" start="20250914055500 +0800" stop="20250914062500 +0800">
+		<title lang="zh">上甘岭(8)</title>
+	</programme><programme channel="&#x7518;&#x8083;&#x536B;&#x89C6;" start="20250914062500 +0800" stop="20250914064800 +0800">
+		<title lang="zh">生活服务</title>
+	</programme><programme channel="&#x7518;&#x8083;&#x536B;&#x89C6;" start="20250914064800 +0800" stop="20250914070000 +0800">
 		<title lang="zh">今日聚焦</title>
-	</programme><programme channel="&#x7518;&#x8083;&#x536B;&#x89C6;" start="20250914035700 +0800" stop="20250914043200 +0800">
-		<title lang="zh">如意甘肃我的家</title>
-	</programme><programme channel="&#x7518;&#x8083;&#x536B;&#x89C6;" start="20250914043200 +0800" stop="20250914050700 +0800">
-		<title lang="zh">纪录30分</title>
-	</programme><programme channel="&#x7518;&#x8083;&#x536B;&#x89C6;" start="20250914050700 +0800" stop="20250914054000 +0800">
-		<title lang="zh">好人在身边</title>
-	</programme><programme channel="&#x7518;&#x8083;&#x536B;&#x89C6;" start="20250914054000 +0800" stop="20250914060400 +0800">
-		<title lang="zh">甘肃新闻</title>
-	</programme><programme channel="&#x7518;&#x8083;&#x536B;&#x89C6;" start="20250914060400 +0800" stop="20250914070000 +0800">
-		<title lang="zh">月牙泉剧场</title>
 	</programme><programme channel="&#x7518;&#x8083;&#x536B;&#x89C6;" start="20250914070000 +0800" stop="20250914070100 +0800">
 		<title lang="zh">中华人民共和国国歌</title>
-	</programme><programme channel="&#x7518;&#x8083;&#x536B;&#x89C6;" start="20250914070100 +0800" stop="20250914080200 +0800">
-		<title lang="zh">月牙泉剧场</title>
-	</programme><programme channel="&#x7518;&#x8083;&#x536B;&#x89C6;" start="20250914080200 +0800" stop="20250914085400 +0800">
-		<title lang="zh">雄关剧场:猎鹰1949(29)</title>
-	</programme><programme channel="&#x7518;&#x8083;&#x536B;&#x89C6;" start="20250914085400 +0800" stop="20250914094800 +0800">
+	</programme><programme channel="&#x7518;&#x8083;&#x536B;&#x89C6;" start="20250914070100 +0800" stop="20250914072600 +0800">
+		<title lang="zh">甘肃新闻</title>
+	</programme><programme channel="&#x7518;&#x8083;&#x536B;&#x89C6;" start="20250914072600 +0800" stop="20250914075600 +0800">
+		<title lang="zh">丝路大讲堂</title>
+	</programme><programme channel="&#x7518;&#x8083;&#x536B;&#x89C6;" start="20250914075600 +0800" stop="20250914085600 +0800">
+		<title lang="zh">猎鹰1949(29)</title>
+	</programme><programme channel="&#x7518;&#x8083;&#x536B;&#x89C6;" start="20250914085600 +0800" stop="20250914095200 +0800">
 		<title lang="zh">雄关剧场:猎鹰1949(30)</title>
-	</programme><programme channel="&#x7518;&#x8083;&#x536B;&#x89C6;" start="20250914094800 +0800" stop="20250914104200 +0800">
+	</programme><programme channel="&#x7518;&#x8083;&#x536B;&#x89C6;" start="20250914095200 +0800" stop="20250914104900 +0800">
 		<title lang="zh">雄关剧场:猎鹰1949(31)</title>
-	</programme><programme channel="&#x7518;&#x8083;&#x536B;&#x89C6;" start="20250914104200 +0800" stop="20250914113400 +0800">
+	</programme><programme channel="&#x7518;&#x8083;&#x536B;&#x89C6;" start="20250914104900 +0800" stop="20250914113900 +0800">
 		<title lang="zh">雄关剧场:猎鹰1949(32)</title>
-	</programme><programme channel="&#x7518;&#x8083;&#x536B;&#x89C6;" start="20250914113400 +0800" stop="20250914123000 +0800">
+	</programme><programme channel="&#x7518;&#x8083;&#x536B;&#x89C6;" start="20250914113900 +0800" stop="20250914123000 +0800">
 		<title lang="zh">雄关剧场:猎鹰1949(33)</title>
-	</programme><programme channel="&#x7518;&#x8083;&#x536B;&#x89C6;" start="20250914123000 +0800" stop="20250914125100 +0800">
+	</programme><programme channel="&#x7518;&#x8083;&#x536B;&#x89C6;" start="20250914123000 +0800" stop="20250914125000 +0800">
 		<title lang="zh">午间20分</title>
-	</programme><programme channel="&#x7518;&#x8083;&#x536B;&#x89C6;" start="20250914125100 +0800" stop="20250914130300 +0800">
-		<title lang="zh">甘肃天气预报</title>
-	</programme><programme channel="&#x7518;&#x8083;&#x536B;&#x89C6;" start="20250914130300 +0800" stop="20250914135000 +0800">
-		<title lang="zh">花雨剧场</title>
-	</programme><programme channel="&#x7518;&#x8083;&#x536B;&#x89C6;" start="20250914135000 +0800" stop="20250914145200 +0800">
-		<title lang="zh">花雨剧场</title>
-	</programme><programme channel="&#x7518;&#x8083;&#x536B;&#x89C6;" start="20250914145200 +0800" stop="20250914154200 +0800">
-		<title lang="zh">花雨剧场</title>
-	</programme><programme channel="&#x7518;&#x8083;&#x536B;&#x89C6;" start="20250914154200 +0800" stop="20250914163600 +0800">
-		<title lang="zh">花雨剧场</title>
-	</programme><programme channel="&#x7518;&#x8083;&#x536B;&#x89C6;" start="20250914163600 +0800" stop="20250914173500 +0800">
-		<title lang="zh">花雨剧场</title>
-	</programme><programme channel="&#x7518;&#x8083;&#x536B;&#x89C6;" start="20250914173500 +0800" stop="20250914181000 +0800">
-		<title lang="zh">动画片剧场:超级飞侠(19)</title>
-	</programme><programme channel="&#x7518;&#x8083;&#x536B;&#x89C6;" start="20250914181000 +0800" stop="20250914183000 +0800">
+	</programme><programme channel="&#x7518;&#x8083;&#x536B;&#x89C6;" start="20250914125000 +0800" stop="20250914130000 +0800">
+		<title lang="zh">劳模纪录工程:崔义明</title>
+	</programme><programme channel="&#x7518;&#x8083;&#x536B;&#x89C6;" start="20250914130000 +0800" stop="20250914130900 +0800">
+		<title lang="zh">午间天气预报</title>
+	</programme><programme channel="&#x7518;&#x8083;&#x536B;&#x89C6;" start="20250914130900 +0800" stop="20250914135900 +0800">
+		<title lang="zh">花雨剧场:飞虎神鹰(2)</title>
+	</programme><programme channel="&#x7518;&#x8083;&#x536B;&#x89C6;" start="20250914135900 +0800" stop="20250914145500 +0800">
+		<title lang="zh">花雨剧场:飞虎神鹰(3)</title>
+	</programme><programme channel="&#x7518;&#x8083;&#x536B;&#x89C6;" start="20250914145500 +0800" stop="20250914154600 +0800">
+		<title lang="zh">花雨剧场:飞虎神鹰(4)</title>
+	</programme><programme channel="&#x7518;&#x8083;&#x536B;&#x89C6;" start="20250914154600 +0800" stop="20250914163700 +0800">
+		<title lang="zh">花雨剧场:飞虎神鹰(5)</title>
+	</programme><programme channel="&#x7518;&#x8083;&#x536B;&#x89C6;" start="20250914163700 +0800" stop="20250914173500 +0800">
+		<title lang="zh">花雨剧场:飞虎神鹰(6)</title>
+	</programme><programme channel="&#x7518;&#x8083;&#x536B;&#x89C6;" start="20250914173500 +0800" stop="20250914181100 +0800">
+		<title lang="zh">动画片剧场:超级飞侠17</title>
+	</programme><programme channel="&#x7518;&#x8083;&#x536B;&#x89C6;" start="20250914181100 +0800" stop="20250914183000 +0800">
 		<title lang="zh">今日聚焦</title>
 	</programme><programme channel="&#x7518;&#x8083;&#x536B;&#x89C6;" start="20250914183000 +0800" stop="20250914185600 +0800">
 		<title lang="zh">甘肃新闻</title>
@@ -4194,52 +4204,52 @@
 		<title lang="zh">地道战</title>
 	</programme><channel id="&#x65B0;&#x7586;&#x536B;&#x89C6;">
 		<display-name lang="zh">新疆卫视</display-name>
-	</channel><programme channel="&#x65B0;&#x7586;&#x536B;&#x89C6;" start="20250914000700 +0800" stop="20250914003600 +0800">
-		<title lang="zh">真实纪录</title>
-	</programme><programme channel="&#x65B0;&#x7586;&#x536B;&#x89C6;" start="20250914003600 +0800" stop="20250914012900 +0800">
-		<title lang="zh">新疆大地</title>
-	</programme><programme channel="&#x65B0;&#x7586;&#x536B;&#x89C6;" start="20250914012900 +0800" stop="20250914022800 +0800">
-		<title lang="zh">塔里木河</title>
-	</programme><programme channel="&#x65B0;&#x7586;&#x536B;&#x89C6;" start="20250914022800 +0800" stop="20250914031400 +0800">
+	</channel><programme channel="&#x65B0;&#x7586;&#x536B;&#x89C6;" start="20250914000400 +0800" stop="20250914002500 +0800">
+		<title lang="zh">新闻夜班车</title>
+	</programme><programme channel="&#x65B0;&#x7586;&#x536B;&#x89C6;" start="20250914002500 +0800" stop="20250914005000 +0800">
+		<title lang="zh">真实纪录:百花绚烂的新疆(1):绿洲吟唱</title>
+	</programme><programme channel="&#x65B0;&#x7586;&#x536B;&#x89C6;" start="20250914005000 +0800" stop="20250914014200 +0800">
+		<title lang="zh">新疆大地(1):大地的呼吸</title>
+	</programme><programme channel="&#x65B0;&#x7586;&#x536B;&#x89C6;" start="20250914014200 +0800" stop="20250914023900 +0800">
+		<title lang="zh">真实纪录:塔里木河-漫流</title>
+	</programme><programme channel="&#x65B0;&#x7586;&#x536B;&#x89C6;" start="20250914023900 +0800" stop="20250914032300 +0800">
 		<title lang="zh">西北岁月(35)</title>
-	</programme><programme channel="&#x65B0;&#x7586;&#x536B;&#x89C6;" start="20250914031400 +0800" stop="20250914040000 +0800">
+	</programme><programme channel="&#x65B0;&#x7586;&#x536B;&#x89C6;" start="20250914032300 +0800" stop="20250914040800 +0800">
 		<title lang="zh">西北岁月(36)</title>
-	</programme><programme channel="&#x65B0;&#x7586;&#x536B;&#x89C6;" start="20250914040000 +0800" stop="20250914044600 +0800">
+	</programme><programme channel="&#x65B0;&#x7586;&#x536B;&#x89C6;" start="20250914040800 +0800" stop="20250914045200 +0800">
 		<title lang="zh">西北岁月(37)</title>
-	</programme><programme channel="&#x65B0;&#x7586;&#x536B;&#x89C6;" start="20250914044600 +0800" stop="20250914053200 +0800">
+	</programme><programme channel="&#x65B0;&#x7586;&#x536B;&#x89C6;" start="20250914045200 +0800" stop="20250914053900 +0800">
 		<title lang="zh">西北岁月(38)</title>
-	</programme><programme channel="&#x65B0;&#x7586;&#x536B;&#x89C6;" start="20250914053200 +0800" stop="20250914062100 +0800">
+	</programme><programme channel="&#x65B0;&#x7586;&#x536B;&#x89C6;" start="20250914053900 +0800" stop="20250914062200 +0800">
 		<title lang="zh">空降利刃(4)</title>
-	</programme><programme channel="&#x65B0;&#x7586;&#x536B;&#x89C6;" start="20250914062100 +0800" stop="20250914071000 +0800">
+	</programme><programme channel="&#x65B0;&#x7586;&#x536B;&#x89C6;" start="20250914062200 +0800" stop="20250914070500 +0800">
 		<title lang="zh">空降利刃(5)</title>
-	</programme><programme channel="&#x65B0;&#x7586;&#x536B;&#x89C6;" start="20250914071000 +0800" stop="20250914075900 +0800">
+	</programme><programme channel="&#x65B0;&#x7586;&#x536B;&#x89C6;" start="20250914070500 +0800" stop="20250914080000 +0800">
 		<title lang="zh">空降利刃(6)</title>
-	</programme><programme channel="&#x65B0;&#x7586;&#x536B;&#x89C6;" start="20250914075900 +0800" stop="20250914080000 +0800">
-		<title lang="zh">中华人民共和国国歌</title>
 	</programme><programme channel="&#x65B0;&#x7586;&#x536B;&#x89C6;" start="20250914080000 +0800" stop="20250914083200 +0800">
 		<title lang="zh">新疆新闻联播</title>
-	</programme><programme channel="&#x65B0;&#x7586;&#x536B;&#x89C6;" start="20250914083200 +0800" stop="20250914084400 +0800">
+	</programme><programme channel="&#x65B0;&#x7586;&#x536B;&#x89C6;" start="20250914083200 +0800" stop="20250914084300 +0800">
 		<title lang="zh">今日聚焦</title>
-	</programme><programme channel="&#x65B0;&#x7586;&#x536B;&#x89C6;" start="20250914084400 +0800" stop="20250914094900 +0800">
+	</programme><programme channel="&#x65B0;&#x7586;&#x536B;&#x89C6;" start="20250914084300 +0800" stop="20250914094800 +0800">
 		<title lang="zh">大决战(25)</title>
-	</programme><programme channel="&#x65B0;&#x7586;&#x536B;&#x89C6;" start="20250914094900 +0800" stop="20250914105500 +0800">
+	</programme><programme channel="&#x65B0;&#x7586;&#x536B;&#x89C6;" start="20250914094800 +0800" stop="20250914105400 +0800">
 		<title lang="zh">大决战(26)</title>
-	</programme><programme channel="&#x65B0;&#x7586;&#x536B;&#x89C6;" start="20250914105500 +0800" stop="20250914120100 +0800">
+	</programme><programme channel="&#x65B0;&#x7586;&#x536B;&#x89C6;" start="20250914105400 +0800" stop="20250914115900 +0800">
 		<title lang="zh">大决战(27)</title>
-	</programme><programme channel="&#x65B0;&#x7586;&#x536B;&#x89C6;" start="20250914120100 +0800" stop="20250914130700 +0800">
+	</programme><programme channel="&#x65B0;&#x7586;&#x536B;&#x89C6;" start="20250914115900 +0800" stop="20250914130700 +0800">
 		<title lang="zh">大决战(28)</title>
 	</programme><programme channel="&#x65B0;&#x7586;&#x536B;&#x89C6;" start="20250914130700 +0800" stop="20250914140000 +0800">
 		<title lang="zh">新疆大地</title>
-	</programme><programme channel="&#x65B0;&#x7586;&#x536B;&#x89C6;" start="20250914140000 +0800" stop="20250914143500 +0800">
+	</programme><programme channel="&#x65B0;&#x7586;&#x536B;&#x89C6;" start="20250914140000 +0800" stop="20250914143600 +0800">
 		<title lang="zh">庆祝自治区成立70周年特别报道</title>
-	</programme><programme channel="&#x65B0;&#x7586;&#x536B;&#x89C6;" start="20250914143500 +0800" stop="20250914154000 +0800">
+	</programme><programme channel="&#x65B0;&#x7586;&#x536B;&#x89C6;" start="20250914143600 +0800" stop="20250914154200 +0800">
 		<title lang="zh">叛逆者(31)</title>
-	</programme><programme channel="&#x65B0;&#x7586;&#x536B;&#x89C6;" start="20250914154000 +0800" stop="20250914164500 +0800">
+	</programme><programme channel="&#x65B0;&#x7586;&#x536B;&#x89C6;" start="20250914154200 +0800" stop="20250914165000 +0800">
 		<title lang="zh">叛逆者(32)</title>
-	</programme><programme channel="&#x65B0;&#x7586;&#x536B;&#x89C6;" start="20250914164500 +0800" stop="20250914175100 +0800">
+	</programme><programme channel="&#x65B0;&#x7586;&#x536B;&#x89C6;" start="20250914165000 +0800" stop="20250914175700 +0800">
 		<title lang="zh">叛逆者(33)</title>
-	</programme><programme channel="&#x65B0;&#x7586;&#x536B;&#x89C6;" start="20250914175100 +0800" stop="20250914182200 +0800">
-		<title lang="zh">动画片</title>
+	</programme><programme channel="&#x65B0;&#x7586;&#x536B;&#x89C6;" start="20250914175700 +0800" stop="20250914182200 +0800">
+		<title lang="zh">动画片:海底小纵队中国之旅2</title>
 	</programme><programme channel="&#x65B0;&#x7586;&#x536B;&#x89C6;" start="20250914182200 +0800" stop="20250914183900 +0800">
 		<title lang="zh">国宝里的新疆</title>
 	</programme><programme channel="&#x65B0;&#x7586;&#x536B;&#x89C6;" start="20250914183900 +0800" stop="20250914190000 +0800">
@@ -8217,6 +8227,12 @@
 		<title lang="zh">味道4K 原味乡间b7德江篇 上</title>
 	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250914175900 +0800" stop="20250914183900 +0800">
 		<title lang="zh">探索b7发现4K 史前古城探秘</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250914183900 +0800" stop="20250914190900 +0800">
+		<title lang="zh">传承 第三季4K 第九集 维系</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250914190900 +0800" stop="20250914193400 +0800">
+		<title lang="zh">东方新科幻4K 第1集 去远方</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250914193900 +0800" stop="20250914202100 +0800">
+		<title lang="zh">远方的家4K 万里黄河万里长 黄河探源 河润牧野</title>
 	</programme><channel id="&#x775B;&#x5F69;&#x9752;&#x5C11;">
 		<display-name lang="zh">睛彩青少</display-name>
 	</channel><programme channel="&#x775B;&#x5F69;&#x9752;&#x5C11;" start="20250914000000 +0800" stop="20250914024000 +0800">
@@ -8525,6 +8541,10 @@
 		<title lang="zh">妖铃铃</title>
 	</programme><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20250914161700 +0800" stop="20250914180300 +0800">
 		<title lang="zh">解救吾先生</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20250914180300 +0800" stop="20250914195500 +0800">
+		<title lang="zh">驴得水</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20250914195500 +0800" stop="20250914213500 +0800">
+		<title lang="zh">恶意</title>
 	</programme><channel id="&#x9ED1;&#x8393;&#x52A8;&#x753B;">
 		<display-name lang="zh">黑莓动画</display-name>
 	</channel><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20250914004900 +0800" stop="20250914021100 +0800">
@@ -8551,6 +8571,10 @@
 		<title lang="zh">狐妖小红娘b7月红2</title>
 	</programme><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20250914172200 +0800" stop="20250914190100 +0800">
 		<title lang="zh">01_宋人的现代生活与周末狂欢</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20250914190100 +0800" stop="20250914192500 +0800">
+		<title lang="zh">04_巴斯德喊你回家打疫苗</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20250914192500 +0800" stop="20250914211700 +0800">
+		<title lang="zh">名侦探柯南：纯黑的恶梦 中文版</title>
 	</programme><channel id="&#x54D2;&#x5575;&#x8D5B;&#x4E8B;">
 		<display-name lang="zh">哒啵赛事</display-name>
 	</channel><programme channel="&#x54D2;&#x5575;&#x8D5B;&#x4E8B;" start="20250914000000 +0800" stop="20250914000100 +0800">
@@ -9915,6 +9939,14 @@
 		<title lang="zh">06_无所畏惧</title>
 	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20250914174400 +0800" stop="20250914181400 +0800">
 		<title lang="zh">【推荐】-舒安柔按摩椅</title>
+	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20250914181400 +0800" stop="20250914185500 +0800">
+		<title lang="zh">07_无所畏惧</title>
+	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20250914185500 +0800" stop="20250914193700 +0800">
+		<title lang="zh">08_无所畏惧</title>
+	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20250914193700 +0800" stop="20250914200700 +0800">
+		<title lang="zh">《超级美味》推荐第6期</title>
+	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20250914200700 +0800" stop="20250914204800 +0800">
+		<title lang="zh">09_无所畏惧</title>
 	</programme><channel id="&#x52A8;&#x4F5C;&#x7535;&#x5F71;">
 		<display-name lang="zh">动作电影</display-name>
 	</channel><programme channel="&#x52A8;&#x4F5C;&#x7535;&#x5F71;" start="20250914000200 +0800" stop="20250914002200 +0800">
@@ -9951,6 +9983,12 @@
 		<title lang="zh">A咖美丽</title>
 	</programme><programme channel="&#x52A8;&#x4F5C;&#x7535;&#x5F71;" start="20250914165100 +0800" stop="20250914181800 +0800">
 		<title lang="zh">迷毒之天命圈</title>
+	</programme><programme channel="&#x52A8;&#x4F5C;&#x7535;&#x5F71;" start="20250914181800 +0800" stop="20250914184800 +0800">
+		<title lang="zh">【推荐】-舒安柔按摩椅</title>
+	</programme><programme channel="&#x52A8;&#x4F5C;&#x7535;&#x5F71;" start="20250914184800 +0800" stop="20250914201000 +0800">
+		<title lang="zh">怒火追凶</title>
+	</programme><programme channel="&#x52A8;&#x4F5C;&#x7535;&#x5F71;" start="20250914201000 +0800" stop="20250914204000 +0800">
+		<title lang="zh">《超级美味》推荐第5期30分钟</title>
 	</programme><channel id="&#x53E4;&#x88C5;&#x5267;&#x573A;">
 		<display-name lang="zh">古装剧场</display-name>
 	</channel><programme channel="&#x53E4;&#x88C5;&#x5267;&#x573A;" start="20250914000000 +0800" stop="20250914001900 +0800">
@@ -10187,6 +10225,10 @@
 		<title lang="zh">【推荐】-舒安柔按摩椅</title>
 	</programme><programme channel="&#x60CA;&#x609A;&#x60AC;&#x7591;" start="20250914175100 +0800" stop="20250914191900 +0800">
 		<title lang="zh">死亡斗士</title>
+	</programme><programme channel="&#x60CA;&#x609A;&#x60AC;&#x7591;" start="20250914191900 +0800" stop="20250914194900 +0800">
+		<title lang="zh">《超级美味》推荐第6期</title>
+	</programme><programme channel="&#x60CA;&#x609A;&#x60AC;&#x7591;" start="20250914194900 +0800" stop="20250914205700 +0800">
+		<title lang="zh">使命营救</title>
 	</programme><channel id="&#x7CBE;&#x54C1;&#x4F53;&#x80B2;">
 		<display-name lang="zh">精品体育</display-name>
 	</channel><programme channel="&#x7CBE;&#x54C1;&#x4F53;&#x80B2;" start="20250914000000 +0800" stop="20250914005200 +0800">

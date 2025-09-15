@@ -7379,6 +7379,12 @@
 		<title lang="zh">了不起的冬天4K 第3集 捏一把汗的飞行</title>
 	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250916034100 +0800" stop="20250916042300 +0800">
 		<title lang="zh">远方的家4K 万里黄河万里长 黄河第二湾 奇妙高原行</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250916042300 +0800" stop="20250916050400 +0800">
+		<title lang="zh">远方的家4K 秘境之旅 鹿鸣大兴安岭</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250916051500 +0800" stop="20250916054500 +0800">
+		<title lang="zh">寻古中国4K 云梦记b7惊世简牍</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250916054500 +0800" stop="20250916061500 +0800">
+		<title lang="zh">寻古中国4K 云梦记b7探秘秦简</title>
 	</programme><channel id="&#x9ED1;&#x8393;&#x7535;&#x5F71;">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20250916001100 +0800" stop="20250916013700 +0800">
@@ -7387,12 +7393,18 @@
 		<title lang="zh">A计划</title>
 	</programme><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20250916032100 +0800" stop="20250916044800 +0800">
 		<title lang="zh">举起手来！</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20250916044800 +0800" stop="20250916062000 +0800">
+		<title lang="zh">咏春女孩</title>
 	</programme><channel id="&#x9ED1;&#x8393;&#x52A8;&#x753B;">
 		<display-name lang="zh">黑莓动画</display-name>
 	</channel><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20250916011400 +0800" stop="20250916023600 +0800">
 		<title lang="zh">黑猫警长之翡翠之星</title>
 	</programme><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20250916023600 +0800" stop="20250916041700 +0800">
 		<title lang="zh">画江湖之天罡</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20250916041700 +0800" stop="20250916054200 +0800">
+		<title lang="zh">绝代双骄之天外有天</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20250916054200 +0800" stop="20250916070000 +0800">
+		<title lang="zh">哪吒之灵珠重生</title>
 	</programme><channel id="&#x91D1;&#x9E70;&#x5361;&#x901A;">
 		<display-name lang="zh">金鹰卡通</display-name>
 	</channel><programme channel="&#x91D1;&#x9E70;&#x5361;&#x901A;" start="20250916000000 +0800" stop="20250916032000 +0800">

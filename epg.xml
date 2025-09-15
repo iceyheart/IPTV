@@ -8167,6 +8167,14 @@
 		<title lang="zh">东方新科幻4K 第2集 未雨绸缪</title>
 	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250915114600 +0800" stop="20250915122800 +0800">
 		<title lang="zh">远方的家4K 万里黄河万里长 黄河首曲 美好家园</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250915122800 +0800" stop="20250915131000 +0800">
+		<title lang="zh">远方的家4K 万里黄河万里长 黄河入川 多彩画卷</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250915131500 +0800" stop="20250915132000 +0800">
+		<title lang="zh">美丽中国自然4K 江西宜丰系列 遇见苦槠</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250915132000 +0800" stop="20250915135000 +0800">
+		<title lang="zh">寻古中国4K 稻谷记b7稻香九州</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250915135000 +0800" stop="20250915142000 +0800">
+		<title lang="zh">寻古中国4K 云梦记b7云梦迷踪</title>
 	</programme><channel id="&#x775B;&#x5F69;&#x9752;&#x5C11;">
 		<display-name lang="zh">睛彩青少</display-name>
 	</channel><programme channel="&#x775B;&#x5F69;&#x9752;&#x5C11;" start="20250915000000 +0800" stop="20250915000100 +0800">
@@ -8487,6 +8495,8 @@
 		<title lang="zh">火影忍者疾风传：羁绊</title>
 	</programme><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20250915114700 +0800" stop="20250915132500 +0800">
 		<title lang="zh">梦想边缘</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20250915132500 +0800" stop="20250915151600 +0800">
+		<title lang="zh">血战湘江</title>
 	</programme><channel id="&#x9ED1;&#x8393;&#x52A8;&#x753B;">
 		<display-name lang="zh">黑莓动画</display-name>
 	</channel><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20250915001400 +0800" stop="20250915014300 +0800">
@@ -8507,6 +8517,8 @@
 		<title lang="zh">淘气包马小跳</title>
 	</programme><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20250915112000 +0800" stop="20250915124900 +0800">
 		<title lang="zh">金猴降妖</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20250915124900 +0800" stop="20250915165500 +0800">
+		<title lang="zh">01_杜甫 江湖</title>
 	</programme><channel id="&#x54D2;&#x5575;&#x8D5B;&#x4E8B;">
 		<display-name lang="zh">哒啵赛事</display-name>
 	</channel><programme channel="&#x54D2;&#x5575;&#x8D5B;&#x4E8B;" start="20250915000000 +0800" stop="20250915002500 +0800">
@@ -9971,6 +9983,14 @@
 		<title lang="zh">【推荐】-舒安柔按摩椅</title>
 	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20250915114700 +0800" stop="20250915123200 +0800">
 		<title lang="zh">08_你比星光美丽</title>
+	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20250915123200 +0800" stop="20250915130200 +0800">
+		<title lang="zh">【推荐】-舒安柔按摩椅</title>
+	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20250915130200 +0800" stop="20250915134700 +0800">
+		<title lang="zh">09_你比星光美丽</title>
+	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20250915134700 +0800" stop="20250915140700 +0800">
+		<title lang="zh">睡眠专题分享</title>
+	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20250915140700 +0800" stop="20250915145300 +0800">
+		<title lang="zh">10_你比星光美丽</title>
 	</programme><channel id="&#x52A8;&#x4F5C;&#x7535;&#x5F71;">
 		<display-name lang="zh">动作电影</display-name>
 	</channel><programme channel="&#x52A8;&#x4F5C;&#x7535;&#x5F71;" start="20250915002900 +0800" stop="20250915020000 +0800">
@@ -9994,6 +10014,10 @@
 	</programme><programme channel="&#x52A8;&#x4F5C;&#x7535;&#x5F71;" start="20250915104000 +0800" stop="20250915120800 +0800">
 		<title lang="zh">火线追凶2之爱本无罪</title>
 	</programme><programme channel="&#x52A8;&#x4F5C;&#x7535;&#x5F71;" start="20250915120800 +0800" stop="20250915123800 +0800">
+		<title lang="zh">【推荐】-舒安柔按摩椅</title>
+	</programme><programme channel="&#x52A8;&#x4F5C;&#x7535;&#x5F71;" start="20250915123800 +0800" stop="20250915141400 +0800">
+		<title lang="zh">目击者</title>
+	</programme><programme channel="&#x52A8;&#x4F5C;&#x7535;&#x5F71;" start="20250915141400 +0800" stop="20250915144400 +0800">
 		<title lang="zh">【推荐】-舒安柔按摩椅</title>
 	</programme><channel id="&#x53E4;&#x88C5;&#x5267;&#x573A;">
 		<display-name lang="zh">古装剧场</display-name>
@@ -10215,6 +10239,10 @@
 		<title lang="zh">【推荐】-舒安柔按摩椅</title>
 	</programme><programme channel="&#x60CA;&#x609A;&#x60AC;&#x7591;" start="20250915114500 +0800" stop="20250915125900 +0800">
 		<title lang="zh">异形寄生：起源</title>
+	</programme><programme channel="&#x60CA;&#x609A;&#x60AC;&#x7591;" start="20250915125900 +0800" stop="20250915132900 +0800">
+		<title lang="zh">【推荐】-舒安柔按摩椅</title>
+	</programme><programme channel="&#x60CA;&#x609A;&#x60AC;&#x7591;" start="20250915132900 +0800" stop="20250915151400 +0800">
+		<title lang="zh">鬼吹灯之南海归墟</title>
 	</programme><channel id="&#x7CBE;&#x54C1;&#x4F53;&#x80B2;">
 		<display-name lang="zh">精品体育</display-name>
 	</channel><programme channel="&#x7CBE;&#x54C1;&#x4F53;&#x80B2;" start="20250915000000 +0800" stop="20250915003500 +0800">

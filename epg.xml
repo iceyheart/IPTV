@@ -7363,10 +7363,24 @@
 		<display-name lang="zh">纯享4K</display-name>
 	</channel><programme channel="&#x7EAF;&#x4EAB;4K" start="20250916001200 +0800" stop="20250916004000 +0800">
 		<title lang="zh">记住乡愁4K第八季 四新村——黑土地上 四季飘香</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250916004000 +0800" stop="20250916010800 +0800">
+		<title lang="zh">记住乡愁4K第八季 联丰村——稻花乡里 花开朵朵</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250916010800 +0800" stop="20250916013800 +0800">
+		<title lang="zh">味道4K 原味乡间b7景宁篇（上）</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250916013800 +0800" stop="20250916020800 +0800">
+		<title lang="zh">味道4K 原味乡间b7景宁篇（下）</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250916020800 +0800" stop="20250916024800 +0800">
+		<title lang="zh">探索b7发现4K 瓷片下的遗骨</title>
 	</programme><channel id="&#x9ED1;&#x8393;&#x7535;&#x5F71;">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20250916001100 +0800" stop="20250916013700 +0800">
 		<title lang="zh">寂静之地</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20250916013700 +0800" stop="20250916032100 +0800">
+		<title lang="zh">A计划</title>
+	</programme><channel id="&#x9ED1;&#x8393;&#x52A8;&#x753B;">
+		<display-name lang="zh">黑莓动画</display-name>
+	</channel><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20250916011400 +0800" stop="20250916023600 +0800">
+		<title lang="zh">黑猫警长之翡翠之星</title>
 	</programme><channel id="&#x91D1;&#x9E70;&#x5361;&#x901A;">
 		<display-name lang="zh">金鹰卡通</display-name>
 	</channel><programme channel="&#x91D1;&#x9E70;&#x5361;&#x901A;" start="20250916000000 +0800" stop="20250916032000 +0800">

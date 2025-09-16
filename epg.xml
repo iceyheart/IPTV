@@ -8311,6 +8311,12 @@
 		<title lang="zh">远方的家4K 万里黄河万里长 黄河第二湾 奇妙高原行</title>
 	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250916201000 +0800" stop="20250916205200 +0800">
 		<title lang="zh">远方的家4K 秘境之旅 鹿鸣大兴安岭</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250916205700 +0800" stop="20250916210200 +0800">
+		<title lang="zh">美丽中国自然4K 江西宜丰系列 长柄双花木</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250916210200 +0800" stop="20250916213200 +0800">
+		<title lang="zh">寻古中国4K 云梦记b7惊世简牍</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250916213200 +0800" stop="20250916220200 +0800">
+		<title lang="zh">寻古中国4K 云梦记b7探秘秦简</title>
 	</programme><channel id="&#x775B;&#x5F69;&#x9752;&#x5C11;">
 		<display-name lang="zh">睛彩青少</display-name>
 	</channel><programme channel="&#x775B;&#x5F69;&#x9752;&#x5C11;" start="20250916000000 +0800" stop="20250916000100 +0800">
@@ -8633,6 +8639,8 @@
 		<title lang="zh">忍者神龟：变种时代</title>
 	</programme><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20250916193200 +0800" stop="20250916213900 +0800">
 		<title lang="zh">红毯先生</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20250916213900 +0800" stop="20250916231200 +0800">
+		<title lang="zh">女汉子真爱公式</title>
 	</programme><channel id="&#x9ED1;&#x8393;&#x52A8;&#x753B;">
 		<display-name lang="zh">黑莓动画</display-name>
 	</channel><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20250916011400 +0800" stop="20250916023600 +0800">
@@ -10043,6 +10051,12 @@
 		<title lang="zh">《超级美味》推荐第6期</title>
 	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20250916195100 +0800" stop="20250916203300 +0800">
 		<title lang="zh">18_无所畏惧</title>
+	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20250916203300 +0800" stop="20250916211400 +0800">
+		<title lang="zh">19_无所畏惧</title>
+	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20250916211400 +0800" stop="20250916214400 +0800">
+		<title lang="zh">《超级美味》推荐第6期</title>
+	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20250916214400 +0800" stop="20250916222600 +0800">
+		<title lang="zh">20_无所畏惧</title>
 	</programme><channel id="&#x52A8;&#x4F5C;&#x7535;&#x5F71;">
 		<display-name lang="zh">动作电影</display-name>
 	</channel><programme channel="&#x52A8;&#x4F5C;&#x7535;&#x5F71;" start="20250916000400 +0800" stop="20250916002500 +0800">
@@ -10325,6 +10339,10 @@
 		<title lang="zh">《超级美味》推荐第6期</title>
 	</programme><programme channel="&#x60CA;&#x609A;&#x60AC;&#x7591;" start="20250916195600 +0800" stop="20250916211900 +0800">
 		<title lang="zh">极地追击</title>
+	</programme><programme channel="&#x60CA;&#x609A;&#x60AC;&#x7591;" start="20250916211900 +0800" stop="20250916214900 +0800">
+		<title lang="zh">《超级美味》推荐第6期</title>
+	</programme><programme channel="&#x60CA;&#x609A;&#x60AC;&#x7591;" start="20250916214900 +0800" stop="20250916230400 +0800">
+		<title lang="zh">狄仁杰之伏妖篇</title>
 	</programme><channel id="&#x7CBE;&#x54C1;&#x4F53;&#x80B2;">
 		<display-name lang="zh">精品体育</display-name>
 	</channel><programme channel="&#x7CBE;&#x54C1;&#x4F53;&#x80B2;" start="20250916000000 +0800" stop="20250916004900 +0800">

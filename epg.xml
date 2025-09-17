@@ -8204,6 +8204,10 @@
 		<title lang="zh">远方的家4K 长江行 相逢在长江源</title>
 	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250917202000 +0800" stop="20250917210200 +0800">
 		<title lang="zh">远方的家4K 长江行（2） 相逢在长江源</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250917211200 +0800" stop="20250917214200 +0800">
+		<title lang="zh">寻古中国4K 云梦记b7郑家湖墓</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250917214200 +0800" stop="20250917221200 +0800">
+		<title lang="zh">寻古中国4K 云梦记b7楚韵回响</title>
 	</programme><channel id="&#x775B;&#x5F69;&#x9752;&#x5C11;">
 		<display-name lang="zh">睛彩青少</display-name>
 	</channel><programme channel="&#x775B;&#x5F69;&#x9752;&#x5C11;" start="20250917000000 +0800" stop="20250917000100 +0800">
@@ -8516,6 +8520,8 @@
 		<title lang="zh">天净沙</title>
 	</programme><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20250917201100 +0800" stop="20250917215000 +0800">
 		<title lang="zh">忍者神龟：变种大乱斗</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20250917215000 +0800" stop="20250917235000 +0800">
+		<title lang="zh">拆弹专家</title>
 	</programme><channel id="&#x9ED1;&#x8393;&#x52A8;&#x753B;">
 		<display-name lang="zh">黑莓动画</display-name>
 	</channel><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20250917003200 +0800" stop="20250917020100 +0800">
@@ -8544,6 +8550,10 @@
 		<title lang="zh">01_王的微笑</title>
 	</programme><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20250917203100 +0800" stop="20250917211600 +0800">
 		<title lang="zh">01_宇宙信使</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20250917211600 +0800" stop="20250917214100 +0800">
+		<title lang="zh">01_摹张萱虢国夫人游春图</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20250917214100 +0800" stop="20250917234200 +0800">
+		<title lang="zh">01_大地上的成长</title>
 	</programme><channel id="&#x54D2;&#x5575;&#x8D5B;&#x4E8B;">
 		<display-name lang="zh">哒啵赛事</display-name>
 	</channel><programme channel="&#x54D2;&#x5575;&#x8D5B;&#x4E8B;" start="20250917000000 +0800" stop="20250917025300 +0800">
@@ -9876,6 +9886,12 @@
 		<title lang="zh">《超级美味》推荐第7期</title>
 	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20250917195900 +0800" stop="20250917204100 +0800">
 		<title lang="zh">23_无所畏惧</title>
+	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20250917204100 +0800" stop="20250917211100 +0800">
+		<title lang="zh">【和田玉推荐】第二期</title>
+	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20250917211100 +0800" stop="20250917215200 +0800">
+		<title lang="zh">24_无所畏惧</title>
+	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20250917215200 +0800" stop="20250917223400 +0800">
+		<title lang="zh">25_无所畏惧</title>
 	</programme><channel id="&#x52A8;&#x4F5C;&#x7535;&#x5F71;">
 		<display-name lang="zh">动作电影</display-name>
 	</channel><programme channel="&#x52A8;&#x4F5C;&#x7535;&#x5F71;" start="20250917002200 +0800" stop="20250917010200 +0800">
@@ -9916,6 +9932,10 @@
 		<title lang="zh">《超级美味》推荐第7期</title>
 	</programme><programme channel="&#x52A8;&#x4F5C;&#x7535;&#x5F71;" start="20250917191100 +0800" stop="20250917203100 +0800">
 		<title lang="zh">街区大作战</title>
+	</programme><programme channel="&#x52A8;&#x4F5C;&#x7535;&#x5F71;" start="20250917203100 +0800" stop="20250917210100 +0800">
+		<title lang="zh">《超级美味》推荐第7期</title>
+	</programme><programme channel="&#x52A8;&#x4F5C;&#x7535;&#x5F71;" start="20250917210100 +0800" stop="20250917222000 +0800">
+		<title lang="zh">倩狐之京卫怪谈</title>
 	</programme><channel id="&#x53E4;&#x88C5;&#x5267;&#x573A;">
 		<display-name lang="zh">古装剧场</display-name>
 	</channel><programme channel="&#x53E4;&#x88C5;&#x5267;&#x573A;" start="20250917000000 +0800" stop="20250917000400 +0800">
@@ -10154,6 +10174,8 @@
 		<title lang="zh">检察风云</title>
 	</programme><programme channel="&#x60CA;&#x609A;&#x60AC;&#x7591;" start="20250917202500 +0800" stop="20250917205500 +0800">
 		<title lang="zh">《超级美味》推荐第7期</title>
+	</programme><programme channel="&#x60CA;&#x609A;&#x60AC;&#x7591;" start="20250917205500 +0800" stop="20250917225400 +0800">
+		<title lang="zh">默杀</title>
 	</programme><channel id="&#x7CBE;&#x54C1;&#x4F53;&#x80B2;">
 		<display-name lang="zh">精品体育</display-name>
 	</channel><programme channel="&#x7CBE;&#x54C1;&#x4F53;&#x80B2;" start="20250917000000 +0800" stop="20250917000600 +0800">

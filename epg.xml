@@ -8164,6 +8164,16 @@
 		<title lang="zh">了不起的冬天4K 第4集 有“范儿”</title>
 	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250917113600 +0800" stop="20250917121900 +0800">
 		<title lang="zh">远方的家4K 长江行 相逢在长江源</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250917121900 +0800" stop="20250917130000 +0800">
+		<title lang="zh">远方的家4K 长江行（2） 相逢在长江源</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250917130000 +0800" stop="20250917130600 +0800">
+		<title lang="zh">美丽中国自然4K 哀牢山系列 凤鸣小江河</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250917131100 +0800" stop="20250917134100 +0800">
+		<title lang="zh">寻古中国4K 云梦记b7郑家湖墓</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250917134100 +0800" stop="20250917141100 +0800">
+		<title lang="zh">寻古中国4K 云梦记b7楚韵回响</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250917141600 +0800" stop="20250917143100 +0800">
+		<title lang="zh">艺术里的奥林匹克4K 武僧演武图</title>
 	</programme><channel id="&#x775B;&#x5F69;&#x9752;&#x5C11;">
 		<display-name lang="zh">睛彩青少</display-name>
 	</channel><programme channel="&#x775B;&#x5F69;&#x9752;&#x5C11;" start="20250917000000 +0800" stop="20250917000100 +0800">
@@ -8464,6 +8474,10 @@
 		<title lang="zh">丢羊</title>
 	</programme><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20250917103100 +0800" stop="20250917120700 +0800">
 		<title lang="zh">天b7火</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20250917120700 +0800" stop="20250917135300 +0800">
+		<title lang="zh">少年与海</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20250917135300 +0800" stop="20250917153200 +0800">
+		<title lang="zh">通往天国的倒计时</title>
 	</programme><channel id="&#x9ED1;&#x8393;&#x52A8;&#x753B;">
 		<display-name lang="zh">黑莓动画</display-name>
 	</channel><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20250917003200 +0800" stop="20250917020100 +0800">
@@ -8484,6 +8498,8 @@
 		<title lang="zh">淘气包马小跳</title>
 	</programme><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20250917113800 +0800" stop="20250917130700 +0800">
 		<title lang="zh">金猴降妖</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20250917130700 +0800" stop="20250917171300 +0800">
+		<title lang="zh">01_杜甫 江湖</title>
 	</programme><channel id="&#x54D2;&#x5575;&#x8D5B;&#x4E8B;">
 		<display-name lang="zh">哒啵赛事</display-name>
 	</channel><programme channel="&#x54D2;&#x5575;&#x8D5B;&#x4E8B;" start="20250917000000 +0800" stop="20250917025300 +0800">
@@ -9792,6 +9808,12 @@
 		<title lang="zh">17_你比星光美丽</title>
 	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20250917114100 +0800" stop="20250917121100 +0800">
 		<title lang="zh">《超级美味》推荐第7期</title>
+	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20250917121100 +0800" stop="20250917125700 +0800">
+		<title lang="zh">18_你比星光美丽</title>
+	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20250917125700 +0800" stop="20250917134200 +0800">
+		<title lang="zh">19_你比星光美丽</title>
+	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20250917134200 +0800" stop="20250917142200 +0800">
+		<title lang="zh">龙血树叶粉</title>
 	</programme><channel id="&#x52A8;&#x4F5C;&#x7535;&#x5F71;">
 		<display-name lang="zh">动作电影</display-name>
 	</channel><programme channel="&#x52A8;&#x4F5C;&#x7535;&#x5F71;" start="20250917002200 +0800" stop="20250917010200 +0800">
@@ -9816,6 +9838,10 @@
 		<title lang="zh">《超级美味》推荐第7期</title>
 	</programme><programme channel="&#x52A8;&#x4F5C;&#x7535;&#x5F71;" start="20250917110000 +0800" stop="20250917130100 +0800">
 		<title lang="zh">终结者：创世纪</title>
+	</programme><programme channel="&#x52A8;&#x4F5C;&#x7535;&#x5F71;" start="20250917130100 +0800" stop="20250917133100 +0800">
+		<title lang="zh">《超级美味》推荐第7期</title>
+	</programme><programme channel="&#x52A8;&#x4F5C;&#x7535;&#x5F71;" start="20250917133100 +0800" stop="20250917144200 +0800">
+		<title lang="zh">白垩纪世界</title>
 	</programme><channel id="&#x53E4;&#x88C5;&#x5267;&#x573A;">
 		<display-name lang="zh">古装剧场</display-name>
 	</channel><programme channel="&#x53E4;&#x88C5;&#x5267;&#x573A;" start="20250917000000 +0800" stop="20250917000400 +0800">
@@ -10036,6 +10062,10 @@
 		<title lang="zh">《超级美味》推荐第7期</title>
 	</programme><programme channel="&#x60CA;&#x609A;&#x60AC;&#x7591;" start="20250917105000 +0800" stop="20250917121700 +0800">
 		<title lang="zh">海平面上升</title>
+	</programme><programme channel="&#x60CA;&#x609A;&#x60AC;&#x7591;" start="20250917121700 +0800" stop="20250917124700 +0800">
+		<title lang="zh">《超级美味》推荐第7期</title>
+	</programme><programme channel="&#x60CA;&#x609A;&#x60AC;&#x7591;" start="20250917124700 +0800" stop="20250917142100 +0800">
+		<title lang="zh">狙击蜘蛛巢</title>
 	</programme><channel id="&#x7CBE;&#x54C1;&#x4F53;&#x80B2;">
 		<display-name lang="zh">精品体育</display-name>
 	</channel><programme channel="&#x7CBE;&#x54C1;&#x4F53;&#x80B2;" start="20250917000000 +0800" stop="20250917000600 +0800">

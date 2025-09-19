@@ -8506,6 +8506,14 @@
 		<title lang="zh">味道4K 原味乡间b7巴中篇（下）</title>
 	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250919175900 +0800" stop="20250919183900 +0800">
 		<title lang="zh">探索b7发现4K 灵台西周墓地</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250919183900 +0800" stop="20250919190400 +0800">
+		<title lang="zh">在乡村4K 第2集 磑子坝的春天（下）</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250919190800 +0800" stop="20250919193200 +0800">
+		<title lang="zh">了不起的冬天4K 第6集 气喘吁吁</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250919193200 +0800" stop="20250919201400 +0800">
+		<title lang="zh">远方的家4K 长江行 金沙江水润丽江</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250919201400 +0800" stop="20250919205600 +0800">
+		<title lang="zh">远方的家4K 长江行 金沙江边话永胜</title>
 	</programme><channel id="&#x775B;&#x5F69;&#x9752;&#x5C11;">
 		<display-name lang="zh">睛彩青少</display-name>
 	</channel><programme channel="&#x775B;&#x5F69;&#x9752;&#x5C11;" start="20250919000000 +0800" stop="20250919000100 +0800">
@@ -8828,6 +8836,8 @@
 		<title lang="zh">燕赤霞猎妖传</title>
 	</programme><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20250919172700 +0800" stop="20250919190500 +0800">
 		<title lang="zh">玩火玩家</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20250919190500 +0800" stop="20250919204600 +0800">
+		<title lang="zh">杜拉拉升职记</title>
 	</programme><channel id="&#x9ED1;&#x8393;&#x52A8;&#x753B;">
 		<display-name lang="zh">黑莓动画</display-name>
 	</channel><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20250919005800 +0800" stop="20250919030500 +0800">
@@ -8848,6 +8858,8 @@
 		<title lang="zh">20_猪猪侠之光明守卫者（上部）</title>
 	</programme><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20250919172300 +0800" stop="20250919193100 +0800">
 		<title lang="zh">06_奶龙之奇妙冒险</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20250919193100 +0800" stop="20250919211200 +0800">
+		<title lang="zh">画江湖之天罡</title>
 	</programme><channel id="&#x54D2;&#x5575;&#x8D5B;&#x4E8B;">
 		<display-name lang="zh">哒啵赛事</display-name>
 	</channel><programme channel="&#x54D2;&#x5575;&#x8D5B;&#x4E8B;" start="20250919000000 +0800" stop="20250919000100 +0800">
@@ -10208,6 +10220,14 @@
 		<title lang="zh">《超级美味》推荐第7期</title>
 	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20250919174600 +0800" stop="20250919182700 +0800">
 		<title lang="zh">31_无所畏惧</title>
+	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20250919182700 +0800" stop="20250919185700 +0800">
+		<title lang="zh">《超级美味》推荐第7期</title>
+	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20250919185700 +0800" stop="20250919193900 +0800">
+		<title lang="zh">32_无所畏惧</title>
+	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20250919193900 +0800" stop="20250919200900 +0800">
+		<title lang="zh">《超级美味》推荐第7期</title>
+	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20250919200900 +0800" stop="20250919205000 +0800">
+		<title lang="zh">33_无所畏惧</title>
 	</programme><channel id="&#x52A8;&#x4F5C;&#x7535;&#x5F71;">
 		<display-name lang="zh">动作电影</display-name>
 	</channel><programme channel="&#x52A8;&#x4F5C;&#x7535;&#x5F71;" start="20250919000300 +0800" stop="20250919004300 +0800">
@@ -10248,6 +10268,10 @@
 		<title lang="zh">《超级美味》推荐第7期</title>
 	</programme><programme channel="&#x52A8;&#x4F5C;&#x7535;&#x5F71;" start="20250919181500 +0800" stop="20250919194400 +0800">
 		<title lang="zh">扎职2：江湖陌路</title>
+	</programme><programme channel="&#x52A8;&#x4F5C;&#x7535;&#x5F71;" start="20250919194400 +0800" stop="20250919201400 +0800">
+		<title lang="zh">《超级美味》推荐第7期</title>
+	</programme><programme channel="&#x52A8;&#x4F5C;&#x7535;&#x5F71;" start="20250919201400 +0800" stop="20250919214300 +0800">
+		<title lang="zh">好嗨的历险记</title>
 	</programme><channel id="&#x53E4;&#x88C5;&#x5267;&#x573A;">
 		<display-name lang="zh">古装剧场</display-name>
 	</channel><programme channel="&#x53E4;&#x88C5;&#x5267;&#x573A;" start="20250919000000 +0800" stop="20250919001200 +0800">
@@ -10478,6 +10502,10 @@
 		<title lang="zh">《超级美味》推荐第7期</title>
 	</programme><programme channel="&#x60CA;&#x609A;&#x60AC;&#x7591;" start="20250919171200 +0800" stop="20250919182500 +0800">
 		<title lang="zh">钟馗归来万世妖灵</title>
+	</programme><programme channel="&#x60CA;&#x609A;&#x60AC;&#x7591;" start="20250919182500 +0800" stop="20250919185400 +0800">
+		<title lang="zh">《超级美味》推荐第7期</title>
+	</programme><programme channel="&#x60CA;&#x609A;&#x60AC;&#x7591;" start="20250919185400 +0800" stop="20250919203100 +0800">
+		<title lang="zh">第一滴血3</title>
 	</programme><channel id="&#x7CBE;&#x54C1;&#x4F53;&#x80B2;">
 		<display-name lang="zh">精品体育</display-name>
 	</channel><programme channel="&#x7CBE;&#x54C1;&#x4F53;&#x80B2;" start="20250919000000 +0800" stop="20250919002700 +0800">

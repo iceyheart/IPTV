@@ -8514,6 +8514,12 @@
 		<title lang="zh">远方的家4K 长江行 金沙江水润丽江</title>
 	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250919201400 +0800" stop="20250919205600 +0800">
 		<title lang="zh">远方的家4K 长江行 金沙江边话永胜</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250919205600 +0800" stop="20250919210200 +0800">
+		<title lang="zh">美丽中国自然4K 江西宜丰系列 中华蜜蜂</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250919210700 +0800" stop="20250919213700 +0800">
+		<title lang="zh">寻古中国4K 河洛记b7匠心独具</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250919213700 +0800" stop="20250919220700 +0800">
+		<title lang="zh">寻古中国4K 河洛记b7聚落成邑</title>
 	</programme><channel id="&#x775B;&#x5F69;&#x9752;&#x5C11;">
 		<display-name lang="zh">睛彩青少</display-name>
 	</channel><programme channel="&#x775B;&#x5F69;&#x9752;&#x5C11;" start="20250919000000 +0800" stop="20250919000100 +0800">
@@ -8838,6 +8844,8 @@
 		<title lang="zh">玩火玩家</title>
 	</programme><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20250919190500 +0800" stop="20250919204600 +0800">
 		<title lang="zh">杜拉拉升职记</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20250919204600 +0800" stop="20250919222600 +0800">
+		<title lang="zh">燃冬</title>
 	</programme><channel id="&#x9ED1;&#x8393;&#x52A8;&#x753B;">
 		<display-name lang="zh">黑莓动画</display-name>
 	</channel><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20250919005800 +0800" stop="20250919030500 +0800">
@@ -8860,6 +8868,8 @@
 		<title lang="zh">06_奶龙之奇妙冒险</title>
 	</programme><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20250919193100 +0800" stop="20250919211200 +0800">
 		<title lang="zh">画江湖之天罡</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20250919211200 +0800" stop="20250919223700 +0800">
+		<title lang="zh">绝代双骄之天外有天</title>
 	</programme><channel id="&#x54D2;&#x5575;&#x8D5B;&#x4E8B;">
 		<display-name lang="zh">哒啵赛事</display-name>
 	</channel><programme channel="&#x54D2;&#x5575;&#x8D5B;&#x4E8B;" start="20250919000000 +0800" stop="20250919000100 +0800">
@@ -10228,6 +10238,10 @@
 		<title lang="zh">《超级美味》推荐第7期</title>
 	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20250919200900 +0800" stop="20250919205000 +0800">
 		<title lang="zh">33_无所畏惧</title>
+	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20250919205000 +0800" stop="20250919212000 +0800">
+		<title lang="zh">【和田玉推荐】第二期</title>
+	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20250919212000 +0800" stop="20250919220200 +0800">
+		<title lang="zh">34_无所畏惧</title>
 	</programme><channel id="&#x52A8;&#x4F5C;&#x7535;&#x5F71;">
 		<display-name lang="zh">动作电影</display-name>
 	</channel><programme channel="&#x52A8;&#x4F5C;&#x7535;&#x5F71;" start="20250919000300 +0800" stop="20250919004300 +0800">
@@ -10272,6 +10286,8 @@
 		<title lang="zh">《超级美味》推荐第7期</title>
 	</programme><programme channel="&#x52A8;&#x4F5C;&#x7535;&#x5F71;" start="20250919201400 +0800" stop="20250919214300 +0800">
 		<title lang="zh">好嗨的历险记</title>
+	</programme><programme channel="&#x52A8;&#x4F5C;&#x7535;&#x5F71;" start="20250919214300 +0800" stop="20250919221300 +0800">
+		<title lang="zh">《超级美味》推荐第7期</title>
 	</programme><channel id="&#x53E4;&#x88C5;&#x5267;&#x573A;">
 		<display-name lang="zh">古装剧场</display-name>
 	</channel><programme channel="&#x53E4;&#x88C5;&#x5267;&#x573A;" start="20250919000000 +0800" stop="20250919001200 +0800">
@@ -10506,6 +10522,10 @@
 		<title lang="zh">《超级美味》推荐第7期</title>
 	</programme><programme channel="&#x60CA;&#x609A;&#x60AC;&#x7591;" start="20250919185400 +0800" stop="20250919203100 +0800">
 		<title lang="zh">第一滴血3</title>
+	</programme><programme channel="&#x60CA;&#x609A;&#x60AC;&#x7591;" start="20250919203100 +0800" stop="20250919210100 +0800">
+		<title lang="zh">《超级美味》推荐第7期</title>
+	</programme><programme channel="&#x60CA;&#x609A;&#x60AC;&#x7591;" start="20250919210100 +0800" stop="20250919225200 +0800">
+		<title lang="zh">三线轮洄（4K）</title>
 	</programme><channel id="&#x7CBE;&#x54C1;&#x4F53;&#x80B2;">
 		<display-name lang="zh">精品体育</display-name>
 	</channel><programme channel="&#x7CBE;&#x54C1;&#x4F53;&#x80B2;" start="20250919000000 +0800" stop="20250919002700 +0800">

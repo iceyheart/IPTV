@@ -8274,6 +8274,12 @@
 		<title lang="zh">远方的家4K 长江行 古韵夔州 精诚奉节</title>
 	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250920201500 +0800" stop="20250920205700 +0800">
 		<title lang="zh">远方的家4K 长沙贡玛国家级自然保护区 长沙贡玛：探秘“最美高原湿地”</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250920205700 +0800" stop="20250920210200 +0800">
+		<title lang="zh">美丽中国自然4K 哀牢山系列 百鸟之王</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250920210700 +0800" stop="20250920213700 +0800">
+		<title lang="zh">寻古中国4K 河洛记b7兼收并蓄</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250920213700 +0800" stop="20250920220700 +0800">
+		<title lang="zh">寻古中国4K 古蜀记b7古蜀之源</title>
 	</programme><channel id="&#x775B;&#x5F69;&#x9752;&#x5C11;">
 		<display-name lang="zh">睛彩青少</display-name>
 	</channel><programme channel="&#x775B;&#x5F69;&#x9752;&#x5C11;" start="20250920000000 +0800" stop="20250920000100 +0800">
@@ -8624,6 +8630,8 @@
 		<title lang="zh">星际大逃亡</title>
 	</programme><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20250920202200 +0800" stop="20250920215100 +0800">
 		<title lang="zh">金猴降妖</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20250920215100 +0800" stop="20250920231900 +0800">
+		<title lang="zh">太空勇狗队</title>
 	</programme><channel id="&#x54D2;&#x5575;&#x8D5B;&#x4E8B;">
 		<display-name lang="zh">哒啵赛事</display-name>
 	</channel><programme channel="&#x54D2;&#x5575;&#x8D5B;&#x4E8B;" start="20250920000000 +0800" stop="20250920004900 +0800">
@@ -9924,6 +9932,12 @@
 		<title lang="zh">《花样人生》推荐第60期</title>
 	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20250920195600 +0800" stop="20250920203700 +0800">
 		<title lang="zh">37_无所畏惧</title>
+	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20250920203700 +0800" stop="20250920210700 +0800">
+		<title lang="zh">《花样人生》推荐第60期</title>
+	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20250920210700 +0800" stop="20250920214900 +0800">
+		<title lang="zh">38_无所畏惧</title>
+	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20250920214900 +0800" stop="20250920223000 +0800">
+		<title lang="zh">39_无所畏惧</title>
 	</programme><channel id="&#x52A8;&#x4F5C;&#x7535;&#x5F71;">
 		<display-name lang="zh">动作电影</display-name>
 	</channel><programme channel="&#x52A8;&#x4F5C;&#x7535;&#x5F71;" start="20250920000700 +0800" stop="20250920002700 +0800">
@@ -9966,6 +9980,8 @@
 		<title lang="zh">荒野逃生</title>
 	</programme><programme channel="&#x52A8;&#x4F5C;&#x7535;&#x5F71;" start="20250920201400 +0800" stop="20250920204400 +0800">
 		<title lang="zh">《花样人生》推荐第60期</title>
+	</programme><programme channel="&#x52A8;&#x4F5C;&#x7535;&#x5F71;" start="20250920204400 +0800" stop="20250920220500 +0800">
+		<title lang="zh">疯狂追击者</title>
 	</programme><channel id="&#x53E4;&#x88C5;&#x5267;&#x573A;">
 		<display-name lang="zh">古装剧场</display-name>
 	</channel><programme channel="&#x53E4;&#x88C5;&#x5267;&#x573A;" start="20250920000000 +0800" stop="20250920000500 +0800">
@@ -10204,6 +10220,8 @@
 		<title lang="zh">《花样人生》推荐第60期</title>
 	</programme><programme channel="&#x60CA;&#x609A;&#x60AC;&#x7591;" start="20250920201800 +0800" stop="20250920215300 +0800">
 		<title lang="zh">敦刻尔克行动</title>
+	</programme><programme channel="&#x60CA;&#x609A;&#x60AC;&#x7591;" start="20250920215300 +0800" stop="20250920222300 +0800">
+		<title lang="zh">《花样人生》推荐第60期</title>
 	</programme><channel id="&#x7CBE;&#x54C1;&#x4F53;&#x80B2;">
 		<display-name lang="zh">精品体育</display-name>
 	</channel><programme channel="&#x7CBE;&#x54C1;&#x4F53;&#x80B2;" start="20250920000000 +0800" stop="20250920010500 +0800">

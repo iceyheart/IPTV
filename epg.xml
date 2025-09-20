@@ -8206,6 +8206,12 @@
 		<title lang="zh">味道4K 我的家乡菜b7南县篇（下）</title>
 	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250920100400 +0800" stop="20250920104400 +0800">
 		<title lang="zh">探索b7发现4K 望山一号墓探秘（上）</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250920104400 +0800" stop="20250920110900 +0800">
+		<title lang="zh">在乡村4K 第3集 阿是农民</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250920111300 +0800" stop="20250920113800 +0800">
+		<title lang="zh">了不起的冬天4K 第7集 跨界</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250920113800 +0800" stop="20250920121900 +0800">
+		<title lang="zh">远方的家4K 长江行 古韵夔州 精诚奉节</title>
 	</programme><channel id="&#x775B;&#x5F69;&#x9752;&#x5C11;">
 		<display-name lang="zh">睛彩青少</display-name>
 	</channel><programme channel="&#x775B;&#x5F69;&#x9752;&#x5C11;" start="20250920000000 +0800" stop="20250920000100 +0800">
@@ -8520,6 +8526,8 @@
 		<title lang="zh">法式火锅</title>
 	</programme><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20250920100800 +0800" stop="20250920112100 +0800">
 		<title lang="zh">余生，请多指教</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20250920112100 +0800" stop="20250920125700 +0800">
+		<title lang="zh">真命天子</title>
 	</programme><channel id="&#x9ED1;&#x8393;&#x52A8;&#x753B;">
 		<display-name lang="zh">黑莓动画</display-name>
 	</channel><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20250920012400 +0800" stop="20250920022800 +0800">
@@ -8530,6 +8538,10 @@
 		<title lang="zh">21_间谍过家家全集中文版</title>
 	</programme><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20250920102700 +0800" stop="20250920105900 +0800">
 		<title lang="zh">01_优宝儿歌第三季</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20250920105900 +0800" stop="20250920112600 +0800">
+		<title lang="zh">01_宝贝多米之美食乐园</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20250920112600 +0800" stop="20250920124000 +0800">
+		<title lang="zh">小鱼一会儿冷漠一会儿热情 把小志折磨疯了心奇爆龙</title>
 	</programme><channel id="&#x54D2;&#x5575;&#x8D5B;&#x4E8B;">
 		<display-name lang="zh">哒啵赛事</display-name>
 	</channel><programme channel="&#x54D2;&#x5575;&#x8D5B;&#x4E8B;" start="20250920000000 +0800" stop="20250920004900 +0800">
@@ -9802,6 +9814,10 @@
 		<title lang="zh">虾青素推广片4001087099</title>
 	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20250920095700 +0800" stop="20250920104300 +0800">
 		<title lang="zh">31_你比星光美丽</title>
+	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20250920104300 +0800" stop="20250920112200 +0800">
+		<title lang="zh">祛湿专题分享</title>
+	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20250920112200 +0800" stop="20250920120700 +0800">
+		<title lang="zh">32_你比星光美丽</title>
 	</programme><channel id="&#x52A8;&#x4F5C;&#x7535;&#x5F71;">
 		<display-name lang="zh">动作电影</display-name>
 	</channel><programme channel="&#x52A8;&#x4F5C;&#x7535;&#x5F71;" start="20250920000700 +0800" stop="20250920002700 +0800">
@@ -9824,6 +9840,8 @@
 		<title lang="zh">超级风暴</title>
 	</programme><programme channel="&#x52A8;&#x4F5C;&#x7535;&#x5F71;" start="20250920101500 +0800" stop="20250920104500 +0800">
 		<title lang="zh">龙血树叶粉</title>
+	</programme><programme channel="&#x52A8;&#x4F5C;&#x7535;&#x5F71;" start="20250920104500 +0800" stop="20250920121300 +0800">
+		<title lang="zh">火线追凶2之死亡杰作</title>
 	</programme><channel id="&#x53E4;&#x88C5;&#x5267;&#x573A;">
 		<display-name lang="zh">古装剧场</display-name>
 	</channel><programme channel="&#x53E4;&#x88C5;&#x5267;&#x573A;" start="20250920000000 +0800" stop="20250920000500 +0800">
@@ -10040,6 +10058,10 @@
 		<title lang="zh">龙血树叶粉</title>
 	</programme><programme channel="&#x60CA;&#x609A;&#x60AC;&#x7591;" start="20250920092100 +0800" stop="20250920104900 +0800">
 		<title lang="zh">冰川鲨鱼</title>
+	</programme><programme channel="&#x60CA;&#x609A;&#x60AC;&#x7591;" start="20250920104900 +0800" stop="20250920112900 +0800">
+		<title lang="zh">龙血树叶粉</title>
+	</programme><programme channel="&#x60CA;&#x609A;&#x60AC;&#x7591;" start="20250920112900 +0800" stop="20250920125000 +0800">
+		<title lang="zh">机器人战警</title>
 	</programme><channel id="&#x7CBE;&#x54C1;&#x4F53;&#x80B2;">
 		<display-name lang="zh">精品体育</display-name>
 	</channel><programme channel="&#x7CBE;&#x54C1;&#x4F53;&#x80B2;" start="20250920000000 +0800" stop="20250920010500 +0800">

@@ -8220,6 +8220,16 @@
 		<title lang="zh">寻古中国4K 古蜀记b7古蜀之源</title>
 	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250920141200 +0800" stop="20250920141700 +0800">
 		<title lang="zh">香港之味 第6集</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250920141700 +0800" stop="20250920143200 +0800">
+		<title lang="zh">艺术里的奥林匹克4K 敦煌壁画b7剑术组图</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250920143200 +0800" stop="20250920144700 +0800">
+		<title lang="zh">艺术里的奥林匹克4K 敦煌壁画b7举重组图</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250920144700 +0800" stop="20250920151400 +0800">
+		<title lang="zh">好吃客4K 大同</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250920151400 +0800" stop="20250920160300 +0800">
+		<title lang="zh">大敦煌4K 第1集 何以敦煌</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250920160300 +0800" stop="20250920163100 +0800">
+		<title lang="zh">记住乡愁4K第八季 常口村——中国“碳票”第一村</title>
 	</programme><channel id="&#x775B;&#x5F69;&#x9752;&#x5C11;">
 		<display-name lang="zh">睛彩青少</display-name>
 	</channel><programme channel="&#x775B;&#x5F69;&#x9752;&#x5C11;" start="20250920000000 +0800" stop="20250920000100 +0800">
@@ -8538,6 +8548,8 @@
 		<title lang="zh">真命天子</title>
 	</programme><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20250920125700 +0800" stop="20250920144500 +0800">
 		<title lang="zh">迷宫的十字路口</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20250920144500 +0800" stop="20250920163700 +0800">
+		<title lang="zh">温暖的抱抱</title>
 	</programme><channel id="&#x9ED1;&#x8393;&#x52A8;&#x753B;">
 		<display-name lang="zh">黑莓动画</display-name>
 	</channel><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20250920012400 +0800" stop="20250920022800 +0800">
@@ -9838,6 +9850,12 @@
 		<title lang="zh">黑芝麻丸</title>
 	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20250920140200 +0800" stop="20250920144800 +0800">
 		<title lang="zh">34_你比星光美丽</title>
+	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20250920144800 +0800" stop="20250920150800 +0800">
+		<title lang="zh">健康推荐</title>
+	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20250920150800 +0800" stop="20250920155300 +0800">
+		<title lang="zh">35_你比星光美丽</title>
+	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20250920155300 +0800" stop="20250920162300 +0800">
+		<title lang="zh">《花样人生》推荐第60期</title>
 	</programme><channel id="&#x52A8;&#x4F5C;&#x7535;&#x5F71;">
 		<display-name lang="zh">动作电影</display-name>
 	</channel><programme channel="&#x52A8;&#x4F5C;&#x7535;&#x5F71;" start="20250920000700 +0800" stop="20250920002700 +0800">
@@ -9866,6 +9884,12 @@
 		<title lang="zh">《花样人生》推荐第60期</title>
 	</programme><programme channel="&#x52A8;&#x4F5C;&#x7535;&#x5F71;" start="20250920124300 +0800" stop="20250920142400 +0800">
 		<title lang="zh">毒。诫</title>
+	</programme><programme channel="&#x52A8;&#x4F5C;&#x7535;&#x5F71;" start="20250920142400 +0800" stop="20250920150400 +0800">
+		<title lang="zh">黑芝麻丸</title>
+	</programme><programme channel="&#x52A8;&#x4F5C;&#x7535;&#x5F71;" start="20250920150400 +0800" stop="20250920161100 +0800">
+		<title lang="zh">特种兵归来3：绝密战场</title>
+	</programme><programme channel="&#x52A8;&#x4F5C;&#x7535;&#x5F71;" start="20250920161100 +0800" stop="20250920164100 +0800">
+		<title lang="zh">《花样人生》推荐第60期</title>
 	</programme><channel id="&#x53E4;&#x88C5;&#x5267;&#x573A;">
 		<display-name lang="zh">古装剧场</display-name>
 	</channel><programme channel="&#x53E4;&#x88C5;&#x5267;&#x573A;" start="20250920000000 +0800" stop="20250920000500 +0800">
@@ -10090,6 +10114,10 @@
 		<title lang="zh">《花样人生》推荐第60期</title>
 	</programme><programme channel="&#x60CA;&#x609A;&#x60AC;&#x7591;" start="20250920132000 +0800" stop="20250920150200 +0800">
 		<title lang="zh">毒。诫（普通话版）</title>
+	</programme><programme channel="&#x60CA;&#x609A;&#x60AC;&#x7591;" start="20250920150200 +0800" stop="20250920160700 +0800">
+		<title lang="zh">肇事者</title>
+	</programme><programme channel="&#x60CA;&#x609A;&#x60AC;&#x7591;" start="20250920160700 +0800" stop="20250920163700 +0800">
+		<title lang="zh">《花样人生》推荐第60期</title>
 	</programme><channel id="&#x7CBE;&#x54C1;&#x4F53;&#x80B2;">
 		<display-name lang="zh">精品体育</display-name>
 	</channel><programme channel="&#x7CBE;&#x54C1;&#x4F53;&#x80B2;" start="20250920000000 +0800" stop="20250920010500 +0800">

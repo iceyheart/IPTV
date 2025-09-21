@@ -7494,12 +7494,22 @@
 		<title lang="zh">了不起的冬天4K 第9集 瞬间的奥秘</title>
 	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250922033800 +0800" stop="20250922042000 +0800">
 		<title lang="zh">远方的家4K 金佛山国家级自然保护区 珍稀动植物的家园</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250922042000 +0800" stop="20250922050200 +0800">
+		<title lang="zh">远方的家4K 厦门珍稀海洋物种国家级自然保护区：鹭岛生灵</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250922051300 +0800" stop="20250922054300 +0800">
+		<title lang="zh">寻古中国4K 古蜀记b7璀璨金沙</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250922054300 +0800" stop="20250922061300 +0800">
+		<title lang="zh">寻古中国4K 古蜀记b7再续华彩</title>
 	</programme><channel id="&#x9ED1;&#x8393;&#x7535;&#x5F71;">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20250922010800 +0800" stop="20250922025300 +0800">
 		<title lang="zh">阿薇尔与虚构世界</title>
 	</programme><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20250922025300 +0800" stop="20250922042300 +0800">
 		<title lang="zh">法医密码</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20250922042300 +0800" stop="20250922055800 +0800">
+		<title lang="zh">龙骨遗冢</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20250922055800 +0800" stop="20250922075300 +0800">
+		<title lang="zh">屁民报国</title>
 	</programme><channel id="&#x9ED1;&#x8393;&#x52A8;&#x753B;">
 		<display-name lang="zh">黑莓动画</display-name>
 	</channel><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20250922005100 +0800" stop="20250922022000 +0800">
@@ -7508,6 +7518,8 @@
 		<title lang="zh">星际大逃亡</title>
 	</programme><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20250922034900 +0800" stop="20250922050600 +0800">
 		<title lang="zh">西行纪之穷奇地洞</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20250922050600 +0800" stop="20250922063100 +0800">
+		<title lang="zh">虹猫蓝兔火凤凰</title>
 	</programme><channel id="&#x91D1;&#x9E70;&#x5361;&#x901A;">
 		<display-name lang="zh">金鹰卡通</display-name>
 	</channel><programme channel="&#x91D1;&#x9E70;&#x5361;&#x901A;" start="20250922000000 +0800" stop="20250922032000 +0800">

@@ -8338,6 +8338,14 @@
 		<title lang="zh">寻古中国4K 古蜀记b7再续华彩</title>
 	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250922141300 +0800" stop="20250922142800 +0800">
 		<title lang="zh">艺术里的奥林匹克4K 首套奥运邮票</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250922142800 +0800" stop="20250922144300 +0800">
+		<title lang="zh">艺术里的奥林匹克4K 张旭草书与剑舞</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250922144300 +0800" stop="20250922151300 +0800">
+		<title lang="zh">好吃客4K 重庆</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250922151300 +0800" stop="20250922160200 +0800">
+		<title lang="zh">大敦煌4K 第3集 文明舞台</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250922160200 +0800" stop="20250922162900 +0800">
+		<title lang="zh">记住乡愁4K第八季 六赢村——莲藕之乡 同心共赢</title>
 	</programme><channel id="&#x775B;&#x5F69;&#x9752;&#x5C11;">
 		<display-name lang="zh">睛彩青少</display-name>
 	</channel><programme channel="&#x775B;&#x5F69;&#x9752;&#x5C11;" start="20250922000000 +0800" stop="20250922003500 +0800">
@@ -8652,6 +8660,8 @@
 		<title lang="zh">长江图</title>
 	</programme><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20250922125700 +0800" stop="20250922145300 +0800">
 		<title lang="zh">战栗的乐谱</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20250922145300 +0800" stop="20250922163700 +0800">
+		<title lang="zh">音乐永不停歇</title>
 	</programme><channel id="&#x9ED1;&#x8393;&#x52A8;&#x753B;">
 		<display-name lang="zh">黑莓动画</display-name>
 	</channel><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20250922005100 +0800" stop="20250922022000 +0800">
@@ -10020,6 +10030,12 @@
 		<title lang="zh">04_兰闺喜事</title>
 	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20250922135100 +0800" stop="20250922143100 +0800">
 		<title lang="zh">黑芝麻丸</title>
+	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20250922143100 +0800" stop="20250922150800 +0800">
+		<title lang="zh">05_兰闺喜事</title>
+	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20250922150800 +0800" stop="20250922154800 +0800">
+		<title lang="zh">健康推荐</title>
+	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20250922154800 +0800" stop="20250922173200 +0800">
+		<title lang="zh">真爱之书</title>
 	</programme><channel id="&#x52A8;&#x4F5C;&#x7535;&#x5F71;">
 		<display-name lang="zh">动作电影</display-name>
 	</channel><programme channel="&#x52A8;&#x4F5C;&#x7535;&#x5F71;" start="20250922000400 +0800" stop="20250922002400 +0800">
@@ -10050,6 +10066,10 @@
 		<title lang="zh">火线追凶2之同名为仇</title>
 	</programme><programme channel="&#x52A8;&#x4F5C;&#x7535;&#x5F71;" start="20250922140100 +0800" stop="20250922144100 +0800">
 		<title lang="zh">黑芝麻丸</title>
+	</programme><programme channel="&#x52A8;&#x4F5C;&#x7535;&#x5F71;" start="20250922144100 +0800" stop="20250922160300 +0800">
+		<title lang="zh">巨蟒1</title>
+	</programme><programme channel="&#x52A8;&#x4F5C;&#x7535;&#x5F71;" start="20250922160300 +0800" stop="20250922163300 +0800">
+		<title lang="zh">《花样人生》推荐第61期</title>
 	</programme><channel id="&#x53E4;&#x88C5;&#x5267;&#x573A;">
 		<display-name lang="zh">古装剧场</display-name>
 	</channel><programme channel="&#x53E4;&#x88C5;&#x5267;&#x573A;" start="20250922000000 +0800" stop="20250922000400 +0800">
@@ -10274,6 +10294,10 @@
 		<title lang="zh">复仇者格林</title>
 	</programme><programme channel="&#x60CA;&#x609A;&#x60AC;&#x7591;" start="20250922134400 +0800" stop="20250922142400 +0800">
 		<title lang="zh">黑芝麻丸</title>
+	</programme><programme channel="&#x60CA;&#x609A;&#x60AC;&#x7591;" start="20250922142400 +0800" stop="20250922155500 +0800">
+		<title lang="zh">鬼吹灯之湘西密藏</title>
+	</programme><programme channel="&#x60CA;&#x609A;&#x60AC;&#x7591;" start="20250922155500 +0800" stop="20250922162500 +0800">
+		<title lang="zh">《花样人生》推荐第61期</title>
 	</programme><channel id="&#x7CBE;&#x54C1;&#x4F53;&#x80B2;">
 		<display-name lang="zh">精品体育</display-name>
 	</channel><programme channel="&#x7CBE;&#x54C1;&#x4F53;&#x80B2;" start="20250922000000 +0800" stop="20250922010200 +0800">

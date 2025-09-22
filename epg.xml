@@ -8444,6 +8444,12 @@
 		<title lang="zh">远方的家4K 金佛山国家级自然保护区 珍稀动植物的家园</title>
 	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250922201200 +0800" stop="20250922205400 +0800">
 		<title lang="zh">远方的家4K 厦门珍稀海洋物种国家级自然保护区：鹭岛生灵</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250922205900 +0800" stop="20250922210500 +0800">
+		<title lang="zh">美丽中国自然4K 阿坝系列 黑颈鹤夫妇</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250922210500 +0800" stop="20250922213500 +0800">
+		<title lang="zh">寻古中国4K 古蜀记b7璀璨金沙</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250922213500 +0800" stop="20250922220500 +0800">
+		<title lang="zh">寻古中国4K 古蜀记b7再续华彩</title>
 	</programme><channel id="&#x775B;&#x5F69;&#x9752;&#x5C11;">
 		<display-name lang="zh">睛彩青少</display-name>
 	</channel><programme channel="&#x775B;&#x5F69;&#x9752;&#x5C11;" start="20250922000000 +0800" stop="20250922003500 +0800">
@@ -8792,6 +8798,12 @@
 		<title lang="zh">01_杜甫 江湖</title>
 	</programme><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20250922200000 +0800" stop="20250922205000 +0800">
 		<title lang="zh">01_王的微笑</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20250922205000 +0800" stop="20250922213500 +0800">
+		<title lang="zh">01_宇宙信使</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20250922213500 +0800" stop="20250922220000 +0800">
+		<title lang="zh">01_摹张萱虢国夫人游春图</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20250922220000 +0800" stop="20250922000100 +0800">
+		<title lang="zh">01_大地上的成长</title>
 	</programme><channel id="&#x54D2;&#x5575;&#x8D5B;&#x4E8B;">
 		<display-name lang="zh">哒啵赛事</display-name>
 	</channel><programme channel="&#x54D2;&#x5575;&#x8D5B;&#x4E8B;" start="20250922000000 +0800" stop="20250922000600 +0800">
@@ -10154,6 +10166,12 @@
 		<title lang="zh">07_失笑</title>
 	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20250922200300 +0800" stop="20250922203300 +0800">
 		<title lang="zh">《花样人生》推荐第61期</title>
+	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20250922203300 +0800" stop="20250922212500 +0800">
+		<title lang="zh">08_失笑</title>
+	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20250922212500 +0800" stop="20250922215500 +0800">
+		<title lang="zh">《花样人生》推荐第61期</title>
+	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20250922215500 +0800" stop="20250922224500 +0800">
+		<title lang="zh">09_失笑</title>
 	</programme><channel id="&#x52A8;&#x4F5C;&#x7535;&#x5F71;">
 		<display-name lang="zh">动作电影</display-name>
 	</channel><programme channel="&#x52A8;&#x4F5C;&#x7535;&#x5F71;" start="20250922000400 +0800" stop="20250922002400 +0800">
@@ -10196,6 +10214,8 @@
 		<title lang="zh">一个好人</title>
 	</programme><programme channel="&#x52A8;&#x4F5C;&#x7535;&#x5F71;" start="20250922200100 +0800" stop="20250922203100 +0800">
 		<title lang="zh">《花样人生》推荐第61期</title>
+	</programme><programme channel="&#x52A8;&#x4F5C;&#x7535;&#x5F71;" start="20250922203100 +0800" stop="20250922221100 +0800">
+		<title lang="zh">绝色营救</title>
 	</programme><channel id="&#x53E4;&#x88C5;&#x5267;&#x573A;">
 		<display-name lang="zh">古装剧场</display-name>
 	</channel><programme channel="&#x53E4;&#x88C5;&#x5267;&#x573A;" start="20250922000000 +0800" stop="20250922000400 +0800">
@@ -10432,6 +10452,8 @@
 		<title lang="zh">死亡护理师</title>
 	</programme><programme channel="&#x60CA;&#x609A;&#x60AC;&#x7591;" start="20250922201200 +0800" stop="20250922204200 +0800">
 		<title lang="zh">《花样人生》推荐第61期</title>
+	</programme><programme channel="&#x60CA;&#x609A;&#x60AC;&#x7591;" start="20250922204200 +0800" stop="20250922220100 +0800">
+		<title lang="zh">白云斋怪话</title>
 	</programme><channel id="&#x7CBE;&#x54C1;&#x4F53;&#x80B2;">
 		<display-name lang="zh">精品体育</display-name>
 	</channel><programme channel="&#x7CBE;&#x54C1;&#x4F53;&#x80B2;" start="20250922000000 +0800" stop="20250922010200 +0800">

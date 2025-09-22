@@ -8330,6 +8330,14 @@
 		<title lang="zh">远方的家4K 金佛山国家级自然保护区 珍稀动植物的家园</title>
 	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250922121600 +0800" stop="20250922125800 +0800">
 		<title lang="zh">远方的家4K 厦门珍稀海洋物种国家级自然保护区：鹭岛生灵</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250922125800 +0800" stop="20250922130300 +0800">
+		<title lang="zh">美丽中国自然4K 阿坝系列 达古冰川</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250922130900 +0800" stop="20250922133900 +0800">
+		<title lang="zh">寻古中国4K 古蜀记b7璀璨金沙</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250922133900 +0800" stop="20250922140900 +0800">
+		<title lang="zh">寻古中国4K 古蜀记b7再续华彩</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250922141300 +0800" stop="20250922142800 +0800">
+		<title lang="zh">艺术里的奥林匹克4K 首套奥运邮票</title>
 	</programme><channel id="&#x775B;&#x5F69;&#x9752;&#x5C11;">
 		<display-name lang="zh">睛彩青少</display-name>
 	</channel><programme channel="&#x775B;&#x5F69;&#x9752;&#x5C11;" start="20250922000000 +0800" stop="20250922003500 +0800">
@@ -8642,6 +8650,8 @@
 		<title lang="zh">捕风捉影</title>
 	</programme><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20250922110700 +0800" stop="20250922125700 +0800">
 		<title lang="zh">长江图</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20250922125700 +0800" stop="20250922145300 +0800">
+		<title lang="zh">战栗的乐谱</title>
 	</programme><channel id="&#x9ED1;&#x8393;&#x52A8;&#x753B;">
 		<display-name lang="zh">黑莓动画</display-name>
 	</channel><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20250922005100 +0800" stop="20250922022000 +0800">
@@ -8662,6 +8672,8 @@
 		<title lang="zh">淘气包马小跳</title>
 	</programme><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20250922115700 +0800" stop="20250922132600 +0800">
 		<title lang="zh">金猴降妖</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20250922132600 +0800" stop="20250922200000 +0800">
+		<title lang="zh">01_杜甫 江湖</title>
 	</programme><channel id="&#x54D2;&#x5575;&#x8D5B;&#x4E8B;">
 		<display-name lang="zh">哒啵赛事</display-name>
 	</channel><programme channel="&#x54D2;&#x5575;&#x8D5B;&#x4E8B;" start="20250922000000 +0800" stop="20250922000600 +0800">
@@ -10002,6 +10014,12 @@
 		<title lang="zh">02_兰闺喜事</title>
 	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20250922120700 +0800" stop="20250922123700 +0800">
 		<title lang="zh">《花样人生》推荐第61期</title>
+	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20250922123700 +0800" stop="20250922131300 +0800">
+		<title lang="zh">03_兰闺喜事</title>
+	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20250922131300 +0800" stop="20250922135100 +0800">
+		<title lang="zh">04_兰闺喜事</title>
+	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20250922135100 +0800" stop="20250922143100 +0800">
+		<title lang="zh">黑芝麻丸</title>
 	</programme><channel id="&#x52A8;&#x4F5C;&#x7535;&#x5F71;">
 		<display-name lang="zh">动作电影</display-name>
 	</channel><programme channel="&#x52A8;&#x4F5C;&#x7535;&#x5F71;" start="20250922000400 +0800" stop="20250922002400 +0800">
@@ -10028,6 +10046,10 @@
 		<title lang="zh">生死下一秒</title>
 	</programme><programme channel="&#x52A8;&#x4F5C;&#x7535;&#x5F71;" start="20250922120300 +0800" stop="20250922123300 +0800">
 		<title lang="zh">《花样人生》推荐第61期</title>
+	</programme><programme channel="&#x52A8;&#x4F5C;&#x7535;&#x5F71;" start="20250922123300 +0800" stop="20250922140100 +0800">
+		<title lang="zh">火线追凶2之同名为仇</title>
+	</programme><programme channel="&#x52A8;&#x4F5C;&#x7535;&#x5F71;" start="20250922140100 +0800" stop="20250922144100 +0800">
+		<title lang="zh">黑芝麻丸</title>
 	</programme><channel id="&#x53E4;&#x88C5;&#x5267;&#x573A;">
 		<display-name lang="zh">古装剧场</display-name>
 	</channel><programme channel="&#x53E4;&#x88C5;&#x5267;&#x573A;" start="20250922000000 +0800" stop="20250922000400 +0800">
@@ -10248,6 +10270,10 @@
 		<title lang="zh">东邪西毒：终极版</title>
 	</programme><programme channel="&#x60CA;&#x609A;&#x60AC;&#x7591;" start="20250922114900 +0800" stop="20250922121900 +0800">
 		<title lang="zh">《花样人生》推荐第61期</title>
+	</programme><programme channel="&#x60CA;&#x609A;&#x60AC;&#x7591;" start="20250922121900 +0800" stop="20250922134400 +0800">
+		<title lang="zh">复仇者格林</title>
+	</programme><programme channel="&#x60CA;&#x609A;&#x60AC;&#x7591;" start="20250922134400 +0800" stop="20250922142400 +0800">
+		<title lang="zh">黑芝麻丸</title>
 	</programme><channel id="&#x7CBE;&#x54C1;&#x4F53;&#x80B2;">
 		<display-name lang="zh">精品体育</display-name>
 	</channel><programme channel="&#x7CBE;&#x54C1;&#x4F53;&#x80B2;" start="20250922000000 +0800" stop="20250922010200 +0800">

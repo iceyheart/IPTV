@@ -8380,6 +8380,14 @@
 		<title lang="zh">远方的家4K 长江行 卓克河：穿越四季</title>
 	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250923201500 +0800" stop="20250923205700 +0800">
 		<title lang="zh">远方的家4K 西藏类乌齐马鹿国家级自然保护区 高原之上 马鹿的家</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250923205700 +0800" stop="20250923210200 +0800">
+		<title lang="zh">美丽中国自然4K 阿坝系列 黑颈鹤宝宝 </title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250923210700 +0800" stop="20250923213700 +0800">
+		<title lang="zh">寻古中国4K 玉石记b7古玉之谜</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250923213700 +0800" stop="20250923220700 +0800">
+		<title lang="zh">寻古中国4K 玉石记b7神玉寻踪</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250923221200 +0800" stop="20250923222700 +0800">
+		<title lang="zh">艺术里的奥林匹克4K 隆桑的赛马</title>
 	</programme><channel id="&#x775B;&#x5F69;&#x9752;&#x5C11;">
 		<display-name lang="zh">睛彩青少</display-name>
 	</channel><programme channel="&#x775B;&#x5F69;&#x9752;&#x5C11;" start="20250923000000 +0800" stop="20250923000100 +0800">
@@ -8716,6 +8724,8 @@
 		<title lang="zh">变形金刚：超能勇士崛起</title>
 	</programme><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20250923191800 +0800" stop="20250923205900 +0800">
 		<title lang="zh">忍者神龟：变种时代</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20250923205900 +0800" stop="20250923225100 +0800">
+		<title lang="zh">温暖的抱抱</title>
 	</programme><channel id="&#x9ED1;&#x8393;&#x52A8;&#x753B;">
 		<display-name lang="zh">黑莓动画</display-name>
 	</channel><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20250923000100 +0800" stop="20250923012300 +0800">
@@ -10164,6 +10174,12 @@
 		<title lang="zh">13_失笑</title>
 	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20250923201100 +0800" stop="20250923204100 +0800">
 		<title lang="zh">《花样人生》推荐第61期</title>
+	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20250923204100 +0800" stop="20250923213000 +0800">
+		<title lang="zh">14_失笑</title>
+	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20250923213000 +0800" stop="20250923220000 +0800">
+		<title lang="zh">《花样人生》推荐第61期</title>
+	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20250923220000 +0800" stop="20250923225000 +0800">
+		<title lang="zh">15_失笑</title>
 	</programme><channel id="&#x52A8;&#x4F5C;&#x7535;&#x5F71;">
 		<display-name lang="zh">动作电影</display-name>
 	</channel><programme channel="&#x52A8;&#x4F5C;&#x7535;&#x5F71;" start="20250923000000 +0800" stop="20250923003600 +0800">
@@ -10446,6 +10462,8 @@
 		<title lang="zh">《花样人生》推荐第61期</title>
 	</programme><programme channel="&#x60CA;&#x609A;&#x60AC;&#x7591;" start="20250923195900 +0800" stop="20250923220900 +0800">
 		<title lang="zh">侠探杰克（原声版）</title>
+	</programme><programme channel="&#x60CA;&#x609A;&#x60AC;&#x7591;" start="20250923220900 +0800" stop="20250923223900 +0800">
+		<title lang="zh">《花样人生》推荐第61期</title>
 	</programme><channel id="&#x7CBE;&#x54C1;&#x4F53;&#x80B2;">
 		<display-name lang="zh">精品体育</display-name>
 	</channel><programme channel="&#x7CBE;&#x54C1;&#x4F53;&#x80B2;" start="20250923000000 +0800" stop="20250923010700 +0800">

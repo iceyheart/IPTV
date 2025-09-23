@@ -7280,10 +7280,30 @@
     <title>問答神州 [普]</title>
   </programme><programme start="20250923233000 +0800" stop="20250924000000 +0800" channel="PHK">
     <title>中國銀行 (香港) 亞洲財經透視 [普]</title>
-  </programme><channel id="&#x9ED1;&#x8393;&#x52A8;&#x753B;">
+  </programme><channel id="&#x7EAF;&#x4EAB;4K">
+		<display-name lang="zh">纯享4K</display-name>
+	</channel><programme channel="&#x7EAF;&#x4EAB;4K" start="20250924001200 +0800" stop="20250924004000 +0800">
+		<title lang="zh">记住乡愁4K第八季 渡渎村——江南水乡 古韵悠长</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250924004000 +0800" stop="20250924010800 +0800">
+		<title lang="zh">记住乡愁4K第八季 浙水村——古今一条道 颐养浙水人</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250924010800 +0800" stop="20250924013800 +0800">
+		<title lang="zh">味道4K 原味乡间b7阿克塞篇（上）</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250924013800 +0800" stop="20250924020800 +0800">
+		<title lang="zh">味道4K 原味乡间b7阿克塞篇 （下）</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250924020800 +0800" stop="20250924024700 +0800">
+		<title lang="zh">探索b7发现4K 考古手铲下的“谜案”（3）</title>
+	</programme><channel id="&#x9ED1;&#x8393;&#x7535;&#x5F71;">
+		<display-name lang="zh">黑莓电影</display-name>
+	</channel><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20250924002500 +0800" stop="20250924020100 +0800">
+		<title lang="zh">第一滴血3</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20250924020100 +0800" stop="20250924033500 +0800">
+		<title lang="zh">东邪西毒：终极版</title>
+	</programme><channel id="&#x9ED1;&#x8393;&#x52A8;&#x753B;">
 		<display-name lang="zh">黑莓动画</display-name>
 	</channel><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20250924000000 +0800" stop="20250924012900 +0800">
 		<title lang="zh">摩登森林之美食总动员</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20250924012900 +0800" stop="20250924025700 +0800">
+		<title lang="zh">星际大逃亡</title>
 	</programme><channel id="&#x91D1;&#x9E70;&#x5361;&#x901A;">
 		<display-name lang="zh">金鹰卡通</display-name>
 	</channel><programme channel="&#x91D1;&#x9E70;&#x5361;&#x901A;" start="20250924000000 +0800" stop="20250924032000 +0800">

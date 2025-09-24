@@ -7420,7 +7420,27 @@
     <title>時事大破解 [粵]</title>
   </programme><programme start="20250926053000 +0800" stop="20250926060000 +0800" channel="PHK">
     <title>新聞今日談 [普]</title>
-  </programme><channel id="&#x91D1;&#x9E70;&#x5361;&#x901A;">
+  </programme><channel id="&#x7EAF;&#x4EAB;4K">
+		<display-name lang="zh">纯享4K</display-name>
+	</channel><programme channel="&#x7EAF;&#x4EAB;4K" start="20250925002100 +0800" stop="20250925004900 +0800">
+		<title lang="zh">记住乡愁4K第八季 万古寺村——四季橙香 万古流芳</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250925004900 +0800" stop="20250925011700 +0800">
+		<title lang="zh">记住乡愁4K第八季 茶坑村——岭南人家 陈皮飘香</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250925011700 +0800" stop="20250925014700 +0800">
+		<title lang="zh">味道4K 原味乡间b7咸安篇（上）</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250925014700 +0800" stop="20250925021700 +0800">
+		<title lang="zh">味道4K 原味乡间b7咸安篇（下）</title>
+	</programme><channel id="&#x9ED1;&#x8393;&#x7535;&#x5F71;">
+		<display-name lang="zh">黑莓电影</display-name>
+	</channel><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20250925003200 +0800" stop="20250925015500 +0800">
+		<title lang="zh">长生志</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20250925015500 +0800" stop="20250925033200 +0800">
+		<title lang="zh">雨季风暴</title>
+	</programme><channel id="&#x9ED1;&#x8393;&#x52A8;&#x753B;">
+		<display-name lang="zh">黑莓动画</display-name>
+	</channel><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20250925002400 +0800" stop="20250925042400 +0800">
+		<title lang="zh">21_樱桃小丸子 第二季普通话版</title>
+	</programme><channel id="&#x91D1;&#x9E70;&#x5361;&#x901A;">
 		<display-name lang="zh">金鹰卡通</display-name>
 	</channel><programme channel="&#x91D1;&#x9E70;&#x5361;&#x901A;" start="20250925000000 +0800" stop="20250925032000 +0800">
 		<title lang="zh">熊出没之探险日记</title>

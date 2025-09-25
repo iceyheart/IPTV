@@ -8376,6 +8376,12 @@
 		<title lang="zh">远方的家4K 长江行 生态之城——上海</title>
 	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250925205700 +0800" stop="20250925212700 +0800">
 		<title lang="zh">寻古中国4K 玉石记b7玉韫神州</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250925212700 +0800" stop="20250925215700 +0800">
+		<title lang="zh">寻古中国4K 寻夏记b7夏都何在</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250925215700 +0800" stop="20250925221200 +0800">
+		<title lang="zh">艺术里的奥林匹克4K 马术图</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250925221200 +0800" stop="20250925222700 +0800">
+		<title lang="zh">艺术里的奥林匹克4K 敦煌壁画b7游泳组图</title>
 	</programme><channel id="&#x775B;&#x5F69;&#x9752;&#x5C11;">
 		<display-name lang="zh">睛彩青少</display-name>
 	</channel><programme channel="&#x775B;&#x5F69;&#x9752;&#x5C11;" start="20250925000000 +0800" stop="20250925000100 +0800">
@@ -8680,6 +8686,8 @@
 		<title lang="zh">逆流而上</title>
 	</programme><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20250925192900 +0800" stop="20250925212900 +0800">
 		<title lang="zh">拆弹专家</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20250925212900 +0800" stop="20250925225900 +0800">
+		<title lang="zh">摸金玦之守护人</title>
 	</programme><channel id="&#x9ED1;&#x8393;&#x52A8;&#x753B;">
 		<display-name lang="zh">黑莓动画</display-name>
 	</channel><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20250925002400 +0800" stop="20250925042400 +0800">
@@ -8704,6 +8712,8 @@
 		<title lang="zh">01_喜羊羊与灰太狼之发明大作战之二</title>
 	</programme><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20250925203100 +0800" stop="20250925212100 +0800">
 		<title lang="zh">01_超级火箭发动机</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20250925212100 +0800" stop="20250925224900 +0800">
+		<title lang="zh">星际大逃亡</title>
 	</programme><channel id="&#x54D2;&#x5575;&#x8D5B;&#x4E8B;">
 		<display-name lang="zh">哒啵赛事</display-name>
 	</channel><programme channel="&#x54D2;&#x5575;&#x8D5B;&#x4E8B;" start="20250925000000 +0800" stop="20250925000200 +0800">
@@ -10132,6 +10142,10 @@
 		<title lang="zh">22_失笑</title>
 	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20250925204700 +0800" stop="20250925211700 +0800">
 		<title lang="zh">《花样人生》推荐第62期</title>
+	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20250925211700 +0800" stop="20250925220600 +0800">
+		<title lang="zh">23_失笑</title>
+	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20250925220600 +0800" stop="20250925225200 +0800">
+		<title lang="zh">24_失笑</title>
 	</programme><channel id="&#x52A8;&#x4F5C;&#x7535;&#x5F71;">
 		<display-name lang="zh">动作电影</display-name>
 	</channel><programme channel="&#x52A8;&#x4F5C;&#x7535;&#x5F71;" start="20250925000000 +0800" stop="20250925000900 +0800">
@@ -10414,6 +10428,10 @@
 		<title lang="zh">《花样人生》推荐第62期</title>
 	</programme><programme channel="&#x60CA;&#x609A;&#x60AC;&#x7591;" start="20250925195100 +0800" stop="20250925212500 +0800">
 		<title lang="zh">九纹龙史进之除恶史家村</title>
+	</programme><programme channel="&#x60CA;&#x609A;&#x60AC;&#x7591;" start="20250925212500 +0800" stop="20250925215500 +0800">
+		<title lang="zh">《花样人生》推荐第62期</title>
+	</programme><programme channel="&#x60CA;&#x609A;&#x60AC;&#x7591;" start="20250925215500 +0800" stop="20250925232500 +0800">
+		<title lang="zh">大唐英豪之大漠秋水</title>
 	</programme><channel id="&#x7CBE;&#x54C1;&#x4F53;&#x80B2;">
 		<display-name lang="zh">精品体育</display-name>
 	</channel><programme channel="&#x7CBE;&#x54C1;&#x4F53;&#x80B2;" start="20250925000000 +0800" stop="20250925013700 +0800">

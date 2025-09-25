@@ -8312,6 +8312,10 @@
 		<title lang="zh">记住乡愁4K第八季 茶坑村——岭南人家 陈皮飘香</title>
 	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250925091300 +0800" stop="20250925094300 +0800">
 		<title lang="zh">味道4K 原味乡间b7咸安篇（上）</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250925094300 +0800" stop="20250925101300 +0800">
+		<title lang="zh">味道4K 原味乡间b7咸安篇（下）</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250925101300 +0800" stop="20250925105300 +0800">
+		<title lang="zh">探索b7发现4K 重叠的墓葬</title>
 	</programme><channel id="&#x775B;&#x5F69;&#x9752;&#x5C11;">
 		<display-name lang="zh">睛彩青少</display-name>
 	</channel><programme channel="&#x775B;&#x5F69;&#x9752;&#x5C11;" start="20250925000000 +0800" stop="20250925000100 +0800">
@@ -8602,6 +8606,8 @@
 		<title lang="zh">五月天人生无限公司</title>
 	</programme><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20250925082800 +0800" stop="20250925095500 +0800">
 		<title lang="zh">红番区</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20250925095500 +0800" stop="20250925112300 +0800">
+		<title lang="zh">鲨卷风5：全球鲨暴</title>
 	</programme><channel id="&#x9ED1;&#x8393;&#x52A8;&#x753B;">
 		<display-name lang="zh">黑莓动画</display-name>
 	</channel><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20250925002400 +0800" stop="20250925042400 +0800">
@@ -8614,6 +8620,8 @@
 		<title lang="zh">01_猪猪侠之光明守卫者（上部）</title>
 	</programme><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20250925084700 +0800" stop="20250925101900 +0800">
 		<title lang="zh">21_奶龙之奇妙冒险</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20250925101900 +0800" stop="20250925120900 +0800">
+		<title lang="zh">01_小马宝莉之魔力新世界</title>
 	</programme><channel id="&#x54D2;&#x5575;&#x8D5B;&#x4E8B;">
 		<display-name lang="zh">哒啵赛事</display-name>
 	</channel><programme channel="&#x54D2;&#x5575;&#x8D5B;&#x4E8B;" start="20250925000000 +0800" stop="20250925000200 +0800">
@@ -10008,6 +10016,10 @@
 		<title lang="zh">伏湿丸</title>
 	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20250925082700 +0800" stop="20250925095200 +0800">
 		<title lang="zh">妈妈的宝盒</title>
+	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20250925095200 +0800" stop="20250925102300 +0800">
+		<title lang="zh">云杉心脑通</title>
+	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20250925102300 +0800" stop="20250925110500 +0800">
+		<title lang="zh">16_兰闺喜事</title>
 	</programme><channel id="&#x52A8;&#x4F5C;&#x7535;&#x5F71;">
 		<display-name lang="zh">动作电影</display-name>
 	</channel><programme channel="&#x52A8;&#x4F5C;&#x7535;&#x5F71;" start="20250925000000 +0800" stop="20250925000900 +0800">

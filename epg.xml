@@ -8322,6 +8322,14 @@
 		<title lang="zh">远方的家4K 长江行（96） 多元文化 活力上海</title>
 	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250925120900 +0800" stop="20250925125100 +0800">
 		<title lang="zh">远方的家4K 长江行 生态之城——上海</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250925130100 +0800" stop="20250925133100 +0800">
+		<title lang="zh">寻古中国4K 玉石记b7玉韫神州</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250925133100 +0800" stop="20250925140100 +0800">
+		<title lang="zh">寻古中国4K 寻夏记b7夏都何在</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250925140100 +0800" stop="20250925141600 +0800">
+		<title lang="zh">艺术里的奥林匹克4K 马术图</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250925141600 +0800" stop="20250925143100 +0800">
+		<title lang="zh">艺术里的奥林匹克4K 敦煌壁画b7游泳组图</title>
 	</programme><channel id="&#x775B;&#x5F69;&#x9752;&#x5C11;">
 		<display-name lang="zh">睛彩青少</display-name>
 	</channel><programme channel="&#x775B;&#x5F69;&#x9752;&#x5C11;" start="20250925000000 +0800" stop="20250925000100 +0800">
@@ -8616,6 +8624,8 @@
 		<title lang="zh">鲨卷风5：全球鲨暴</title>
 	</programme><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20250925112300 +0800" stop="20250925125400 +0800">
 		<title lang="zh">镇魔司：苍龙觉醒</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20250925125400 +0800" stop="20250925144500 +0800">
+		<title lang="zh">三线轮洄</title>
 	</programme><channel id="&#x9ED1;&#x8393;&#x52A8;&#x753B;">
 		<display-name lang="zh">黑莓动画</display-name>
 	</channel><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20250925002400 +0800" stop="20250925042400 +0800">
@@ -8632,6 +8642,8 @@
 		<title lang="zh">01_小马宝莉之魔力新世界</title>
 	</programme><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20250925120900 +0800" stop="20250925133500 +0800">
 		<title lang="zh">汪汪队立大功大电影（普通话版）</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20250925133500 +0800" stop="20250925154500 +0800">
+		<title lang="zh">01_熊出没之小小世界</title>
 	</programme><channel id="&#x54D2;&#x5575;&#x8D5B;&#x4E8B;">
 		<display-name lang="zh">哒啵赛事</display-name>
 	</channel><programme channel="&#x54D2;&#x5575;&#x8D5B;&#x4E8B;" start="20250925000000 +0800" stop="20250925000200 +0800">
@@ -10034,6 +10046,14 @@
 		<title lang="zh">龙血树叶粉</title>
 	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20250925114500 +0800" stop="20250925122200 +0800">
 		<title lang="zh">17_兰闺喜事</title>
+	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20250925122200 +0800" stop="20250925125200 +0800">
+		<title lang="zh">《花样人生》推荐第62期</title>
+	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20250925125200 +0800" stop="20250925133200 +0800">
+		<title lang="zh">18_兰闺喜事</title>
+	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20250925133200 +0800" stop="20250925141200 +0800">
+		<title lang="zh">黑芝麻丸</title>
+	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20250925141200 +0800" stop="20250925145300 +0800">
+		<title lang="zh">19_兰闺喜事</title>
 	</programme><channel id="&#x52A8;&#x4F5C;&#x7535;&#x5F71;">
 		<display-name lang="zh">动作电影</display-name>
 	</channel><programme channel="&#x52A8;&#x4F5C;&#x7535;&#x5F71;" start="20250925000000 +0800" stop="20250925000900 +0800">
@@ -10300,6 +10320,10 @@
 		<title lang="zh">黑芝麻丸</title>
 	</programme><programme channel="&#x60CA;&#x609A;&#x60AC;&#x7591;" start="20250925114500 +0800" stop="20250925131100 +0800">
 		<title lang="zh">包公传奇之天长案</title>
+	</programme><programme channel="&#x60CA;&#x609A;&#x60AC;&#x7591;" start="20250925131100 +0800" stop="20250925134100 +0800">
+		<title lang="zh">《花样人生》推荐第62期</title>
+	</programme><programme channel="&#x60CA;&#x609A;&#x60AC;&#x7591;" start="20250925134100 +0800" stop="20250925153300 +0800">
+		<title lang="zh">大唐英豪之曼陀罗之谜</title>
 	</programme><channel id="&#x7CBE;&#x54C1;&#x4F53;&#x80B2;">
 		<display-name lang="zh">精品体育</display-name>
 	</channel><programme channel="&#x7CBE;&#x54C1;&#x4F53;&#x80B2;" start="20250925000000 +0800" stop="20250925013700 +0800">

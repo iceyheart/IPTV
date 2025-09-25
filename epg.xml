@@ -7407,6 +7407,20 @@
 		<display-name lang="zh">纯享4K</display-name>
 	</channel><programme channel="&#x7EAF;&#x4EAB;4K" start="20250926001000 +0800" stop="20250926003800 +0800">
 		<title lang="zh">记住乡愁4K第八季 汉口村——一缕香缘 流转千年</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250926003800 +0800" stop="20250926010600 +0800">
+		<title lang="zh">记住乡愁4K第八季 诺邓村——白族古村 千年一味</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250926010600 +0800" stop="20250926013600 +0800">
+		<title lang="zh">味道4K 原味乡间b7瓮安篇（上）</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250926013600 +0800" stop="20250926020600 +0800">
+		<title lang="zh">味道4K 原味乡间b7瓮安篇（下）</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250926020600 +0800" stop="20250926024600 +0800">
+		<title lang="zh">探索b7发现4K 黄陂寻商记</title>
+	</programme><channel id="&#x9ED1;&#x8393;&#x7535;&#x5F71;">
+		<display-name lang="zh">黑莓电影</display-name>
+	</channel><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20250926003000 +0800" stop="20250926015200 +0800">
+		<title lang="zh">双生</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20250926015200 +0800" stop="20250926033600 +0800">
+		<title lang="zh">养蜂人</title>
 	</programme><channel id="&#x9ED1;&#x8393;&#x52A8;&#x753B;">
 		<display-name lang="zh">黑莓动画</display-name>
 	</channel><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20250926000700 +0800" stop="20250926040700 +0800">

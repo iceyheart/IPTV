@@ -8385,6 +8385,14 @@
 		<title lang="zh">远方的家4K 长江行（104） 万里长江归大海</title>
 	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250926201300 +0800" stop="20250926205200 +0800">
 		<title lang="zh">远方的家4K 长江行 海纳百川大上海</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250926205700 +0800" stop="20250926210200 +0800">
+		<title lang="zh">美丽中国自然4K 宁夏系列 沙坡头</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250926210200 +0800" stop="20250926213200 +0800">
+		<title lang="zh">寻古中国4K 寻夏记b7夏迹寻踪</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250926213200 +0800" stop="20250926220200 +0800">
+		<title lang="zh">寻古中国4K 寻夏记b7夏禾丰裕</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250926220200 +0800" stop="20250926221700 +0800">
+		<title lang="zh">艺术里的奥林匹克4K 永恒的运转</title>
 	</programme><channel id="&#x775B;&#x5F69;&#x9752;&#x5C11;">
 		<display-name lang="zh">睛彩青少</display-name>
 	</channel><programme channel="&#x775B;&#x5F69;&#x9752;&#x5C11;" start="20250926000000 +0800" stop="20250926000100 +0800">
@@ -8677,6 +8685,8 @@
 		<title lang="zh">毒海风云</title>
 	</programme><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20250926184000 +0800" stop="20250926205700 +0800">
 		<title lang="zh">吹哨人</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20250926205700 +0800" stop="20250926232500 +0800">
+		<title lang="zh">封神第一部：朝歌风云</title>
 	</programme><channel id="&#x9ED1;&#x8393;&#x52A8;&#x753B;">
 		<display-name lang="zh">黑莓动画</display-name>
 	</channel><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20250926000700 +0800" stop="20250926040700 +0800">
@@ -8697,6 +8707,12 @@
 		<title lang="zh">11_甜心格格5</title>
 	</programme><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20250926182500 +0800" stop="20250926205500 +0800">
 		<title lang="zh">11_喜羊羊与灰太狼之发明大作战之二</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20250926205500 +0800" stop="20250926212000 +0800">
+		<title lang="zh">01_我眼中的中国科幻</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20250926212000 +0800" stop="20250926214500 +0800">
+		<title lang="zh">01_宋人的现代生活与周末狂欢</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20250926214500 +0800" stop="20250926230700 +0800">
+		<title lang="zh">黑猫警长之翡翠之星</title>
 	</programme><channel id="&#x54D2;&#x5575;&#x8D5B;&#x4E8B;">
 		<display-name lang="zh">哒啵赛事</display-name>
 	</channel><programme channel="&#x54D2;&#x5575;&#x8D5B;&#x4E8B;" start="20250926000000 +0800" stop="20250926020700 +0800">
@@ -10039,6 +10055,10 @@
 		<title lang="zh">《花样人生》推荐第62期</title>
 	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20250926202500 +0800" stop="20250926211100 +0800">
 		<title lang="zh">28_失笑</title>
+	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20250926211100 +0800" stop="20250926214100 +0800">
+		<title lang="zh">《花样人生》推荐第62期</title>
+	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20250926214100 +0800" stop="20250926222700 +0800">
+		<title lang="zh">29_失笑</title>
 	</programme><channel id="&#x52A8;&#x4F5C;&#x7535;&#x5F71;">
 		<display-name lang="zh">动作电影</display-name>
 	</channel><programme channel="&#x52A8;&#x4F5C;&#x7535;&#x5F71;" start="20250926000000 +0800" stop="20250926001300 +0800">
@@ -10320,6 +10340,10 @@
 	</programme><programme channel="&#x60CA;&#x609A;&#x60AC;&#x7591;" start="20250926185300 +0800" stop="20250926200100 +0800">
 		<title lang="zh">鲁班奇术</title>
 	</programme><programme channel="&#x60CA;&#x609A;&#x60AC;&#x7591;" start="20250926200100 +0800" stop="20250926203100 +0800">
+		<title lang="zh">《花样人生》推荐第62期</title>
+	</programme><programme channel="&#x60CA;&#x609A;&#x60AC;&#x7591;" start="20250926203100 +0800" stop="20250926215800 +0800">
+		<title lang="zh">死亡的告白</title>
+	</programme><programme channel="&#x60CA;&#x609A;&#x60AC;&#x7591;" start="20250926215800 +0800" stop="20250926222800 +0800">
 		<title lang="zh">《花样人生》推荐第62期</title>
 	</programme><channel id="&#x7CBE;&#x54C1;&#x4F53;&#x80B2;">
 		<display-name lang="zh">精品体育</display-name>

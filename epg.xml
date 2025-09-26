@@ -8295,6 +8295,14 @@
 		<title lang="zh">大国医b7千金方4K 第3集 钱乙b7六味地黄丸</title>
 	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250926113900 +0800" stop="20250926122000 +0800">
 		<title lang="zh">远方的家4K 长江行（104） 万里长江归大海</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250926122000 +0800" stop="20250926125800 +0800">
+		<title lang="zh">远方的家4K 长江行 海纳百川大上海</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250926130900 +0800" stop="20250926133900 +0800">
+		<title lang="zh">寻古中国4K 寻夏记b7夏迹寻踪</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250926133900 +0800" stop="20250926140900 +0800">
+		<title lang="zh">寻古中国4K 寻夏记b7夏禾丰裕</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250926140900 +0800" stop="20250926142400 +0800">
+		<title lang="zh">艺术里的奥林匹克4K 永恒的运转</title>
 	</programme><channel id="&#x775B;&#x5F69;&#x9752;&#x5C11;">
 		<display-name lang="zh">睛彩青少</display-name>
 	</channel><programme channel="&#x775B;&#x5F69;&#x9752;&#x5C11;" start="20250926000000 +0800" stop="20250926000100 +0800">
@@ -8577,6 +8585,10 @@
 		<title lang="zh">我的青春期</title>
 	</programme><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20250926105100 +0800" stop="20250926122200 +0800">
 		<title lang="zh">火影忍者疾风传：羁绊</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20250926122200 +0800" stop="20250926141100 +0800">
+		<title lang="zh">新步步惊心</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20250926141100 +0800" stop="20250926153800 +0800">
+		<title lang="zh">混世四猴：神猴归来</title>
 	</programme><channel id="&#x9ED1;&#x8393;&#x52A8;&#x753B;">
 		<display-name lang="zh">黑莓动画</display-name>
 	</channel><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20250926000700 +0800" stop="20250926040700 +0800">
@@ -8591,6 +8603,8 @@
 		<title lang="zh">11_猪猪侠之光明守卫者（上部）</title>
 	</programme><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20250926121200 +0800" stop="20250926140200 +0800">
 		<title lang="zh">01_小马宝莉之魔力新世界</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20250926140200 +0800" stop="20250926161200 +0800">
+		<title lang="zh">11_熊出没之小小世界</title>
 	</programme><channel id="&#x54D2;&#x5575;&#x8D5B;&#x4E8B;">
 		<display-name lang="zh">哒啵赛事</display-name>
 	</channel><programme channel="&#x54D2;&#x5575;&#x8D5B;&#x4E8B;" start="20250926000000 +0800" stop="20250926020700 +0800">
@@ -9911,6 +9925,12 @@
 		<title lang="zh">23_兰闺喜事</title>
 	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20250926121100 +0800" stop="20250926124100 +0800">
 		<title lang="zh">《超级美味》推荐第9期</title>
+	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20250926124100 +0800" stop="20250926133100 +0800">
+		<title lang="zh">24_兰闺喜事</title>
+	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20250926133100 +0800" stop="20250926141100 +0800">
+		<title lang="zh">黑芝麻丸</title>
+	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20250926141100 +0800" stop="20250926145600 +0800">
+		<title lang="zh">01_陷入我们的热恋</title>
 	</programme><channel id="&#x52A8;&#x4F5C;&#x7535;&#x5F71;">
 		<display-name lang="zh">动作电影</display-name>
 	</channel><programme channel="&#x52A8;&#x4F5C;&#x7535;&#x5F71;" start="20250926000000 +0800" stop="20250926001300 +0800">
@@ -10177,6 +10197,10 @@
 		<title lang="zh">摸金玦之守护人</title>
 	</programme><programme channel="&#x60CA;&#x609A;&#x60AC;&#x7591;" start="20250926120200 +0800" stop="20250926123200 +0800">
 		<title lang="zh">《花样人生》推荐第62期</title>
+	</programme><programme channel="&#x60CA;&#x609A;&#x60AC;&#x7591;" start="20250926123200 +0800" stop="20250926135800 +0800">
+		<title lang="zh">南宋诡事之鬼樊楼</title>
+	</programme><programme channel="&#x60CA;&#x609A;&#x60AC;&#x7591;" start="20250926135800 +0800" stop="20250926143800 +0800">
+		<title lang="zh">龙血树叶粉</title>
 	</programme><channel id="&#x7CBE;&#x54C1;&#x4F53;&#x80B2;">
 		<display-name lang="zh">精品体育</display-name>
 	</channel><programme channel="&#x7CBE;&#x54C1;&#x4F53;&#x80B2;" start="20250926000000 +0800" stop="20250926012900 +0800">

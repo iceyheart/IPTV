@@ -8303,6 +8303,14 @@
 		<title lang="zh">寻古中国4K 寻夏记b7夏禾丰裕</title>
 	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250926140900 +0800" stop="20250926142400 +0800">
 		<title lang="zh">艺术里的奥林匹克4K 永恒的运转</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250926142400 +0800" stop="20250926143900 +0800">
+		<title lang="zh">艺术里的奥林匹克4K 滑雪狩猎岩画</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250926143900 +0800" stop="20250926150700 +0800">
+		<title lang="zh">好吃客4K 药食同源</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250926150700 +0800" stop="20250926155700 +0800">
+		<title lang="zh">大运河之歌4K 第3集 运河中心时代</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250926155700 +0800" stop="20250926162500 +0800">
+		<title lang="zh">记住乡愁4K第八季 汉口村——一缕香缘 流转千年</title>
 	</programme><channel id="&#x775B;&#x5F69;&#x9752;&#x5C11;">
 		<display-name lang="zh">睛彩青少</display-name>
 	</channel><programme channel="&#x775B;&#x5F69;&#x9752;&#x5C11;" start="20250926000000 +0800" stop="20250926000100 +0800">
@@ -8589,6 +8597,8 @@
 		<title lang="zh">新步步惊心</title>
 	</programme><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20250926141100 +0800" stop="20250926153800 +0800">
 		<title lang="zh">混世四猴：神猴归来</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20250926153800 +0800" stop="20250926171100 +0800">
+		<title lang="zh">流浪猫鲍勃2：鲍勃的礼物</title>
 	</programme><channel id="&#x9ED1;&#x8393;&#x52A8;&#x753B;">
 		<display-name lang="zh">黑莓动画</display-name>
 	</channel><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20250926000700 +0800" stop="20250926040700 +0800">
@@ -8605,6 +8615,8 @@
 		<title lang="zh">01_小马宝莉之魔力新世界</title>
 	</programme><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20250926140200 +0800" stop="20250926161200 +0800">
 		<title lang="zh">11_熊出没之小小世界</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20250926161200 +0800" stop="20250926182500 +0800">
+		<title lang="zh">11_甜心格格5</title>
 	</programme><channel id="&#x54D2;&#x5575;&#x8D5B;&#x4E8B;">
 		<display-name lang="zh">哒啵赛事</display-name>
 	</channel><programme channel="&#x54D2;&#x5575;&#x8D5B;&#x4E8B;" start="20250926000000 +0800" stop="20250926020700 +0800">
@@ -9931,6 +9943,10 @@
 		<title lang="zh">黑芝麻丸</title>
 	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20250926141100 +0800" stop="20250926145600 +0800">
 		<title lang="zh">01_陷入我们的热恋</title>
+	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20250926145600 +0800" stop="20250926153500 +0800">
+		<title lang="zh">祛湿专题分享</title>
+	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20250926153500 +0800" stop="20250926172000 +0800">
+		<title lang="zh">捍卫者</title>
 	</programme><channel id="&#x52A8;&#x4F5C;&#x7535;&#x5F71;">
 		<display-name lang="zh">动作电影</display-name>
 	</channel><programme channel="&#x52A8;&#x4F5C;&#x7535;&#x5F71;" start="20250926000000 +0800" stop="20250926001300 +0800">
@@ -10201,6 +10217,10 @@
 		<title lang="zh">南宋诡事之鬼樊楼</title>
 	</programme><programme channel="&#x60CA;&#x609A;&#x60AC;&#x7591;" start="20250926135800 +0800" stop="20250926143800 +0800">
 		<title lang="zh">龙血树叶粉</title>
+	</programme><programme channel="&#x60CA;&#x609A;&#x60AC;&#x7591;" start="20250926143800 +0800" stop="20250926161300 +0800">
+		<title lang="zh">男狐聊斋3</title>
+	</programme><programme channel="&#x60CA;&#x609A;&#x60AC;&#x7591;" start="20250926161300 +0800" stop="20250926164300 +0800">
+		<title lang="zh">《花样人生》推荐第62期</title>
 	</programme><channel id="&#x7CBE;&#x54C1;&#x4F53;&#x80B2;">
 		<display-name lang="zh">精品体育</display-name>
 	</channel><programme channel="&#x7CBE;&#x54C1;&#x4F53;&#x80B2;" start="20250926000000 +0800" stop="20250926012900 +0800">

@@ -7339,6 +7339,14 @@
 		<title lang="zh">营造之法4K 飞鸟与木塔的千年之约</title>
 	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250928034900 +0800" stop="20250928043000 +0800">
 		<title lang="zh">远方的家4K 长江行 开放城市 创新生活</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250928043000 +0800" stop="20250928051200 +0800">
+		<title lang="zh">远方的家4K 长江行 向东是大海</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250928051200 +0800" stop="20250928051700 +0800">
+		<title lang="zh">美丽中国自然4K 阿坝系列 和谐家园</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250928052200 +0800" stop="20250928055200 +0800">
+		<title lang="zh">寻古中国4K 寻夏记b7华夏青铜</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250928055200 +0800" stop="20250928060700 +0800">
+		<title lang="zh">艺术里的奥林匹克4K 拼搏</title>
 	</programme><channel id="&#x9ED1;&#x8393;&#x7535;&#x5F71;">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20250928001900 +0800" stop="20250928020200 +0800">
@@ -7347,10 +7355,14 @@
 		<title lang="zh">麦克白</title>
 	</programme><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20250928035400 +0800" stop="20250928052100 +0800">
 		<title lang="zh">黄金蜘蛛城</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20250928052100 +0800" stop="20250928070100 +0800">
+		<title lang="zh">球场少年</title>
 	</programme><channel id="&#x9ED1;&#x8393;&#x52A8;&#x753B;">
 		<display-name lang="zh">黑莓动画</display-name>
 	</channel><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20250928000100 +0800" stop="20250928040100 +0800">
 		<title lang="zh">51_樱桃小丸子 第二季普通话版</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20250928040100 +0800" stop="20250928091400 +0800">
+		<title lang="zh">11_一人之下 第1季</title>
 	</programme><channel id="&#x91D1;&#x9E70;&#x5361;&#x901A;">
 		<display-name lang="zh">金鹰卡通</display-name>
 	</channel><programme channel="&#x91D1;&#x9E70;&#x5361;&#x901A;" start="20250928000000 +0800" stop="20250928032000 +0800">

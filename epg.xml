@@ -8460,6 +8460,16 @@
 		<title lang="zh">寻古中国4K 寻夏记b7华夏青铜</title>
 	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250927134900 +0800" stop="20250927141900 +0800">
 		<title lang="zh">寻古中国4K 寻夏记b7夏礼赓续</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250927141900 +0800" stop="20250927143400 +0800">
+		<title lang="zh">艺术里的奥林匹克4K 打马球图</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250927143400 +0800" stop="20250927144900 +0800">
+		<title lang="zh">艺术里的奥林匹克4K 蕉阴击球图</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250927144900 +0800" stop="20250927151800 +0800">
+		<title lang="zh">好吃客4K 一桌好菜</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250927151800 +0800" stop="20250927160800 +0800">
+		<title lang="zh">大运河之歌4K 第4集 奔流南北</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250927160800 +0800" stop="20250927163600 +0800">
+		<title lang="zh">记住乡愁4K第八季 化屋村——悬崖之下 苗歌悠扬</title>
 	</programme><channel id="&#x775B;&#x5F69;&#x9752;&#x5C11;">
 		<display-name lang="zh">睛彩青少</display-name>
 	</channel><programme channel="&#x775B;&#x5F69;&#x9752;&#x5C11;" start="20250927000000 +0800" stop="20250927000100 +0800">
@@ -8750,6 +8760,8 @@
 		<title lang="zh">疯狂大营救</title>
 	</programme><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20250927132500 +0800" stop="20250927145000 +0800">
 		<title lang="zh">东北奇缘</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20250927145000 +0800" stop="20250927162300 +0800">
+		<title lang="zh">斗破苍穹b7觉醒</title>
 	</programme><channel id="&#x9ED1;&#x8393;&#x52A8;&#x753B;">
 		<display-name lang="zh">黑莓动画</display-name>
 	</channel><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20250927004800 +0800" stop="20250927044800 +0800">
@@ -8766,6 +8778,10 @@
 		<title lang="zh">12_百变马丁儿歌</title>
 	</programme><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20250927104000 +0800" stop="20250927144100 +0800">
 		<title lang="zh">猪猪侠之光明守卫者</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20250927144100 +0800" stop="20250927145100 +0800">
+		<title lang="zh">10_奶龙第3季</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20250927145100 +0800" stop="20250927164100 +0800">
+		<title lang="zh">11_小马宝莉之魔力新世界</title>
 	</programme><channel id="&#x54D2;&#x5575;&#x8D5B;&#x4E8B;">
 		<display-name lang="zh">哒啵赛事</display-name>
 	</channel><programme channel="&#x54D2;&#x5575;&#x8D5B;&#x4E8B;" start="20250927000000 +0800" stop="20250927000300 +0800">
@@ -10198,6 +10214,10 @@
 		<title lang="zh">祛湿专题分享</title>
 	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20250927140600 +0800" stop="20250927145300 +0800">
 		<title lang="zh">05_陷入我们的热恋</title>
+	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20250927145300 +0800" stop="20250927153300 +0800">
+		<title lang="zh">营养健康20新</title>
+	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20250927153300 +0800" stop="20250927161700 +0800">
+		<title lang="zh">06_陷入我们的热恋</title>
 	</programme><channel id="&#x52A8;&#x4F5C;&#x7535;&#x5F71;">
 		<display-name lang="zh">动作电影</display-name>
 	</channel><programme channel="&#x52A8;&#x4F5C;&#x7535;&#x5F71;" start="20250927000000 +0800" stop="20250927002500 +0800">
@@ -10470,6 +10490,8 @@
 		<title lang="zh">祛湿专题分享</title>
 	</programme><programme channel="&#x60CA;&#x609A;&#x60AC;&#x7591;" start="20250927134600 +0800" stop="20250927154900 +0800">
 		<title lang="zh">暮光之城3：月食</title>
+	</programme><programme channel="&#x60CA;&#x609A;&#x60AC;&#x7591;" start="20250927154900 +0800" stop="20250927161900 +0800">
+		<title lang="zh">《超级美味》推荐第10期</title>
 	</programme><channel id="&#x7CBE;&#x54C1;&#x4F53;&#x80B2;">
 		<display-name lang="zh">精品体育</display-name>
 	</channel><programme channel="&#x7CBE;&#x54C1;&#x4F53;&#x80B2;" start="20250927000000 +0800" stop="20250927013300 +0800">

@@ -8247,6 +8247,14 @@
 		<title lang="zh">远方的家4K 长江行 开放城市 创新生活</title>
 	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250928201800 +0800" stop="20250928205900 +0800">
 		<title lang="zh">远方的家4K 长江行 向东是大海</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250928205900 +0800" stop="20250928210500 +0800">
+		<title lang="zh">美丽中国自然4K 阿坝系列 和谐家园</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250928211000 +0800" stop="20250928214000 +0800">
+		<title lang="zh">寻古中国4K 寻夏记b7华夏青铜</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250928214000 +0800" stop="20250928215500 +0800">
+		<title lang="zh">艺术里的奥林匹克4K 拼搏</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250928215500 +0800" stop="20250928222200 +0800">
+		<title lang="zh">好吃客4K 孔子故里曲阜</title>
 	</programme><channel id="&#x775B;&#x5F69;&#x9752;&#x5C11;">
 		<display-name lang="zh">睛彩青少</display-name>
 	</channel><programme channel="&#x775B;&#x5F69;&#x9752;&#x5C11;" start="20250928000000 +0800" stop="20250928003500 +0800">
@@ -8531,6 +8539,8 @@
 		<title lang="zh">黄金福将</title>
 	</programme><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20250928195600 +0800" stop="20250928215600 +0800">
 		<title lang="zh">绣春刀b7修罗战场</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20250928215600 +0800" stop="20250928001100 +0800">
+		<title lang="zh">异人之下</title>
 	</programme><channel id="&#x9ED1;&#x8393;&#x52A8;&#x753B;">
 		<display-name lang="zh">黑莓动画</display-name>
 	</channel><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20250928000100 +0800" stop="20250928040100 +0800">
@@ -8555,6 +8565,8 @@
 		<title lang="zh">31_甜心格格5</title>
 	</programme><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20250928191100 +0800" stop="20250928214100 +0800">
 		<title lang="zh">31_喜羊羊与灰太狼之发明大作战之二</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20250928214100 +0800" stop="20250928220600 +0800">
+		<title lang="zh">01_摹张萱虢国夫人游春图</title>
 	</programme><channel id="&#x54D2;&#x5575;&#x8D5B;&#x4E8B;">
 		<display-name lang="zh">哒啵赛事</display-name>
 	</channel><programme channel="&#x54D2;&#x5575;&#x8D5B;&#x4E8B;" start="20250928000000 +0800" stop="20250928000200 +0800">
@@ -9941,6 +9953,10 @@
 		<title lang="zh">《花样人生》推荐第64期</title>
 	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20250928201500 +0800" stop="20250928210300 +0800">
 		<title lang="zh">04_永安梦</title>
+	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20250928210300 +0800" stop="20250928213300 +0800">
+		<title lang="zh">《花样人生》推荐第64期</title>
+	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20250928213300 +0800" stop="20250928221900 +0800">
+		<title lang="zh">05_永安梦</title>
 	</programme><channel id="&#x52A8;&#x4F5C;&#x7535;&#x5F71;">
 		<display-name lang="zh">动作电影</display-name>
 	</channel><programme channel="&#x52A8;&#x4F5C;&#x7535;&#x5F71;" start="20250928000000 +0800" stop="20250928000200 +0800">
@@ -10229,6 +10245,8 @@
 		<title lang="zh">一代宗师</title>
 	</programme><programme channel="&#x60CA;&#x609A;&#x60AC;&#x7591;" start="20250928201900 +0800" stop="20250928204900 +0800">
 		<title lang="zh">《花样人生》推荐第64期</title>
+	</programme><programme channel="&#x60CA;&#x609A;&#x60AC;&#x7591;" start="20250928204900 +0800" stop="20250928221500 +0800">
+		<title lang="zh">复仇者格林</title>
 	</programme><channel id="&#x7CBE;&#x54C1;&#x4F53;&#x80B2;">
 		<display-name lang="zh">精品体育</display-name>
 	</channel><programme channel="&#x7CBE;&#x54C1;&#x4F53;&#x80B2;" start="20250928000000 +0800" stop="20250928002200 +0800">

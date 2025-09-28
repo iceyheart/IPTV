@@ -1,3 +1,4 @@
-*.aliyundrive.net
-*.aliyundrive.com
-*.alipan.com
+#!Name=Alipan
+.aliyundrive.net
+.aliyundrive.com
+.alipan.com

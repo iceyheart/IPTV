@@ -8364,6 +8364,16 @@
 		<title lang="zh">味道4K 我的家乡菜b7嵊州篇（下）</title>
 	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250929180400 +0800" stop="20250929184400 +0800">
 		<title lang="zh">探索b7发现4K 疑云重重的“天子”大墓（上）</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250929184400 +0800" stop="20250929191400 +0800">
+		<title lang="zh">信仰的感召4K 铁肩道义 李大钊</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250929191400 +0800" stop="20250929193900 +0800">
+		<title lang="zh">大国医b7千金方4K 第6集 张景岳b7右归丸</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250929193900 +0800" stop="20250929194800 +0800">
+		<title lang="zh">营造之法4K 七夕晒书亚洲现存最古老的藏书楼</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250929194800 +0800" stop="20250929202900 +0800">
+		<title lang="zh">远方的家4K 长江行 科技引领上海“智”造</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250929202900 +0800" stop="20250929211100 +0800">
+		<title lang="zh">远方的家4K 大运河（19） 航行在苏南运河</title>
 	</programme><channel id="&#x775B;&#x5F69;&#x9752;&#x5C11;">
 		<display-name lang="zh">睛彩青少</display-name>
 	</channel><programme channel="&#x775B;&#x5F69;&#x9752;&#x5C11;" start="20250929000000 +0800" stop="20250929000100 +0800">
@@ -8658,6 +8668,8 @@
 		<title lang="zh">浴血护镖</title>
 	</programme><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20250929171600 +0800" stop="20250929185700 +0800">
 		<title lang="zh">游侠</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20250929185700 +0800" stop="20250929204900 +0800">
+		<title lang="zh">驴得水</title>
 	</programme><channel id="&#x9ED1;&#x8393;&#x52A8;&#x753B;">
 		<display-name lang="zh">黑莓动画</display-name>
 	</channel><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20250929000500 +0800" stop="20250929013400 +0800">
@@ -8680,6 +8692,10 @@
 		<title lang="zh">金猴降妖</title>
 	</programme><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20250929124000 +0800" stop="20250929191400 +0800">
 		<title lang="zh">01_杜甫 江湖</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20250929191400 +0800" stop="20250929200400 +0800">
+		<title lang="zh">01_王的微笑</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20250929200400 +0800" stop="20250929204900 +0800">
+		<title lang="zh">01_宇宙信使</title>
 	</programme><channel id="&#x54D2;&#x5575;&#x8D5B;&#x4E8B;">
 		<display-name lang="zh">哒啵赛事</display-name>
 	</channel><programme channel="&#x54D2;&#x5575;&#x8D5B;&#x4E8B;" start="20250929000000 +0800" stop="20250929000100 +0800">
@@ -10028,6 +10044,12 @@
 		<title lang="zh">《花样人生》推荐第64期</title>
 	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20250929174000 +0800" stop="20250929183000 +0800">
 		<title lang="zh">16_陷入我们的热恋</title>
+	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20250929183000 +0800" stop="20250929190000 +0800">
+		<title lang="zh">《花样人生》推荐第64期</title>
+	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20250929190000 +0800" stop="20250929202800 +0800">
+		<title lang="zh">古剑飘渺录</title>
+	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20250929202800 +0800" stop="20250929205800 +0800">
+		<title lang="zh">《花样人生》推荐第64期</title>
 	</programme><channel id="&#x52A8;&#x4F5C;&#x7535;&#x5F71;">
 		<display-name lang="zh">动作电影</display-name>
 	</channel><programme channel="&#x52A8;&#x4F5C;&#x7535;&#x5F71;" start="20250929000000 +0800" stop="20250929001000 +0800">
@@ -10314,6 +10336,12 @@
 		<title lang="zh">使命营救</title>
 	</programme><programme channel="&#x60CA;&#x609A;&#x60AC;&#x7591;" start="20250929181300 +0800" stop="20250929184300 +0800">
 		<title lang="zh">《花样人生》推荐第64期</title>
+	</programme><programme channel="&#x60CA;&#x609A;&#x60AC;&#x7591;" start="20250929184300 +0800" stop="20250929200200 +0800">
+		<title lang="zh">盲杀</title>
+	</programme><programme channel="&#x60CA;&#x609A;&#x60AC;&#x7591;" start="20250929200200 +0800" stop="20250929203200 +0800">
+		<title lang="zh">《花样人生》推荐第64期</title>
+	</programme><programme channel="&#x60CA;&#x609A;&#x60AC;&#x7591;" start="20250929203200 +0800" stop="20250929214600 +0800">
+		<title lang="zh">狄仁杰之伏妖篇</title>
 	</programme><channel id="&#x7CBE;&#x54C1;&#x4F53;&#x80B2;">
 		<display-name lang="zh">精品体育</display-name>
 	</channel><programme channel="&#x7CBE;&#x54C1;&#x4F53;&#x80B2;" start="20250929000000 +0800" stop="20250929000600 +0800">

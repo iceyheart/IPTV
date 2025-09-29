@@ -8350,6 +8350,14 @@
 		<title lang="zh">舌尖上的中国 第四季4K 第1集 绝活</title>
 	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250929140900 +0800" stop="20250929142400 +0800">
 		<title lang="zh">艺术里的奥林匹克4K 奥林匹克运动雕塑</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250929142400 +0800" stop="20250929145400 +0800">
+		<title lang="zh">好吃客4K 锡林郭勒</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250929145400 +0800" stop="20250929154300 +0800">
+		<title lang="zh">大运河之歌4K 第6集 生生不息</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250929154300 +0800" stop="20250929160800 +0800">
+		<title lang="zh">丹青绘千年4K 第1集 生意盎然</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250929160800 +0800" stop="20250929163600 +0800">
+		<title lang="zh">记住乡愁4K第八季 黄岗村——千年侗寨 踏歌而行</title>
 	</programme><channel id="&#x775B;&#x5F69;&#x9752;&#x5C11;">
 		<display-name lang="zh">睛彩青少</display-name>
 	</channel><programme channel="&#x775B;&#x5F69;&#x9752;&#x5C11;" start="20250929000000 +0800" stop="20250929000100 +0800">
@@ -8638,6 +8646,10 @@
 		<title lang="zh">星际迷航4：抢救未来</title>
 	</programme><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20250929124300 +0800" stop="20250929141900 +0800">
 		<title lang="zh">血战漫川关</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20250929141900 +0800" stop="20250929155000 +0800">
+		<title lang="zh">我们的十年</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20250929155000 +0800" stop="20250929171600 +0800">
+		<title lang="zh">浴血护镖</title>
 	</programme><channel id="&#x9ED1;&#x8393;&#x52A8;&#x753B;">
 		<display-name lang="zh">黑莓动画</display-name>
 	</channel><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20250929000500 +0800" stop="20250929013400 +0800">
@@ -9996,6 +10008,12 @@
 		<title lang="zh">祛湿专题分享</title>
 	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20250929133300 +0800" stop="20250929142300 +0800">
 		<title lang="zh">13_陷入我们的热恋</title>
+	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20250929142300 +0800" stop="20250929150300 +0800">
+		<title lang="zh">营养健康20新</title>
+	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20250929150300 +0800" stop="20250929155300 +0800">
+		<title lang="zh">14_陷入我们的热恋</title>
+	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20250929155300 +0800" stop="20250929162300 +0800">
+		<title lang="zh">《超级美味》推荐第10期</title>
 	</programme><channel id="&#x52A8;&#x4F5C;&#x7535;&#x5F71;">
 		<display-name lang="zh">动作电影</display-name>
 	</channel><programme channel="&#x52A8;&#x4F5C;&#x7535;&#x5F71;" start="20250929000000 +0800" stop="20250929001000 +0800">
@@ -10272,6 +10290,10 @@
 		<title lang="zh">《超级美味》推荐第10期</title>
 	</programme><programme channel="&#x60CA;&#x609A;&#x60AC;&#x7591;" start="20250929122600 +0800" stop="20250929142700 +0800">
 		<title lang="zh">潜伏者</title>
+	</programme><programme channel="&#x60CA;&#x609A;&#x60AC;&#x7591;" start="20250929142700 +0800" stop="20250929150600 +0800">
+		<title lang="zh">祛湿专题分享</title>
+	</programme><programme channel="&#x60CA;&#x609A;&#x60AC;&#x7591;" start="20250929150600 +0800" stop="20250929163400 +0800">
+		<title lang="zh">死亡斗士</title>
 	</programme><channel id="&#x7CBE;&#x54C1;&#x4F53;&#x80B2;">
 		<display-name lang="zh">精品体育</display-name>
 	</channel><programme channel="&#x7CBE;&#x54C1;&#x4F53;&#x80B2;" start="20250929000000 +0800" stop="20250929000600 +0800">

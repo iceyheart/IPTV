@@ -8342,6 +8342,14 @@
 		<title lang="zh">大国医b7千金方4K 第6集 张景岳b7右归丸</title>
 	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250929114600 +0800" stop="20250929122700 +0800">
 		<title lang="zh">远方的家4K 长江行 科技引领上海“智”造</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250929122700 +0800" stop="20250929130900 +0800">
+		<title lang="zh">远方的家4K 大运河（19） 航行在苏南运河</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250929131500 +0800" stop="20250929132000 +0800">
+		<title lang="zh">美丽中国自然4K 紫荆白莲系列 流浪牛</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250929132000 +0800" stop="20250929140900 +0800">
+		<title lang="zh">舌尖上的中国 第四季4K 第1集 绝活</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250929140900 +0800" stop="20250929142400 +0800">
+		<title lang="zh">艺术里的奥林匹克4K 奥林匹克运动雕塑</title>
 	</programme><channel id="&#x775B;&#x5F69;&#x9752;&#x5C11;">
 		<display-name lang="zh">睛彩青少</display-name>
 	</channel><programme channel="&#x775B;&#x5F69;&#x9752;&#x5C11;" start="20250929000000 +0800" stop="20250929000100 +0800">
@@ -8628,6 +8636,8 @@
 		<title lang="zh">猫猫的奇幻漂流</title>
 	</programme><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20250929104700 +0800" stop="20250929124300 +0800">
 		<title lang="zh">星际迷航4：抢救未来</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20250929124300 +0800" stop="20250929141900 +0800">
+		<title lang="zh">血战漫川关</title>
 	</programme><channel id="&#x9ED1;&#x8393;&#x52A8;&#x753B;">
 		<display-name lang="zh">黑莓动画</display-name>
 	</channel><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20250929000500 +0800" stop="20250929013400 +0800">
@@ -8648,6 +8658,8 @@
 		<title lang="zh">淘气包马小跳</title>
 	</programme><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20250929111100 +0800" stop="20250929124000 +0800">
 		<title lang="zh">金猴降妖</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20250929124000 +0800" stop="20250929191400 +0800">
+		<title lang="zh">01_杜甫 江湖</title>
 	</programme><channel id="&#x54D2;&#x5575;&#x8D5B;&#x4E8B;">
 		<display-name lang="zh">哒啵赛事</display-name>
 	</channel><programme channel="&#x54D2;&#x5575;&#x8D5B;&#x4E8B;" start="20250929000000 +0800" stop="20250929000100 +0800">
@@ -9980,6 +9992,10 @@
 		<title lang="zh">《超级美味》推荐第10期</title>
 	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20250929120600 +0800" stop="20250929125300 +0800">
 		<title lang="zh">12_陷入我们的热恋</title>
+	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20250929125300 +0800" stop="20250929133300 +0800">
+		<title lang="zh">祛湿专题分享</title>
+	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20250929133300 +0800" stop="20250929142300 +0800">
+		<title lang="zh">13_陷入我们的热恋</title>
 	</programme><channel id="&#x52A8;&#x4F5C;&#x7535;&#x5F71;">
 		<display-name lang="zh">动作电影</display-name>
 	</channel><programme channel="&#x52A8;&#x4F5C;&#x7535;&#x5F71;" start="20250929000000 +0800" stop="20250929001000 +0800">
@@ -10254,6 +10270,8 @@
 		<title lang="zh">复仇计划</title>
 	</programme><programme channel="&#x60CA;&#x609A;&#x60AC;&#x7591;" start="20250929115600 +0800" stop="20250929122600 +0800">
 		<title lang="zh">《超级美味》推荐第10期</title>
+	</programme><programme channel="&#x60CA;&#x609A;&#x60AC;&#x7591;" start="20250929122600 +0800" stop="20250929142700 +0800">
+		<title lang="zh">潜伏者</title>
 	</programme><channel id="&#x7CBE;&#x54C1;&#x4F53;&#x80B2;">
 		<display-name lang="zh">精品体育</display-name>
 	</channel><programme channel="&#x7CBE;&#x54C1;&#x4F53;&#x80B2;" start="20250929000000 +0800" stop="20250929000600 +0800">

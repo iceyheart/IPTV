@@ -7450,7 +7450,27 @@
     <title>時事大破解 [粵]</title>
   </programme><programme start="20251001053000 +0800" stop="20251001060000 +0800" channel="PHK">
     <title>新聞今日談 [普]</title>
-  </programme><channel id="&#x91D1;&#x9E70;&#x5361;&#x901A;">
+  </programme><channel id="&#x7EAF;&#x4EAB;4K">
+		<display-name lang="zh">纯享4K</display-name>
+	</channel><programme channel="&#x7EAF;&#x4EAB;4K" start="20250930001000 +0800" stop="20250930003800 +0800">
+		<title lang="zh">记住乡愁4K第八季 南阳村——太行深处有人家</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250930003800 +0800" stop="20250930010600 +0800">
+		<title lang="zh">记住乡愁4K第八季 新寨村——远山飘出咖啡香</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250930010600 +0800" stop="20250930013500 +0800">
+		<title lang="zh">味道4K 山海拾味b7北海篇（上）</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250930013500 +0800" stop="20250930020500 +0800">
+		<title lang="zh">味道4K 山海拾味b7北海篇（下）</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250930020500 +0800" stop="20250930024500 +0800">
+		<title lang="zh">探索b7发现4K 疑云重重的“天子”大墓（下）</title>
+	</programme><channel id="&#x9ED1;&#x8393;&#x7535;&#x5F71;">
+		<display-name lang="zh">黑莓电影</display-name>
+	</channel><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20250930002500 +0800" stop="20250930022400 +0800">
+		<title lang="zh">最后的旗帜</title>
+	</programme><channel id="&#x9ED1;&#x8393;&#x52A8;&#x753B;">
+		<display-name lang="zh">黑莓动画</display-name>
+	</channel><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20250930010500 +0800" stop="20250930022700 +0800">
+		<title lang="zh">黑猫警长之翡翠之星</title>
+	</programme><channel id="&#x91D1;&#x9E70;&#x5361;&#x901A;">
 		<display-name lang="zh">金鹰卡通</display-name>
 	</channel><programme channel="&#x91D1;&#x9E70;&#x5361;&#x901A;" start="20250930000000 +0800" stop="20250930032000 +0800">
 		<title lang="zh">超级飞侠</title>

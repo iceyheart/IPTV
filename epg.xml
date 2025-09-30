@@ -8394,6 +8394,16 @@
 		<title lang="zh">味道4K 山海拾味b7北海篇（上）</title>
 	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250930173600 +0800" stop="20250930180600 +0800">
 		<title lang="zh">味道4K 山海拾味b7北海篇（下）</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250930180600 +0800" stop="20250930184600 +0800">
+		<title lang="zh">探索b7发现4K 疑云重重的“天子”大墓（下）</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250930184600 +0800" stop="20250930191500 +0800">
+		<title lang="zh">信仰的感召4K 党员楷模 罗亦农</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250930191500 +0800" stop="20250930194000 +0800">
+		<title lang="zh">大国医b7千金方4K 第7集 吴鞠通b7银翘散</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250930194000 +0800" stop="20250930202100 +0800">
+		<title lang="zh">远方的家4K 大运河（20） 从枫桥到阊门</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250930202100 +0800" stop="20250930210300 +0800">
+		<title lang="zh">远方的家4K 大运河（21） 江南水乡 姑苏风情</title>
 	</programme><channel id="&#x775B;&#x5F69;&#x9752;&#x5C11;">
 		<display-name lang="zh">睛彩青少</display-name>
 	</channel><programme channel="&#x775B;&#x5F69;&#x9752;&#x5C11;" start="20250930000000 +0800" stop="20250930000100 +0800">
@@ -8692,6 +8702,8 @@
 		<title lang="zh">钢铁，是这样炼成的</title>
 	</programme><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20250930174400 +0800" stop="20250930192800 +0800">
 		<title lang="zh">百鸟朝凤</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20250930192800 +0800" stop="20250930213500 +0800">
+		<title lang="zh">红毯先生</title>
 	</programme><channel id="&#x9ED1;&#x8393;&#x52A8;&#x753B;">
 		<display-name lang="zh">黑莓动画</display-name>
 	</channel><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20250930010500 +0800" stop="20250930022700 +0800">
@@ -10058,6 +10070,14 @@
 		<title lang="zh">《超级美味》推荐第10期</title>
 	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20250930164500 +0800" stop="20250930181600 +0800">
 		<title lang="zh">勇敢新泽西</title>
+	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20250930181600 +0800" stop="20250930184600 +0800">
+		<title lang="zh">《花样人生》推荐第63期</title>
+	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20250930184600 +0800" stop="20250930193400 +0800">
+		<title lang="zh">12_永安梦</title>
+	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20250930193400 +0800" stop="20250930200400 +0800">
+		<title lang="zh">《花样人生》推荐第63期</title>
+	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20250930200400 +0800" stop="20250930205400 +0800">
+		<title lang="zh">13_永安梦</title>
 	</programme><channel id="&#x52A8;&#x4F5C;&#x7535;&#x5F71;">
 		<display-name lang="zh">动作电影</display-name>
 	</channel><programme channel="&#x52A8;&#x4F5C;&#x7535;&#x5F71;" start="20250930000000 +0800" stop="20250930000600 +0800">
@@ -10338,6 +10358,10 @@
 		<title lang="zh">《超级美味》推荐第10期</title>
 	</programme><programme channel="&#x60CA;&#x609A;&#x60AC;&#x7591;" start="20250930173300 +0800" stop="20250930190900 +0800">
 		<title lang="zh">虎胆杀机</title>
+	</programme><programme channel="&#x60CA;&#x609A;&#x60AC;&#x7591;" start="20250930190900 +0800" stop="20250930193900 +0800">
+		<title lang="zh">《花样人生》推荐第64期</title>
+	</programme><programme channel="&#x60CA;&#x609A;&#x60AC;&#x7591;" start="20250930193900 +0800" stop="20250930211800 +0800">
+		<title lang="zh">制暴</title>
 	</programme><channel id="&#x7CBE;&#x54C1;&#x4F53;&#x80B2;">
 		<display-name lang="zh">精品体育</display-name>
 	</channel><programme channel="&#x7CBE;&#x54C1;&#x4F53;&#x80B2;" start="20250930000000 +0800" stop="20250930001100 +0800">

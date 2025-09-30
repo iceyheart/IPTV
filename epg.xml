@@ -8404,6 +8404,8 @@
 		<title lang="zh">远方的家4K 大运河（20） 从枫桥到阊门</title>
 	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250930202100 +0800" stop="20250930210300 +0800">
 		<title lang="zh">远方的家4K 大运河（21） 江南水乡 姑苏风情</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20250930211300 +0800" stop="20250930220200 +0800">
+		<title lang="zh">舌尖上的中国 第四季4K 第2集 烟火</title>
 	</programme><channel id="&#x775B;&#x5F69;&#x9752;&#x5C11;">
 		<display-name lang="zh">睛彩青少</display-name>
 	</channel><programme channel="&#x775B;&#x5F69;&#x9752;&#x5C11;" start="20250930000000 +0800" stop="20250930000100 +0800">
@@ -8704,6 +8706,8 @@
 		<title lang="zh">百鸟朝凤</title>
 	</programme><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20250930192800 +0800" stop="20250930213500 +0800">
 		<title lang="zh">红毯先生</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20250930213500 +0800" stop="20250930232600 +0800">
+		<title lang="zh">血战湘江</title>
 	</programme><channel id="&#x9ED1;&#x8393;&#x52A8;&#x753B;">
 		<display-name lang="zh">黑莓动画</display-name>
 	</channel><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20250930010500 +0800" stop="20250930022700 +0800">
@@ -8730,6 +8734,8 @@
 		<title lang="zh">01_我眼中的中国科幻</title>
 	</programme><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20250930174900 +0800" stop="20250930210600 +0800">
 		<title lang="zh">01_去远方</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20250930210600 +0800" stop="20250930002300 +0800">
+		<title lang="zh">02_是你告诉我 爱情的模样</title>
 	</programme><channel id="&#x54D2;&#x5575;&#x8D5B;&#x4E8B;">
 		<display-name lang="zh">哒啵赛事</display-name>
 	</channel><programme channel="&#x54D2;&#x5575;&#x8D5B;&#x4E8B;" start="20250930000000 +0800" stop="20250930000200 +0800">
@@ -10078,6 +10084,10 @@
 		<title lang="zh">《花样人生》推荐第63期</title>
 	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20250930200400 +0800" stop="20250930205400 +0800">
 		<title lang="zh">13_永安梦</title>
+	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20250930205400 +0800" stop="20250930212400 +0800">
+		<title lang="zh">《花样人生》推荐第63期</title>
+	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20250930212400 +0800" stop="20250930221100 +0800">
+		<title lang="zh">14_永安梦</title>
 	</programme><channel id="&#x52A8;&#x4F5C;&#x7535;&#x5F71;">
 		<display-name lang="zh">动作电影</display-name>
 	</channel><programme channel="&#x52A8;&#x4F5C;&#x7535;&#x5F71;" start="20250930000000 +0800" stop="20250930000600 +0800">
@@ -10362,6 +10372,10 @@
 		<title lang="zh">《花样人生》推荐第64期</title>
 	</programme><programme channel="&#x60CA;&#x609A;&#x60AC;&#x7591;" start="20250930193900 +0800" stop="20250930211800 +0800">
 		<title lang="zh">制暴</title>
+	</programme><programme channel="&#x60CA;&#x609A;&#x60AC;&#x7591;" start="20250930211800 +0800" stop="20250930214800 +0800">
+		<title lang="zh">《花样人生》推荐第64期</title>
+	</programme><programme channel="&#x60CA;&#x609A;&#x60AC;&#x7591;" start="20250930214800 +0800" stop="20250930231100 +0800">
+		<title lang="zh">狄仁杰之降魔咒</title>
 	</programme><channel id="&#x7CBE;&#x54C1;&#x4F53;&#x80B2;">
 		<display-name lang="zh">精品体育</display-name>
 	</channel><programme channel="&#x7CBE;&#x54C1;&#x4F53;&#x80B2;" start="20250930000000 +0800" stop="20250930001100 +0800">

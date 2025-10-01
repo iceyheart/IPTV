@@ -8190,6 +8190,12 @@
 		<title lang="zh">大国医b7千金方4K 第8集 郑梅涧b7养阴清肺汤</title>
 	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20251001113900 +0800" stop="20251001122100 +0800">
 		<title lang="zh">远方的家4K 大运河（22）金鸡湖畔新苏州</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20251001122100 +0800" stop="20251001130200 +0800">
+		<title lang="zh">远方的家4K 大运河特辑（1） 行走太湖运河间</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20251001131300 +0800" stop="20251001140200 +0800">
+		<title lang="zh">舌尖上的中国 第四季4K 第3集 焕发</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20251001140200 +0800" stop="20251001141700 +0800">
+		<title lang="zh">艺术里的奥林匹克4K 北海溜冰</title>
 	</programme><channel id="&#x775B;&#x5F69;&#x9752;&#x5C11;">
 		<display-name lang="zh">睛彩青少</display-name>
 	</channel><programme channel="&#x775B;&#x5F69;&#x9752;&#x5C11;" start="20251001000000 +0800" stop="20251001000100 +0800">
@@ -8466,6 +8472,8 @@
 		<title lang="zh">建国大业</title>
 	</programme><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20251001110400 +0800" stop="20251001125000 +0800">
 		<title lang="zh">同喜</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20251001125000 +0800" stop="20251001145100 +0800">
+		<title lang="zh">非凡任务</title>
 	</programme><channel id="&#x9ED1;&#x8393;&#x52A8;&#x753B;">
 		<display-name lang="zh">黑莓动画</display-name>
 	</channel><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20251001002300 +0800" stop="20251001015200 +0800">
@@ -8486,6 +8494,8 @@
 		<title lang="zh">淘气包马小跳</title>
 	</programme><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20251001112900 +0800" stop="20251001125800 +0800">
 		<title lang="zh">金猴降妖</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20251001125800 +0800" stop="20251001193200 +0800">
+		<title lang="zh">01_杜甫 江湖</title>
 	</programme><channel id="&#x54D2;&#x5575;&#x8D5B;&#x4E8B;">
 		<display-name lang="zh">哒啵赛事</display-name>
 	</channel><programme channel="&#x54D2;&#x5575;&#x8D5B;&#x4E8B;" start="20251001000000 +0800" stop="20251001024100 +0800">
@@ -9816,6 +9826,12 @@
 		<title lang="zh">太空骨王骨胶原新版</title>
 	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20251001114900 +0800" stop="20251001123800 +0800">
 		<title lang="zh">23_陷入我们的热恋</title>
+	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20251001123800 +0800" stop="20251001130800 +0800">
+		<title lang="zh">健康有道睡眠</title>
+	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20251001130800 +0800" stop="20251001135900 +0800">
+		<title lang="zh">24_陷入我们的热恋</title>
+	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20251001135900 +0800" stop="20251001143900 +0800">
+		<title lang="zh">龙血树叶粉</title>
 	</programme><channel id="&#x52A8;&#x4F5C;&#x7535;&#x5F71;">
 		<display-name lang="zh">动作电影</display-name>
 	</channel><programme channel="&#x52A8;&#x4F5C;&#x7535;&#x5F71;" start="20251001000000 +0800" stop="20251001000800 +0800">
@@ -10082,6 +10098,10 @@
 		<title lang="zh">鲁班奇术</title>
 	</programme><programme channel="&#x60CA;&#x609A;&#x60AC;&#x7591;" start="20251001121500 +0800" stop="20251001124400 +0800">
 		<title lang="zh">书法视频</title>
+	</programme><programme channel="&#x60CA;&#x609A;&#x60AC;&#x7591;" start="20251001124400 +0800" stop="20251001140200 +0800">
+		<title lang="zh">法医秦明之雨中协奏曲</title>
+	</programme><programme channel="&#x60CA;&#x609A;&#x60AC;&#x7591;" start="20251001140200 +0800" stop="20251001143300 +0800">
+		<title lang="zh">云杉心脑通</title>
 	</programme><channel id="&#x7CBE;&#x54C1;&#x4F53;&#x80B2;">
 		<display-name lang="zh">精品体育</display-name>
 	</channel><programme channel="&#x7CBE;&#x54C1;&#x4F53;&#x80B2;" start="20251001000000 +0800" stop="20251001001100 +0800">

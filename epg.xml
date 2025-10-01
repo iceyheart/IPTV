@@ -3654,21 +3654,23 @@
 		<title lang="zh">直播：广西新闻</title>
 	</programme><programme channel="&#x5E7F;&#x897F;&#x536B;&#x89C6;" start="20251001185700 +0800" stop="20251001190000 +0800">
 		<title lang="zh">广西天气预报</title>
-	</programme><programme channel="&#x5E7F;&#x897F;&#x536B;&#x89C6;" start="20251001190000 +0800" stop="20251001193500 +0800">
+	</programme><programme channel="&#x5E7F;&#x897F;&#x536B;&#x89C6;" start="20251001190000 +0800" stop="20251001193200 +0800">
 		<title lang="zh">转播：新闻联播</title>
-	</programme><programme channel="&#x5E7F;&#x897F;&#x536B;&#x89C6;" start="20251001193500 +0800" stop="20251001201500 +0800">
+	</programme><programme channel="&#x5E7F;&#x897F;&#x536B;&#x89C6;" start="20251001193200 +0800" stop="20251001201000 +0800">
+		<title lang="zh">《奋进的中国·我们的“十四五”--壮美广西 奋楫前行》</title>
+	</programme><programme channel="&#x5E7F;&#x897F;&#x536B;&#x89C6;" start="20251001201000 +0800" stop="20251001205000 +0800">
 		<title lang="zh">美丽剧场43集：叛逆者(11)</title>
-	</programme><programme channel="&#x5E7F;&#x897F;&#x536B;&#x89C6;" start="20251001201500 +0800" stop="20251001203000 +0800">
+	</programme><programme channel="&#x5E7F;&#x897F;&#x536B;&#x89C6;" start="20251001205000 +0800" stop="20251001205000 +0800">
 		<title lang="zh">广西海洋天气预报</title>
-	</programme><programme channel="&#x5E7F;&#x897F;&#x536B;&#x89C6;" start="20251001203000 +0800" stop="20251001210800 +0800">
+	</programme><programme channel="&#x5E7F;&#x897F;&#x536B;&#x89C6;" start="20251001205000 +0800" stop="20251001214000 +0800">
 		<title lang="zh">美丽剧场43集：叛逆者(12)</title>
-	</programme><programme channel="&#x5E7F;&#x897F;&#x536B;&#x89C6;" start="20251001210800 +0800" stop="20251001212000 +0800">
+	</programme><programme channel="&#x5E7F;&#x897F;&#x536B;&#x89C6;" start="20251001214000 +0800" stop="20251001215500 +0800">
 		<title lang="zh">纪录片《烽火笔墨》（13-14集）</title>
-	</programme><programme channel="&#x5E7F;&#x897F;&#x536B;&#x89C6;" start="20251001212000 +0800" stop="20251001214500 +0800">
+	</programme><programme channel="&#x5E7F;&#x897F;&#x536B;&#x89C6;" start="20251001215500 +0800" stop="20251001223000 +0800">
 		<title lang="zh">《AI企业超级路演》</title>
-	</programme><programme channel="&#x5E7F;&#x897F;&#x536B;&#x89C6;" start="20251001214500 +0800" stop="20251001222000 +0800">
+	</programme><programme channel="&#x5E7F;&#x897F;&#x536B;&#x89C6;" start="20251001223000 +0800" stop="20251001225000 +0800">
 		<title lang="zh">《广西故事》红旗插上镇南关</title>
-	</programme><programme channel="&#x5E7F;&#x897F;&#x536B;&#x89C6;" start="20251001222000 +0800" stop="20251001233000 +0800">
+	</programme><programme channel="&#x5E7F;&#x897F;&#x536B;&#x89C6;" start="20251001225000 +0800" stop="20251001233000 +0800">
 		<title lang="zh">传奇剧场31集：特战先锋(6)</title>
 	</programme><programme channel="&#x5E7F;&#x897F;&#x536B;&#x89C6;" start="20251001233000 +0800" stop="20251001235900 +0800">
 		<title lang="zh">传奇剧场31集：特战先锋(7)</title>
@@ -8248,6 +8250,14 @@
 		<title lang="zh">味道4K 我的家乡菜b7化州篇</title>
 	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20251001180400 +0800" stop="20251001184400 +0800">
 		<title lang="zh">探索b7发现4K 象岗山上的王陵（上）</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20251001184400 +0800" stop="20251001191400 +0800">
+		<title lang="zh">信仰的感召4K 不死英雄 瞿秋白</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20251001191400 +0800" stop="20251001193800 +0800">
+		<title lang="zh">大国医b7千金方4K 第8集 郑梅涧b7养阴清肺汤</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20251001193800 +0800" stop="20251001201900 +0800">
+		<title lang="zh">远方的家4K 大运河（22）金鸡湖畔新苏州</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20251001201900 +0800" stop="20251001210100 +0800">
+		<title lang="zh">远方的家4K 大运河特辑（1） 行走太湖运河间</title>
 	</programme><channel id="&#x775B;&#x5F69;&#x9752;&#x5C11;">
 		<display-name lang="zh">睛彩青少</display-name>
 	</channel><programme channel="&#x775B;&#x5F69;&#x9752;&#x5C11;" start="20251001000000 +0800" stop="20251001000100 +0800">
@@ -8530,6 +8540,8 @@
 		<title lang="zh">人生开门红</title>
 	</programme><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20251001164500 +0800" stop="20251001182400 +0800">
 		<title lang="zh">熊猫计划</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20251001182400 +0800" stop="20251001203900 +0800">
+		<title lang="zh">夺冠</title>
 	</programme><channel id="&#x9ED1;&#x8393;&#x52A8;&#x753B;">
 		<display-name lang="zh">黑莓动画</display-name>
 	</channel><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20251001002300 +0800" stop="20251001015200 +0800">
@@ -8552,6 +8564,10 @@
 		<title lang="zh">金猴降妖</title>
 	</programme><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20251001125800 +0800" stop="20251001193200 +0800">
 		<title lang="zh">01_杜甫 江湖</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20251001193200 +0800" stop="20251001202200 +0800">
+		<title lang="zh">01_王的微笑</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20251001202200 +0800" stop="20251001210700 +0800">
+		<title lang="zh">01_宇宙信使</title>
 	</programme><channel id="&#x54D2;&#x5575;&#x8D5B;&#x4E8B;">
 		<display-name lang="zh">哒啵赛事</display-name>
 	</channel><programme channel="&#x54D2;&#x5575;&#x8D5B;&#x4E8B;" start="20251001000000 +0800" stop="20251001024100 +0800">
@@ -9898,6 +9914,10 @@
 		<title lang="zh">健康有道睡眠</title>
 	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20251001170900 +0800" stop="20251001191100 +0800">
 		<title lang="zh">王牌父女</title>
+	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20251001191100 +0800" stop="20251001193100 +0800">
+		<title lang="zh">营养健康20新</title>
+	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20251001195100 +0800" stop="20251001203800 +0800">
+		<title lang="zh">17_永安梦</title>
 	</programme><channel id="&#x52A8;&#x4F5C;&#x7535;&#x5F71;">
 		<display-name lang="zh">动作电影</display-name>
 	</channel><programme channel="&#x52A8;&#x4F5C;&#x7535;&#x5F71;" start="20251001000000 +0800" stop="20251001000800 +0800">
@@ -10176,6 +10196,12 @@
 		<title lang="zh">反贪风暴之加密危机</title>
 	</programme><programme channel="&#x60CA;&#x609A;&#x60AC;&#x7591;" start="20251001175800 +0800" stop="20251001183800 +0800">
 		<title lang="zh">营养健康20新</title>
+	</programme><programme channel="&#x60CA;&#x609A;&#x60AC;&#x7591;" start="20251001183800 +0800" stop="20251001195100 +0800">
+		<title lang="zh">钟馗归来万世妖灵</title>
+	</programme><programme channel="&#x60CA;&#x609A;&#x60AC;&#x7591;" start="20251001195100 +0800" stop="20251001202100 +0800">
+		<title lang="zh">美好人生推荐第二期</title>
+	</programme><programme channel="&#x60CA;&#x609A;&#x60AC;&#x7591;" start="20251001202100 +0800" stop="20251001215700 +0800">
+		<title lang="zh">第一滴血3</title>
 	</programme><channel id="&#x7CBE;&#x54C1;&#x4F53;&#x80B2;">
 		<display-name lang="zh">精品体育</display-name>
 	</channel><programme channel="&#x7CBE;&#x54C1;&#x4F53;&#x80B2;" start="20251001000000 +0800" stop="20251001001100 +0800">

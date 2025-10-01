@@ -8196,6 +8196,16 @@
 		<title lang="zh">舌尖上的中国 第四季4K 第3集 焕发</title>
 	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20251001140200 +0800" stop="20251001141700 +0800">
 		<title lang="zh">艺术里的奥林匹克4K 北海溜冰</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20251001141700 +0800" stop="20251001144600 +0800">
+		<title lang="zh">好吃客4K 家乡味的交响</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20251001144600 +0800" stop="20251001153500 +0800">
+		<title lang="zh">长江之歌4K（文明篇） 第2集 文化之江</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20251001153500 +0800" stop="20251001160000 +0800">
+		<title lang="zh">丹青绘千年4K 第3集 嬉戏时光</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20251001160000 +0800" stop="20251001160800 +0800">
+		<title lang="zh">营造之法4K 这不是西游记 这是晋祠</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20251001160800 +0800" stop="20251001163600 +0800">
+		<title lang="zh">记住乡愁4K第八季 原隆村——春到移民村 情暖贺兰山</title>
 	</programme><channel id="&#x775B;&#x5F69;&#x9752;&#x5C11;">
 		<display-name lang="zh">睛彩青少</display-name>
 	</channel><programme channel="&#x775B;&#x5F69;&#x9752;&#x5C11;" start="20251001000000 +0800" stop="20251001000100 +0800">
@@ -8474,6 +8484,8 @@
 		<title lang="zh">同喜</title>
 	</programme><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20251001125000 +0800" stop="20251001145100 +0800">
 		<title lang="zh">非凡任务</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20251001145100 +0800" stop="20251001164500 +0800">
+		<title lang="zh">人生开门红</title>
 	</programme><channel id="&#x9ED1;&#x8393;&#x52A8;&#x753B;">
 		<display-name lang="zh">黑莓动画</display-name>
 	</channel><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20251001002300 +0800" stop="20251001015200 +0800">
@@ -9832,6 +9844,12 @@
 		<title lang="zh">24_陷入我们的热恋</title>
 	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20251001135900 +0800" stop="20251001143900 +0800">
 		<title lang="zh">龙血树叶粉</title>
+	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20251001143900 +0800" stop="20251001152000 +0800">
+		<title lang="zh">01_只是结婚的关系</title>
+	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20251001152000 +0800" stop="20251001160000 +0800">
+		<title lang="zh">营养健康20新</title>
+	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20251001160000 +0800" stop="20251001163900 +0800">
+		<title lang="zh">02_只是结婚的关系</title>
 	</programme><channel id="&#x52A8;&#x4F5C;&#x7535;&#x5F71;">
 		<display-name lang="zh">动作电影</display-name>
 	</channel><programme channel="&#x52A8;&#x4F5C;&#x7535;&#x5F71;" start="20251001000000 +0800" stop="20251001000800 +0800">
@@ -10102,6 +10120,10 @@
 		<title lang="zh">法医秦明之雨中协奏曲</title>
 	</programme><programme channel="&#x60CA;&#x609A;&#x60AC;&#x7591;" start="20251001140200 +0800" stop="20251001143300 +0800">
 		<title lang="zh">云杉心脑通</title>
+	</programme><programme channel="&#x60CA;&#x609A;&#x60AC;&#x7591;" start="20251001143300 +0800" stop="20251001154500 +0800">
+		<title lang="zh">楚留香之盗帅觉醒</title>
+	</programme><programme channel="&#x60CA;&#x609A;&#x60AC;&#x7591;" start="20251001154500 +0800" stop="20251001162500 +0800">
+		<title lang="zh">龙血树叶粉</title>
 	</programme><channel id="&#x7CBE;&#x54C1;&#x4F53;&#x80B2;">
 		<display-name lang="zh">精品体育</display-name>
 	</channel><programme channel="&#x7CBE;&#x54C1;&#x4F53;&#x80B2;" start="20251001000000 +0800" stop="20251001001100 +0800">

@@ -8258,6 +8258,12 @@
 		<title lang="zh">远方的家4K 大运河（22）金鸡湖畔新苏州</title>
 	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20251001201900 +0800" stop="20251001210100 +0800">
 		<title lang="zh">远方的家4K 大运河特辑（1） 行走太湖运河间</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20251001210100 +0800" stop="20251001210600 +0800">
+		<title lang="zh">美丽中国自然4K 紫荆白莲系列 码头飞鸢</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20251001211100 +0800" stop="20251001220100 +0800">
+		<title lang="zh">舌尖上的中国 第四季4K 第3集 焕发</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20251001220100 +0800" stop="20251001221600 +0800">
+		<title lang="zh">艺术里的奥林匹克4K 北海溜冰</title>
 	</programme><channel id="&#x775B;&#x5F69;&#x9752;&#x5C11;">
 		<display-name lang="zh">睛彩青少</display-name>
 	</channel><programme channel="&#x775B;&#x5F69;&#x9752;&#x5C11;" start="20251001000000 +0800" stop="20251001000100 +0800">
@@ -8542,6 +8548,10 @@
 		<title lang="zh">熊猫计划</title>
 	</programme><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20251001182400 +0800" stop="20251001203900 +0800">
 		<title lang="zh">夺冠</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20251001203900 +0800" stop="20251001215300 +0800">
+		<title lang="zh">维和冲锋：绝境求生</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20251001215300 +0800" stop="20251001235800 +0800">
+		<title lang="zh">热烈</title>
 	</programme><channel id="&#x9ED1;&#x8393;&#x52A8;&#x753B;">
 		<display-name lang="zh">黑莓动画</display-name>
 	</channel><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20251001002300 +0800" stop="20251001015200 +0800">
@@ -8568,6 +8578,10 @@
 		<title lang="zh">01_王的微笑</title>
 	</programme><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20251001202200 +0800" stop="20251001210700 +0800">
 		<title lang="zh">01_宇宙信使</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20251001210700 +0800" stop="20251001213200 +0800">
+		<title lang="zh">01_摹张萱虢国夫人游春图</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20251001213200 +0800" stop="20251001233300 +0800">
+		<title lang="zh">01_大地上的成长</title>
 	</programme><channel id="&#x54D2;&#x5575;&#x8D5B;&#x4E8B;">
 		<display-name lang="zh">哒啵赛事</display-name>
 	</channel><programme channel="&#x54D2;&#x5575;&#x8D5B;&#x4E8B;" start="20251001000000 +0800" stop="20251001024100 +0800">
@@ -9918,6 +9932,14 @@
 		<title lang="zh">营养健康20新</title>
 	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20251001195100 +0800" stop="20251001203800 +0800">
 		<title lang="zh">17_永安梦</title>
+	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20251001203800 +0800" stop="20251001204800 +0800">
+		<title lang="zh">龙血树叶粉</title>
+	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20251001204800 +0800" stop="20251001213700 +0800">
+		<title lang="zh">18_永安梦</title>
+	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20251001213700 +0800" stop="20251001214700 +0800">
+		<title lang="zh">龙血树叶粉</title>
+	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20251001214700 +0800" stop="20251001223500 +0800">
+		<title lang="zh">19_永安梦</title>
 	</programme><channel id="&#x52A8;&#x4F5C;&#x7535;&#x5F71;">
 		<display-name lang="zh">动作电影</display-name>
 	</channel><programme channel="&#x52A8;&#x4F5C;&#x7535;&#x5F71;" start="20251001000000 +0800" stop="20251001000800 +0800">
@@ -10202,6 +10224,8 @@
 		<title lang="zh">美好人生推荐第二期</title>
 	</programme><programme channel="&#x60CA;&#x609A;&#x60AC;&#x7591;" start="20251001202100 +0800" stop="20251001215700 +0800">
 		<title lang="zh">第一滴血3</title>
+	</programme><programme channel="&#x60CA;&#x609A;&#x60AC;&#x7591;" start="20251001215700 +0800" stop="20251001222700 +0800">
+		<title lang="zh">美好人生推荐第二期</title>
 	</programme><channel id="&#x7CBE;&#x54C1;&#x4F53;&#x80B2;">
 		<display-name lang="zh">精品体育</display-name>
 	</channel><programme channel="&#x7CBE;&#x54C1;&#x4F53;&#x80B2;" start="20251001000000 +0800" stop="20251001001100 +0800">

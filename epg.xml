@@ -7431,6 +7431,22 @@
 		<display-name lang="zh">纯享4K</display-name>
 	</channel><programme channel="&#x7EAF;&#x4EAB;4K" start="20251003000800 +0800" stop="20251003003600 +0800">
 		<title lang="zh">记住乡愁4K第八季 施茶村——火山之下 点石成金</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20251003003600 +0800" stop="20251003010400 +0800">
+		<title lang="zh">记住乡愁4K第八季 清水河村——幸福像花儿一样</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20251003010400 +0800" stop="20251003013400 +0800">
+		<title lang="zh">味道4K 原味乡间b7崇仁篇（上）</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20251003013400 +0800" stop="20251003020400 +0800">
+		<title lang="zh">味道4K 原味乡间b7崇仁篇（下）</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20251003020400 +0800" stop="20251003024400 +0800">
+		<title lang="zh">探索b7发现4K 探寻蕃尼古道</title>
+	</programme><channel id="&#x9ED1;&#x8393;&#x7535;&#x5F71;">
+		<display-name lang="zh">黑莓电影</display-name>
+	</channel><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20251003004700 +0800" stop="20251003021600 +0800">
+		<title lang="zh">民间摆渡人</title>
+	</programme><channel id="&#x9ED1;&#x8393;&#x52A8;&#x753B;">
+		<display-name lang="zh">黑莓动画</display-name>
+	</channel><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20251003010700 +0800" stop="20251003023700 +0800">
+		<title lang="zh">摩登森林之美食总动员</title>
 	</programme><channel id="&#x91D1;&#x9E70;&#x5361;&#x901A;">
 		<display-name lang="zh">金鹰卡通</display-name>
 	</channel><programme channel="&#x91D1;&#x9E70;&#x5361;&#x901A;" start="20251003000000 +0800" stop="20251003032000 +0800">

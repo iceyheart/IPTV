@@ -8420,6 +8420,14 @@
 		<title lang="zh">远方的家4K 大运河特辑（2） 谈古说今话无锡</title>
 	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20251002202000 +0800" stop="20251002210100 +0800">
 		<title lang="zh">远方的家4K 大运河特辑（3） 运河边 扬州城</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20251002210100 +0800" stop="20251002210600 +0800">
+		<title lang="zh">美丽中国自然4K 紫荆白莲系列 海岛乾坤</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20251002211100 +0800" stop="20251002220100 +0800">
+		<title lang="zh">舌尖上的中国 第四季4K 第4集 天作</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20251002220100 +0800" stop="20251002221600 +0800">
+		<title lang="zh">艺术里的奥林匹克4K 北京冬奥体育图标</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20251002221600 +0800" stop="20251002224500 +0800">
+		<title lang="zh">好吃客4K 海口</title>
 	</programme><channel id="&#x775B;&#x5F69;&#x9752;&#x5C11;">
 		<display-name lang="zh">睛彩青少</display-name>
 	</channel><programme channel="&#x775B;&#x5F69;&#x9752;&#x5C11;" start="20251002000000 +0800" stop="20251002000100 +0800">
@@ -8722,6 +8730,8 @@
 		<title lang="zh">疯狂特警队</title>
 	</programme><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20251002193600 +0800" stop="20251002213100 +0800">
 		<title lang="zh">疯狂的外星人</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20251002213100 +0800" stop="20251002230300 +0800">
+		<title lang="zh">唐门斗罗传</title>
 	</programme><channel id="&#x9ED1;&#x8393;&#x52A8;&#x753B;">
 		<display-name lang="zh">黑莓动画</display-name>
 	</channel><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20251002000000 +0800" stop="20251002035900 +0800">
@@ -8748,6 +8758,8 @@
 		<title lang="zh">01_喜羊羊与灰太狼之发明大作战之二</title>
 	</programme><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20251002200600 +0800" stop="20251002205600 +0800">
 		<title lang="zh">01_超级火箭发动机</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20251002205600 +0800" stop="20251002222400 +0800">
+		<title lang="zh">星际大逃亡</title>
 	</programme><channel id="&#x54D2;&#x5575;&#x8D5B;&#x4E8B;">
 		<display-name lang="zh">哒啵赛事</display-name>
 	</channel><programme channel="&#x54D2;&#x5575;&#x8D5B;&#x4E8B;" start="20251002000000 +0800" stop="20251002000200 +0800">
@@ -10058,6 +10070,14 @@
 		<title lang="zh">23_永安梦</title>
 	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20251002195700 +0800" stop="20251002204400 +0800">
 		<title lang="zh">24_永安梦</title>
+	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20251002204400 +0800" stop="20251002205400 +0800">
+		<title lang="zh">龙血树叶粉</title>
+	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20251002205400 +0800" stop="20251002214000 +0800">
+		<title lang="zh">01_我的后半生</title>
+	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20251002214000 +0800" stop="20251002215000 +0800">
+		<title lang="zh">龙血树叶粉</title>
+	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20251002215000 +0800" stop="20251002223500 +0800">
+		<title lang="zh">02_我的后半生</title>
 	</programme><channel id="&#x52A8;&#x4F5C;&#x7535;&#x5F71;">
 		<display-name lang="zh">动作电影</display-name>
 	</channel><programme channel="&#x52A8;&#x4F5C;&#x7535;&#x5F71;" start="20251002000000 +0800" stop="20251002002500 +0800">
@@ -10344,6 +10364,10 @@
 		<title lang="zh">健康推荐</title>
 	</programme><programme channel="&#x60CA;&#x609A;&#x60AC;&#x7591;" start="20251002195300 +0800" stop="20251002212700 +0800">
 		<title lang="zh">陆小凤传奇之幽灵山庄</title>
+	</programme><programme channel="&#x60CA;&#x609A;&#x60AC;&#x7591;" start="20251002212700 +0800" stop="20251002215700 +0800">
+		<title lang="zh">美好人生推荐第二期</title>
+	</programme><programme channel="&#x60CA;&#x609A;&#x60AC;&#x7591;" start="20251002215700 +0800" stop="20251002232200 +0800">
+		<title lang="zh">喋血外星人</title>
 	</programme><channel id="&#x7CBE;&#x54C1;&#x4F53;&#x80B2;">
 		<display-name lang="zh">精品体育</display-name>
 	</channel><programme channel="&#x7CBE;&#x54C1;&#x4F53;&#x80B2;" start="20251002000000 +0800" stop="20251002002900 +0800">

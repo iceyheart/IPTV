@@ -8352,6 +8352,10 @@
 		<title lang="zh">记住乡愁4K第八季 半月里村——百年畲寨 家园相守</title>
 	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20251002090300 +0800" stop="20251002093300 +0800">
 		<title lang="zh">味道4K 山海拾味b7长乐篇</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20251002093300 +0800" stop="20251002100300 +0800">
+		<title lang="zh">味道4K 下饭菜b7佛山篇</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20251002100300 +0800" stop="20251002104300 +0800">
+		<title lang="zh">探索b7发现4K 象岗山上的王陵（下）</title>
 	</programme><channel id="&#x775B;&#x5F69;&#x9752;&#x5C11;">
 		<display-name lang="zh">睛彩青少</display-name>
 	</channel><programme channel="&#x775B;&#x5F69;&#x9752;&#x5C11;" start="20251002000000 +0800" stop="20251002000100 +0800">
@@ -8640,6 +8644,8 @@
 		<title lang="zh">超能游戏者</title>
 	</programme><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20251002081100 +0800" stop="20251002094300 +0800">
 		<title lang="zh">为了明天升起的太阳</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20251002094300 +0800" stop="20251002114200 +0800">
+		<title lang="zh">幸存者1937</title>
 	</programme><channel id="&#x9ED1;&#x8393;&#x52A8;&#x753B;">
 		<display-name lang="zh">黑莓动画</display-name>
 	</channel><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20251002000000 +0800" stop="20251002035900 +0800">
@@ -8654,6 +8660,8 @@
 		<title lang="zh">01_猪猪侠之光明守卫者（上部）</title>
 	</programme><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20251002082200 +0800" stop="20251002095400 +0800">
 		<title lang="zh">21_奶龙之奇妙冒险</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20251002095400 +0800" stop="20251002114400 +0800">
+		<title lang="zh">01_小马宝莉之魔力新世界</title>
 	</programme><channel id="&#x54D2;&#x5575;&#x8D5B;&#x4E8B;">
 		<display-name lang="zh">哒啵赛事</display-name>
 	</channel><programme channel="&#x54D2;&#x5575;&#x8D5B;&#x4E8B;" start="20251002000000 +0800" stop="20251002000200 +0800">
@@ -9934,6 +9942,8 @@
 		<title lang="zh">龙血树叶粉</title>
 	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20251002085600 +0800" stop="20251002093700 +0800">
 		<title lang="zh">03_只是结婚的关系</title>
+	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20251002093700 +0800" stop="20251002101700 +0800">
+		<title lang="zh">营养健康20新</title>
 	</programme><channel id="&#x52A8;&#x4F5C;&#x7535;&#x5F71;">
 		<display-name lang="zh">动作电影</display-name>
 	</channel><programme channel="&#x52A8;&#x4F5C;&#x7535;&#x5F71;" start="20251002000000 +0800" stop="20251002002500 +0800">

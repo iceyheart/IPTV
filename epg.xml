@@ -7333,7 +7333,27 @@
     <title>時事大破解 [粵]</title>
   </programme><programme start="20251007053000 +0800" stop="20251007060000 +0800" channel="PHK">
     <title>新聞今日談 [普]</title>
-  </programme><channel id="&#x91D1;&#x9E70;&#x5361;&#x901A;">
+  </programme><channel id="&#x7EAF;&#x4EAB;4K">
+		<display-name lang="zh">纯享4K</display-name>
+	</channel><programme channel="&#x7EAF;&#x4EAB;4K" start="20251006000700 +0800" stop="20251006003500 +0800">
+		<title lang="zh">记住乡愁4K 第八季 安阳——革故鼎新 自强不息</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20251006003500 +0800" stop="20251006010300 +0800">
+		<title lang="zh">记住乡愁4K 第八季 榆林——众志成城 千秋忠勇(上）</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20251006010300 +0800" stop="20251006013300 +0800">
+		<title lang="zh">味道4K 原味乡间b7建德篇（上）</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20251006013300 +0800" stop="20251006020300 +0800">
+		<title lang="zh">味道4K 原味乡间b7建德篇（下）</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20251006020300 +0800" stop="20251006024300 +0800">
+		<title lang="zh">探索b7发现4K 湖州越国土墩大墓</title>
+	</programme><channel id="&#x9ED1;&#x8393;&#x7535;&#x5F71;">
+		<display-name lang="zh">黑莓电影</display-name>
+	</channel><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20251006005900 +0800" stop="20251006022000 +0800">
+		<title lang="zh">大宝明天见</title>
+	</programme><channel id="&#x9ED1;&#x8393;&#x52A8;&#x753B;">
+		<display-name lang="zh">黑莓动画</display-name>
+	</channel><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20251006002700 +0800" stop="20251006023400 +0800">
+		<title lang="zh">06_画江湖之不良人第七季：九幽玄天</title>
+	</programme><channel id="&#x91D1;&#x9E70;&#x5361;&#x901A;">
 		<display-name lang="zh">金鹰卡通</display-name>
 	</channel><programme channel="&#x91D1;&#x9E70;&#x5361;&#x901A;" start="20251006000000 +0800" stop="20251006032000 +0800">
 		<title lang="zh">熊出没之秋日团团转</title>

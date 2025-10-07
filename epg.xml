@@ -8107,6 +8107,12 @@
 		<title lang="zh">艺术里的奥林匹克4K 油画b7在塞纳河上划船</title>
 	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20251007141100 +0800" stop="20251007150100 +0800">
 		<title lang="zh">世界遗产漫步4K 澳门</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20251007150100 +0800" stop="20251007150600 +0800">
+		<title lang="zh">萌兔的奇妙旅程4K 第5集</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20251007151000 +0800" stop="20251007155900 +0800">
+		<title lang="zh">一城多味品成都4K</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20251007155900 +0800" stop="20251007162700 +0800">
+		<title lang="zh">记住乡愁4K 第八季 榆林——众志成城 千秋忠勇（下）</title>
 	</programme><channel id="&#x775B;&#x5F69;&#x9752;&#x5C11;">
 		<display-name lang="zh">睛彩青少</display-name>
 	</channel><programme channel="&#x775B;&#x5F69;&#x9752;&#x5C11;" start="20251007000000 +0800" stop="20251007000100 +0800">
@@ -8425,6 +8431,8 @@
 		<title lang="zh">致我们终将到来的爱情</title>
 	</programme><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20251007135000 +0800" stop="20251007151500 +0800">
 		<title lang="zh">城市游戏</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20251007151500 +0800" stop="20251007164200 +0800">
+		<title lang="zh">我们相爱的时刻</title>
 	</programme><channel id="&#x9ED1;&#x8393;&#x52A8;&#x753B;">
 		<display-name lang="zh">黑莓动画</display-name>
 	</channel><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20251007005300 +0800" stop="20251007015700 +0800">
@@ -8441,6 +8449,8 @@
 		<title lang="zh">小鱼一会儿冷漠一会儿热情 把小志折磨疯了心奇爆龙</title>
 	</programme><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20251007120900 +0800" stop="20251007161000 +0800">
 		<title lang="zh">21_猪猪侠之光明守卫者（上部）</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20251007161000 +0800" stop="20251007165300 +0800">
+		<title lang="zh">11_奶龙之奇妙冒险</title>
 	</programme><channel id="&#x54D2;&#x5575;&#x8D5B;&#x4E8B;">
 		<display-name lang="zh">哒啵赛事</display-name>
 	</channel><programme channel="&#x54D2;&#x5575;&#x8D5B;&#x4E8B;" start="20251007000000 +0800" stop="20251007020800 +0800">
@@ -9855,6 +9865,12 @@
 		<title lang="zh">健康有道睡眠</title>
 	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20251007135600 +0800" stop="20251007144200 +0800">
 		<title lang="zh">07_怎敌她千娇百媚</title>
+	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20251007144200 +0800" stop="20251007152200 +0800">
+		<title lang="zh">营养健康20新</title>
+	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20251007152200 +0800" stop="20251007160900 +0800">
+		<title lang="zh">08_怎敌她千娇百媚</title>
+	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20251007160900 +0800" stop="20251007164900 +0800">
+		<title lang="zh">营养健康20新</title>
 	</programme><channel id="&#x52A8;&#x4F5C;&#x7535;&#x5F71;">
 		<display-name lang="zh">动作电影</display-name>
 	</channel><programme channel="&#x52A8;&#x4F5C;&#x7535;&#x5F71;" start="20251007000000 +0800" stop="20251007000500 +0800">
@@ -10129,6 +10145,10 @@
 		<title lang="zh">书法视频</title>
 	</programme><programme channel="&#x60CA;&#x609A;&#x60AC;&#x7591;" start="20251007134900 +0800" stop="20251007151400 +0800">
 		<title lang="zh">八卦掌之鹰飞</title>
+	</programme><programme channel="&#x60CA;&#x609A;&#x60AC;&#x7591;" start="20251007151400 +0800" stop="20251007154500 +0800">
+		<title lang="zh">云杉心脑通</title>
+	</programme><programme channel="&#x60CA;&#x609A;&#x60AC;&#x7591;" start="20251007154500 +0800" stop="20251007171200 +0800">
+		<title lang="zh">迷毒之天命圈</title>
 	</programme><channel id="&#x7CBE;&#x54C1;&#x4F53;&#x80B2;">
 		<display-name lang="zh">精品体育</display-name>
 	</channel><programme channel="&#x7CBE;&#x54C1;&#x4F53;&#x80B2;" start="20251007000000 +0800" stop="20251007003200 +0800">

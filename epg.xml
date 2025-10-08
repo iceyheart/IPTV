@@ -7402,16 +7402,28 @@
 		<display-name lang="zh">纯享4K</display-name>
 	</channel><programme channel="&#x7EAF;&#x4EAB;4K" start="20251009000900 +0800" stop="20251009003700 +0800">
 		<title lang="zh">记住乡愁 第八季4K 白马村——深山坳里地瓜香</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20251009003700 +0800" stop="20251009010500 +0800">
+		<title lang="zh">记住乡愁 第八季4K 半月里村——百年畲寨 家园相守</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20251009010500 +0800" stop="20251009013500 +0800">
+		<title lang="zh">味道4K 山海拾味b7陵水篇</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20251009013500 +0800" stop="20251009020400 +0800">
+		<title lang="zh">味道4K 山海拾味b7珠海篇</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20251009020400 +0800" stop="20251009024400 +0800">
+		<title lang="zh">探索b7发现4K 巧工治水 探秘古代水利工程遗迹（上）</title>
 	</programme><channel id="&#x9ED1;&#x8393;&#x7535;&#x5F71;">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20251009213500 +0800" stop="20251009234600 +0800">
 		<title lang="zh">哥斯拉2：怪兽之王</title>
 	</programme><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20251009234600 +0800" stop="20251009012000 +0800">
 		<title lang="zh">垫底联盟</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20251009012000 +0800" stop="20251009030500 +0800">
+		<title lang="zh">命案</title>
 	</programme><channel id="&#x9ED1;&#x8393;&#x52A8;&#x753B;">
 		<display-name lang="zh">黑莓动画</display-name>
 	</channel><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20251009000000 +0800" stop="20251009012100 +0800">
 		<title lang="zh">黑猫警长之翡翠之星</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20251009012100 +0800" stop="20251009030200 +0800">
+		<title lang="zh">画江湖之天罡</title>
 	</programme><channel id="&#x91D1;&#x9E70;&#x5361;&#x901A;">
 		<display-name lang="zh">金鹰卡通</display-name>
 	</channel><programme channel="&#x91D1;&#x9E70;&#x5361;&#x901A;" start="20251009000000 +0800" stop="20251009032000 +0800">

@@ -7422,10 +7422,26 @@
 		<display-name lang="zh">纯享4K</display-name>
 	</channel><programme channel="&#x7EAF;&#x4EAB;4K" start="20251010000700 +0800" stop="20251010003500 +0800">
 		<title lang="zh">记住乡愁 第八季4K 茶坑村——岭南人家 陈皮飘香</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20251010003500 +0800" stop="20251010010300 +0800">
+		<title lang="zh">记住乡愁 第八季4K 常口村——中国“碳票”第一村</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20251010010300 +0800" stop="20251010013300 +0800">
+		<title lang="zh">味道4K 我的家乡菜b7保山篇（1）</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20251010013300 +0800" stop="20251010020200 +0800">
+		<title lang="zh">味道4K 我的家乡菜b7保山篇（2）</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20251010020200 +0800" stop="20251010024200 +0800">
+		<title lang="zh">探索b7发现4K 巧工治水 探秘古代水利工程遗迹（下）</title>
+	</programme><channel id="&#x9ED1;&#x8393;&#x7535;&#x5F71;">
+		<display-name lang="zh">黑莓电影</display-name>
+	</channel><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20251010004400 +0800" stop="20251010021300 +0800">
+		<title lang="zh">暮光b7巴黎</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20251010021300 +0800" stop="20251010035500 +0800">
+		<title lang="zh">悠长下课后</title>
 	</programme><channel id="&#x9ED1;&#x8393;&#x52A8;&#x753B;">
 		<display-name lang="zh">黑莓动画</display-name>
 	</channel><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20251010000700 +0800" stop="20251010013600 +0800">
 		<title lang="zh">摩登森林之美食总动员</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20251010013600 +0800" stop="20251010030500 +0800">
+		<title lang="zh">星际大逃亡</title>
 	</programme><channel id="&#x91D1;&#x9E70;&#x5361;&#x901A;">
 		<display-name lang="zh">金鹰卡通</display-name>
 	</channel><programme channel="&#x91D1;&#x9E70;&#x5361;&#x901A;" start="20251010000000 +0800" stop="20251010032000 +0800">

@@ -8366,6 +8366,10 @@
 		<title lang="zh">远方的家4K 大运河 从枫桥到阊门</title>
 	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20251009201000 +0800" stop="20251009205200 +0800">
 		<title lang="zh">远方的家4K 大运河 江南水乡 姑苏风情</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20251009210200 +0800" stop="20251009215100 +0800">
+		<title lang="zh">跟着唐诗去旅行4K 第1集 杜甫 江湖</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20251009215100 +0800" stop="20251009224100 +0800">
+		<title lang="zh">世界遗产漫步 大运河4K 第2集</title>
 	</programme><channel id="&#x775B;&#x5F69;&#x9752;&#x5C11;">
 		<display-name lang="zh">睛彩青少</display-name>
 	</channel><programme channel="&#x775B;&#x5F69;&#x9752;&#x5C11;" start="20251009000000 +0800" stop="20251009000100 +0800">
@@ -8692,6 +8696,8 @@
 		<title lang="zh">整心计</title>
 	</programme><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20251009191300 +0800" stop="20251009205400 +0800">
 		<title lang="zh">平原上的火焰</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20251009205400 +0800" stop="20251009225000 +0800">
+		<title lang="zh">影</title>
 	</programme><channel id="&#x9ED1;&#x8393;&#x52A8;&#x753B;">
 		<display-name lang="zh">黑莓动画</display-name>
 	</channel><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20251009000000 +0800" stop="20251009012100 +0800">
@@ -10154,6 +10160,12 @@
 		<title lang="zh">龙血树叶粉</title>
 	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20251009195500 +0800" stop="20251009204100 +0800">
 		<title lang="zh">35_我的后半生</title>
+	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20251009204100 +0800" stop="20251009205100 +0800">
+		<title lang="zh">龙血树叶粉</title>
+	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20251009205100 +0800" stop="20251009213600 +0800">
+		<title lang="zh">36_我的后半生</title>
+	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20251009214600 +0800" stop="20251009222900 +0800">
+		<title lang="zh">01_乔家的儿女</title>
 	</programme><channel id="&#x52A8;&#x4F5C;&#x7535;&#x5F71;">
 		<display-name lang="zh">动作电影</display-name>
 	</channel><programme channel="&#x52A8;&#x4F5C;&#x7535;&#x5F71;" start="20251009000000 +0800" stop="20251009002100 +0800">
@@ -10438,6 +10450,8 @@
 		<title lang="zh">人类削减计划</title>
 	</programme><programme channel="&#x60CA;&#x609A;&#x60AC;&#x7591;" start="20251009202100 +0800" stop="20251009205100 +0800">
 		<title lang="zh">美好人生推荐第二期</title>
+	</programme><programme channel="&#x60CA;&#x609A;&#x60AC;&#x7591;" start="20251009205100 +0800" stop="20251009222500 +0800">
+		<title lang="zh">陆小凤传奇之幽灵山庄</title>
 	</programme><channel id="&#x7CBE;&#x54C1;&#x4F53;&#x80B2;">
 		<display-name lang="zh">精品体育</display-name>
 	</channel><programme channel="&#x7CBE;&#x54C1;&#x4F53;&#x80B2;" start="20251009000000 +0800" stop="20251009005000 +0800">

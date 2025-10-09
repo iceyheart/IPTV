@@ -8270,6 +8270,10 @@
 		<title lang="zh">味道4K 山海拾味b7陵水篇</title>
 	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20251009093000 +0800" stop="20251009095900 +0800">
 		<title lang="zh">味道4K 山海拾味b7珠海篇</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20251009095900 +0800" stop="20251009103900 +0800">
+		<title lang="zh">探索b7发现4K 巧工治水 探秘古代水利工程遗迹（上）</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20251009103900 +0800" stop="20251009110900 +0800">
+		<title lang="zh">信仰的感召4K 丹心永照 夏明翰</title>
 	</programme><channel id="&#x775B;&#x5F69;&#x9752;&#x5C11;">
 		<display-name lang="zh">睛彩青少</display-name>
 	</channel><programme channel="&#x775B;&#x5F69;&#x9752;&#x5C11;" start="20251009000000 +0800" stop="20251009000100 +0800">
@@ -8582,6 +8586,8 @@
 		<title lang="zh">小森林</title>
 	</programme><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20251009083100 +0800" stop="20251009100400 +0800">
 		<title lang="zh">女汉子真爱公式</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20251009100400 +0800" stop="20251009113800 +0800">
+		<title lang="zh">哆啦A梦：伴我同行</title>
 	</programme><channel id="&#x9ED1;&#x8393;&#x52A8;&#x753B;">
 		<display-name lang="zh">黑莓动画</display-name>
 	</channel><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20251009000000 +0800" stop="20251009012100 +0800">
@@ -8598,6 +8604,8 @@
 		<title lang="zh">01_草船能借到十万支箭吗</title>
 	</programme><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20251009085000 +0800" stop="20251009103000 +0800">
 		<title lang="zh">第十四个目标 中文版</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20251009103000 +0800" stop="20251009121000 +0800">
+		<title lang="zh">通往天国的倒计时 中文版</title>
 	</programme><channel id="&#x54D2;&#x5575;&#x8D5B;&#x4E8B;">
 		<display-name lang="zh">哒啵赛事</display-name>
 	</channel><programme channel="&#x54D2;&#x5575;&#x8D5B;&#x4E8B;" start="20251009000000 +0800" stop="20251009001800 +0800">
@@ -10002,6 +10010,8 @@
 		<title lang="zh">14_怎敌她千娇百媚</title>
 	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20251009093100 +0800" stop="20251009101100 +0800">
 		<title lang="zh">黑芝麻丸</title>
+	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20251009101100 +0800" stop="20251009105600 +0800">
+		<title lang="zh">15_怎敌她千娇百媚</title>
 	</programme><channel id="&#x52A8;&#x4F5C;&#x7535;&#x5F71;">
 		<display-name lang="zh">动作电影</display-name>
 	</channel><programme channel="&#x52A8;&#x4F5C;&#x7535;&#x5F71;" start="20251009000000 +0800" stop="20251009002100 +0800">
@@ -10264,6 +10274,10 @@
 		<title lang="zh">营养健康20新</title>
 	</programme><programme channel="&#x60CA;&#x609A;&#x60AC;&#x7591;" start="20251009081000 +0800" stop="20251009095200 +0800">
 		<title lang="zh">怒火冲天</title>
+	</programme><programme channel="&#x60CA;&#x609A;&#x60AC;&#x7591;" start="20251009095200 +0800" stop="20251009102200 +0800">
+		<title lang="zh">健康有道睡眠</title>
+	</programme><programme channel="&#x60CA;&#x609A;&#x60AC;&#x7591;" start="20251009102200 +0800" stop="20251009114500 +0800">
+		<title lang="zh">重案行动之连环凶杀（普通话版）</title>
 	</programme><channel id="&#x7CBE;&#x54C1;&#x4F53;&#x80B2;">
 		<display-name lang="zh">精品体育</display-name>
 	</channel><programme channel="&#x7CBE;&#x54C1;&#x4F53;&#x80B2;" start="20251009000000 +0800" stop="20251009005000 +0800">

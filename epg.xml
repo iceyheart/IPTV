@@ -8206,6 +8206,14 @@
 		<title lang="zh">东方新科幻4K 第3集 未来人类</title>
 	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20251010113600 +0800" stop="20251010121700 +0800">
 		<title lang="zh">远方的家4K 大运河 金鸡湖畔新苏州</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20251010121700 +0800" stop="20251010125700 +0800">
+		<title lang="zh">远方的家4K 大运河 运河之城 太湖明珠</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20251010125700 +0800" stop="20251010130300 +0800">
+		<title lang="zh">美丽中国自然4K 无量山系列 茭瓜塘湿地</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20251010130800 +0800" stop="20251010135700 +0800">
+		<title lang="zh">跟着唐诗去旅行4K 第2集 孟浩然 故人</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20251010135700 +0800" stop="20251010141200 +0800">
+		<title lang="zh">艺术里的奥林匹克4K 金明池争标图</title>
 	</programme><channel id="&#x775B;&#x5F69;&#x9752;&#x5C11;">
 		<display-name lang="zh">睛彩青少</display-name>
 	</channel><programme channel="&#x775B;&#x5F69;&#x9752;&#x5C11;" start="20251010000000 +0800" stop="20251010000100 +0800">
@@ -8526,6 +8534,8 @@
 		<title lang="zh">妈妈你真棒</title>
 	</programme><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20251010120800 +0800" stop="20251010134500 +0800">
 		<title lang="zh">弓马啸西风</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20251010134500 +0800" stop="20251010151400 +0800">
+		<title lang="zh">市井英雄</title>
 	</programme><channel id="&#x9ED1;&#x8393;&#x52A8;&#x753B;">
 		<display-name lang="zh">黑莓动画</display-name>
 	</channel><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20251010000700 +0800" stop="20251010013600 +0800">
@@ -8546,6 +8556,8 @@
 		<title lang="zh">淘气包马小跳</title>
 	</programme><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20251010111300 +0800" stop="20251010124200 +0800">
 		<title lang="zh">金猴降妖</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20251010124200 +0800" stop="20251010191600 +0800">
+		<title lang="zh">01_杜甫 江湖</title>
 	</programme><channel id="&#x54D2;&#x5575;&#x8D5B;&#x4E8B;">
 		<display-name lang="zh">哒啵赛事</display-name>
 	</channel><programme channel="&#x54D2;&#x5575;&#x8D5B;&#x4E8B;" start="20251010000000 +0800" stop="20251010001700 +0800">
@@ -9848,6 +9860,12 @@
 		<title lang="zh">21_怎敌她千娇百媚</title>
 	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20251010114400 +0800" stop="20251010122400 +0800">
 		<title lang="zh">太空骨王骨胶原新版</title>
+	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20251010122400 +0800" stop="20251010130900 +0800">
+		<title lang="zh">22_怎敌她千娇百媚</title>
+	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20251010130900 +0800" stop="20251010133900 +0800">
+		<title lang="zh">健康有道睡眠</title>
+	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20251010133900 +0800" stop="20251010142300 +0800">
+		<title lang="zh">23_怎敌她千娇百媚</title>
 	</programme><channel id="&#x52A8;&#x4F5C;&#x7535;&#x5F71;">
 		<display-name lang="zh">动作电影</display-name>
 	</channel><programme channel="&#x52A8;&#x4F5C;&#x7535;&#x5F71;" start="20251010000000 +0800" stop="20251010003400 +0800">
@@ -10118,6 +10136,10 @@
 		<title lang="zh">黑芝麻丸</title>
 	</programme><programme channel="&#x60CA;&#x609A;&#x60AC;&#x7591;" start="20251010111400 +0800" stop="20251010124000 +0800">
 		<title lang="zh">涉嫌之人</title>
+	</programme><programme channel="&#x60CA;&#x609A;&#x60AC;&#x7591;" start="20251010124000 +0800" stop="20251010130900 +0800">
+		<title lang="zh">书法视频</title>
+	</programme><programme channel="&#x60CA;&#x609A;&#x60AC;&#x7591;" start="20251010130900 +0800" stop="20251010143000 +0800">
+		<title lang="zh">特工使命</title>
 	</programme><channel id="&#x7CBE;&#x54C1;&#x4F53;&#x80B2;">
 		<display-name lang="zh">精品体育</display-name>
 	</channel><programme channel="&#x7CBE;&#x54C1;&#x4F53;&#x80B2;" start="20251010000000 +0800" stop="20251010003800 +0800">

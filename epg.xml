@@ -8214,6 +8214,12 @@
 		<title lang="zh">跟着唐诗去旅行4K 第2集 孟浩然 故人</title>
 	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20251010135700 +0800" stop="20251010141200 +0800">
 		<title lang="zh">艺术里的奥林匹克4K 金明池争标图</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20251010141200 +0800" stop="20251010150100 +0800">
+		<title lang="zh">世界遗产漫步 中国南方喀斯特4K 第1集</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20251010150100 +0800" stop="20251010150600 +0800">
+		<title lang="zh">来龙去脉4K 第4集</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20251010151600 +0800" stop="20251010160500 +0800">
+		<title lang="zh">黄河之歌4K 第3集 万里胸怀</title>
 	</programme><channel id="&#x775B;&#x5F69;&#x9752;&#x5C11;">
 		<display-name lang="zh">睛彩青少</display-name>
 	</channel><programme channel="&#x775B;&#x5F69;&#x9752;&#x5C11;" start="20251010000000 +0800" stop="20251010000100 +0800">
@@ -8536,6 +8542,8 @@
 		<title lang="zh">弓马啸西风</title>
 	</programme><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20251010134500 +0800" stop="20251010151400 +0800">
 		<title lang="zh">市井英雄</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20251010151400 +0800" stop="20251010164600 +0800">
+		<title lang="zh">擒贼先擒王</title>
 	</programme><channel id="&#x9ED1;&#x8393;&#x52A8;&#x753B;">
 		<display-name lang="zh">黑莓动画</display-name>
 	</channel><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20251010000700 +0800" stop="20251010013600 +0800">
@@ -9866,6 +9874,10 @@
 		<title lang="zh">健康有道睡眠</title>
 	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20251010133900 +0800" stop="20251010142300 +0800">
 		<title lang="zh">23_怎敌她千娇百媚</title>
+	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20251010142300 +0800" stop="20251010150300 +0800">
+		<title lang="zh">营养健康20新</title>
+	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20251010150300 +0800" stop="20251010171800 +0800">
+		<title lang="zh">夺冠</title>
 	</programme><channel id="&#x52A8;&#x4F5C;&#x7535;&#x5F71;">
 		<display-name lang="zh">动作电影</display-name>
 	</channel><programme channel="&#x52A8;&#x4F5C;&#x7535;&#x5F71;" start="20251010000000 +0800" stop="20251010003400 +0800">
@@ -10140,6 +10152,10 @@
 		<title lang="zh">书法视频</title>
 	</programme><programme channel="&#x60CA;&#x609A;&#x60AC;&#x7591;" start="20251010130900 +0800" stop="20251010143000 +0800">
 		<title lang="zh">特工使命</title>
+	</programme><programme channel="&#x60CA;&#x609A;&#x60AC;&#x7591;" start="20251010143000 +0800" stop="20251010150100 +0800">
+		<title lang="zh">云杉心脑通</title>
+	</programme><programme channel="&#x60CA;&#x609A;&#x60AC;&#x7591;" start="20251010150100 +0800" stop="20251010170900 +0800">
+		<title lang="zh">龙之战</title>
 	</programme><channel id="&#x7CBE;&#x54C1;&#x4F53;&#x80B2;">
 		<display-name lang="zh">精品体育</display-name>
 	</channel><programme channel="&#x7CBE;&#x54C1;&#x4F53;&#x80B2;" start="20251010000000 +0800" stop="20251010003800 +0800">

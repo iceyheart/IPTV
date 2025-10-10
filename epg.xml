@@ -8268,6 +8268,12 @@
 		<title lang="zh">远方的家4K 大运河 金鸡湖畔新苏州</title>
 	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20251010201600 +0800" stop="20251010205600 +0800">
 		<title lang="zh">远方的家4K 大运河 运河之城 太湖明珠</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20251010210100 +0800" stop="20251010210700 +0800">
+		<title lang="zh">美丽中国自然4K 无量山系列 水鸟乐园</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20251010210700 +0800" stop="20251010215500 +0800">
+		<title lang="zh">跟着唐诗去旅行4K 第2集 孟浩然 故人</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20251010215500 +0800" stop="20251010221000 +0800">
+		<title lang="zh">艺术里的奥林匹克4K 金明池争标图</title>
 	</programme><channel id="&#x775B;&#x5F69;&#x9752;&#x5C11;">
 		<display-name lang="zh">睛彩青少</display-name>
 	</channel><programme channel="&#x775B;&#x5F69;&#x9752;&#x5C11;" start="20251010000000 +0800" stop="20251010000100 +0800">
@@ -8624,6 +8630,10 @@
 		<title lang="zh">01_王的微笑</title>
 	</programme><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20251010200600 +0800" stop="20251010205100 +0800">
 		<title lang="zh">01_宇宙信使</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20251010205100 +0800" stop="20251010211600 +0800">
+		<title lang="zh">01_摹张萱虢国夫人游春图</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20251010211600 +0800" stop="20251010231800 +0800">
+		<title lang="zh">01_大地上的成长</title>
 	</programme><channel id="&#x54D2;&#x5575;&#x8D5B;&#x4E8B;">
 		<display-name lang="zh">哒啵赛事</display-name>
 	</channel><programme channel="&#x54D2;&#x5575;&#x8D5B;&#x4E8B;" start="20251010000000 +0800" stop="20251010001700 +0800">
@@ -9948,6 +9958,10 @@
 		<title lang="zh">龙血树叶粉</title>
 	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20251010201600 +0800" stop="20251010210100 +0800">
 		<title lang="zh">04_乔家的儿女</title>
+	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20251010211100 +0800" stop="20251010215600 +0800">
+		<title lang="zh">05_乔家的儿女</title>
+	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20251010215600 +0800" stop="20251010220600 +0800">
+		<title lang="zh">龙血树叶粉</title>
 	</programme><channel id="&#x52A8;&#x4F5C;&#x7535;&#x5F71;">
 		<display-name lang="zh">动作电影</display-name>
 	</channel><programme channel="&#x52A8;&#x4F5C;&#x7535;&#x5F71;" start="20251010000000 +0800" stop="20251010003400 +0800">

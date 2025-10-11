@@ -7674,6 +7674,16 @@
 		<title lang="zh">东方新科幻4K 第4集 家园遥望</title>
 	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20251011113300 +0800" stop="20251011121400 +0800">
 		<title lang="zh">远方的家4K 大运河 金鸡湖畔新苏州</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20251011121400 +0800" stop="20251011125600 +0800">
+		<title lang="zh">远方的家4K 大运河 家在运河之滨无锡城</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20251011130100 +0800" stop="20251011130600 +0800">
+		<title lang="zh">美丽中国自然4K 内蒙古b7蒙西系列 沙“海”奇观</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20251011130600 +0800" stop="20251011135500 +0800">
+		<title lang="zh">跟着唐诗去旅行4K 第3集 王维 长安</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20251011135500 +0800" stop="20251011141000 +0800">
+		<title lang="zh">艺术里的奥林匹克4K 油画b7阿让特伊赛船会</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20251011141000 +0800" stop="20251011150000 +0800">
+		<title lang="zh">世界遗产漫步 中国南方喀斯特4K 第2集</title>
 	</programme><channel id="&#x775B;&#x5F69;&#x9752;&#x5C11;">
 		<display-name lang="zh">睛彩青少</display-name>
 	</channel><programme channel="&#x775B;&#x5F69;&#x9752;&#x5C11;" start="20251011000000 +0800" stop="20251011000100 +0800">
@@ -8000,6 +8010,10 @@
 		<title lang="zh">九妹</title>
 	</programme><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20251011111900 +0800" stop="20251011124100 +0800">
 		<title lang="zh">斗破苍穹3：除恶</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20251011124100 +0800" stop="20251011141500 +0800">
+		<title lang="zh">远山花开</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20251011141500 +0800" stop="20251011155100 +0800">
+		<title lang="zh">打过长江去</title>
 	</programme><channel id="&#x9ED1;&#x8393;&#x52A8;&#x753B;">
 		<display-name lang="zh">黑莓动画</display-name>
 	</channel><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20251011003200 +0800" stop="20251011020100 +0800">
@@ -8020,6 +8034,8 @@
 		<title lang="zh">淘气包马小跳</title>
 	</programme><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20251011113700 +0800" stop="20251011130700 +0800">
 		<title lang="zh">金猴降妖</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20251011130700 +0800" stop="20251011194100 +0800">
+		<title lang="zh">01_杜甫 江湖</title>
 	</programme><channel id="&#x54D2;&#x5575;&#x8D5B;&#x4E8B;">
 		<display-name lang="zh">哒啵赛事</display-name>
 	</channel><programme channel="&#x54D2;&#x5575;&#x8D5B;&#x4E8B;" start="20251011000000 +0800" stop="20251011000100 +0800">
@@ -9370,6 +9386,12 @@
 		<title lang="zh">营养健康20新</title>
 	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20251011115800 +0800" stop="20251011124300 +0800">
 		<title lang="zh">26_怎敌她千娇百媚</title>
+	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20251011124300 +0800" stop="20251011132300 +0800">
+		<title lang="zh">太空骨王骨胶原新版</title>
+	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20251011132300 +0800" stop="20251011140900 +0800">
+		<title lang="zh">01_似锦</title>
+	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20251011140900 +0800" stop="20251011144900 +0800">
+		<title lang="zh">黑芝麻丸</title>
 	</programme><channel id="&#x52A8;&#x4F5C;&#x7535;&#x5F71;">
 		<display-name lang="zh">动作电影</display-name>
 	</channel><programme channel="&#x52A8;&#x4F5C;&#x7535;&#x5F71;" start="20251011000000 +0800" stop="20251011001200 +0800">
@@ -9638,6 +9660,12 @@
 		<title lang="zh">龙血树叶粉</title>
 	</programme><programme channel="&#x60CA;&#x609A;&#x60AC;&#x7591;" start="20251011103900 +0800" stop="20251011121000 +0800">
 		<title lang="zh">血战残阳</title>
+	</programme><programme channel="&#x60CA;&#x609A;&#x60AC;&#x7591;" start="20251011121000 +0800" stop="20251011123900 +0800">
+		<title lang="zh">书法视频</title>
+	</programme><programme channel="&#x60CA;&#x609A;&#x60AC;&#x7591;" start="20251011123900 +0800" stop="20251011140600 +0800">
+		<title lang="zh">狂怒之阿登战役</title>
+	</programme><programme channel="&#x60CA;&#x609A;&#x60AC;&#x7591;" start="20251011140600 +0800" stop="20251011144600 +0800">
+		<title lang="zh">营养健康20新</title>
 	</programme><channel id="&#x7CBE;&#x54C1;&#x4F53;&#x80B2;">
 		<display-name lang="zh">精品体育</display-name>
 	</channel><programme channel="&#x7CBE;&#x54C1;&#x4F53;&#x80B2;" start="20251011000000 +0800" stop="20251011004300 +0800">

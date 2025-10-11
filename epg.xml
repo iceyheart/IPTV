@@ -7684,6 +7684,12 @@
 		<title lang="zh">艺术里的奥林匹克4K 油画b7阿让特伊赛船会</title>
 	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20251011141000 +0800" stop="20251011150000 +0800">
 		<title lang="zh">世界遗产漫步 中国南方喀斯特4K 第2集</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20251011150000 +0800" stop="20251011150400 +0800">
+		<title lang="zh">来龙去脉4K 第6集</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20251011151400 +0800" stop="20251011160300 +0800">
+		<title lang="zh">黄河之歌4K 第4集 大浪淘沙</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20251011160300 +0800" stop="20251011163100 +0800">
+		<title lang="zh">记住乡愁 第八季4K 措麦村——碧湖之下 青稞飘香</title>
 	</programme><channel id="&#x775B;&#x5F69;&#x9752;&#x5C11;">
 		<display-name lang="zh">睛彩青少</display-name>
 	</channel><programme channel="&#x775B;&#x5F69;&#x9752;&#x5C11;" start="20251011000000 +0800" stop="20251011000100 +0800">
@@ -8014,6 +8020,8 @@
 		<title lang="zh">远山花开</title>
 	</programme><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20251011141500 +0800" stop="20251011155100 +0800">
 		<title lang="zh">打过长江去</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20251011155100 +0800" stop="20251011180400 +0800">
+		<title lang="zh">雄狮少年2</title>
 	</programme><channel id="&#x9ED1;&#x8393;&#x52A8;&#x753B;">
 		<display-name lang="zh">黑莓动画</display-name>
 	</channel><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20251011003200 +0800" stop="20251011020100 +0800">
@@ -9392,6 +9400,12 @@
 		<title lang="zh">01_似锦</title>
 	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20251011140900 +0800" stop="20251011144900 +0800">
 		<title lang="zh">黑芝麻丸</title>
+	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20251011144900 +0800" stop="20251011153400 +0800">
+		<title lang="zh">02_似锦</title>
+	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20251011153400 +0800" stop="20251011161400 +0800">
+		<title lang="zh">虾青素推广片4001087099</title>
+	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20251011161400 +0800" stop="20251011175300 +0800">
+		<title lang="zh">特工过家家</title>
 	</programme><channel id="&#x52A8;&#x4F5C;&#x7535;&#x5F71;">
 		<display-name lang="zh">动作电影</display-name>
 	</channel><programme channel="&#x52A8;&#x4F5C;&#x7535;&#x5F71;" start="20251011000000 +0800" stop="20251011001200 +0800">
@@ -9666,6 +9680,10 @@
 		<title lang="zh">狂怒之阿登战役</title>
 	</programme><programme channel="&#x60CA;&#x609A;&#x60AC;&#x7591;" start="20251011140600 +0800" stop="20251011144600 +0800">
 		<title lang="zh">营养健康20新</title>
+	</programme><programme channel="&#x60CA;&#x609A;&#x60AC;&#x7591;" start="20251011144600 +0800" stop="20251011155900 +0800">
+		<title lang="zh">湘西诡事（4K）</title>
+	</programme><programme channel="&#x60CA;&#x609A;&#x60AC;&#x7591;" start="20251011155900 +0800" stop="20251011163900 +0800">
+		<title lang="zh">太空骨王骨胶原新版</title>
 	</programme><channel id="&#x7CBE;&#x54C1;&#x4F53;&#x80B2;">
 		<display-name lang="zh">精品体育</display-name>
 	</channel><programme channel="&#x7CBE;&#x54C1;&#x4F53;&#x80B2;" start="20251011000000 +0800" stop="20251011004300 +0800">

@@ -7656,6 +7656,10 @@
 		<title lang="zh">探索b7发现4K 神秘的汉墓群</title>
 	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20251012103800 +0800" stop="20251012110800 +0800">
 		<title lang="zh">信仰的感召4K 革命长者 何叔衡</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20251012110800 +0800" stop="20251012113800 +0800">
+		<title lang="zh">信仰的感召4K 壮乡英雄 韦拔群</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20251012113800 +0800" stop="20251012121900 +0800">
+		<title lang="zh">远方的家4K 大运河 吴地文化在无锡</title>
 	</programme><channel id="&#x775B;&#x5F69;&#x9752;&#x5C11;">
 		<display-name lang="zh">睛彩青少</display-name>
 	</channel><programme channel="&#x775B;&#x5F69;&#x9752;&#x5C11;" start="20251012000000 +0800" stop="20251012000100 +0800">
@@ -7964,6 +7968,8 @@
 		<title lang="zh">五月天追梦3DNA</title>
 	</programme><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20251012100300 +0800" stop="20251012112100 +0800">
 		<title lang="zh">斗破苍穹4：逃亡</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20251012112100 +0800" stop="20251012130200 +0800">
+		<title lang="zh">超能游戏者</title>
 	</programme><channel id="&#x9ED1;&#x8393;&#x52A8;&#x753B;">
 		<display-name lang="zh">黑莓动画</display-name>
 	</channel><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20251012000200 +0800" stop="20251012040200 +0800">
@@ -7980,6 +7986,8 @@
 		<title lang="zh">21_奶龙之奇妙冒险</title>
 	</programme><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20251012095700 +0800" stop="20251012114700 +0800">
 		<title lang="zh">01_小马宝莉之魔力新世界</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20251012114700 +0800" stop="20251012131300 +0800">
+		<title lang="zh">汪汪队立大功大电影（普通话版）</title>
 	</programme><channel id="&#x54D2;&#x5575;&#x8D5B;&#x4E8B;">
 		<display-name lang="zh">哒啵赛事</display-name>
 	</channel><programme channel="&#x54D2;&#x5575;&#x8D5B;&#x4E8B;" start="20251012000000 +0800" stop="20251012035200 +0800">
@@ -9310,6 +9318,8 @@
 		<title lang="zh">书法视频</title>
 	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20251012094100 +0800" stop="20251012113500 +0800">
 		<title lang="zh">你的婚礼</title>
+	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20251012113500 +0800" stop="20251012121500 +0800">
+		<title lang="zh">营养健康20新</title>
 	</programme><channel id="&#x52A8;&#x4F5C;&#x7535;&#x5F71;">
 		<display-name lang="zh">动作电影</display-name>
 	</channel><programme channel="&#x52A8;&#x4F5C;&#x7535;&#x5F71;" start="20251012000000 +0800" stop="20251012002900 +0800">
@@ -9572,6 +9582,8 @@
 		<title lang="zh">龙血树叶粉</title>
 	</programme><programme channel="&#x60CA;&#x609A;&#x60AC;&#x7591;" start="20251012102700 +0800" stop="20251012114400 +0800">
 		<title lang="zh">侏罗纪崛起</title>
+	</programme><programme channel="&#x60CA;&#x609A;&#x60AC;&#x7591;" start="20251012114400 +0800" stop="20251012121300 +0800">
+		<title lang="zh">书法视频</title>
 	</programme><channel id="&#x7CBE;&#x54C1;&#x4F53;&#x80B2;">
 		<display-name lang="zh">精品体育</display-name>
 	</channel><programme channel="&#x7CBE;&#x54C1;&#x4F53;&#x80B2;" start="20251012000000 +0800" stop="20251012012000 +0800">

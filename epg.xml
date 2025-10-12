@@ -7640,6 +7640,10 @@
 		<title lang="zh">远方的家4K 大运河 吴地文化在无锡</title>
 	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20251012201900 +0800" stop="20251012210000 +0800">
 		<title lang="zh">远方的家4K 大运河 运河变迁 更美常州</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20251012210000 +0800" stop="20251012210500 +0800">
+		<title lang="zh">美丽中国自然4K 内蒙古b7蒙西系列 大漠生命</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20251012211100 +0800" stop="20251012220000 +0800">
+		<title lang="zh">跟着唐诗去旅行4K 第4集 岑参 边塞</title>
 	</programme><channel id="&#x775B;&#x5F69;&#x9752;&#x5C11;">
 		<display-name lang="zh">睛彩青少</display-name>
 	</channel><programme channel="&#x775B;&#x5F69;&#x9752;&#x5C11;" start="20251012000000 +0800" stop="20251012000100 +0800">
@@ -7960,6 +7964,8 @@
 		<title lang="zh">解救吾先生</title>
 	</programme><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20251012193300 +0800" stop="20251012211400 +0800">
 		<title lang="zh">杜拉拉升职记</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20251012211400 +0800" stop="20251012225500 +0800">
+		<title lang="zh">忍者神龟：变种时代</title>
 	</programme><channel id="&#x9ED1;&#x8393;&#x52A8;&#x753B;">
 		<display-name lang="zh">黑莓动画</display-name>
 	</channel><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20251012000200 +0800" stop="20251012040200 +0800">
@@ -7988,6 +7994,8 @@
 		<title lang="zh">虹猫蓝兔火凤凰</title>
 	</programme><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20251012194000 +0800" stop="20251012210800 +0800">
 		<title lang="zh">太空勇狗队</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20251012210800 +0800" stop="20251012223700 +0800">
+		<title lang="zh">海绵宝宝：水兵陆战队</title>
 	</programme><channel id="&#x54D2;&#x5575;&#x8D5B;&#x4E8B;">
 		<display-name lang="zh">哒啵赛事</display-name>
 	</channel><programme channel="&#x54D2;&#x5575;&#x8D5B;&#x4E8B;" start="20251012000000 +0800" stop="20251012035200 +0800">
@@ -9342,6 +9350,10 @@
 		<title lang="zh">龙血树叶粉</title>
 	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20251012192300 +0800" stop="20251012205200 +0800">
 		<title lang="zh">好嗨的历险记</title>
+	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20251012205200 +0800" stop="20251012212200 +0800">
+		<title lang="zh">《超级美味》推荐第11期</title>
+	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20251012212200 +0800" stop="20251012220500 +0800">
+		<title lang="zh">12_乔家的儿女</title>
 	</programme><channel id="&#x52A8;&#x4F5C;&#x7535;&#x5F71;">
 		<display-name lang="zh">动作电影</display-name>
 	</channel><programme channel="&#x52A8;&#x4F5C;&#x7535;&#x5F71;" start="20251012000000 +0800" stop="20251012002900 +0800">

@@ -6946,12 +6946,22 @@
 		<title lang="zh">美丽中国说4K 雨林王者</title>
 	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20251013033700 +0800" stop="20251013041800 +0800">
 		<title lang="zh">远方的家4K 大运河 古韵常州 运河诗情</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20251013041800 +0800" stop="20251013045900 +0800">
+		<title lang="zh">远方的家4K 大运河 守护运河 筑梦常州</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20251013051000 +0800" stop="20251013055900 +0800">
+		<title lang="zh">跟着唐诗去旅行4K 第5集 李白 仙山</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20251013055900 +0800" stop="20251013061400 +0800">
+		<title lang="zh">艺术里的奥林匹克4K 油画b7画家的家庭</title>
 	</programme><channel id="&#x9ED1;&#x8393;&#x7535;&#x5F71;">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20251013003800 +0800" stop="20251013023400 +0800">
 		<title lang="zh">萨拉的笔记本</title>
 	</programme><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20251013023400 +0800" stop="20251013040600 +0800">
 		<title lang="zh">蝴蝶树</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20251013040600 +0800" stop="20251013054800 +0800">
+		<title lang="zh">苏菲与朝阳</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20251013054800 +0800" stop="20251013073700 +0800">
+		<title lang="zh">血证一九二八</title>
 	</programme><channel id="&#x9ED1;&#x8393;&#x52A8;&#x753B;">
 		<display-name lang="zh">黑莓动画</display-name>
 	</channel><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20251013010500 +0800" stop="20251013023400 +0800">
@@ -6960,6 +6970,8 @@
 		<title lang="zh">西行纪之穷奇地洞</title>
 	</programme><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20251013035200 +0800" stop="20251013051900 +0800">
 		<title lang="zh">棉球方块历险记</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20251013051900 +0800" stop="20251013064800 +0800">
+		<title lang="zh">摩登森林之美食总动员</title>
 	</programme><channel id="&#x91D1;&#x9E70;&#x5361;&#x901A;">
 		<display-name lang="zh">金鹰卡通</display-name>
 	</channel><programme channel="&#x91D1;&#x9E70;&#x5361;&#x901A;" start="20251013000000 +0800" stop="20251013032000 +0800">

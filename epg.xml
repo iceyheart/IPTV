@@ -6928,7 +6928,27 @@
     <title>時事大破解 [粵]</title>
   </programme><programme start="20251014053000 +0800" stop="20251014060000 +0800" channel="PHK">
     <title>新聞今日談 [普]</title>
-  </programme><channel id="&#x91D1;&#x9E70;&#x5361;&#x901A;">
+  </programme><channel id="&#x7EAF;&#x4EAB;4K">
+		<display-name lang="zh">纯享4K</display-name>
+	</channel><programme channel="&#x7EAF;&#x4EAB;4K" start="20251013000200 +0800" stop="20251013003000 +0800">
+		<title lang="zh">记住乡愁 第八季4K 德胜村——坝上草原金银滩</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20251013003000 +0800" stop="20251013005800 +0800">
+		<title lang="zh">记住乡愁 第八季4K 东村——闯海人家 大蚝之乡</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20251013005800 +0800" stop="20251013012800 +0800">
+		<title lang="zh">味道4K 原味乡间b7抚州篇</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20251013012800 +0800" stop="20251013015700 +0800">
+		<title lang="zh">味道4K原味乡间b7安顺篇</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20251013015700 +0800" stop="20251013023700 +0800">
+		<title lang="zh">探索b7发现4K 寻找最早的燕国</title>
+	</programme><channel id="&#x9ED1;&#x8393;&#x7535;&#x5F71;">
+		<display-name lang="zh">黑莓电影</display-name>
+	</channel><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20251013003800 +0800" stop="20251013023400 +0800">
+		<title lang="zh">萨拉的笔记本</title>
+	</programme><channel id="&#x9ED1;&#x8393;&#x52A8;&#x753B;">
+		<display-name lang="zh">黑莓动画</display-name>
+	</channel><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20251013010500 +0800" stop="20251013023400 +0800">
+		<title lang="zh">星际大逃亡</title>
+	</programme><channel id="&#x91D1;&#x9E70;&#x5361;&#x901A;">
 		<display-name lang="zh">金鹰卡通</display-name>
 	</channel><programme channel="&#x91D1;&#x9E70;&#x5361;&#x901A;" start="20251013000000 +0800" stop="20251013032000 +0800">
 		<title lang="zh">开心超人联盟之勇敢之城</title>

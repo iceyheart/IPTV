@@ -7670,6 +7670,10 @@
 		<title lang="zh">艺术里的奥林匹克4K 漫画b7齐心协力</title>
 	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20251012141500 +0800" stop="20251012150400 +0800">
 		<title lang="zh">良渚4K 第1集 斗转星移</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20251012151400 +0800" stop="20251012160300 +0800">
+		<title lang="zh">黄河之歌 第5集 惊涛拍岸</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20251012160300 +0800" stop="20251012163100 +0800">
+		<title lang="zh">记住乡愁 第八季4K 大鹿岛村——大海深处有良田</title>
 	</programme><channel id="&#x775B;&#x5F69;&#x9752;&#x5C11;">
 		<display-name lang="zh">睛彩青少</display-name>
 	</channel><programme channel="&#x775B;&#x5F69;&#x9752;&#x5C11;" start="20251012000000 +0800" stop="20251012000100 +0800">
@@ -7982,6 +7986,10 @@
 		<title lang="zh">超能游戏者</title>
 	</programme><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20251012130200 +0800" stop="20251012144800 +0800">
 		<title lang="zh">帕丁顿熊3：秘鲁大冒险</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20251012144800 +0800" stop="20251012161000 +0800">
+		<title lang="zh">野蛮女友</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20251012161000 +0800" stop="20251012174700 +0800">
+		<title lang="zh">谷魂</title>
 	</programme><channel id="&#x9ED1;&#x8393;&#x52A8;&#x753B;">
 		<display-name lang="zh">黑莓动画</display-name>
 	</channel><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20251012000200 +0800" stop="20251012040200 +0800">
@@ -8002,6 +8010,8 @@
 		<title lang="zh">汪汪队立大功大电影（普通话版）</title>
 	</programme><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20251012131300 +0800" stop="20251012152900 +0800">
 		<title lang="zh">01_甜心格格5</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20251012152900 +0800" stop="20251012165700 +0800">
+		<title lang="zh">星际大逃亡</title>
 	</programme><channel id="&#x54D2;&#x5575;&#x8D5B;&#x4E8B;">
 		<display-name lang="zh">哒啵赛事</display-name>
 	</channel><programme channel="&#x54D2;&#x5575;&#x8D5B;&#x4E8B;" start="20251012000000 +0800" stop="20251012035200 +0800">
@@ -9340,6 +9350,12 @@
 		<title lang="zh">太空骨王骨胶原新版</title>
 	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20251012134100 +0800" stop="20251012142700 +0800">
 		<title lang="zh">04_似锦</title>
+	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20251012142700 +0800" stop="20251012150700 +0800">
+		<title lang="zh">黑芝麻丸</title>
+	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20251012150700 +0800" stop="20251012155200 +0800">
+		<title lang="zh">05_似锦</title>
+	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20251012155200 +0800" stop="20251012163200 +0800">
+		<title lang="zh">虾青素推广片4001087099</title>
 	</programme><channel id="&#x52A8;&#x4F5C;&#x7535;&#x5F71;">
 		<display-name lang="zh">动作电影</display-name>
 	</channel><programme channel="&#x52A8;&#x4F5C;&#x7535;&#x5F71;" start="20251012000000 +0800" stop="20251012002900 +0800">
@@ -9610,6 +9626,8 @@
 		<title lang="zh">营养健康20新</title>
 	</programme><programme channel="&#x60CA;&#x609A;&#x60AC;&#x7591;" start="20251012134000 +0800" stop="20251012144900 +0800">
 		<title lang="zh">特勤精英之生死救援</title>
+	</programme><programme channel="&#x60CA;&#x609A;&#x60AC;&#x7591;" start="20251012144900 +0800" stop="20251012161700 +0800">
+		<title lang="zh">枪神再起</title>
 	</programme><channel id="&#x7CBE;&#x54C1;&#x4F53;&#x80B2;">
 		<display-name lang="zh">精品体育</display-name>
 	</channel><programme channel="&#x7CBE;&#x54C1;&#x4F53;&#x80B2;" start="20251012000000 +0800" stop="20251012012000 +0800">

@@ -7490,6 +7490,12 @@
 		<title lang="zh">美丽中国说4K 火山奇遇</title>
 	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20251014034800 +0800" stop="20251014043000 +0800">
 		<title lang="zh">远方的家4K 大运河 运河两岸 水润丹阳</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20251014043000 +0800" stop="20251014051100 +0800">
+		<title lang="zh">远方的家4K 大运河 江河交汇话镇江</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20251014051600 +0800" stop="20251014052100 +0800">
+		<title lang="zh">美丽中国自然4K 内蒙古b7蒙西系列 荒漠求生</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20251014052100 +0800" stop="20251014061100 +0800">
+		<title lang="zh">跟着唐诗去旅行 第二季4K 第1集 石鼓歌</title>
 	</programme><channel id="&#x9ED1;&#x8393;&#x7535;&#x5F71;">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20251014003300 +0800" stop="20251014021800 +0800">
@@ -7498,6 +7504,8 @@
 		<title lang="zh">警察故事</title>
 	</programme><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20251014035800 +0800" stop="20251014053000 +0800">
 		<title lang="zh">冬之物语</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20251014053000 +0800" stop="20251014070600 +0800">
+		<title lang="zh">兴隆山下菜花香</title>
 	</programme><channel id="&#x9ED1;&#x8393;&#x52A8;&#x753B;">
 		<display-name lang="zh">黑莓动画</display-name>
 	</channel><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20251014004700 +0800" stop="20251014023200 +0800">

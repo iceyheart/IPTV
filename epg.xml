@@ -8626,10 +8626,26 @@
 		<display-name lang="zh">纯享4K</display-name>
 	</channel><programme channel="&#x7EAF;&#x4EAB;4K" start="20251015001200 +0800" stop="20251015004000 +0800">
 		<title lang="zh">记住乡愁 第八季4K 俄尔则俄村——深山彝寨 点亮心灯</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20251015004000 +0800" stop="20251015010800 +0800">
+		<title lang="zh">记住乡愁 第八季4K 发展村——熊猫民宿村 清风雅雨间</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20251015010800 +0800" stop="20251015013700 +0800">
+		<title lang="zh">味道4K 原味乡间b7乌镇篇（3）</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20251015013700 +0800" stop="20251015020700 +0800">
+		<title lang="zh">味道4K 原味乡间b7绵阳篇</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20251015020700 +0800" stop="20251015024700 +0800">
+		<title lang="zh">探索b7发现4K 滍阳岭上的秘密（上）</title>
+	</programme><channel id="&#x9ED1;&#x8393;&#x7535;&#x5F71;">
+		<display-name lang="zh">黑莓电影</display-name>
+	</channel><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20251015003500 +0800" stop="20251015021100 +0800">
+		<title lang="zh">雨季风暴</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20251015021100 +0800" stop="20251015035300 +0800">
+		<title lang="zh">警察故事4：简单任务</title>
 	</programme><channel id="&#x9ED1;&#x8393;&#x52A8;&#x753B;">
 		<display-name lang="zh">黑莓动画</display-name>
 	</channel><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20251015000300 +0800" stop="20251015021100 +0800">
 		<title lang="zh">06_画江湖之不良人第七季：九幽玄天</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20251015021100 +0800" stop="20251015061200 +0800">
+		<title lang="zh">11_间谍过家家全集中文版</title>
 	</programme><channel id="&#x91D1;&#x9E70;&#x5361;&#x901A;">
 		<display-name lang="zh">金鹰卡通</display-name>
 	</channel><programme channel="&#x91D1;&#x9E70;&#x5361;&#x901A;" start="20251015000000 +0800" stop="20251015032000 +0800">

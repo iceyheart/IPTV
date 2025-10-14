@@ -152,7 +152,7 @@ http://bxtv.3a.ink/api.php?id=wxxw
 http://bxtv.3a.ink/api.php?id=meiya
 #EXTINF:-1 tvg-id="POPC" tvg-name="PopC" tvg-logo="http://bxtv.3a.ink/logo/POPC.png" group-title="港澳台频道",PopC
 http://bxtv.3a.ink/api.php?id=popc
-#EXTINF:-1 tvg-name="VIUTV" tvg-logo="http://bxtv.3a.ink/logo/VIUTV.png" group-title="港澳台频道",VIUTV
+#EXTINF:-1 tvg-id="410274" tvg-name="VIUTV" tvg-logo="http://bxtv.3a.ink/logo/VIUTV.png" group-title="港澳台频道",VIUTV
 http://bxtv.3a.ink/api.php?id=viutv
 #EXTINF:-1 tvg-id="CTVC" tvg-name="千禧經典台" tvg-logo="http://bxtv.3a.ink/logo/千禧经典.png" group-title="港澳台频道",千禧經典台
 http://bxtv.3a.ink/api.php?id=qxjd
@@ -170,13 +170,11 @@ http://bxtv.3a.ink/api.php?id=now
 http://bxtv.3a.ink/api.php?id=gdty
 #EXTINF:-1 tvg-id="广东珠江" tvg-name="广东珠江" tvg-logo="http://bxtv.3a.ink/logo/广东珠江.png" group-title="港澳台频道",广东珠江
 http://bxtv.3a.ink/api.php?id=gdzj
-#EXTINF:-1 tvg-name="中天新聞台" tvg-logo="http://bxtv.3a.ink/logo/中天新闻.png" group-title="港澳台频道",中天新聞台
+#EXTINF:-1 tvg-id="370177" tvg-name="中天新闻台" tvg-logo="http://bxtv.3a.ink/logo/中天新闻.png" group-title="港澳台频道",中天新闻台
 http://bxtv.3a.ink/api.php?id=ztxw
 #EXTINF:-1 tvg-id="410285" tvg-name="Now 爆谷台" tvg-logo="https://down.ymschh.top/tv/BGT.png" group-title="港澳台频道",爆谷台
 http://play-ali.cloudvdn.com/live/5566321.flv
-#EXTINF:-1 tvg-id="410285" tvg-name="Now 爆谷台 节目单" group-title="港澳台频道",节目单
-https://epg.pw/api/epg.xml?lang=zh-hans&timezone=RXVyb3BlL1ZpZW5uYQ%3D%3D&date=20251014&channel_id=410285
-#EXTINF:-1 tvg-name="星影台" tvg-logo="https://down.ymschh.top/tv/XYT.png" group-title="港澳台频道",星影台
+#EXTINF:-1 tvg-id="410286" tvg-name="Now爆谷星影台" tvg-logo="https://down.ymschh.top/tv/XYT.png" group-title="港澳台频道",星影台
 http://play-ali.cloudvdn.com/live/5566334.flv
 
 #EXTINF:-1 tvg-id="CETV1" tvg-name="CETV1" tvg-logo="https://down.ymschh.top/tv/CETV1.png" group-title="其他频道",CETV1

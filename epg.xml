@@ -8380,6 +8380,10 @@
     <title lang="zh">23全球大視野</title>
     <desc/>
     <date>2025-10-16</date>
+  </programme><programme channel="370177" start="20251017000000 +0800" stop="20251018000000 +0800">
+    <title lang="zh">18中天辣晚報</title>
+    <desc/>
+    <date>2025-10-17</date>
   </programme><channel id="410285">
     <display-name lang="Hong Kong">Now 爆谷台</display-name>
     <icon src="https://epg.pw/media/images/epg/2025/01/28/20250128123118148719_96"/>
@@ -8640,6 +8644,12 @@
 		<title lang="zh">美丽中国说4K </title>
 	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20251015034600 +0800" stop="20251015042800 +0800">
 		<title lang="zh">远方的家4K 大运河 清丽水岸扬州城</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20251015042800 +0800" stop="20251015050900 +0800">
+		<title lang="zh">远方的家4K 大运河 水岸叠翠草色青</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20251015051400 +0800" stop="20251015052000 +0800">
+		<title lang="zh">美丽中国自然4K 内蒙古b7蒙西系列 蓑羽隐士</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20251015052000 +0800" stop="20251015060900 +0800">
+		<title lang="zh">跟着唐诗去旅行 第二季4K 第2集 寒江雪</title>
 	</programme><channel id="&#x9ED1;&#x8393;&#x7535;&#x5F71;">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20251015003500 +0800" stop="20251015021100 +0800">
@@ -8648,6 +8658,8 @@
 		<title lang="zh">警察故事4：简单任务</title>
 	</programme><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20251015035300 +0800" stop="20251015053600 +0800">
 		<title lang="zh">流浪地球2：再次冒险</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20251015053600 +0800" stop="20251015070300 +0800">
+		<title lang="zh">超时空心跳</title>
 	</programme><channel id="&#x9ED1;&#x8393;&#x52A8;&#x753B;">
 		<display-name lang="zh">黑莓动画</display-name>
 	</channel><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20251015000300 +0800" stop="20251015021100 +0800">

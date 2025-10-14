@@ -9633,6 +9633,12 @@
 		<title lang="zh">远方的家4K 大运河 运河两岸 水润丹阳</title>
 	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20251014202000 +0800" stop="20251014210100 +0800">
 		<title lang="zh">远方的家4K 大运河 江河交汇话镇江</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20251014210100 +0800" stop="20251014210600 +0800">
+		<title lang="zh">美丽中国自然4K 内蒙古b7蒙西系列 岩上奇羊</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20251014211200 +0800" stop="20251014220100 +0800">
+		<title lang="zh">跟着唐诗去旅行 第二季4K 第1集 石鼓歌</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20251014220100 +0800" stop="20251014225000 +0800">
+		<title lang="zh">良渚4K 第3集 大城筑梦</title>
 	</programme><channel id="&#x775B;&#x5F69;&#x9752;&#x5C11;">
 		<display-name lang="zh">睛彩青少</display-name>
 	</channel><programme channel="&#x775B;&#x5F69;&#x9752;&#x5C11;" start="20251014000000 +0800" stop="20251014000100 +0800">
@@ -9977,6 +9983,8 @@
 		<title lang="zh">还是觉得你最好2</title>
 	</programme><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20251014185400 +0800" stop="20251014205700 +0800">
 		<title lang="zh">非诚勿扰2</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20251014205700 +0800" stop="20251014230400 +0800">
+		<title lang="zh">红毯先生</title>
 	</programme><channel id="&#x9ED1;&#x8393;&#x52A8;&#x753B;">
 		<display-name lang="zh">黑莓动画</display-name>
 	</channel><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20251014004700 +0800" stop="20251014023200 +0800">
@@ -9997,6 +10005,8 @@
 		<title lang="zh">01_奶龙之奇妙冒险</title>
 	</programme><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20251014174700 +0800" stop="20251014210700 +0800">
 		<title lang="zh">02_奶龙之奇妙冒险</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20251014210700 +0800" stop="20251014223500 +0800">
+		<title lang="zh">太空勇狗队</title>
 	</programme><channel id="&#x54D2;&#x5575;&#x8D5B;&#x4E8B;">
 		<display-name lang="zh">哒啵赛事</display-name>
 	</channel><programme channel="&#x54D2;&#x5575;&#x8D5B;&#x4E8B;" start="20251014000000 +0800" stop="20251014000400 +0800">
@@ -11419,6 +11429,10 @@
 		<title lang="zh">20_乔家的儿女</title>
 	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20251014204000 +0800" stop="20251014211000 +0800">
 		<title lang="zh">《超级美味》推荐第11期</title>
+	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20251014211000 +0800" stop="20251014215500 +0800">
+		<title lang="zh">21_乔家的儿女</title>
+	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20251014215500 +0800" stop="20251014222500 +0800">
+		<title lang="zh">《超级美味》推荐第11期</title>
 	</programme><channel id="&#x52A8;&#x4F5C;&#x7535;&#x5F71;">
 		<display-name lang="zh">动作电影</display-name>
 	</channel><programme channel="&#x52A8;&#x4F5C;&#x7535;&#x5F71;" start="20251014000000 +0800" stop="20251014000200 +0800">
@@ -11701,6 +11715,10 @@
 		<title lang="zh">黑芝麻丸</title>
 	</programme><programme channel="&#x60CA;&#x609A;&#x60AC;&#x7591;" start="20251014192500 +0800" stop="20251014204900 +0800">
 		<title lang="zh">昆仑劫之鲛人泪</title>
+	</programme><programme channel="&#x60CA;&#x609A;&#x60AC;&#x7591;" start="20251014204900 +0800" stop="20251014211900 +0800">
+		<title lang="zh">《超级美味》推荐第11期</title>
+	</programme><programme channel="&#x60CA;&#x609A;&#x60AC;&#x7591;" start="20251014211900 +0800" stop="20251014225900 +0800">
+		<title lang="zh">古镇谜案之诛心劫</title>
 	</programme><channel id="&#x7CBE;&#x54C1;&#x4F53;&#x80B2;">
 		<display-name lang="zh">精品体育</display-name>
 	</channel><programme channel="&#x7CBE;&#x54C1;&#x4F53;&#x80B2;" start="20251014000000 +0800" stop="20251014010800 +0800">

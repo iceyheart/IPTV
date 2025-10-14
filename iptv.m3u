@@ -146,7 +146,7 @@ http://bxtv.3a.ink/api.php?id=18
 http://bxtv.3a.ink/api.php?id=tvbp
 #EXTINF:-1 tvg-id="P" tvg-name="明珠台" tvg-logo="http://bxtv.3a.ink/logo/明珠.png" group-title="港澳台频道",明珠台
 http://bxtv.3a.ink/api.php?id=mz
-#EXTINF:-1 tvg-id="C" tvg-name="無線新聞台" tvg-logo="https://down.ymschh.top/tv/WXXW.png" group-title="港澳台频道",無線新聞台
+#EXTINF:-1 tvg-id="C" tvg-name="無線新聞台" tvg-logo="http://bxtv.3a.ink/logo/无线新闻.png" group-title="港澳台频道",無線新聞台
 http://bxtv.3a.ink/api.php?id=wxxw
 #EXTINF:-1 tvg-id="CMAM" tvg-name="美亞電影台" tvg-logo="http://bxtv.3a.ink/logo/美亚电影.png" group-title="港澳台频道",美亞電影台
 http://bxtv.3a.ink/api.php?id=meiya
@@ -158,20 +158,24 @@ http://bxtv.3a.ink/api.php?id=viutv
 http://bxtv.3a.ink/api.php?id=qxjd
 #EXTINF:-1 tvg-id="J" tvg-name="翡翠台" tvg-logo="http://bxtv.3a.ink/logo/翡翠.png" group-title="港澳台频道",翡翠台
 http://bxtv.3a.ink/api.php?id=fct
-#EXTINF:-1 tvg-id="PCC" tvg-name="鳳凰衛視中文" tvg-logo="https://down.ymschh.top/tv/FHZW.png" group-title="港澳台频道",鳳凰衛視中文台
+#EXTINF:-1 tvg-id="PCC" tvg-name="鳳凰衛視中文" tvg-logo="http://bxtv.3a.ink/logo/凤凰中文.png" group-title="港澳台频道",鳳凰衛視中文台
 http://bxtv.3a.ink/api.php?id=fhzw
-#EXTINF:-1 tvg-id="PIN" tvg-name="鳳凰衛視資訊" tvg-logo="https://down.ymschh.top/tv/FHZX.png" group-title="港澳台频道",鳳凰衛視資訊台
+#EXTINF:-1 tvg-id="PIN" tvg-name="鳳凰衛視資訊" tvg-logo="http://bxtv.3a.ink/logo/凤凰资讯.png" group-title="港澳台频道",鳳凰衛視資訊台
 http://bxtv.3a.ink/api.php?id=fhzx
-#EXTINF:-1 tvg-id="PHK" tvg-name="鳳凰衛視香港" tvg-logo="https://down.ymschh.top/tv/FHXG.png" group-title="港澳台频道",鳳凰衛視香港台
+#EXTINF:-1 tvg-id="PHK" tvg-name="鳳凰衛視香港" tvg-logo="http://bxtv.3a.ink/logo/凤凰香港.png" group-title="港澳台频道",鳳凰衛視香港台
 http://bxtv.3a.ink/api.php?id=fhhk
-#EXTINF:-1 tvg-name="NOW新闻" tvg-logo="https://down.ymschh.top/tv/NOWXW.png" group-title="港澳台频道",NOW新闻
+#EXTINF:-1 tvg-name="NOW新闻" tvg-logo="http://bxtv.3a.ink/logo/NOW新闻.png" group-title="港澳台频道",NOW新闻
 http://bxtv.3a.ink/api.php?id=now
 #EXTINF:-1 tvg-id="广东体育" tvg-name="广东体育" tvg-logo="http://bxtv.3a.ink/logo/广东体育.png" group-title="港澳台频道",广东体育
 http://bxtv.3a.ink/api.php?id=gdty
 #EXTINF:-1 tvg-id="广东珠江" tvg-name="广东珠江" tvg-logo="http://bxtv.3a.ink/logo/广东珠江.png" group-title="港澳台频道",广东珠江
 http://bxtv.3a.ink/api.php?id=gdzj
-#EXTINF:-1 tvg-name="中天新聞台" tvg-logo="https://down.ymschh.top/tv/ZTXW.png" group-title="港澳台频道",中天新聞台
+#EXTINF:-1 tvg-name="中天新聞台" tvg-logo="http://bxtv.3a.ink/logo/中天新闻.png" group-title="港澳台频道",中天新聞台
 http://bxtv.3a.ink/api.php?id=ztxw
+#EXTINF:-1 tvg-name="爆谷台" tvg-logo="https://down.ymschh.top/tv/BGT.png" group-title="港澳台频道",爆谷台
+http://play-ali.cloudvdn.com/live/5566321.flv
+#EXTINF:-1 tvg-name="星影台" tvg-logo="https://down.ymschh.top/tv/XYT.png" group-title="港澳台频道",星影台
+http://play-ali.cloudvdn.com/live/5566334.flv
 
 #EXTINF:-1 tvg-id="CETV1" tvg-name="CETV1" tvg-logo="https://down.ymschh.top/tv/CETV1.png" group-title="其他频道",CETV1
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227067/1.m3u8

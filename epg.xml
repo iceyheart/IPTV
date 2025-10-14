@@ -6205,7 +6205,7 @@
     <title>屠魔: 王者征途</title>
     <desc>上古時期,因人類的貪念欲望所生成的魔王阿爾薩召集亡靈軍團征服了世界,而上古人類領袖以鮮血鑄成聖劍封印了阿爾薩。千百年後,阿爾薩破開封印,開始在東原大陸發起進攻。此時聖殿騎士團聯合東方巡夜山宮等武林門派..</desc>
   </programme><channel id="410274">
-    <display-name lang="&#x9999;&#x6E2F;">ViuTV</display-name>
+    <display-name lang="Hong Kong">ViuTV</display-name>
     <icon src="https://epg.pw/media/images/epg/2025/01/28/20250128105803707716_97"/>
   </channel><programme channel="410274" start="20251014003000 +0800" stop="20251014010000 +0800">
     <title lang="zh">男韓即地獄?! 第5集 </title>
@@ -9018,7 +9018,7 @@
     <desc/>
     <date>2025-10-16</date>
   </programme><channel id="410285">
-    <display-name lang="&#x9999;&#x6E2F;">Now 爆谷台</display-name>
+    <display-name lang="Hong Kong">Now 爆谷台</display-name>
     <icon src="https://epg.pw/media/images/epg/2025/01/28/20250128123118148719_96"/>
   </channel><programme channel="410285" start="20251014000000 +0800" stop="20251014021500 +0800">
     <title lang="zh">盲探</title>
@@ -9625,6 +9625,14 @@
 		<title lang="zh"> 味道4K 原味乡间b7乌镇篇（2）</title>
 	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20251014175800 +0800" stop="20251014183800 +0800">
 		<title lang="zh">探索b7发现4K 中兆村大墓</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20251014183800 +0800" stop="20251014190800 +0800">
+		<title lang="zh">美丽中国说4K 高山精灵</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20251014190800 +0800" stop="20251014193800 +0800">
+		<title lang="zh">美丽中国说4K 火山奇遇</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20251014193800 +0800" stop="20251014202000 +0800">
+		<title lang="zh">远方的家4K 大运河 运河两岸 水润丹阳</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20251014202000 +0800" stop="20251014210100 +0800">
+		<title lang="zh">远方的家4K 大运河 江河交汇话镇江</title>
 	</programme><channel id="&#x775B;&#x5F69;&#x9752;&#x5C11;">
 		<display-name lang="zh">睛彩青少</display-name>
 	</channel><programme channel="&#x775B;&#x5F69;&#x9752;&#x5C11;" start="20251014000000 +0800" stop="20251014000100 +0800">
@@ -9967,6 +9975,8 @@
 		<title lang="zh">精灵闺蜜</title>
 	</programme><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20251014164100 +0800" stop="20251014185400 +0800">
 		<title lang="zh">还是觉得你最好2</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20251014185400 +0800" stop="20251014205700 +0800">
+		<title lang="zh">非诚勿扰2</title>
 	</programme><channel id="&#x9ED1;&#x8393;&#x52A8;&#x753B;">
 		<display-name lang="zh">黑莓动画</display-name>
 	</channel><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20251014004700 +0800" stop="20251014023200 +0800">
@@ -11403,6 +11413,12 @@
 		<title lang="zh">营养健康20新</title>
 	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20251014173500 +0800" stop="20251014191300 +0800">
 		<title lang="zh">特工过家家</title>
+	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20251014191300 +0800" stop="20251014195300 +0800">
+		<title lang="zh">龙血树叶粉</title>
+	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20251014195300 +0800" stop="20251014204000 +0800">
+		<title lang="zh">20_乔家的儿女</title>
+	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20251014204000 +0800" stop="20251014211000 +0800">
+		<title lang="zh">《超级美味》推荐第11期</title>
 	</programme><channel id="&#x52A8;&#x4F5C;&#x7535;&#x5F71;">
 		<display-name lang="zh">动作电影</display-name>
 	</channel><programme channel="&#x52A8;&#x4F5C;&#x7535;&#x5F71;" start="20251014000000 +0800" stop="20251014000200 +0800">
@@ -11681,6 +11697,10 @@
 		<title lang="zh">太空骨王骨胶原新版</title>
 	</programme><programme channel="&#x60CA;&#x609A;&#x60AC;&#x7591;" start="20251014173300 +0800" stop="20251014184500 +0800">
 		<title lang="zh">蟒山</title>
+	</programme><programme channel="&#x60CA;&#x609A;&#x60AC;&#x7591;" start="20251014184500 +0800" stop="20251014192500 +0800">
+		<title lang="zh">黑芝麻丸</title>
+	</programme><programme channel="&#x60CA;&#x609A;&#x60AC;&#x7591;" start="20251014192500 +0800" stop="20251014204900 +0800">
+		<title lang="zh">昆仑劫之鲛人泪</title>
 	</programme><channel id="&#x7CBE;&#x54C1;&#x4F53;&#x80B2;">
 		<display-name lang="zh">精品体育</display-name>
 	</channel><programme channel="&#x7CBE;&#x54C1;&#x4F53;&#x80B2;" start="20251014000000 +0800" stop="20251014010800 +0800">

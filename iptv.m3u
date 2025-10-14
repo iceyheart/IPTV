@@ -172,8 +172,10 @@ http://bxtv.3a.ink/api.php?id=gdty
 http://bxtv.3a.ink/api.php?id=gdzj
 #EXTINF:-1 tvg-name="中天新聞台" tvg-logo="http://bxtv.3a.ink/logo/中天新闻.png" group-title="港澳台频道",中天新聞台
 http://bxtv.3a.ink/api.php?id=ztxw
-#EXTINF:-1 tvg-name="爆谷台" tvg-logo="https://down.ymschh.top/tv/BGT.png" group-title="港澳台频道",爆谷台
+#EXTINF:-1 tvg-id="410285" tvg-name="Now 爆谷台" tvg-logo="https://down.ymschh.top/tv/BGT.png" group-title="港澳台频道",爆谷台
 http://play-ali.cloudvdn.com/live/5566321.flv
+#EXTINF:-1 tvg-id="410285" tvg-name="Now 爆谷台 节目单" group-title="港澳台频道",节目单
+https://epg.pw/api/epg.xml?lang=zh-hans&timezone=RXVyb3BlL1ZpZW5uYQ%3D%3D&date=20251014&channel_id=410285
 #EXTINF:-1 tvg-name="星影台" tvg-logo="https://down.ymschh.top/tv/XYT.png" group-title="港澳台频道",星影台
 http://play-ali.cloudvdn.com/live/5566334.flv
 

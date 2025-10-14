@@ -26,7 +26,10 @@ jobs:
           # 下载文件
           curl -s -o "$TMPDIR/1.xml" "https://epg.112114.xyz/pp.xml"
           curl -s -o "$TMPDIR/2.xml" "https://mytvsuperepg.860775.xyz/epg.xml"
-          sed -i 2d $TMPDIR/2.xml
+          curl -s -o "$TMPDIR/3.xml" "https://epg.pw/api/epg.xml?lang=zh-hans&timezone=RXVyb3BlL1ZpZW5uYQ%3D%3D&date=20251014&channel_id=410285"
+          curl -s -o "$TMPDIR/4.xml" "https://epg.pw/api/epg.xml?lang=zh-hans&timezone=RXVyb3BlL1ZpZW5uYQ%3D%3D&date=20251014&channel_id=410286"
+          sed -i 2d $TMPDIR/3.xml
+          sed -i 2d $TMPDIR/4.xml
           # 初始化输出
           echo '<?xml version="1.0" encoding="UTF-8"?>' > epg.xml
           echo '<tv>' >> epg.xml
@@ -34,7 +37,7 @@ jobs:
           while read -r ch; do
             [ -z "$ch" ] && continue
             echo "处理频道: $ch"
-            for f in "$TMPDIR/1.xml" "$TMPDIR/2.xml"; do
+            for f in "$TMPDIR/1.xml" "$TMPDIR/2.xml" "$TMPDIR/3.xml" "$TMPDIR/4.xml"; do
               xmlstarlet sel -t -c "/tv/channel[@id='$ch']" "$f" >> epg.xml || true
               xmlstarlet sel -t -c "/tv/programme[@channel='$ch']" "$f" >> epg.xml || true
             done

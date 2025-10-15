@@ -159,7 +159,7 @@ http://bxtv.3a.ink/api.php?id=qxjd
 #EXTINF:-1 tvg-id="J" tvg-name="翡翠台" tvg-logo="http://bxtv.3a.ink/logo/翡翠.png" group-title="港澳台频道",翡翠台
 http://play-ali.cloudvdn.com/live/00987tp0031.flv
 #EXTINF:-1 tvg-id="PCC" tvg-name="鳳凰衛視中文" tvg-logo="http://bxtv.3a.ink/logo/凤凰中文.png" group-title="港澳台频道",鳳凰衛視中文台
-http://play-ali.cloudvdn.com/live/00987tp0034.flv
+http://bxtv.3a.ink/api.php?id=fhzw
 #EXTINF:-1 tvg-id="PIN" tvg-name="鳳凰衛視資訊" tvg-logo="http://bxtv.3a.ink/logo/凤凰资讯.png" group-title="港澳台频道",鳳凰衛視資訊台
 http://play-ali.cloudvdn.com/live/00987tp0032.flv
 #EXTINF:-1 tvg-id="PHK" tvg-name="鳳凰衛視香港" tvg-logo="http://bxtv.3a.ink/logo/凤凰香港.png" group-title="港澳台频道",鳳凰衛視香港台

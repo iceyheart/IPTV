@@ -9606,6 +9606,10 @@
 		<title lang="zh">探索b7发现4K 滍阳岭上的秘密（上）</title>
 	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20251015104200 +0800" stop="20251015111200 +0800">
 		<title lang="zh">美丽中国说4K 沙洲奇缘</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20251015111200 +0800" stop="20251015114200 +0800">
+		<title lang="zh">美丽中国说4K </title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20251015114200 +0800" stop="20251015122300 +0800">
+		<title lang="zh">远方的家4K 大运河 清丽水岸扬州城</title>
 	</programme><channel id="&#x775B;&#x5F69;&#x9752;&#x5C11;">
 		<display-name lang="zh">睛彩青少</display-name>
 	</channel><programme channel="&#x775B;&#x5F69;&#x9752;&#x5C11;" start="20251015000000 +0800" stop="20251015000100 +0800">
@@ -9930,6 +9934,8 @@
 		<title lang="zh">红楼梦之金玉良缘</title>
 	</programme><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20251015090000 +0800" stop="20251015111200 +0800">
 		<title lang="zh">无名战士</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20251015111200 +0800" stop="20251015131100 +0800">
+		<title lang="zh">我的机器人女友</title>
 	</programme><channel id="&#x9ED1;&#x8393;&#x52A8;&#x753B;">
 		<display-name lang="zh">黑莓动画</display-name>
 	</channel><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20251015000300 +0800" stop="20251015021100 +0800">
@@ -11376,6 +11382,10 @@
 		<title lang="zh">09_似锦</title>
 	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20251015103600 +0800" stop="20251015111600 +0800">
 		<title lang="zh">羊奶粉推广片-渠道-4001087099</title>
+	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20251015111600 +0800" stop="20251015120200 +0800">
+		<title lang="zh">10_似锦</title>
+	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20251015120200 +0800" stop="20251015124200 +0800">
+		<title lang="zh">龙血树叶粉</title>
 	</programme><channel id="&#x52A8;&#x4F5C;&#x7535;&#x5F71;">
 		<display-name lang="zh">动作电影</display-name>
 	</channel><programme channel="&#x52A8;&#x4F5C;&#x7535;&#x5F71;" start="20251015000000 +0800" stop="20251015001500 +0800">
@@ -11642,6 +11652,10 @@
 		<title lang="zh">书法视频</title>
 	</programme><programme channel="&#x60CA;&#x609A;&#x60AC;&#x7591;" start="20251015100100 +0800" stop="20251015112800 +0800">
 		<title lang="zh">长安侠影之剑客风云</title>
+	</programme><programme channel="&#x60CA;&#x609A;&#x60AC;&#x7591;" start="20251015112800 +0800" stop="20251015120800 +0800">
+		<title lang="zh">营养健康20新</title>
+	</programme><programme channel="&#x60CA;&#x609A;&#x60AC;&#x7591;" start="20251015120800 +0800" stop="20251015133400 +0800">
+		<title lang="zh">锦衣卫之初露锋芒</title>
 	</programme><channel id="&#x7CBE;&#x54C1;&#x4F53;&#x80B2;">
 		<display-name lang="zh">精品体育</display-name>
 	</channel><programme channel="&#x7CBE;&#x54C1;&#x4F53;&#x80B2;" start="20251015000000 +0800" stop="20251015010900 +0800">

@@ -9594,6 +9594,12 @@
 		<title lang="zh">远方的家4K 大运河 清丽水岸扬州城</title>
 	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20251015201900 +0800" stop="20251015210000 +0800">
 		<title lang="zh">远方的家4K 大运河 水岸叠翠草色青</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20251015210000 +0800" stop="20251015210500 +0800">
+		<title lang="zh">美丽中国自然4K 内蒙古b7蒙西系列 沙丘狐影</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20251015211000 +0800" stop="20251015220000 +0800">
+		<title lang="zh">跟着唐诗去旅行 第二季4K 第2集 寒江雪</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20251015220000 +0800" stop="20251015224900 +0800">
+		<title lang="zh">良渚4K 第4集 不废江河</title>
 	</programme><channel id="&#x775B;&#x5F69;&#x9752;&#x5C11;">
 		<display-name lang="zh">睛彩青少</display-name>
 	</channel><programme channel="&#x775B;&#x5F69;&#x9752;&#x5C11;" start="20251015000000 +0800" stop="20251015000100 +0800">
@@ -9930,6 +9936,8 @@
 		<title lang="zh">绑架游戏</title>
 	</programme><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20251015192600 +0800" stop="20251015212600 +0800">
 		<title lang="zh">非诚勿扰3</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20251015212600 +0800" stop="20251015232700 +0800">
+		<title lang="zh">今夜，就算这份爱恋从世界上消失</title>
 	</programme><channel id="&#x9ED1;&#x8393;&#x52A8;&#x753B;">
 		<display-name lang="zh">黑莓动画</display-name>
 	</channel><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20251015000300 +0800" stop="20251015021100 +0800">
@@ -9956,6 +9964,8 @@
 		<title lang="zh">画江湖之天罡</title>
 	</programme><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20251015193200 +0800" stop="20251015205600 +0800">
 		<title lang="zh">绝代双骄之天外有天</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20251015205600 +0800" stop="20251015221500 +0800">
+		<title lang="zh">哪吒之灵珠重生</title>
 	</programme><channel id="&#x54D2;&#x5575;&#x8D5B;&#x4E8B;">
 		<display-name lang="zh">哒啵赛事</display-name>
 	</channel><programme channel="&#x54D2;&#x5575;&#x8D5B;&#x4E8B;" start="20251015000000 +0800" stop="20251015000500 +0800">
@@ -11412,6 +11422,10 @@
 		<title lang="zh">《美丽密码》推荐第140期</title>
 	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20251015201600 +0800" stop="20251015210300 +0800">
 		<title lang="zh">26_乔家的儿女</title>
+	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20251015210300 +0800" stop="20251015213300 +0800">
+		<title lang="zh">《美丽密码》推荐第140期</title>
+	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20251015213300 +0800" stop="20251015222000 +0800">
+		<title lang="zh">27_乔家的儿女</title>
 	</programme><channel id="&#x52A8;&#x4F5C;&#x7535;&#x5F71;">
 		<display-name lang="zh">动作电影</display-name>
 	</channel><programme channel="&#x52A8;&#x4F5C;&#x7535;&#x5F71;" start="20251015000000 +0800" stop="20251015001500 +0800">

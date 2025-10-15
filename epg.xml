@@ -9618,6 +9618,8 @@
 		<title lang="zh">艺术里的奥林匹克4K 油画b7大运河赛船</title>
 	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20251015141900 +0800" stop="20251015150900 +0800">
 		<title lang="zh">良渚4K 第4集 不废江河</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20251015151400 +0800" stop="20251015160300 +0800">
+		<title lang="zh">天宫建造4K 第2集</title>
 	</programme><channel id="&#x775B;&#x5F69;&#x9752;&#x5C11;">
 		<display-name lang="zh">睛彩青少</display-name>
 	</channel><programme channel="&#x775B;&#x5F69;&#x9752;&#x5C11;" start="20251015000000 +0800" stop="20251015000100 +0800">
@@ -9946,6 +9948,8 @@
 		<title lang="zh">我的机器人女友</title>
 	</programme><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20251015131100 +0800" stop="20251015150400 +0800">
 		<title lang="zh">业火的向日葵</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20251015150400 +0800" stop="20251015162700 +0800">
+		<title lang="zh">执剑人</title>
 	</programme><channel id="&#x9ED1;&#x8393;&#x52A8;&#x753B;">
 		<display-name lang="zh">黑莓动画</display-name>
 	</channel><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20251015000300 +0800" stop="20251015021100 +0800">
@@ -9964,6 +9968,8 @@
 		<title lang="zh">汪汪队立大功第3季11</title>
 	</programme><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20251015131200 +0800" stop="20251015154300 +0800">
 		<title lang="zh">11_猪猪侠之光明守卫者（上部）</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20251015154300 +0800" stop="20251015162900 +0800">
+		<title lang="zh">06_奶龙之奇妙冒险</title>
 	</programme><channel id="&#x54D2;&#x5575;&#x8D5B;&#x4E8B;">
 		<display-name lang="zh">哒啵赛事</display-name>
 	</channel><programme channel="&#x54D2;&#x5575;&#x8D5B;&#x4E8B;" start="20251015000000 +0800" stop="20251015000500 +0800">
@@ -11404,6 +11410,10 @@
 		<title lang="zh">书法视频</title>
 	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20251015135600 +0800" stop="20251015144200 +0800">
 		<title lang="zh">12_似锦</title>
+	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20251015144200 +0800" stop="20251015152200 +0800">
+		<title lang="zh">营养健康20新</title>
+	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20251015152200 +0800" stop="20251015165500 +0800">
+		<title lang="zh">无人看护</title>
 	</programme><channel id="&#x52A8;&#x4F5C;&#x7535;&#x5F71;">
 		<display-name lang="zh">动作电影</display-name>
 	</channel><programme channel="&#x52A8;&#x4F5C;&#x7535;&#x5F71;" start="20251015000000 +0800" stop="20251015001500 +0800">

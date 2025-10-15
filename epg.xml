@@ -8743,6 +8743,18 @@
 		<display-name lang="zh">纯享4K</display-name>
 	</channel><programme channel="&#x7EAF;&#x4EAB;4K" start="20251016001200 +0800" stop="20251016004000 +0800">
 		<title lang="zh">记住乡愁 第八季4K 顾家善村——万事善为乐 生活如花香</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20251016004000 +0800" stop="20251016010700 +0800">
+		<title lang="zh">记住乡愁 第八季4K 汉口村——一缕香缘 流转千年</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20251016010700 +0800" stop="20251016013700 +0800">
+		<title lang="zh">味道4K 穿街走巷b7成都篇</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20251016013700 +0800" stop="20251016020700 +0800">
+		<title lang="zh">味道4K 穿街走巷b7绵阳篇</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20251016020700 +0800" stop="20251016024700 +0800">
+		<title lang="zh">探索b7发现4K 滍阳岭上的秘密（下）</title>
+	</programme><channel id="&#x9ED1;&#x8393;&#x7535;&#x5F71;">
+		<display-name lang="zh">黑莓电影</display-name>
+	</channel><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20251016005500 +0800" stop="20251016022000 +0800">
+		<title lang="zh">摸金玦之天星陵</title>
 	</programme><channel id="&#x9ED1;&#x8393;&#x52A8;&#x753B;">
 		<display-name lang="zh">黑莓动画</display-name>
 	</channel><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20251016001300 +0800" stop="20251016041500 +0800">

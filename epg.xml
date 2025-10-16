@@ -9840,6 +9840,8 @@
 		<title lang="zh">美丽中国说4K 中国香港</title>
 	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20251016114300 +0800" stop="20251016122400 +0800">
 		<title lang="zh">远方的家4K 大运河 通江达淮 畅行水脉</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20251016122400 +0800" stop="20251016130500 +0800">
+		<title lang="zh">远方的家4K 大运河 水廓帆樯运河事</title>
 	</programme><channel id="&#x775B;&#x5F69;&#x9752;&#x5C11;">
 		<display-name lang="zh">睛彩青少</display-name>
 	</channel><programme channel="&#x775B;&#x5F69;&#x9752;&#x5C11;" start="20251016000000 +0800" stop="20251016000100 +0800">
@@ -10166,6 +10168,8 @@
 		<title lang="zh">只要你需要</title>
 	</programme><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20251016101900 +0800" stop="20251016120200 +0800">
 		<title lang="zh">十二公民</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20251016120200 +0800" stop="20251016133600 +0800">
+		<title lang="zh">计时引爆摩天楼</title>
 	</programme><channel id="&#x9ED1;&#x8393;&#x52A8;&#x753B;">
 		<display-name lang="zh">黑莓动画</display-name>
 	</channel><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20251016001300 +0800" stop="20251016041500 +0800">
@@ -11844,6 +11848,8 @@
 		<title lang="zh">绝色营救</title>
 	</programme><programme channel="&#x60CA;&#x609A;&#x60AC;&#x7591;" start="20251016114300 +0800" stop="20251016122300 +0800">
 		<title lang="zh">营养健康20新</title>
+	</programme><programme channel="&#x60CA;&#x609A;&#x60AC;&#x7591;" start="20251016122300 +0800" stop="20251016134800 +0800">
+		<title lang="zh">英雄之战</title>
 	</programme><channel id="&#x7CBE;&#x54C1;&#x4F53;&#x80B2;">
 		<display-name lang="zh">精品体育</display-name>
 	</channel><programme channel="&#x7CBE;&#x54C1;&#x4F53;&#x80B2;" start="20251016000000 +0800" stop="20251016012600 +0800">

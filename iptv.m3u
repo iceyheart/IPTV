@@ -176,6 +176,8 @@ http://bxtv.3a.ink/api.php?id=ztxw
 http://play-ali.cloudvdn.com/live/00987tp0038.flv
 #EXTINF:-1 tvg-id="410286" tvg-name="Now爆谷星影台" tvg-logo="https://down.ymschh.top/tv/XYT.png" group-title="港澳台频道",星影台
 http://play-ali.cloudvdn.com/live/00987tp0039.flv
+#EXTINF：-1 tvg-id="368371" tvg-name="天映经典" tvg-logo="https://down.ymschh.top/tv/TYJD.png" group-title="港澳台频道",天映经典
+http://play-ali.cloudvdn.com/live/00987tp0035.flv
 
 #EXTINF:-1 tvg-id="CETV1" tvg-name="CETV1" tvg-logo="https://down.ymschh.top/tv/CETV1.png" group-title="其他频道",CETV1
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227067/1.m3u8

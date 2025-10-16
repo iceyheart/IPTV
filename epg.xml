@@ -9836,6 +9836,10 @@
 		<title lang="zh">远方的家4K 大运河 通江达淮 畅行水脉</title>
 	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20251016201900 +0800" stop="20251016210100 +0800">
 		<title lang="zh">远方的家4K 大运河 水廓帆樯运河事</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20251016211100 +0800" stop="20251016220100 +0800">
+		<title lang="zh">跟着唐诗去旅行 第二季4K 第3集 出塞曲</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20251016220100 +0800" stop="20251016225000 +0800">
+		<title lang="zh">大地之上4K 第1集 崛起之地</title>
 	</programme><channel id="&#x775B;&#x5F69;&#x9752;&#x5C11;">
 		<display-name lang="zh">睛彩青少</display-name>
 	</channel><programme channel="&#x775B;&#x5F69;&#x9752;&#x5C11;" start="20251016000000 +0800" stop="20251016000100 +0800">
@@ -10172,6 +10176,8 @@
 		<title lang="zh">射雕英雄传之九阴白骨爪</title>
 	</programme><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20251016185700 +0800" stop="20251016204400 +0800">
 		<title lang="zh">再见，在也不见</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20251016204400 +0800" stop="20251016232300 +0800">
+		<title lang="zh">变形金刚4：绝迹重生</title>
 	</programme><channel id="&#x9ED1;&#x8393;&#x52A8;&#x753B;">
 		<display-name lang="zh">黑莓动画</display-name>
 	</channel><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20251016001300 +0800" stop="20251016041500 +0800">
@@ -10200,6 +10206,8 @@
 		<title lang="zh">08_博士的度假屋</title>
 	</programme><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20251016200800 +0800" stop="20251016220400 +0800">
 		<title lang="zh">01_假面骑士艾克赛德 （普通话版）</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20251016220400 +0800" stop="20251016233600 +0800">
+		<title lang="zh">蜡笔小新：梦境世界大突击</title>
 	</programme><channel id="&#x54D2;&#x5575;&#x8D5B;&#x4E8B;">
 		<display-name lang="zh">哒啵赛事</display-name>
 	</channel><programme channel="&#x54D2;&#x5575;&#x8D5B;&#x4E8B;" start="20251016000000 +0800" stop="20251016004600 +0800">
@@ -11618,6 +11626,12 @@
 		<title lang="zh">29_乔家的儿女</title>
 	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20251016201100 +0800" stop="20251016204100 +0800">
 		<title lang="zh">《超级美味》推荐第11期</title>
+	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20251016204100 +0800" stop="20251016212700 +0800">
+		<title lang="zh">30_乔家的儿女</title>
+	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20251016212700 +0800" stop="20251016215700 +0800">
+		<title lang="zh">《八段锦》推荐第40期</title>
+	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20251016215700 +0800" stop="20251016224500 +0800">
+		<title lang="zh">31_乔家的儿女</title>
 	</programme><channel id="&#x52A8;&#x4F5C;&#x7535;&#x5F71;">
 		<display-name lang="zh">动作电影</display-name>
 	</channel><programme channel="&#x52A8;&#x4F5C;&#x7535;&#x5F71;" start="20251016000000 +0800" stop="20251016001100 +0800">
@@ -11900,6 +11914,8 @@
 		<title lang="zh">《八段锦》推荐第40期</title>
 	</programme><programme channel="&#x60CA;&#x609A;&#x60AC;&#x7591;" start="20251016202700 +0800" stop="20251016215700 +0800">
 		<title lang="zh">绑架游戏</title>
+	</programme><programme channel="&#x60CA;&#x609A;&#x60AC;&#x7591;" start="20251016215700 +0800" stop="20251016222700 +0800">
+		<title lang="zh">《超级美味》推荐第11期</title>
 	</programme><channel id="&#x7CBE;&#x54C1;&#x4F53;&#x80B2;">
 		<display-name lang="zh">精品体育</display-name>
 	</channel><programme channel="&#x7CBE;&#x54C1;&#x4F53;&#x80B2;" start="20251016000000 +0800" stop="20251016012600 +0800">

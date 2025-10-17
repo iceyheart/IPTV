@@ -3626,9 +3626,9 @@
 		<title lang="zh">重温经典电影《渡江侦察记》</title>
 	</programme><programme channel="&#x5E7F;&#x897F;&#x536B;&#x89C6;" start="20251017105000 +0800" stop="20251017123000 +0800">
 		<title lang="zh">重温经典电影《打击侵略者》</title>
-	</programme><programme channel="&#x5E7F;&#x897F;&#x536B;&#x89C6;" start="20251017123000 +0800" stop="20251017133000 +0800">
+	</programme><programme channel="&#x5E7F;&#x897F;&#x536B;&#x89C6;" start="20251017123000 +0800" stop="20251017134000 +0800">
 		<title lang="zh">经典剧场33集：再造之恩(12)</title>
-	</programme><programme channel="&#x5E7F;&#x897F;&#x536B;&#x89C6;" start="20251017133000 +0800" stop="20251017152000 +0800">
+	</programme><programme channel="&#x5E7F;&#x897F;&#x536B;&#x89C6;" start="20251017134000 +0800" stop="20251017152000 +0800">
 		<title lang="zh">直播：2025年环广西公路自行车世界巡回赛（巴马—金城江赛段）</title>
 	</programme><programme channel="&#x5E7F;&#x897F;&#x536B;&#x89C6;" start="20251017152000 +0800" stop="20251017162000 +0800">
 		<title lang="zh">经典剧场33集：再造之恩(13)</title>
@@ -9819,6 +9819,12 @@
 		<title lang="zh">味道4K 原味乡间b7巍山篇（下）</title>
 	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20251017175900 +0800" stop="20251017183900 +0800">
 		<title lang="zh">探索b7发现4K 博罗探古</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20251017183900 +0800" stop="20251017190900 +0800">
+		<title lang="zh">美丽中国说4K 古老戈壁</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20251017190900 +0800" stop="20251017193900 +0800">
+		<title lang="zh">美丽中国说4K 生态海岸</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20251017193900 +0800" stop="20251017202100 +0800">
+		<title lang="zh">远方的家4K 大运河 秦邮故地 运河人家</title>
 	</programme><channel id="&#x775B;&#x5F69;&#x9752;&#x5C11;">
 		<display-name lang="zh">睛彩青少</display-name>
 	</channel><programme channel="&#x775B;&#x5F69;&#x9752;&#x5C11;" start="20251017000000 +0800" stop="20251017000100 +0800">
@@ -10141,6 +10147,8 @@
 		<title lang="zh">我最好朋友的婚礼</title>
 	</programme><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20251017170000 +0800" stop="20251017185500 +0800">
 		<title lang="zh">影</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20251017185500 +0800" stop="20251017212500 +0800">
+		<title lang="zh">变形金刚5：最后的骑士</title>
 	</programme><channel id="&#x9ED1;&#x8393;&#x52A8;&#x753B;">
 		<display-name lang="zh">黑莓动画</display-name>
 	</channel><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20251017004100 +0800" stop="20251017050800 +0800">
@@ -10167,6 +10175,8 @@
 		<title lang="zh">01_我眼中的中国科幻</title>
 	</programme><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20251017164900 +0800" stop="20251017190400 +0800">
 		<title lang="zh">01_百变校巴17太空大冒险</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20251017190400 +0800" stop="20251017202800 +0800">
+		<title lang="zh">01_小可爱娜斯佳第11季</title>
 	</programme><channel id="&#x54D2;&#x5575;&#x8D5B;&#x4E8B;">
 		<display-name lang="zh">哒啵赛事</display-name>
 	</channel><programme channel="&#x54D2;&#x5575;&#x8D5B;&#x4E8B;" start="20251017000000 +0800" stop="20251017010700 +0800">
@@ -11581,6 +11591,12 @@
 		<title lang="zh">太空骨王骨胶原新版</title>
 	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20251017173400 +0800" stop="20251017182100 +0800">
 		<title lang="zh">34_乔家的儿女</title>
+	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20251017182100 +0800" stop="20251017190100 +0800">
+		<title lang="zh">羊奶粉推广片-渠道-4001087099</title>
+	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20251017190100 +0800" stop="20251017194700 +0800">
+		<title lang="zh">35_乔家的儿女</title>
+	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20251017194700 +0800" stop="20251017201700 +0800">
+		<title lang="zh">《超级美味》推荐第11期</title>
 	</programme><channel id="&#x52A8;&#x4F5C;&#x7535;&#x5F71;">
 		<display-name lang="zh">动作电影</display-name>
 	</channel><programme channel="&#x52A8;&#x4F5C;&#x7535;&#x5F71;" start="20251017000000 +0800" stop="20251017000400 +0800">
@@ -11855,6 +11871,10 @@
 		<title lang="zh">春娘</title>
 	</programme><programme channel="&#x60CA;&#x609A;&#x60AC;&#x7591;" start="20251017175700 +0800" stop="20251017183700 +0800">
 		<title lang="zh">龙血树叶粉</title>
+	</programme><programme channel="&#x60CA;&#x609A;&#x60AC;&#x7591;" start="20251017183700 +0800" stop="20251017195200 +0800">
+		<title lang="zh">怪谈五命河</title>
+	</programme><programme channel="&#x60CA;&#x609A;&#x60AC;&#x7591;" start="20251017195200 +0800" stop="20251017202200 +0800">
+		<title lang="zh">《八段锦》推荐第40期</title>
 	</programme><channel id="&#x7CBE;&#x54C1;&#x4F53;&#x80B2;">
 		<display-name lang="zh">精品体育</display-name>
 	</channel><programme channel="&#x7CBE;&#x54C1;&#x4F53;&#x80B2;" start="20251017000000 +0800" stop="20251017011400 +0800">

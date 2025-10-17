@@ -8912,7 +8912,29 @@
     <title lang="zh">情人石</title>
     <desc>林秋子與蘇大貴青梅竹馬,互有情意。大學生秦宇在漁港邂逅秋子,暗中愛上了她。漁港另一姑娘曾阿鳳卻愛上了大貴。兩對情人幾經波折,終於走在一起。一次出海,大貴和秦宇再沒回來,石澳海灘又多了兩具「情人石」。</desc>
     <date>2025-10-19</date>
-  </programme><channel id="&#x91D1;&#x9E70;&#x5361;&#x901A;">
+  </programme><channel id="&#x7EAF;&#x4EAB;4K">
+		<display-name lang="zh">纯享4K</display-name>
+	</channel><programme channel="&#x7EAF;&#x4EAB;4K" start="20251018001400 +0800" stop="20251018004200 +0800">
+		<title lang="zh">记住乡愁 第八季4K 花茂村——黔北小村 陶韵悠然</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20251018004200 +0800" stop="20251018011000 +0800">
+		<title lang="zh">记住乡愁 第八季4K 化屋村——悬崖之下 苗歌悠扬</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20251018011000 +0800" stop="20251018014000 +0800">
+		<title lang="zh">味道4K 我的家乡菜b7都江堰篇 上</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20251018014000 +0800" stop="20251018021000 +0800">
+		<title lang="zh">味道4K 我的家乡菜b7都江堰篇 下</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20251018021000 +0800" stop="20251018025000 +0800">
+		<title lang="zh">探索b7发现4K 匠人b7匠心（35）</title>
+	</programme><channel id="&#x9ED1;&#x8393;&#x7535;&#x5F71;">
+		<display-name lang="zh">黑莓电影</display-name>
+	</channel><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20251018002500 +0800" stop="20251018014800 +0800">
+		<title lang="zh">兴安岭猎人传说</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20251018014800 +0800" stop="20251018031200 +0800">
+		<title lang="zh">夜孔雀</title>
+	</programme><channel id="&#x9ED1;&#x8393;&#x52A8;&#x753B;">
+		<display-name lang="zh">黑莓动画</display-name>
+	</channel><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20251018010400 +0800" stop="20251018050300 +0800">
+		<title lang="zh">21_间谍过家家全集中文版</title>
+	</programme><channel id="&#x91D1;&#x9E70;&#x5361;&#x901A;">
 		<display-name lang="zh">金鹰卡通</display-name>
 	</channel><programme channel="&#x91D1;&#x9E70;&#x5361;&#x901A;" start="20251018000000 +0800" stop="20251018032000 +0800">
 		<title lang="zh">熊出没之探险日记Ⅱ</title>

@@ -9938,6 +9938,8 @@
 		<title lang="zh">远方的家4K 大运河 悠悠邗水 古韵荷香</title>
 	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20251018202400 +0800" stop="20251018210600 +0800">
 		<title lang="zh">远方的家4K 大运河 融南汇北 水韵淮安</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20251018211600 +0800" stop="20251018220600 +0800">
+		<title lang="zh">跟着唐诗去旅行 第二季4K 第5集 双星会</title>
 	</programme><channel id="&#x775B;&#x5F69;&#x9752;&#x5C11;">
 		<display-name lang="zh">睛彩青少</display-name>
 	</channel><programme channel="&#x775B;&#x5F69;&#x9752;&#x5C11;" start="20251018000000 +0800" stop="20251018000100 +0800">
@@ -10262,6 +10264,8 @@
 		<title lang="zh">雪国列车</title>
 	</programme><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20251018195800 +0800" stop="20251018220000 +0800">
 		<title lang="zh">7天</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20251018220000 +0800" stop="20251018000700 +0800">
+		<title lang="zh">变形金刚：超能勇士崛起</title>
 	</programme><channel id="&#x9ED1;&#x8393;&#x52A8;&#x753B;">
 		<display-name lang="zh">黑莓动画</display-name>
 	</channel><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20251018010400 +0800" stop="20251018050300 +0800">
@@ -10288,6 +10292,8 @@
 		<title lang="zh">11_百变校巴17太空大冒险</title>
 	</programme><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20251018194100 +0800" stop="20251018210400 +0800">
 		<title lang="zh">11_小可爱娜斯佳第11季</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20251018210400 +0800" stop="20251018223200 +0800">
+		<title lang="zh">星际大逃亡</title>
 	</programme><channel id="&#x54D2;&#x5575;&#x8D5B;&#x4E8B;">
 		<display-name lang="zh">哒啵赛事</display-name>
 	</channel><programme channel="&#x54D2;&#x5575;&#x8D5B;&#x4E8B;" start="20251018000000 +0800" stop="20251018000500 +0800">
@@ -11722,6 +11728,12 @@
 		<title lang="zh">04_陷入我们的热恋</title>
 	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20251018200100 +0800" stop="20251018203100 +0800">
 		<title lang="zh">《超级美味》推荐第12期</title>
+	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20251018203100 +0800" stop="20251018211800 +0800">
+		<title lang="zh">05_陷入我们的热恋</title>
+	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20251018211800 +0800" stop="20251018214800 +0800">
+		<title lang="zh">《八段锦》推荐第40期</title>
+	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20251018214800 +0800" stop="20251018223200 +0800">
+		<title lang="zh">06_陷入我们的热恋</title>
 	</programme><channel id="&#x52A8;&#x4F5C;&#x7535;&#x5F71;">
 		<display-name lang="zh">动作电影</display-name>
 	</channel><programme channel="&#x52A8;&#x4F5C;&#x7535;&#x5F71;" start="20251018000000 +0800" stop="20251018002200 +0800">
@@ -12002,6 +12014,8 @@
 		<title lang="zh">《八段锦》推荐第40期</title>
 	</programme><programme channel="&#x60CA;&#x609A;&#x60AC;&#x7591;" start="20251018200900 +0800" stop="20251018214900 +0800">
 		<title lang="zh">恶意</title>
+	</programme><programme channel="&#x60CA;&#x609A;&#x60AC;&#x7591;" start="20251018214900 +0800" stop="20251018221900 +0800">
+		<title lang="zh">《超级美味》推荐第12期</title>
 	</programme><channel id="&#x7CBE;&#x54C1;&#x4F53;&#x80B2;">
 		<display-name lang="zh">精品体育</display-name>
 	</channel><programme channel="&#x7CBE;&#x54C1;&#x4F53;&#x80B2;" start="20251018000000 +0800" stop="20251018011900 +0800">

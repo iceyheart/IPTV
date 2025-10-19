@@ -9762,6 +9762,12 @@
 		<title lang="zh">村庄故事4K 枣香乾坤湾（上）</title>
 	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20251019114100 +0800" stop="20251019122300 +0800">
 		<title lang="zh">远方的家4K 大运河 淮安人的运河情</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20251019122300 +0800" stop="20251019130400 +0800">
+		<title lang="zh">远方的家4K 大运河 淮安：千载运河话古今</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20251019131500 +0800" stop="20251019140400 +0800">
+		<title lang="zh">跟着唐诗去旅行 第二季4K 第6集 相见难</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20251019140400 +0800" stop="20251019141900 +0800">
+		<title lang="zh">艺术里的奥林匹克4K 油画b7赫拉克勒斯和巨鸟</title>
 	</programme><channel id="&#x775B;&#x5F69;&#x9752;&#x5C11;">
 		<display-name lang="zh">睛彩青少</display-name>
 	</channel><programme channel="&#x775B;&#x5F69;&#x9752;&#x5C11;" start="20251019000000 +0800" stop="20251019024000 +0800">
@@ -10070,6 +10076,8 @@
 		<title lang="zh">移城别恋</title>
 	</programme><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20251019113400 +0800" stop="20251019131500 +0800">
 		<title lang="zh">外来书记</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20251019131500 +0800" stop="20251019143000 +0800">
+		<title lang="zh">蓦然回首</title>
 	</programme><channel id="&#x9ED1;&#x8393;&#x52A8;&#x753B;">
 		<display-name lang="zh">黑莓动画</display-name>
 	</channel><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20251019011800 +0800" stop="20251019040300 +0800">
@@ -10086,6 +10094,8 @@
 		<title lang="zh">31_喜羊羊与灰太狼之羊羊小侦探</title>
 	</programme><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20251019114100 +0800" stop="20251019141200 +0800">
 		<title lang="zh">01_猪猪侠之光明守卫者（下部）</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20251019141200 +0800" stop="20251019145600 +0800">
+		<title lang="zh">01_宇宙信使</title>
 	</programme><channel id="&#x54D2;&#x5575;&#x8D5B;&#x4E8B;">
 		<display-name lang="zh">哒啵赛事</display-name>
 	</channel><programme channel="&#x54D2;&#x5575;&#x8D5B;&#x4E8B;" start="20251019000000 +0800" stop="20251019000200 +0800">
@@ -11528,6 +11538,12 @@
 		<title lang="zh">31_似锦</title>
 	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20251019120700 +0800" stop="20251019124700 +0800">
 		<title lang="zh">龙血树叶粉</title>
+	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20251019124700 +0800" stop="20251019133300 +0800">
+		<title lang="zh">32_似锦</title>
+	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20251019133300 +0800" stop="20251019141300 +0800">
+		<title lang="zh">营养健康20新</title>
+	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20251019141300 +0800" stop="20251019152300 +0800">
+		<title lang="zh">你瞅啥？外星人</title>
 	</programme><channel id="&#x52A8;&#x4F5C;&#x7535;&#x5F71;">
 		<display-name lang="zh">动作电影</display-name>
 	</channel><programme channel="&#x52A8;&#x4F5C;&#x7535;&#x5F71;" start="20251019000000 +0800" stop="20251019000200 +0800">
@@ -11790,6 +11806,10 @@
 		<title lang="zh">火线追凶2之押解惊魂</title>
 	</programme><programme channel="&#x60CA;&#x609A;&#x60AC;&#x7591;" start="20251019115700 +0800" stop="20251019124200 +0800">
 		<title lang="zh">康企红蓝光治疗仪劲爆组-渠道（右）</title>
+	</programme><programme channel="&#x60CA;&#x609A;&#x60AC;&#x7591;" start="20251019124200 +0800" stop="20251019135800 +0800">
+		<title lang="zh">控梦师</title>
+	</programme><programme channel="&#x60CA;&#x609A;&#x60AC;&#x7591;" start="20251019135800 +0800" stop="20251019143800 +0800">
+		<title lang="zh">营养健康20新</title>
 	</programme><channel id="&#x7CBE;&#x54C1;&#x4F53;&#x80B2;">
 		<display-name lang="zh">精品体育</display-name>
 	</channel><programme channel="&#x7CBE;&#x54C1;&#x4F53;&#x80B2;" start="20251019000000 +0800" stop="20251019004900 +0800">

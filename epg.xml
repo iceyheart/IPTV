@@ -9768,6 +9768,14 @@
 		<title lang="zh">跟着唐诗去旅行 第二季4K 第6集 相见难</title>
 	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20251019140400 +0800" stop="20251019141900 +0800">
 		<title lang="zh">艺术里的奥林匹克4K 油画b7赫拉克勒斯和巨鸟</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20251019141900 +0800" stop="20251019150800 +0800">
+		<title lang="zh">大地之上4K 第4集 草木之间</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20251019151300 +0800" stop="20251019151800 +0800">
+		<title lang="zh">如果国宝会说话4K 花树状金步摇 一步一欢喜</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20251019151800 +0800" stop="20251019160700 +0800">
+		<title lang="zh">玩的是古 第二季4K 第1集</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20251019160700 +0800" stop="20251019163500 +0800">
+		<title lang="zh">记住乡愁 第八季4K 黄岗村——千年侗寨 踏歌而行</title>
 	</programme><channel id="&#x775B;&#x5F69;&#x9752;&#x5C11;">
 		<display-name lang="zh">睛彩青少</display-name>
 	</channel><programme channel="&#x775B;&#x5F69;&#x9752;&#x5C11;" start="20251019000000 +0800" stop="20251019024000 +0800">
@@ -10078,6 +10086,8 @@
 		<title lang="zh">外来书记</title>
 	</programme><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20251019131500 +0800" stop="20251019143000 +0800">
 		<title lang="zh">蓦然回首</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20251019143000 +0800" stop="20251019162800 +0800">
+		<title lang="zh">星际迷航3：超越星辰</title>
 	</programme><channel id="&#x9ED1;&#x8393;&#x52A8;&#x753B;">
 		<display-name lang="zh">黑莓动画</display-name>
 	</channel><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20251019011800 +0800" stop="20251019040300 +0800">
@@ -10096,6 +10106,8 @@
 		<title lang="zh">01_猪猪侠之光明守卫者（下部）</title>
 	</programme><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20251019141200 +0800" stop="20251019145600 +0800">
 		<title lang="zh">01_宇宙信使</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20251019145600 +0800" stop="20251019172400 +0800">
+		<title lang="zh">01_伟大的生物学</title>
 	</programme><channel id="&#x54D2;&#x5575;&#x8D5B;&#x4E8B;">
 		<display-name lang="zh">哒啵赛事</display-name>
 	</channel><programme channel="&#x54D2;&#x5575;&#x8D5B;&#x4E8B;" start="20251019000000 +0800" stop="20251019000200 +0800">
@@ -11544,6 +11556,10 @@
 		<title lang="zh">营养健康20新</title>
 	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20251019141300 +0800" stop="20251019152300 +0800">
 		<title lang="zh">你瞅啥？外星人</title>
+	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20251019152300 +0800" stop="20251019155200 +0800">
+		<title lang="zh">武夷山康养</title>
+	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20251019155200 +0800" stop="20251019163900 +0800">
+		<title lang="zh">07_陷入我们的热恋</title>
 	</programme><channel id="&#x52A8;&#x4F5C;&#x7535;&#x5F71;">
 		<display-name lang="zh">动作电影</display-name>
 	</channel><programme channel="&#x52A8;&#x4F5C;&#x7535;&#x5F71;" start="20251019000000 +0800" stop="20251019000200 +0800">
@@ -11810,6 +11826,10 @@
 		<title lang="zh">控梦师</title>
 	</programme><programme channel="&#x60CA;&#x609A;&#x60AC;&#x7591;" start="20251019135800 +0800" stop="20251019143800 +0800">
 		<title lang="zh">营养健康20新</title>
+	</programme><programme channel="&#x60CA;&#x609A;&#x60AC;&#x7591;" start="20251019143800 +0800" stop="20251019155800 +0800">
+		<title lang="zh">卸岭之地下惊龙</title>
+	</programme><programme channel="&#x60CA;&#x609A;&#x60AC;&#x7591;" start="20251019155800 +0800" stop="20251019162700 +0800">
+		<title lang="zh">武夷山康养</title>
 	</programme><channel id="&#x7CBE;&#x54C1;&#x4F53;&#x80B2;">
 		<display-name lang="zh">精品体育</display-name>
 	</channel><programme channel="&#x7CBE;&#x54C1;&#x4F53;&#x80B2;" start="20251019000000 +0800" stop="20251019004900 +0800">

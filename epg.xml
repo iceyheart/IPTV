@@ -9586,6 +9586,14 @@
 		<title lang="zh">曹雪芹与红楼梦4K 第1集 一局输赢料不真</title>
 	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20251020140500 +0800" stop="20251020142000 +0800">
 		<title lang="zh">艺术里的奥林匹克4K 漓江山水天下无</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20251020142000 +0800" stop="20251020150900 +0800">
+		<title lang="zh">大地之上4K 第5集 与海为邻</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20251020151400 +0800" stop="20251020151900 +0800">
+		<title lang="zh">如果国宝会说话4K 鎏金银壶 远来的风</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20251020151900 +0800" stop="20251020160800 +0800">
+		<title lang="zh">玩的是古 第二季4K 第2集</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20251020160800 +0800" stop="20251020163600 +0800">
+		<title lang="zh">记住乡愁 第八季4K 联丰村——稻花乡里 花开朵朵</title>
 	</programme><channel id="&#x775B;&#x5F69;&#x9752;&#x5C11;">
 		<display-name lang="zh">睛彩青少</display-name>
 	</channel><programme channel="&#x775B;&#x5F69;&#x9752;&#x5C11;" start="20251020000000 +0800" stop="20251020000100 +0800">
@@ -9932,6 +9940,8 @@
 		<title lang="zh">流浪猫鲍勃2：鲍勃的礼物</title>
 	</programme><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20251020135500 +0800" stop="20251020152400 +0800">
 		<title lang="zh">斗战苍穹</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20251020152400 +0800" stop="20251020172100 +0800">
+		<title lang="zh">星际迷航4：抢救未来</title>
 	</programme><channel id="&#x9ED1;&#x8393;&#x52A8;&#x753B;">
 		<display-name lang="zh">黑莓动画</display-name>
 	</channel><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20251020005100 +0800" stop="20251020021500 +0800">
@@ -9952,6 +9962,8 @@
 		<title lang="zh">41_喜羊羊与灰太狼之羊羊小侦探</title>
 	</programme><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20251020125000 +0800" stop="20251020152100 +0800">
 		<title lang="zh">11_猪猪侠之光明守卫者（下部）</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20251020152100 +0800" stop="20251020164500 +0800">
+		<title lang="zh">01_7岁看老</title>
 	</programme><channel id="&#x54D2;&#x5575;&#x8D5B;&#x4E8B;">
 		<display-name lang="zh">哒啵赛事</display-name>
 	</channel><programme channel="&#x54D2;&#x5575;&#x8D5B;&#x4E8B;" start="20251020000000 +0800" stop="20251020000200 +0800">
@@ -11460,6 +11472,10 @@
 		<title lang="zh">37_似锦</title>
 	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20251020134100 +0800" stop="20251020142100 +0800">
 		<title lang="zh">营养健康20新</title>
+	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20251020142100 +0800" stop="20251020160300 +0800">
+		<title lang="zh">狐踪谍影</title>
+	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20251020160300 +0800" stop="20251020163200 +0800">
+		<title lang="zh">武夷山康养</title>
 	</programme><channel id="&#x52A8;&#x4F5C;&#x7535;&#x5F71;">
 		<display-name lang="zh">动作电影</display-name>
 	</channel><programme channel="&#x52A8;&#x4F5C;&#x7535;&#x5F71;" start="20251020000000 +0800" stop="20251020001200 +0800">
@@ -11726,6 +11742,10 @@
 		<title lang="zh">兴安岭猎人传说</title>
 	</programme><programme channel="&#x60CA;&#x609A;&#x60AC;&#x7591;" start="20251020135700 +0800" stop="20251020143700 +0800">
 		<title lang="zh">营养健康20新</title>
+	</programme><programme channel="&#x60CA;&#x609A;&#x60AC;&#x7591;" start="20251020143700 +0800" stop="20251020160400 +0800">
+		<title lang="zh">零点杀机</title>
+	</programme><programme channel="&#x60CA;&#x609A;&#x60AC;&#x7591;" start="20251020160400 +0800" stop="20251020163300 +0800">
+		<title lang="zh">武夷山康养</title>
 	</programme><channel id="&#x7CBE;&#x54C1;&#x4F53;&#x80B2;">
 		<display-name lang="zh">精品体育</display-name>
 	</channel><programme channel="&#x7CBE;&#x54C1;&#x4F53;&#x80B2;" start="20251020000000 +0800" stop="20251020003200 +0800">

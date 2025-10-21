@@ -8838,10 +8838,24 @@
 		<display-name lang="zh">纯享4K</display-name>
 	</channel><programme channel="&#x7EAF;&#x4EAB;4K" start="20251022000800 +0800" stop="20251022003600 +0800">
 		<title lang="zh">记住乡愁 第八季4K 骆驼湾村——只要有信心 黄土变成金</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20251022003600 +0800" stop="20251022010400 +0800">
+		<title lang="zh">记住乡愁 第八季4K 卖花渔村——满院花香传千年</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20251022010400 +0800" stop="20251022013400 +0800">
+		<title lang="zh">味道4K 原味乡间b7宁海篇 上</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20251022013400 +0800" stop="20251022020300 +0800">
+		<title lang="zh">味道4K 原味乡间b7宁海篇（下）</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20251022020300 +0800" stop="20251022024300 +0800">
+		<title lang="zh">探索b7发现4K 匠人b7匠心（39）</title>
+	</programme><channel id="&#x9ED1;&#x8393;&#x7535;&#x5F71;">
+		<display-name lang="zh">黑莓电影</display-name>
+	</channel><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20251022012100 +0800" stop="20251022024000 +0800">
+		<title lang="zh">法医秦明之血色婚礼</title>
 	</programme><channel id="&#x9ED1;&#x8393;&#x52A8;&#x753B;">
 		<display-name lang="zh">黑莓动画</display-name>
 	</channel><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20251022000000 +0800" stop="20251022020700 +0800">
 		<title lang="zh">06_画江湖之不良人第七季：九幽玄天</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20251022020700 +0800" stop="20251022061400 +0800">
+		<title lang="zh">11_间谍过家家全集中文版</title>
 	</programme><channel id="&#x91D1;&#x9E70;&#x5361;&#x901A;">
 		<display-name lang="zh">金鹰卡通</display-name>
 	</channel><programme channel="&#x91D1;&#x9E70;&#x5361;&#x901A;" start="20251022000000 +0800" stop="20251022032000 +0800">

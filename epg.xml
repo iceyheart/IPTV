@@ -3721,7 +3721,7 @@
 	</programme><programme channel="&#x5E7F;&#x897F;&#x536B;&#x89C6;" start="20251021205000 +0800" stop="20251021214000 +0800">
 		<title lang="zh">美丽剧场38集：暗夜与黎明(7)</title>
 	</programme><programme channel="&#x5E7F;&#x897F;&#x536B;&#x89C6;" start="20251021214000 +0800" stop="20251021220500 +0800">
-		<title lang="zh">纪录片《烽火笔墨》</title>
+		<title lang="zh">纪录片《烽火笔墨》完</title>
 	</programme><programme channel="&#x5E7F;&#x897F;&#x536B;&#x89C6;" start="20251021220500 +0800" stop="20251021224000 +0800">
 		<title lang="zh">首播《菲阅》</title>
 	</programme><programme channel="&#x5E7F;&#x897F;&#x536B;&#x89C6;" start="20251021224000 +0800" stop="20251021235000 +0800">
@@ -9722,6 +9722,14 @@
 		<title lang="zh">味道4K 穿街走巷b7武汉篇 下</title>
 	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20251021175500 +0800" stop="20251021183400 +0800">
 		<title lang="zh">探索b7发现4K 匠人b7匠心（38）</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20251021183400 +0800" stop="20251021190400 +0800">
+		<title lang="zh">村庄故事4K 山水岩龙（下）</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20251021190400 +0800" stop="20251021193400 +0800">
+		<title lang="zh">村庄故事4K 寻根右龙</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20251021193400 +0800" stop="20251021201500 +0800">
+		<title lang="zh">远方的家4K 大运河 河湖交汇处 黄河故道边</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20251021201500 +0800" stop="20251021205600 +0800">
+		<title lang="zh">远方的家4K 大运河 古运河畔的“天下第一庄”</title>
 	</programme><channel id="&#x775B;&#x5F69;&#x9752;&#x5C11;">
 		<display-name lang="zh">睛彩青少</display-name>
 	</channel><programme channel="&#x775B;&#x5F69;&#x9752;&#x5C11;" start="20251021000000 +0800" stop="20251021000100 +0800">
@@ -10080,6 +10088,8 @@
 		<title lang="zh">武动乾坤：九重符塔</title>
 	</programme><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20251021180200 +0800" stop="20251021193200 +0800">
 		<title lang="zh">雷霆行动</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20251021193200 +0800" stop="20251021213500 +0800">
+		<title lang="zh">碟中谍2</title>
 	</programme><channel id="&#x9ED1;&#x8393;&#x52A8;&#x753B;">
 		<display-name lang="zh">黑莓动画</display-name>
 	</channel><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20251021003400 +0800" stop="20251021021900 +0800">
@@ -10100,6 +10110,8 @@
 		<title lang="zh">01_奶龙之奇妙冒险</title>
 	</programme><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20251021181100 +0800" stop="20251021192900 +0800">
 		<title lang="zh">西行纪之穷奇地洞</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20251021192900 +0800" stop="20251021205400 +0800">
+		<title lang="zh">虹猫蓝兔火凤凰</title>
 	</programme><channel id="&#x54D2;&#x5575;&#x8D5B;&#x4E8B;">
 		<display-name lang="zh">哒啵赛事</display-name>
 	</channel><programme channel="&#x54D2;&#x5575;&#x8D5B;&#x4E8B;" start="20251021000000 +0800" stop="20251021000100 +0800">
@@ -11472,6 +11484,12 @@
 		<title lang="zh">破冰船</title>
 	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20251021174800 +0800" stop="20251021182300 +0800">
 		<title lang="zh">CRESIOENM钛健康餐具套组-渠道（右）</title>
+	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20251021182300 +0800" stop="20251021191100 +0800">
+		<title lang="zh">17_陷入我们的热恋</title>
+	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20251021191100 +0800" stop="20251021195600 +0800">
+		<title lang="zh">康企红蓝光治疗仪劲爆组-渠道（右）</title>
+	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20251021195600 +0800" stop="20251021204500 +0800">
+		<title lang="zh">18_陷入我们的热恋</title>
 	</programme><channel id="&#x52A8;&#x4F5C;&#x7535;&#x5F71;">
 		<display-name lang="zh">动作电影</display-name>
 	</channel><programme channel="&#x52A8;&#x4F5C;&#x7535;&#x5F71;" start="20251021000000 +0800" stop="20251021002100 +0800">
@@ -11744,6 +11762,12 @@
 		<title lang="zh">逃出无人岛</title>
 	</programme><programme channel="&#x60CA;&#x609A;&#x60AC;&#x7591;" start="20251021173800 +0800" stop="20251021181800 +0800">
 		<title lang="zh">营养健康20新</title>
+	</programme><programme channel="&#x60CA;&#x609A;&#x60AC;&#x7591;" start="20251021181800 +0800" stop="20251021194200 +0800">
+		<title lang="zh">巨兽来袭3</title>
+	</programme><programme channel="&#x60CA;&#x609A;&#x60AC;&#x7591;" start="20251021194200 +0800" stop="20251021201200 +0800">
+		<title lang="zh">《超级美味》推荐第12期</title>
+	</programme><programme channel="&#x60CA;&#x609A;&#x60AC;&#x7591;" start="20251021201200 +0800" stop="20251021215700 +0800">
+		<title lang="zh">追凶十九年</title>
 	</programme><channel id="&#x7CBE;&#x54C1;&#x4F53;&#x80B2;">
 		<display-name lang="zh">精品体育</display-name>
 	</channel><programme channel="&#x7CBE;&#x54C1;&#x4F53;&#x80B2;" start="20251021000000 +0800" stop="20251021003700 +0800">

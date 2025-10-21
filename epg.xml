@@ -8521,6 +8521,10 @@
     <title lang="zh">23全球大視野</title>
     <desc/>
     <date>2025-10-23</date>
+  </programme><programme channel="370177" start="20251024000000 +0800" stop="20251025000000 +0800">
+    <title lang="zh">18中天辣晚報</title>
+    <desc/>
+    <date>2025-10-24</date>
   </programme><channel id="410285">
     <display-name lang="Hong Kong">Now 爆谷台</display-name>
     <icon src="https://epg.pw/media/images/epg/2025/01/28/20250128123118148719_96"/>
@@ -8852,6 +8856,10 @@
 		<title lang="zh">村庄故事4K 歌飘占里</title>
 	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20251022034300 +0800" stop="20251022042400 +0800">
 		<title lang="zh">远方的家4K 大运河 大运河畔文化兴</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20251022042400 +0800" stop="20251022050500 +0800">
+		<title lang="zh">远方的家4K 大运河 运河水脊 中枢之地</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20251022051500 +0800" stop="20251022060500 +0800">
+		<title lang="zh">曹雪芹与红楼梦4K 第3集 生于末世运偏消</title>
 	</programme><channel id="&#x9ED1;&#x8393;&#x7535;&#x5F71;">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20251022012100 +0800" stop="20251022024000 +0800">
@@ -8860,6 +8868,8 @@
 		<title lang="zh">飞鱼服</title>
 	</programme><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20251022040400 +0800" stop="20251022054900 +0800">
 		<title lang="zh">相棒剧场版2</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20251022054900 +0800" stop="20251022072800 +0800">
+		<title lang="zh">假面骑士令和第一世代</title>
 	</programme><channel id="&#x9ED1;&#x8393;&#x52A8;&#x753B;">
 		<display-name lang="zh">黑莓动画</display-name>
 	</channel><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20251022000000 +0800" stop="20251022020700 +0800">

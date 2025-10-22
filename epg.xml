@@ -9844,6 +9844,10 @@
 		<title lang="zh">艺术里的奥林匹克4K 雕塑b7踢毽子</title>
 	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20251022141600 +0800" stop="20251022150600 +0800">
 		<title lang="zh">国家公园——万物共生之境4K 第1集 荒原新生</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20251022151100 +0800" stop="20251022160000 +0800">
+		<title lang="zh">大敦煌4K 第1集 何以敦煌</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20251022160000 +0800" stop="20251022162800 +0800">
+		<title lang="zh">记住乡愁 第八季4K 骆驼湾村——只要有信心 黄土变成金</title>
 	</programme><channel id="&#x775B;&#x5F69;&#x9752;&#x5C11;">
 		<display-name lang="zh">睛彩青少</display-name>
 	</channel><programme channel="&#x775B;&#x5F69;&#x9752;&#x5C11;" start="20251022000000 +0800" stop="20251022000100 +0800">
@@ -10166,6 +10170,8 @@
 		<title lang="zh">大画王</title>
 	</programme><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20251022134000 +0800" stop="20251022150500 +0800">
 		<title lang="zh">探清水河：重生</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20251022150500 +0800" stop="20251022165800 +0800">
+		<title lang="zh">武动乾坤：涅槃神石</title>
 	</programme><channel id="&#x9ED1;&#x8393;&#x52A8;&#x753B;">
 		<display-name lang="zh">黑莓动画</display-name>
 	</channel><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20251022000000 +0800" stop="20251022020700 +0800">
@@ -10182,6 +10188,8 @@
 		<title lang="zh">汪汪队立大功第3季11</title>
 	</programme><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20251022130800 +0800" stop="20251022153900 +0800">
 		<title lang="zh">11_猪猪侠之光明守卫者（上部）</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20251022153900 +0800" stop="20251022162500 +0800">
+		<title lang="zh">06_奶龙之奇妙冒险</title>
 	</programme><channel id="&#x54D2;&#x5575;&#x8D5B;&#x4E8B;">
 		<display-name lang="zh">哒啵赛事</display-name>
 	</channel><programme channel="&#x54D2;&#x5575;&#x8D5B;&#x4E8B;" start="20251022000000 +0800" stop="20251022001800 +0800">
@@ -11526,6 +11534,10 @@
 		<title lang="zh">07_锦心似玉</title>
 	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20251022135300 +0800" stop="20251022142800 +0800">
 		<title lang="zh">美国云杉新一代小分子黑金活脑灵（跨境）-渠道（右）</title>
+	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20251022142800 +0800" stop="20251022155600 +0800">
+		<title lang="zh">赴汤蹈火</title>
+	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20251022155600 +0800" stop="20251022162600 +0800">
+		<title lang="zh">武夷山康养</title>
 	</programme><channel id="&#x52A8;&#x4F5C;&#x7535;&#x5F71;">
 		<display-name lang="zh">动作电影</display-name>
 	</channel><programme channel="&#x52A8;&#x4F5C;&#x7535;&#x5F71;" start="20251022000000 +0800" stop="20251022000300 +0800">
@@ -11792,6 +11804,10 @@
 		<title lang="zh">民间摆渡人</title>
 	</programme><programme channel="&#x60CA;&#x609A;&#x60AC;&#x7591;" start="20251022134800 +0800" stop="20251022142800 +0800">
 		<title lang="zh">营养健康20新</title>
+	</programme><programme channel="&#x60CA;&#x609A;&#x60AC;&#x7591;" start="20251022142800 +0800" stop="20251022154800 +0800">
+		<title lang="zh">工厂蛇患</title>
+	</programme><programme channel="&#x60CA;&#x609A;&#x60AC;&#x7591;" start="20251022154800 +0800" stop="20251022161800 +0800">
+		<title lang="zh">武夷山康养</title>
 	</programme><channel id="&#x7CBE;&#x54C1;&#x4F53;&#x80B2;">
 		<display-name lang="zh">精品体育</display-name>
 	</channel><programme channel="&#x7CBE;&#x54C1;&#x4F53;&#x80B2;" start="20251022000000 +0800" stop="20251022003800 +0800">

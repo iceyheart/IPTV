@@ -8578,6 +8578,10 @@
     <title lang="zh">23全球大視野</title>
     <desc/>
     <date>2025-10-24</date>
+  </programme><programme channel="370177" start="20251025000000 +0800" stop="20251026000000 +0800">
+    <title lang="zh">18中天辣晚報</title>
+    <desc/>
+    <date>2025-10-25</date>
   </programme><channel id="410285">
     <display-name lang="Hong Kong">Now 爆谷台</display-name>
     <icon src="https://epg.pw/media/images/epg/2025/01/28/20250128123118148719_96"/>
@@ -8879,6 +8883,10 @@
 		<title lang="zh">传承b7智慧篇4K 第1集 点线之间</title>
 	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20251023032800 +0800" stop="20251023040900 +0800">
 		<title lang="zh">远方的家4K 大运河 商贸中心 文汇之地</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20251023040900 +0800" stop="20251023045000 +0800">
+		<title lang="zh">远方的家4K 大运河 铁水互连 运河新篇</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20251023050100 +0800" stop="20251023055000 +0800">
+		<title lang="zh">曹雪芹与红楼梦4K 第4集 眼前春色梦中人</title>
 	</programme><channel id="&#x9ED1;&#x8393;&#x7535;&#x5F71;">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20251023010200 +0800" stop="20251023021700 +0800">

@@ -9834,6 +9834,12 @@
 		<title lang="zh">远方的家4K 大运河 大运河畔文化兴</title>
 	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20251022201600 +0800" stop="20251022205700 +0800">
 		<title lang="zh">远方的家4K 大运河 运河水脊 中枢之地</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20251022205700 +0800" stop="20251022210200 +0800">
+		<title lang="zh">美丽中国自然4K 京城之夏系列 颐和园</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20251022210700 +0800" stop="20251022215700 +0800">
+		<title lang="zh">曹雪芹与红楼梦4K 第3集 生于末世运偏消</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20251022215700 +0800" stop="20251022224700 +0800">
+		<title lang="zh">国家公园——万物共生之境4K 第1集 荒原新生</title>
 	</programme><channel id="&#x775B;&#x5F69;&#x9752;&#x5C11;">
 		<display-name lang="zh">睛彩青少</display-name>
 	</channel><programme channel="&#x775B;&#x5F69;&#x9752;&#x5C11;" start="20251022000000 +0800" stop="20251022000100 +0800">
@@ -10162,6 +10168,8 @@
 		<title lang="zh">哈佛少女的快乐清单</title>
 	</programme><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20251022183600 +0800" stop="20251022204100 +0800">
 		<title lang="zh">碟中谍3</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20251022204100 +0800" stop="20251022224100 +0800">
+		<title lang="zh">海大鱼</title>
 	</programme><channel id="&#x9ED1;&#x8393;&#x52A8;&#x753B;">
 		<display-name lang="zh">黑莓动画</display-name>
 	</channel><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20251022000000 +0800" stop="20251022020700 +0800">
@@ -10186,6 +10194,8 @@
 		<title lang="zh">画江湖之天罡</title>
 	</programme><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20251022192800 +0800" stop="20251022205200 +0800">
 		<title lang="zh">绝代双骄之天外有天</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20251022205200 +0800" stop="20251022221100 +0800">
+		<title lang="zh">哪吒之灵珠重生</title>
 	</programme><channel id="&#x54D2;&#x5575;&#x8D5B;&#x4E8B;">
 		<display-name lang="zh">哒啵赛事</display-name>
 	</channel><programme channel="&#x54D2;&#x5575;&#x8D5B;&#x4E8B;" start="20251022000000 +0800" stop="20251022001800 +0800">
@@ -11546,6 +11556,10 @@
 		<title lang="zh">24_陷入我们的热恋</title>
 	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20251022201900 +0800" stop="20251022204900 +0800">
 		<title lang="zh">《超级美味》推荐第13期</title>
+	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20251022204900 +0800" stop="20251022213500 +0800">
+		<title lang="zh">01_亲爱的，你在哪里</title>
+	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20251022213500 +0800" stop="20251022220500 +0800">
+		<title lang="zh">《A咖秀》推荐第10期</title>
 	</programme><channel id="&#x52A8;&#x4F5C;&#x7535;&#x5F71;">
 		<display-name lang="zh">动作电影</display-name>
 	</channel><programme channel="&#x52A8;&#x4F5C;&#x7535;&#x5F71;" start="20251022000000 +0800" stop="20251022000300 +0800">
@@ -11826,6 +11840,8 @@
 		<title lang="zh">《A咖秀》推荐第10期</title>
 	</programme><programme channel="&#x60CA;&#x609A;&#x60AC;&#x7591;" start="20251022201400 +0800" stop="20251022213700 +0800">
 		<title lang="zh">怪兽2：史前异种</title>
+	</programme><programme channel="&#x60CA;&#x609A;&#x60AC;&#x7591;" start="20251022213700 +0800" stop="20251022220700 +0800">
+		<title lang="zh">《超级美味》推荐第13期</title>
 	</programme><channel id="&#x7CBE;&#x54C1;&#x4F53;&#x80B2;">
 		<display-name lang="zh">精品体育</display-name>
 	</channel><programme channel="&#x7CBE;&#x54C1;&#x4F53;&#x80B2;" start="20251022000000 +0800" stop="20251022003800 +0800">

@@ -9881,6 +9881,12 @@
 		<title lang="zh">远方的家4K 大运河 商贸中心 文汇之地</title>
 	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20251023121200 +0800" stop="20251023125400 +0800">
 		<title lang="zh">远方的家4K 大运河 铁水互连 运河新篇</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20251023125900 +0800" stop="20251023130400 +0800">
+		<title lang="zh">美丽中国自然4K 精灵飞舞</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20251023130400 +0800" stop="20251023135400 +0800">
+		<title lang="zh">曹雪芹与红楼梦4K 第4集 眼前春色梦中人</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20251023135400 +0800" stop="20251023140900 +0800">
+		<title lang="zh">艺术里的奥林匹克4K 华山云海图</title>
 	</programme><channel id="&#x775B;&#x5F69;&#x9752;&#x5C11;">
 		<display-name lang="zh">睛彩青少</display-name>
 	</channel><programme channel="&#x775B;&#x5F69;&#x9752;&#x5C11;" start="20251023000000 +0800" stop="20251023000100 +0800">
@@ -10227,6 +10233,8 @@
 		<title lang="zh">画江湖之不良帅</title>
 	</programme><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20251023103800 +0800" stop="20251023131300 +0800">
 		<title lang="zh">宿敌</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20251023131300 +0800" stop="20251023145900 +0800">
+		<title lang="zh">非法制裁</title>
 	</programme><channel id="&#x9ED1;&#x8393;&#x52A8;&#x753B;">
 		<display-name lang="zh">黑莓动画</display-name>
 	</channel><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20251023001000 +0800" stop="20251023022300 +0800">
@@ -11545,6 +11553,10 @@
 		<title lang="zh">10_锦心似玉</title>
 	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20251023121200 +0800" stop="20251023130200 +0800">
 		<title lang="zh">滋得洛夫俄罗斯白桦茸小分子精片-渠道（右）</title>
+	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20251023130200 +0800" stop="20251023134600 +0800">
+		<title lang="zh">11_锦心似玉</title>
+	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20251023134600 +0800" stop="20251023142100 +0800">
+		<title lang="zh">美国云杉新一代小分子黑金活脑灵（跨境）-渠道（右）</title>
 	</programme><channel id="&#x52A8;&#x4F5C;&#x7535;&#x5F71;">
 		<display-name lang="zh">动作电影</display-name>
 	</channel><programme channel="&#x52A8;&#x4F5C;&#x7535;&#x5F71;" start="20251023000000 +0800" stop="20251023002200 +0800">
@@ -11807,6 +11819,10 @@
 		<title lang="zh">苗岭诡事</title>
 	</programme><programme channel="&#x60CA;&#x609A;&#x60AC;&#x7591;" start="20251023114900 +0800" stop="20251023121800 +0800">
 		<title lang="zh">武夷山康养</title>
+	</programme><programme channel="&#x60CA;&#x609A;&#x60AC;&#x7591;" start="20251023121800 +0800" stop="20251023135300 +0800">
+		<title lang="zh">陆小凤传奇之幽灵山庄</title>
+	</programme><programme channel="&#x60CA;&#x609A;&#x60AC;&#x7591;" start="20251023135300 +0800" stop="20251023143300 +0800">
+		<title lang="zh">营养健康20新</title>
 	</programme><channel id="&#x7CBE;&#x54C1;&#x4F53;&#x80B2;">
 		<display-name lang="zh">精品体育</display-name>
 	</channel><programme channel="&#x7CBE;&#x54C1;&#x4F53;&#x80B2;" start="20251023000000 +0800" stop="20251023005500 +0800">

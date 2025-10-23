@@ -8840,6 +8840,18 @@
 		<display-name lang="zh">纯享4K</display-name>
 	</channel><programme channel="&#x7EAF;&#x4EAB;4K" start="20251024000500 +0800" stop="20251024003300 +0800">
 		<title lang="zh">记住乡愁 第八季4K 诺邓村——白族古村 千年一味</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20251024003300 +0800" stop="20251024010100 +0800">
+		<title lang="zh">记住乡愁 第八季4K 钱冲村——一棵黄金树 铺就黄金路</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20251024010100 +0800" stop="20251024013100 +0800">
+		<title lang="zh">味道4K 我的家乡菜b7泰州篇（上）</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20251024013100 +0800" stop="20251024020000 +0800">
+		<title lang="zh">味道4K 我的家乡菜b7泰州篇（下）</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20251024020000 +0800" stop="20251024024000 +0800">
+		<title lang="zh">探索b7发现4K 匠人b7匠心（41）</title>
+	</programme><channel id="&#x9ED1;&#x8393;&#x7535;&#x5F71;">
+		<display-name lang="zh">黑莓电影</display-name>
+	</channel><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20251024005900 +0800" stop="20251024024300 +0800">
+		<title lang="zh">鬼吹灯之南海归墟</title>
 	</programme><channel id="&#x9ED1;&#x8393;&#x52A8;&#x753B;">
 		<display-name lang="zh">黑莓动画</display-name>
 	</channel><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20251024000000 +0800" stop="20251024040100 +0800">

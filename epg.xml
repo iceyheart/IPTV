@@ -8430,6 +8430,10 @@
     <title lang="zh">琴謙天下事</title>
     <desc/>
     <date>2025-10-26</date>
+  </programme><programme channel="370177" start="20251027000000 +0800" stop="20251028000000 +0800">
+    <title lang="zh">18中天辣晚報</title>
+    <desc/>
+    <date>2025-10-27</date>
   </programme><channel id="410285">
     <display-name lang="Hong Kong">Now 爆谷台</display-name>
     <icon src="https://epg.pw/media/images/epg/2025/01/28/20250128123118148719_96"/>
@@ -8801,6 +8805,10 @@
 		<title lang="zh">远方的家4K 大运河 运河之城 沧海之州</title>
 	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20251025040600 +0800" stop="20251025044800 +0800">
 		<title lang="zh">远方的家4K 大运河 运河明珠 筑梦沧州</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20251025045800 +0800" stop="20251025054800 +0800">
+		<title lang="zh">曹雪芹与红楼梦4K 第6集 清砧怨笛送黄昏</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20251025054800 +0800" stop="20251025060300 +0800">
+		<title lang="zh">艺术里的奥林匹克4K 油画b7玩纸牌的人</title>
 	</programme><channel id="&#x9ED1;&#x8393;&#x7535;&#x5F71;">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20251025002400 +0800" stop="20251025021400 +0800">
@@ -8809,10 +8817,14 @@
 		<title lang="zh">大上海夜枭</title>
 	</programme><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20251025034400 +0800" stop="20251025051400 +0800">
 		<title lang="zh">摸金玦之守护人</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20251025051400 +0800" stop="20251025063500 +0800">
+		<title lang="zh">猫猫的奇幻漂流</title>
 	</programme><channel id="&#x9ED1;&#x8393;&#x52A8;&#x753B;">
 		<display-name lang="zh">黑莓动画</display-name>
 	</channel><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20251025002400 +0800" stop="20251025042300 +0800">
 		<title lang="zh">21_间谍过家家全集中文版</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20251025042300 +0800" stop="20251025062000 +0800">
+		<title lang="zh">11_画江湖之不良人第七季：九幽玄天</title>
 	</programme><channel id="&#x91D1;&#x9E70;&#x5361;&#x901A;">
 		<display-name lang="zh">金鹰卡通</display-name>
 	</channel><programme channel="&#x91D1;&#x9E70;&#x5361;&#x901A;" start="20251025000000 +0800" stop="20251025032000 +0800">

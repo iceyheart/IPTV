@@ -9850,6 +9850,14 @@
 		<title lang="zh">艺术里的奥林匹克4K 石版画b7滑冰</title>
 	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20251024140700 +0800" stop="20251024145700 +0800">
 		<title lang="zh">国家公园——万物共生之境4K 第3集 生命交响</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20251024145700 +0800" stop="20251024150200 +0800">
+		<title lang="zh">中国微名片b7世界遗产4K 第13集 鼓浪屿 历史国际社区</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20251024150200 +0800" stop="20251024155100 +0800">
+		<title lang="zh">大敦煌4K 第3集 文明舞台</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20251024155100 +0800" stop="20251024161500 +0800">
+		<title lang="zh">鲜生史 第二季4K 第2集 汪曾祺 家宴的大智慧</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20251024161500 +0800" stop="20251024164300 +0800">
+		<title lang="zh">记住乡愁 第八季4K 诺邓村——白族古村 千年一味</title>
 	</programme><channel id="&#x775B;&#x5F69;&#x9752;&#x5C11;">
 		<display-name lang="zh">睛彩青少</display-name>
 	</channel><programme channel="&#x775B;&#x5F69;&#x9752;&#x5C11;" start="20251024000000 +0800" stop="20251024000100 +0800">
@@ -10184,6 +10192,8 @@
 		<title lang="zh">家园b7重返地球之战</title>
 	</programme><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20251024140200 +0800" stop="20251024155900 +0800">
 		<title lang="zh">艺术学院1994</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20251024155900 +0800" stop="20251024172600 +0800">
+		<title lang="zh">斗破苍穹b7止戈</title>
 	</programme><channel id="&#x9ED1;&#x8393;&#x52A8;&#x753B;">
 		<display-name lang="zh">黑莓动画</display-name>
 	</channel><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20251024000000 +0800" stop="20251024040100 +0800">
@@ -10202,6 +10212,14 @@
 		<title lang="zh">11_喜羊羊与灰太狼之羊羊小侦探</title>
 	</programme><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20251024120300 +0800" stop="20251024143400 +0800">
 		<title lang="zh">11_猪猪侠之光明守卫者（上部）</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20251024143400 +0800" stop="20251024145900 +0800">
+		<title lang="zh">01_摹张萱虢国夫人游春图</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20251024145900 +0800" stop="20251024154400 +0800">
+		<title lang="zh">01_宇宙信使</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20251024154400 +0800" stop="20251024160900 +0800">
+		<title lang="zh">01_我眼中的中国科幻</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20251024160900 +0800" stop="20251024184300 +0800">
+		<title lang="zh">01_百变校巴17太空大冒险</title>
 	</programme><channel id="&#x54D2;&#x5575;&#x8D5B;&#x4E8B;">
 		<display-name lang="zh">哒啵赛事</display-name>
 	</channel><programme channel="&#x54D2;&#x5575;&#x8D5B;&#x4E8B;" start="20251024000000 +0800" stop="20251024004700 +0800">
@@ -11426,6 +11444,12 @@
 		<title lang="zh">15_锦心似玉</title>
 	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20251024134700 +0800" stop="20251024142200 +0800">
 		<title lang="zh">美国云杉新一代小分子黑金活脑灵（跨境）-渠道（右）</title>
+	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20251024142200 +0800" stop="20251024150700 +0800">
+		<title lang="zh">16_锦心似玉</title>
+	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20251024150700 +0800" stop="20251024153700 +0800">
+		<title lang="zh">武夷山康养</title>
+	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20251024153700 +0800" stop="20251024162600 +0800">
+		<title lang="zh">17_锦心似玉</title>
 	</programme><channel id="&#x52A8;&#x4F5C;&#x7535;&#x5F71;">
 		<display-name lang="zh">动作电影</display-name>
 	</channel><programme channel="&#x52A8;&#x4F5C;&#x7535;&#x5F71;" start="20251024000000 +0800" stop="20251024002900 +0800">
@@ -11690,6 +11714,10 @@
 		<title lang="zh">猎杀外星人</title>
 	</programme><programme channel="&#x60CA;&#x609A;&#x60AC;&#x7591;" start="20251024135700 +0800" stop="20251024143700 +0800">
 		<title lang="zh">营养健康20新</title>
+	</programme><programme channel="&#x60CA;&#x609A;&#x60AC;&#x7591;" start="20251024143700 +0800" stop="20251024160000 +0800">
+		<title lang="zh">变异危机</title>
+	</programme><programme channel="&#x60CA;&#x609A;&#x60AC;&#x7591;" start="20251024160000 +0800" stop="20251024163000 +0800">
+		<title lang="zh">武夷山康养</title>
 	</programme><channel id="&#x7CBE;&#x54C1;&#x4F53;&#x80B2;">
 		<display-name lang="zh">精品体育</display-name>
 	</channel><programme channel="&#x7CBE;&#x54C1;&#x4F53;&#x80B2;" start="20251024000000 +0800" stop="20251024004300 +0800">

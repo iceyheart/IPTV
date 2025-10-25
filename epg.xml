@@ -9713,6 +9713,12 @@
 		<title lang="zh">远方的家4K 大运河 运河之城 沧海之州</title>
 	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20251025201800 +0800" stop="20251025205900 +0800">
 		<title lang="zh">远方的家4K 大运河 运河明珠 筑梦沧州</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20251025205900 +0800" stop="20251025210500 +0800">
+		<title lang="zh">美丽中国自然4K 克什克腾的春系列 春到克什克腾</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20251025211000 +0800" stop="20251025215900 +0800">
+		<title lang="zh">曹雪芹与红楼梦4K 第6集 清砧怨笛送黄昏</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20251025215900 +0800" stop="20251025224900 +0800">
+		<title lang="zh">国家公园——万物共生之境4K 第4集 回归之路</title>
 	</programme><channel id="&#x775B;&#x5F69;&#x9752;&#x5C11;">
 		<display-name lang="zh">睛彩青少</display-name>
 	</channel><programme channel="&#x775B;&#x5F69;&#x9752;&#x5C11;" start="20251025000000 +0800" stop="20251025000100 +0800">
@@ -10075,6 +10081,8 @@
 		<title lang="zh">11_百变校巴17太空大冒险</title>
 	</programme><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20251025190100 +0800" stop="20251025215200 +0800">
 		<title lang="zh">11_小可爱娜斯佳第11季</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20251025215200 +0800" stop="20251025230900 +0800">
+		<title lang="zh">西行纪之穷奇地洞</title>
 	</programme><channel id="&#x54D2;&#x5575;&#x8D5B;&#x4E8B;">
 		<display-name lang="zh">哒啵赛事</display-name>
 	</channel><programme channel="&#x54D2;&#x5575;&#x8D5B;&#x4E8B;" start="20251025000000 +0800" stop="20251025000200 +0800">
@@ -11379,6 +11387,10 @@
 		<title lang="zh">《八段锦》推荐第41期</title>
 	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20251025201500 +0800" stop="20251025210000 +0800">
 		<title lang="zh">15_亲爱的，你在哪里</title>
+	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20251025210000 +0800" stop="20251025213000 +0800">
+		<title lang="zh">《超级美味》推荐第13期</title>
+	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20251025213000 +0800" stop="20251025221700 +0800">
+		<title lang="zh">16_亲爱的，你在哪里</title>
 	</programme><channel id="&#x52A8;&#x4F5C;&#x7535;&#x5F71;">
 		<display-name lang="zh">动作电影</display-name>
 	</channel><programme channel="&#x52A8;&#x4F5C;&#x7535;&#x5F71;" start="20251025000000 +0800" stop="20251025001400 +0800">
@@ -11663,6 +11675,8 @@
 		<title lang="zh">《八段锦》推荐第41期</title>
 	</programme><programme channel="&#x60CA;&#x609A;&#x60AC;&#x7591;" start="20251025201800 +0800" stop="20251025213600 +0800">
 		<title lang="zh">古董局中局之国画密码</title>
+	</programme><programme channel="&#x60CA;&#x609A;&#x60AC;&#x7591;" start="20251025213600 +0800" stop="20251025220600 +0800">
+		<title lang="zh">《A咖秀》推荐第10期</title>
 	</programme><channel id="&#x7CBE;&#x54C1;&#x4F53;&#x80B2;">
 		<display-name lang="zh">精品体育</display-name>
 	</channel><programme channel="&#x7CBE;&#x54C1;&#x4F53;&#x80B2;" start="20251025000000 +0800" stop="20251025004800 +0800">

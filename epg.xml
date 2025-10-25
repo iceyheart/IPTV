@@ -9771,6 +9771,14 @@
 		<title lang="zh">远方的家4K 大运河 运河之城 沧海之州</title>
 	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20251025121200 +0800" stop="20251025125400 +0800">
 		<title lang="zh">远方的家4K 大运河 运河明珠 筑梦沧州</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20251025125900 +0800" stop="20251025130400 +0800">
+		<title lang="zh">美丽中国自然4K 克什克腾的春系列 达里诺尔湖</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20251025130400 +0800" stop="20251025135400 +0800">
+		<title lang="zh">曹雪芹与红楼梦4K 第6集 清砧怨笛送黄昏</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20251025135400 +0800" stop="20251025140900 +0800">
+		<title lang="zh">艺术里的奥林匹克4K 油画b7玩纸牌的人</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20251025140900 +0800" stop="20251025145800 +0800">
+		<title lang="zh">国家公园——万物共生之境4K 第4集 回归之路</title>
 	</programme><channel id="&#x775B;&#x5F69;&#x9752;&#x5C11;">
 		<display-name lang="zh">睛彩青少</display-name>
 	</channel><programme channel="&#x775B;&#x5F69;&#x9752;&#x5C11;" start="20251025000000 +0800" stop="20251025000100 +0800">
@@ -10097,6 +10105,8 @@
 		<title lang="zh">我最好朋友的婚礼</title>
 	</programme><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20251025112500 +0800" stop="20251025132400 +0800">
 		<title lang="zh">来福大酒店</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20251025132400 +0800" stop="20251025144800 +0800">
+		<title lang="zh">小狗当家</title>
 	</programme><channel id="&#x9ED1;&#x8393;&#x52A8;&#x753B;">
 		<display-name lang="zh">黑莓动画</display-name>
 	</channel><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20251025002400 +0800" stop="20251025042300 +0800">
@@ -10115,6 +10125,8 @@
 		<title lang="zh">21_喜羊羊与灰太狼之羊羊小侦探</title>
 	</programme><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20251025115900 +0800" stop="20251025132900 +0800">
 		<title lang="zh">21_猪猪侠之光明守卫者（上部）</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20251025132900 +0800" stop="20251025150800 +0800">
+		<title lang="zh">01_去远方</title>
 	</programme><channel id="&#x54D2;&#x5575;&#x8D5B;&#x4E8B;">
 		<display-name lang="zh">哒啵赛事</display-name>
 	</channel><programme channel="&#x54D2;&#x5575;&#x8D5B;&#x4E8B;" start="20251025000000 +0800" stop="20251025000200 +0800">
@@ -11395,6 +11407,12 @@
 		<title lang="zh">宝岛台湾高粱酒</title>
 	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20251025113400 +0800" stop="20251025121900 +0800">
 		<title lang="zh">20_锦心似玉</title>
+	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20251025121900 +0800" stop="20251025125900 +0800">
+		<title lang="zh">营养健康20新</title>
+	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20251025125900 +0800" stop="20251025134900 +0800">
+		<title lang="zh">21_锦心似玉</title>
+	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20251025134900 +0800" stop="20251025142900 +0800">
+		<title lang="zh">虾青素推广片4001087099</title>
 	</programme><channel id="&#x52A8;&#x4F5C;&#x7535;&#x5F71;">
 		<display-name lang="zh">动作电影</display-name>
 	</channel><programme channel="&#x52A8;&#x4F5C;&#x7535;&#x5F71;" start="20251025000000 +0800" stop="20251025001400 +0800">
@@ -11663,6 +11681,10 @@
 		<title lang="zh">营养健康20新</title>
 	</programme><programme channel="&#x60CA;&#x609A;&#x60AC;&#x7591;" start="20251025121500 +0800" stop="20251025132700 +0800">
 		<title lang="zh">逃出无人岛</title>
+	</programme><programme channel="&#x60CA;&#x609A;&#x60AC;&#x7591;" start="20251025132700 +0800" stop="20251025140700 +0800">
+		<title lang="zh">虾青素推广片4001087099</title>
+	</programme><programme channel="&#x60CA;&#x609A;&#x60AC;&#x7591;" start="20251025140700 +0800" stop="20251025153800 +0800">
+		<title lang="zh">鬼吹灯之湘西密藏</title>
 	</programme><channel id="&#x7CBE;&#x54C1;&#x4F53;&#x80B2;">
 		<display-name lang="zh">精品体育</display-name>
 	</channel><programme channel="&#x7CBE;&#x54C1;&#x4F53;&#x80B2;" start="20251025000000 +0800" stop="20251025004800 +0800">

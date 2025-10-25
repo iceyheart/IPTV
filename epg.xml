@@ -8532,6 +8532,10 @@
     <title lang="zh">23全球大視野</title>
     <desc/>
     <date>2025-10-27</date>
+  </programme><programme channel="370177" start="20251028000000 +0800" stop="20251029000000 +0800">
+    <title lang="zh">18中天辣晚報</title>
+    <desc/>
+    <date>2025-10-28</date>
   </programme><channel id="410285">
     <display-name lang="Hong Kong">Now 爆谷台</display-name>
     <icon src="https://epg.pw/media/images/epg/2025/01/28/20250128123118148719_96"/>
@@ -8917,6 +8921,12 @@
 		<title lang="zh">传承b7智慧篇4K 第4集 火候之彩</title>
 	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20251026032700 +0800" stop="20251026040900 +0800">
 		<title lang="zh">远方的家4K 大运河 运河之畔 文武沧州</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20251026040900 +0800" stop="20251026045000 +0800">
+		<title lang="zh">远方的家4K 大运河 平原千里 水路四通</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20251026050000 +0800" stop="20251026055000 +0800">
+		<title lang="zh">往事如歌4K 第1集</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20251026055000 +0800" stop="20251026060500 +0800">
+		<title lang="zh">艺术里的奥林匹克4K 敦煌壁画b7寻橦组图</title>
 	</programme><channel id="&#x9ED1;&#x8393;&#x7535;&#x5F71;">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20251026003200 +0800" stop="20251026014300 +0800">
@@ -8925,12 +8935,16 @@
 		<title lang="zh">寻龙诀：生死门</title>
 	</programme><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20251026031000 +0800" stop="20251026052000 +0800">
 		<title lang="zh">一代宗师</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20251026052000 +0800" stop="20251026071200 +0800">
+		<title lang="zh">麦克白</title>
 	</programme><channel id="&#x9ED1;&#x8393;&#x52A8;&#x753B;">
 		<display-name lang="zh">黑莓动画</display-name>
 	</channel><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20251026003700 +0800" stop="20251026032300 +0800">
 		<title lang="zh">31_间谍过家家全集中文版</title>
 	</programme><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20251026032300 +0800" stop="20251026053000 +0800">
 		<title lang="zh">04_画江湖之不良人第2季</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20251026053000 +0800" stop="20251026073000 +0800">
+		<title lang="zh">16_樱桃小丸子 第二季普通话版</title>
 	</programme><channel id="&#x91D1;&#x9E70;&#x5361;&#x901A;">
 		<display-name lang="zh">金鹰卡通</display-name>
 	</channel><programme channel="&#x91D1;&#x9E70;&#x5361;&#x901A;" start="20251026000000 +0800" stop="20251026032000 +0800">

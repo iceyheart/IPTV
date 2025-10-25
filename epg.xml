@@ -9765,6 +9765,12 @@
 		<title lang="zh">味道4K 原味乡间b7城口篇</title>
 	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20251025100700 +0800" stop="20251025104700 +0800">
 		<title lang="zh">探索b7发现4K 匠人b7匠心（42）</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20251025104700 +0800" stop="20251025113100 +0800">
+		<title lang="zh">传承b7智慧篇4K 第3集 配比之妙</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20251025113100 +0800" stop="20251025121200 +0800">
+		<title lang="zh">远方的家4K 大运河 运河之城 沧海之州</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20251025121200 +0800" stop="20251025125400 +0800">
+		<title lang="zh">远方的家4K 大运河 运河明珠 筑梦沧州</title>
 	</programme><channel id="&#x775B;&#x5F69;&#x9752;&#x5C11;">
 		<display-name lang="zh">睛彩青少</display-name>
 	</channel><programme channel="&#x775B;&#x5F69;&#x9752;&#x5C11;" start="20251025000000 +0800" stop="20251025000100 +0800">
@@ -10089,6 +10095,8 @@
 		<title lang="zh">嗝嗝老师</title>
 	</programme><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20251025095700 +0800" stop="20251025112500 +0800">
 		<title lang="zh">我最好朋友的婚礼</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20251025112500 +0800" stop="20251025132400 +0800">
+		<title lang="zh">来福大酒店</title>
 	</programme><channel id="&#x9ED1;&#x8393;&#x52A8;&#x753B;">
 		<display-name lang="zh">黑莓动画</display-name>
 	</channel><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20251025002400 +0800" stop="20251025042300 +0800">
@@ -10105,6 +10113,8 @@
 		<title lang="zh">25_王者大宿舍</title>
 	</programme><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20251025092900 +0800" stop="20251025115900 +0800">
 		<title lang="zh">21_喜羊羊与灰太狼之羊羊小侦探</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20251025115900 +0800" stop="20251025132900 +0800">
+		<title lang="zh">21_猪猪侠之光明守卫者（上部）</title>
 	</programme><channel id="&#x54D2;&#x5575;&#x8D5B;&#x4E8B;">
 		<display-name lang="zh">哒啵赛事</display-name>
 	</channel><programme channel="&#x54D2;&#x5575;&#x8D5B;&#x4E8B;" start="20251025000000 +0800" stop="20251025000200 +0800">
@@ -11381,6 +11391,10 @@
 		<title lang="zh">武夷山康养</title>
 	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20251025101800 +0800" stop="20251025110400 +0800">
 		<title lang="zh">19_锦心似玉</title>
+	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20251025110400 +0800" stop="20251025113400 +0800">
+		<title lang="zh">宝岛台湾高粱酒</title>
+	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20251025113400 +0800" stop="20251025121900 +0800">
+		<title lang="zh">20_锦心似玉</title>
 	</programme><channel id="&#x52A8;&#x4F5C;&#x7535;&#x5F71;">
 		<display-name lang="zh">动作电影</display-name>
 	</channel><programme channel="&#x52A8;&#x4F5C;&#x7535;&#x5F71;" start="20251025000000 +0800" stop="20251025001400 +0800">
@@ -11645,6 +11659,10 @@
 		<title lang="zh">康企红蓝光治疗仪劲爆组-渠道（右）</title>
 	</programme><programme channel="&#x60CA;&#x609A;&#x60AC;&#x7591;" start="20251025102400 +0800" stop="20251025113500 +0800">
 		<title lang="zh">蟒山</title>
+	</programme><programme channel="&#x60CA;&#x609A;&#x60AC;&#x7591;" start="20251025113500 +0800" stop="20251025121500 +0800">
+		<title lang="zh">营养健康20新</title>
+	</programme><programme channel="&#x60CA;&#x609A;&#x60AC;&#x7591;" start="20251025121500 +0800" stop="20251025132700 +0800">
+		<title lang="zh">逃出无人岛</title>
 	</programme><channel id="&#x7CBE;&#x54C1;&#x4F53;&#x80B2;">
 		<display-name lang="zh">精品体育</display-name>
 	</channel><programme channel="&#x7CBE;&#x54C1;&#x4F53;&#x80B2;" start="20251025000000 +0800" stop="20251025004800 +0800">

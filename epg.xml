@@ -9853,6 +9853,12 @@
 		<title lang="zh">远方的家4K 大运河 运河之畔 文武沧州</title>
 	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20251026201700 +0800" stop="20251026205800 +0800">
 		<title lang="zh">远方的家4K 大运河 平原千里 水路四通</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20251026205800 +0800" stop="20251026210300 +0800">
+		<title lang="zh">美丽中国自然4K 克什克腾的春系列 生命的冒险</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20251026210800 +0800" stop="20251026215800 +0800">
+		<title lang="zh">往事如歌4K 第1集</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20251026215800 +0800" stop="20251026224800 +0800">
+		<title lang="zh">国家公园——万物共生之境4K 第5集 万物生息</title>
 	</programme><channel id="&#x775B;&#x5F69;&#x9752;&#x5C11;">
 		<display-name lang="zh">睛彩青少</display-name>
 	</channel><programme channel="&#x775B;&#x5F69;&#x9752;&#x5C11;" start="20251026000000 +0800" stop="20251026024500 +0800">
@@ -10163,6 +10169,8 @@
 		<title lang="zh">我的爸爸是英雄</title>
 	</programme><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20251026184800 +0800" stop="20251026203400 +0800">
 		<title lang="zh">解救吾先生</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20251026203400 +0800" stop="20251026224300 +0800">
+		<title lang="zh">惊天魔盗团2</title>
 	</programme><channel id="&#x9ED1;&#x8393;&#x52A8;&#x753B;">
 		<display-name lang="zh">黑莓动画</display-name>
 	</channel><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20251026003700 +0800" stop="20251026032300 +0800">
@@ -10187,6 +10195,8 @@
 		<title lang="zh">06_未来的我们会是谁</title>
 	</programme><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20251026171100 +0800" stop="20251026210500 +0800">
 		<title lang="zh">23_百变校巴17太空大冒险</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20251026210500 +0800" stop="20251026222900 +0800">
+		<title lang="zh">绝代双骄之天外有天</title>
 	</programme><channel id="&#x54D2;&#x5575;&#x8D5B;&#x4E8B;">
 		<display-name lang="zh">哒啵赛事</display-name>
 	</channel><programme channel="&#x54D2;&#x5575;&#x8D5B;&#x4E8B;" start="20251026000000 +0800" stop="20251026000100 +0800">
@@ -11597,6 +11607,10 @@
 		<title lang="zh">《八段锦》推荐第41期</title>
 	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20251026202500 +0800" stop="20251026211100 +0800">
 		<title lang="zh">19_亲爱的，你在哪里</title>
+	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20251026211100 +0800" stop="20251026214100 +0800">
+		<title lang="zh">《超级美味》推荐第13期</title>
+	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20251026214100 +0800" stop="20251026222700 +0800">
+		<title lang="zh">20_亲爱的，你在哪里</title>
 	</programme><channel id="&#x52A8;&#x4F5C;&#x7535;&#x5F71;">
 		<display-name lang="zh">动作电影</display-name>
 	</channel><programme channel="&#x52A8;&#x4F5C;&#x7535;&#x5F71;" start="20251026000000 +0800" stop="20251026003300 +0800">
@@ -11877,6 +11891,8 @@
 		<title lang="zh">《八段锦》推荐第41期</title>
 	</programme><programme channel="&#x60CA;&#x609A;&#x60AC;&#x7591;" start="20251026202600 +0800" stop="20251026214100 +0800">
 		<title lang="zh">怪谈五命河</title>
+	</programme><programme channel="&#x60CA;&#x609A;&#x60AC;&#x7591;" start="20251026214100 +0800" stop="20251026221100 +0800">
+		<title lang="zh">《A咖秀》推荐第10期</title>
 	</programme><channel id="&#x7CBE;&#x54C1;&#x4F53;&#x80B2;">
 		<display-name lang="zh">精品体育</display-name>
 	</channel><programme channel="&#x7CBE;&#x54C1;&#x4F53;&#x80B2;" start="20251026000000 +0800" stop="20251026001800 +0800">

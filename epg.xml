@@ -8484,6 +8484,10 @@
     <title lang="zh">23全球大視野</title>
     <desc/>
     <date>2025-10-28</date>
+  </programme><programme channel="370177" start="20251029000000 +0800" stop="20251030000000 +0800">
+    <title lang="zh">國際直球對決</title>
+    <desc/>
+    <date>2025-10-29</date>
   </programme><channel id="410285">
     <display-name lang="Hong Kong">Now 爆谷台</display-name>
     <icon src="https://epg.pw/media/images/epg/2025/01/28/20250128123118148719_96"/>
@@ -8873,6 +8877,12 @@
 		<title lang="zh">传承b7智慧篇4K 第5集 美学之码</title>
 	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20251027032400 +0800" stop="20251027040500 +0800">
 		<title lang="zh">远方的家4K 大运河 大名府 大名人</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20251027040500 +0800" stop="20251027044700 +0800">
+		<title lang="zh">远方的家4K 大运河 津卫门户 运河古韵</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20251027045700 +0800" stop="20251027054700 +0800">
+		<title lang="zh">往事如歌4K 第2集</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20251027054700 +0800" stop="20251027060200 +0800">
+		<title lang="zh">艺术里的奥林匹克4K 春坞纸鸢图</title>
 	</programme><channel id="&#x9ED1;&#x8393;&#x7535;&#x5F71;">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20251027002800 +0800" stop="20251027020100 +0800">
@@ -8881,6 +8891,8 @@
 		<title lang="zh">喊b7山</title>
 	</programme><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20251027034900 +0800" stop="20251027053600 +0800">
 		<title lang="zh">为你取名的那一天</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20251027053600 +0800" stop="20251027071500 +0800">
+		<title lang="zh">球场少年</title>
 	</programme><channel id="&#x9ED1;&#x8393;&#x52A8;&#x753B;">
 		<display-name lang="zh">黑莓动画</display-name>
 	</channel><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20251027001000 +0800" stop="20251027013500 +0800">

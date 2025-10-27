@@ -3753,7 +3753,7 @@
 	</programme><programme channel="&#x5E7F;&#x897F;&#x536B;&#x89C6;" start="20251027073000 +0800" stop="20251027080000 +0800">
 		<title lang="zh">纪录中国故事</title>
 	</programme><programme channel="&#x5E7F;&#x897F;&#x536B;&#x89C6;" start="20251027080000 +0800" stop="20251027084000 +0800">
-		<title lang="zh">中国经济圆桌会</title>
+		<title lang="zh">动画剧场</title>
 	</programme><programme channel="&#x5E7F;&#x897F;&#x536B;&#x89C6;" start="20251027084000 +0800" stop="20251027105000 +0800">
 		<title lang="zh">重温经典电影《英雄儿女》</title>
 	</programme><programme channel="&#x5E7F;&#x897F;&#x536B;&#x89C6;" start="20251027105000 +0800" stop="20251027123000 +0800">
@@ -3779,11 +3779,11 @@
 	</programme><programme channel="&#x5E7F;&#x897F;&#x536B;&#x89C6;" start="20251027190000 +0800" stop="20251027193500 +0800">
 		<title lang="zh">转播：新闻联播</title>
 	</programme><programme channel="&#x5E7F;&#x897F;&#x536B;&#x89C6;" start="20251027193500 +0800" stop="20251027201500 +0800">
-		<title lang="zh">美丽剧场38集：暗夜与黎明(19)</title>
+		<title lang="zh">美丽剧场38集：暗夜与黎明(18)</title>
 	</programme><programme channel="&#x5E7F;&#x897F;&#x536B;&#x89C6;" start="20251027201500 +0800" stop="20251027205000 +0800">
 		<title lang="zh">广西海洋天气预报</title>
 	</programme><programme channel="&#x5E7F;&#x897F;&#x536B;&#x89C6;" start="20251027205000 +0800" stop="20251027214000 +0800">
-		<title lang="zh">美丽剧场38集：暗夜与黎明(20)</title>
+		<title lang="zh">美丽剧场38集：暗夜与黎明(19)</title>
 	</programme><programme channel="&#x5E7F;&#x897F;&#x536B;&#x89C6;" start="20251027214000 +0800" stop="20251027220500 +0800">
 		<title lang="zh">首播:遇见好书</title>
 	</programme><programme channel="&#x5E7F;&#x897F;&#x536B;&#x89C6;" start="20251027220500 +0800" stop="20251027224000 +0800">
@@ -9829,6 +9829,12 @@
 		<title lang="zh">味道4K 我的家乡菜b7雅安篇</title>
 	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20251027180300 +0800" stop="20251027184300 +0800">
 		<title lang="zh">探索b7发现4K 揭秘史前“玉都”（上）</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20251027184300 +0800" stop="20251027192800 +0800">
+		<title lang="zh">传承b7智慧篇4K 第5集 美学之码</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20251027192800 +0800" stop="20251027200900 +0800">
+		<title lang="zh">远方的家4K 大运河 大名府 大名人</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20251027200900 +0800" stop="20251027205100 +0800">
+		<title lang="zh">远方的家4K 大运河 津卫门户 运河古韵</title>
 	</programme><channel id="&#x775B;&#x5F69;&#x9752;&#x5C11;">
 		<display-name lang="zh">睛彩青少</display-name>
 	</channel><programme channel="&#x775B;&#x5F69;&#x9752;&#x5C11;" start="20251027000000 +0800" stop="20251027013500 +0800">
@@ -10159,6 +10165,8 @@
 		<title lang="zh">百鸟朝凤</title>
 	</programme><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20251027171400 +0800" stop="20251027185300 +0800">
 		<title lang="zh">不是钱的事</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20251027185300 +0800" stop="20251027204400 +0800">
+		<title lang="zh">驴得水</title>
 	</programme><channel id="&#x9ED1;&#x8393;&#x52A8;&#x753B;">
 		<display-name lang="zh">黑莓动画</display-name>
 	</channel><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20251027001000 +0800" stop="20251027013500 +0800">
@@ -10183,6 +10191,10 @@
 		<title lang="zh">01_7岁看老</title>
 	</programme><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20251027160400 +0800" stop="20251027184000 +0800">
 		<title lang="zh">06_小马换礁石</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20251027184000 +0800" stop="20251027200300 +0800">
+		<title lang="zh">01_小可爱娜斯佳第11季</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20251027200300 +0800" stop="20251027212500 +0800">
+		<title lang="zh">黑猫警长之翡翠之星</title>
 	</programme><channel id="&#x54D2;&#x5575;&#x8D5B;&#x4E8B;">
 		<display-name lang="zh">哒啵赛事</display-name>
 	</channel><programme channel="&#x54D2;&#x5575;&#x8D5B;&#x4E8B;" start="20251027000000 +0800" stop="20251027000200 +0800">
@@ -11643,6 +11655,14 @@
 		<title lang="zh">武夷山康养</title>
 	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20251027175800 +0800" stop="20251027184400 +0800">
 		<title lang="zh">23_亲爱的，你在哪里</title>
+	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20251027184400 +0800" stop="20251027190400 +0800">
+		<title lang="zh">羊奶粉推广片-渠道-4001087099</title>
+	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20251027190400 +0800" stop="20251027195000 +0800">
+		<title lang="zh">24_亲爱的，你在哪里</title>
+	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20251027195000 +0800" stop="20251027202000 +0800">
+		<title lang="zh">《八段锦》推荐第41期</title>
+	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20251027202000 +0800" stop="20251027210600 +0800">
+		<title lang="zh">25_亲爱的，你在哪里</title>
 	</programme><channel id="&#x52A8;&#x4F5C;&#x7535;&#x5F71;">
 		<display-name lang="zh">动作电影</display-name>
 	</channel><programme channel="&#x52A8;&#x4F5C;&#x7535;&#x5F71;" start="20251027000000 +0800" stop="20251027002100 +0800">
@@ -11919,6 +11939,12 @@
 		<title lang="zh">冰川鲨鱼</title>
 	</programme><programme channel="&#x60CA;&#x609A;&#x60AC;&#x7591;" start="20251027175600 +0800" stop="20251027182500 +0800">
 		<title lang="zh">武夷山康养</title>
+	</programme><programme channel="&#x60CA;&#x609A;&#x60AC;&#x7591;" start="20251027182500 +0800" stop="20251027195900 +0800">
+		<title lang="zh">生死96小时</title>
+	</programme><programme channel="&#x60CA;&#x609A;&#x60AC;&#x7591;" start="20251027195900 +0800" stop="20251027202900 +0800">
+		<title lang="zh">《八段锦》推荐第41期</title>
+	</programme><programme channel="&#x60CA;&#x609A;&#x60AC;&#x7591;" start="20251027202900 +0800" stop="20251027215800 +0800">
+		<title lang="zh">地底怪物</title>
 	</programme><channel id="&#x7CBE;&#x54C1;&#x4F53;&#x80B2;">
 		<display-name lang="zh">精品体育</display-name>
 	</channel><programme channel="&#x7CBE;&#x54C1;&#x4F53;&#x80B2;" start="20251027000000 +0800" stop="20251027000100 +0800">

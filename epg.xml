@@ -8883,10 +8883,24 @@
 		<display-name lang="zh">纯享4K</display-name>
 	</channel><programme channel="&#x7EAF;&#x4EAB;4K" start="20251028001000 +0800" stop="20251028003800 +0800">
 		<title lang="zh">记住乡愁 第八季4K 桃源村——桃源深处有人家</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20251028003800 +0800" stop="20251028010600 +0800">
+		<title lang="zh">记住乡愁 第八季4K 田里村——高山泉水 年年有“鱼”</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20251028010600 +0800" stop="20251028013600 +0800">
+		<title lang="zh">味道4K 边疆风味b7昌吉篇（上）</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20251028013600 +0800" stop="20251028020500 +0800">
+		<title lang="zh">味道4K 边疆风味b7昌吉篇（下）</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20251028020500 +0800" stop="20251028024500 +0800">
+		<title lang="zh">探索b7发现4K 揭秘史前“玉都”（下）</title>
+	</programme><channel id="&#x9ED1;&#x8393;&#x7535;&#x5F71;">
+		<display-name lang="zh">黑莓电影</display-name>
+	</channel><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20251028003600 +0800" stop="20251028022000 +0800">
+		<title lang="zh">A计划</title>
 	</programme><channel id="&#x9ED1;&#x8393;&#x52A8;&#x753B;">
 		<display-name lang="zh">黑莓动画</display-name>
 	</channel><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20251028000000 +0800" stop="20251028014500 +0800">
 		<title lang="zh">02_画江湖之不良人第七季：九幽玄天</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20251028014500 +0800" stop="20251028054700 +0800">
+		<title lang="zh">01_间谍过家家全集中文版</title>
 	</programme><channel id="&#x91D1;&#x9E70;&#x5361;&#x901A;">
 		<display-name lang="zh">金鹰卡通</display-name>
 	</channel><programme channel="&#x91D1;&#x9E70;&#x5361;&#x901A;" start="20251028000000 +0800" stop="20251028032000 +0800">

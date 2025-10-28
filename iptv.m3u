@@ -158,11 +158,11 @@ http://bxtv.3a.ink/api.php?id=viutv
 http://bxtv.3a.ink/api.php?id=qxjd
 #EXTINF:-1 tvg-id="J" tvg-name="翡翠台" tvg-logo="http://bxtv.3a.ink/logo/翡翠.png" group-title="港澳台频道",翡翠台
 http://101.35.240.114:88/live.php?id=翡翠台
-#EXTINF:-1 tvg-id="PCC" tvg-name="鳳凰衛視中文" tvg-logo="http://bxtv.3a.ink/logo/凤凰中文.png" group-title="港澳台频道",鳳凰衛視中文台
+#EXTINF:-1 tvg-id="PCC" tvg-name="鳳凰衛視中文" tvg-logo="http://bxtv.3a.ink/logo/凤凰中文.png" group-title="港澳台频道" http-user-agent="iPhone" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",鳳凰衛視中文台
 http://101.35.240.114:88/phenix.php?id=fhzw
 #EXTINF:-1 tvg-id="PIN" tvg-name="鳳凰衛視資訊" tvg-logo="http://bxtv.3a.ink/logo/凤凰资讯.png" group-title="港澳台频道" http-user-agent="iPhone" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",鳳凰衛視資訊台
 http://101.35.240.114:88/phenix.php?id=fhzx
-#EXTINF:-1 tvg-id="PHK" tvg-name="鳳凰衛視香港" tvg-logo="http://bxtv.3a.ink/logo/凤凰香港.png" group-title="港澳台频道",鳳凰衛視香港台
+#EXTINF:-1 tvg-id="PHK" tvg-name="鳳凰衛視香港" tvg-logo="http://bxtv.3a.ink/logo/凤凰香港.png" group-title="港澳台频道" http-user-agent="iPhone" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",鳳凰衛視香港台
 http://101.35.240.114:88/phenix.php?id=fhhk
 #EXTINF:-1 tvg-id="410344" tvg-name="NOW新闻" tvg-logo="http://bxtv.3a.ink/logo/NOW新闻.png" group-title="港澳台频道",NOW新闻
 http://bxtv.3a.ink/api.php?id=now
@@ -179,6 +179,8 @@ http://play-ali.cloudvdn.com/live/00987tp0039.flv
 #EXTINF:-1 tvg-id="368371" tvg-name="天映经典" tvg-logo="https://down.ymschh.top/tv/TYJD.png" group-title="港澳台频道",天映经典
 http://play-ali.cloudvdn.com/live/00987tp0035.flv
 
+#EXTINF:-1 tvg-id=" tvg-name="五星体育" tvg-logo="https://down.ymschh.top/tv/WXTY.png" group-title="其他频道" http-user-agent="iPhone" http-header="Referer=https://live.kankanews.com/",五星体育
+http://101.35.240.114:88/live.php?id=五星体育
 #EXTINF:-1 tvg-id="CETV1" tvg-name="CETV1" tvg-logo="https://down.ymschh.top/tv/CETV1.png" group-title="其他频道",CETV1
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227067/1.m3u8
 #EXTINF:-1 tvg-id="CETV2" tvg-name="CETV2" tvg-logo="https://down.ymschh.top/tv/CETV2.png" group-title="其他频道",CETV2

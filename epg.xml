@@ -8664,6 +8664,10 @@
     <title lang="zh">23全球大視野</title>
     <desc/>
     <date>2025-10-31</date>
+  </programme><programme channel="370177" start="20251101000000 +0800" stop="20251102000000 +0800">
+    <title lang="zh">18中天辣晚報</title>
+    <desc/>
+    <date>2025-11-01</date>
   </programme><channel id="410285">
     <display-name lang="Hong Kong">Now 爆谷台</display-name>
     <icon src="https://epg.pw/media/images/epg/2025/01/28/20250128123118148719_96"/>
@@ -9111,12 +9115,22 @@
 		<title lang="zh">远方的家4K 大运河 千里运河到通州</title>
 	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20251030040100 +0800" stop="20251030044200 +0800">
 		<title lang="zh">远方的家4K 大运河 运河与通州：起舞副中心</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20251030044200 +0800" stop="20251030044700 +0800">
+		<title lang="zh">美丽中国自然4K 巫山系列 天池嵌葱坪</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20251030045200 +0800" stop="20251030054100 +0800">
+		<title lang="zh">大数据时代4K 第2集 转型之路</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20251030054100 +0800" stop="20251030055600 +0800">
+		<title lang="zh">艺术里的奥林匹克4K 油画b7弓箭手</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20251030055600 +0800" stop="20251030062600 +0800">
+		<title lang="zh">传承 第三季4K 第一集 归处</title>
 	</programme><channel id="&#x9ED1;&#x8393;&#x7535;&#x5F71;">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20251030010100 +0800" stop="20251030024300 +0800">
 		<title lang="zh">捕风捉影</title>
 	</programme><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20251030024300 +0800" stop="20251030043900 +0800">
 		<title lang="zh">左右</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20251030043900 +0800" stop="20251030064900 +0800">
+		<title lang="zh">亲爱的伽利略</title>
 	</programme><channel id="&#x9ED1;&#x8393;&#x52A8;&#x753B;">
 		<display-name lang="zh">黑莓动画</display-name>
 	</channel><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20251030000000 +0800" stop="20251030012400 +0800">
@@ -9125,6 +9139,8 @@
 		<title lang="zh">01_我在天庭收废品</title>
 	</programme><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20251030024300 +0800" stop="20251030050000 +0800">
 		<title lang="zh">01_假面骑士ZZZ普通话版</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20251030050000 +0800" stop="20251030081200 +0800">
+		<title lang="zh">01_樱桃小丸子 第二季普通话版</title>
 	</programme><channel id="&#x91D1;&#x9E70;&#x5361;&#x901A;">
 		<display-name lang="zh">金鹰卡通</display-name>
 	</channel><programme channel="&#x91D1;&#x9E70;&#x5361;&#x901A;" start="20251030000000 +0800" stop="20251030032000 +0800">

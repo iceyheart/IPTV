@@ -8814,10 +8814,24 @@
 		<display-name lang="zh">纯享4K</display-name>
 	</channel><programme channel="&#x7EAF;&#x4EAB;4K" start="20251031000200 +0800" stop="20251031003000 +0800">
 		<title lang="zh">记住乡愁 第八季4K 小穿芳峪村——文化添香 满院芬芳</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20251031003000 +0800" stop="20251031005800 +0800">
+		<title lang="zh">记住乡愁 第八季4K 新寨村——远山飘出咖啡香</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20251031005800 +0800" stop="20251031012700 +0800">
+		<title lang="zh">味道4K 我的家乡菜b7成都篇（上）</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20251031012700 +0800" stop="20251031015700 +0800">
+		<title lang="zh">味道4K 我的家乡菜b7成都篇（下）</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20251031015700 +0800" stop="20251031023700 +0800">
+		<title lang="zh">探索b7发现4K 五代王处直墓（下）</title>
 	</programme><channel id="&#x9ED1;&#x8393;&#x7535;&#x5F71;">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20251031000300 +0800" stop="20251031014300 +0800">
 		<title lang="zh">猎魂人</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20251031014300 +0800" stop="20251031031300 +0800">
+		<title lang="zh">危险元素</title>
+	</programme><channel id="&#x9ED1;&#x8393;&#x52A8;&#x753B;">
+		<display-name lang="zh">黑莓动画</display-name>
+	</channel><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20251031003700 +0800" stop="20251031043900 +0800">
+		<title lang="zh">01_间谍过家家全集中文版</title>
 	</programme><channel id="&#x5361;&#x9177;&#x5C11;&#x513F;">
 		<display-name lang="zh">卡酷少儿</display-name>
 	</channel><programme channel="&#x5361;&#x9177;&#x5C11;&#x513F;" start="20251031001200 +0800" stop="20251031003200 +0800">

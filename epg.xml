@@ -8848,12 +8848,20 @@
 		<title lang="zh">味道4K 原味乡间b7瑞昌篇</title>
 	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20251101015900 +0800" stop="20251101023900 +0800">
 		<title lang="zh">探索b7发现4K 神秘的墓主（1）</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20251101023900 +0800" stop="20251101031900 +0800">
+		<title lang="zh">荣宝斋4K 第3集 斋藏绝技</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20251101031900 +0800" stop="20251101040000 +0800">
+		<title lang="zh">远方的家4K 大运河 什刹海：运河寻踪</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20251101040000 +0800" stop="20251101044100 +0800">
+		<title lang="zh">远方的家4K 大运河 北京：古城的复兴</title>
 	</programme><channel id="&#x9ED1;&#x8393;&#x7535;&#x5F71;">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20251101001300 +0800" stop="20251101014600 +0800">
 		<title lang="zh">火线追凶2之鹈鹕行动</title>
 	</programme><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20251101014600 +0800" stop="20251101030700 +0800">
 		<title lang="zh">双生</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20251101030700 +0800" stop="20251101055200 +0800">
+		<title lang="zh">碧海蓝天</title>
 	</programme><channel id="&#x9ED1;&#x8393;&#x52A8;&#x753B;">
 		<display-name lang="zh">黑莓动画</display-name>
 	</channel><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20251101005200 +0800" stop="20251101045300 +0800">

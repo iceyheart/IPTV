@@ -9972,6 +9972,10 @@
 		<title lang="zh">远方的家4K 大运河 北京跨越600年</title>
 	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20251031120400 +0800" stop="20251031124500 +0800">
 		<title lang="zh">远方的家4K 大运河 北京中心这片海</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20251031124500 +0800" stop="20251031125100 +0800">
+		<title lang="zh">美丽中国自然4K 巫山系列 水土卫士</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20251031125600 +0800" stop="20251031134500 +0800">
+		<title lang="zh">大数据时代4K 第3集 决策之智</title>
 	</programme><channel id="&#x775B;&#x5F69;&#x9752;&#x5C11;">
 		<display-name lang="zh">睛彩青少</display-name>
 	</channel><programme channel="&#x775B;&#x5F69;&#x9752;&#x5C11;" start="20251031000000 +0800" stop="20251031000100 +0800">
@@ -10282,6 +10286,8 @@
 		<title lang="zh">12_乐于帮助他人的好宝宝</title>
 	</programme><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20251031100600 +0800" stop="20251031130600 +0800">
 		<title lang="zh">11_喜羊羊与灰太狼之羊羊小侦探</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20251031130600 +0800" stop="20251031150600 +0800">
+		<title lang="zh">13_猪猪侠之光明守卫者（上部）</title>
 	</programme><channel id="&#x54D2;&#x5575;&#x8D5B;&#x4E8B;">
 		<display-name lang="zh">哒啵赛事</display-name>
 	</channel><programme channel="&#x54D2;&#x5575;&#x8D5B;&#x4E8B;" start="20251031000000 +0800" stop="20251031000100 +0800">
@@ -11609,6 +11615,10 @@
 	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20251031110400 +0800" stop="20251031114300 +0800">
 		<title lang="zh">04_御赐小仵作</title>
 	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20251031114300 +0800" stop="20251031122300 +0800">
+		<title lang="zh">营养健康20新</title>
+	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20251031122300 +0800" stop="20251031130200 +0800">
+		<title lang="zh">05_御赐小仵作</title>
+	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20251031130200 +0800" stop="20251031134200 +0800">
 		<title lang="zh">营养健康20新</title>
 	</programme><channel id="&#x52A8;&#x4F5C;&#x7535;&#x5F71;">
 		<display-name lang="zh">动作电影</display-name>

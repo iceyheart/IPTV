@@ -143,27 +143,27 @@ http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227172/1.m3u8
 #EXTINF:-1 tvg-id="C18" tvg-name="myTV SUPER 18台" tvg-logo="http://bxtv.3a.ink/logo/MYTVSUPER18.png" group-title="港澳台频道",myTV SUPER 18台
 http://bxtv.3a.ink/api.php?id=18
 #EXTINF:-1 tvg-id="B" tvg-name="TVB Plus" tvg-logo="http://bxtv.3a.ink/logo/TVBPLUS.png" group-title="港澳台频道",TVB Plus
-http://bxtv.3a.ink/api.php?id=tvbp
+http://43.251.226.89:5050/smart.php?id=j2_twn&token=8520
 #EXTINF:-1 tvg-id="P" tvg-name="明珠台" tvg-logo="http://bxtv.3a.ink/logo/明珠.png" group-title="港澳台频道",明珠台
-http://bxtv.3a.ink/api.php?id=mz
+http://43.251.226.89:5050/smart.php?id=pearl_twn&token=8520
 #EXTINF:-1 tvg-id="C" tvg-name="無線新聞台" tvg-logo="http://bxtv.3a.ink/logo/无线新闻.png" group-title="港澳台频道",無線新聞台
-http://bxtv.3a.ink/api.php?id=wxxw
+http://43.251.226.89:5050/smart.php?id=inews_twn&token=8520
 #EXTINF:-1 tvg-id="CMAM" tvg-name="美亞電影台" tvg-logo="http://bxtv.3a.ink/logo/美亚电影.png" group-title="港澳台频道",美亞電影台
 http://bxtv.3a.ink/api.php?id=meiya
 #EXTINF:-1 tvg-id="POPC" tvg-name="PopC" tvg-logo="http://bxtv.3a.ink/logo/POPC.png" group-title="港澳台频道",PopC
 http://bxtv.3a.ink/api.php?id=popc
 #EXTINF:-1 tvg-id="410274" tvg-name="VIUTV" tvg-logo="http://bxtv.3a.ink/logo/VIUTV.png" group-title="港澳台频道",VIUTV
-http://bxtv.3a.ink/api.php?id=viutv
+http://43.251.226.89:5050/smart.php?id=viu1_twn&token=8520
 #EXTINF:-1 tvg-id="CTVC" tvg-name="千禧經典台" tvg-logo="http://bxtv.3a.ink/logo/千禧经典.png" group-title="港澳台频道",千禧經典台
 http://bxtv.3a.ink/api.php?id=qxjd
-#EXTINF:-1 tvg-id="J" tvg-name="翡翠台" tvg-logo="http://bxtv.3a.ink/logo/翡翠.png" group-title="港澳台频道" http-user-agent="iPhone",翡翠台
-http://101.35.240.114:88/live.php?id=翡翠台
-#EXTINF:-1 tvg-id="PCC" tvg-name="鳳凰衛視中文" tvg-logo="http://bxtv.3a.ink/logo/凤凰中文.png" group-title="港澳台频道" http-user-agent="iPhone" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",鳳凰衛視中文台
-http://101.35.240.114:88/phenix.php?id=fhzw
-#EXTINF:-1 tvg-id="PIN" tvg-name="鳳凰衛視資訊" tvg-logo="http://bxtv.3a.ink/logo/凤凰资讯.png" group-title="港澳台频道" http-user-agent="iPhone" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",鳳凰衛視資訊台
-http://101.35.240.114:88/phenix.php?id=fhzx
-#EXTINF:-1 tvg-id="PHK" tvg-name="鳳凰衛視香港" tvg-logo="http://bxtv.3a.ink/logo/凤凰香港.png" group-title="港澳台频道" http-user-agent="iPhone" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",鳳凰衛視香港台
-http://101.35.240.114:88/phenix.php?id=fhhk
+#EXTINF:-1 tvg-id="J" tvg-name="翡翠台" tvg-logo="http://bxtv.3a.ink/logo/翡翠.png" group-title="港澳台频道",翡翠台
+http://43.251.226.89:5050/smart.php?id=jade_twn&token=8520
+#EXTINF:-1 tvg-id="PCC" tvg-name="鳳凰衛視中文" tvg-logo="http://bxtv.3a.ink/logo/凤凰中文.png" group-title="港澳台频道",鳳凰衛視中文台
+http://43.251.226.89:5050/smart.php?id=phoenixtv_hd&token=8520
+#EXTINF:-1 tvg-id="PIN" tvg-name="鳳凰衛視資訊" tvg-logo="http://bxtv.3a.ink/logo/凤凰资讯.png" group-title="港澳台频道",鳳凰衛視資訊台
+http://43.251.226.89:5050/smart.php?id=phoenixinfo_hd&token=8520
+#EXTINF:-1 tvg-id="PHK" tvg-name="鳳凰衛視香港" tvg-logo="http://bxtv.3a.ink/logo/凤凰香港.png" group-title="港澳台频道",鳳凰衛視香港台
+http://43.251.226.89:5050/smart.php?id=hkphoenix_twn&token=8520
 #EXTINF:-1 tvg-id="410344" tvg-name="NOW新闻" tvg-logo="http://bxtv.3a.ink/logo/NOW新闻.png" group-title="港澳台频道",NOW新闻
 http://bxtv.3a.ink/api.php?id=now
 #EXTINF:-1 tvg-id="广东体育" tvg-name="广东体育" tvg-logo="http://bxtv.3a.ink/logo/广东体育.png" group-title="港澳台频道",广东体育
@@ -171,13 +171,13 @@ http://bxtv.3a.ink/api.php?id=gdty
 #EXTINF:-1 tvg-id="广东珠江" tvg-name="广东珠江" tvg-logo="http://bxtv.3a.ink/logo/广东珠江.png" group-title="港澳台频道",广东珠江
 http://bxtv.3a.ink/api.php?id=gdzj
 #EXTINF:-1 tvg-id="370177" tvg-name="中天新闻台" tvg-logo="http://bxtv.3a.ink/logo/中天新闻.png" group-title="港澳台频道",中天新闻台
-http://bxtv.3a.ink/api.php?id=ztxw
+http://43.251.226.89:5050/smart.php?id=ctinews&token=8520
 #EXTINF:-1 tvg-id="410285" tvg-name="Now 爆谷台" tvg-logo="https://down.ymschh.top/tv/BGT.png" group-title="港澳台频道",爆谷台
 http://play-ali.cloudvdn.com/live/00987tp0038.flv
 #EXTINF:-1 tvg-id="410286" tvg-name="Now爆谷星影台" tvg-logo="https://down.ymschh.top/tv/XYT.png" group-title="港澳台频道",星影台
 http://play-ali.cloudvdn.com/live/00987tp0039.flv
 #EXTINF:-1 tvg-id="368371" tvg-name="天映经典" tvg-logo="https://down.ymschh.top/tv/TYJD.png" group-title="港澳台频道",天映经典
-http://play-ali.cloudvdn.com/live/00987tp0035.flv
+http://43.251.226.89:5050/smart.php?id=Celestial2&token=8520
 
 #EXTINF:-1 tvg-id="五星体育HD" tvg-name="五星体育" tvg-logo="https://down.ymschh.top/tv/WXTY.png" group-title="其他频道" http-user-agent="iPhone" http-header="Referer=https://live.kankanews.com/",五星体育
 http://101.35.240.114:88/live.php?id=五星体育

@@ -9958,6 +9958,10 @@
 		<title lang="zh">远方的家4K 大运河 北京跨越600年</title>
 	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20251031201000 +0800" stop="20251031205100 +0800">
 		<title lang="zh">远方的家4K 大运河 北京中心这片海</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20251031210100 +0800" stop="20251031215000 +0800">
+		<title lang="zh">大数据时代4K 第3集 决策之智</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20251031215000 +0800" stop="20251031222000 +0800">
+		<title lang="zh">传承 第三季4K 第三集 生技</title>
 	</programme><channel id="&#x775B;&#x5F69;&#x9752;&#x5C11;">
 		<display-name lang="zh">睛彩青少</display-name>
 	</channel><programme channel="&#x775B;&#x5F69;&#x9752;&#x5C11;" start="20251031000000 +0800" stop="20251031000100 +0800">
@@ -10262,6 +10266,8 @@
 		<title lang="zh">变形金刚3</title>
 	</programme><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20251031200000 +0800" stop="20251031214500 +0800">
 		<title lang="zh">第五元素</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20251031214500 +0800" stop="20251031001300 +0800">
+		<title lang="zh">封神第一部：朝歌风云</title>
 	</programme><channel id="&#x9ED1;&#x8393;&#x52A8;&#x753B;">
 		<display-name lang="zh">黑莓动画</display-name>
 	</channel><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20251031003700 +0800" stop="20251031043900 +0800">
@@ -10286,6 +10292,8 @@
 		<title lang="zh">11_鱼群大暴走</title>
 	</programme><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20251031200900 +0800" stop="20251031214300 +0800">
 		<title lang="zh">哆啦A梦：伴我同行</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20251031214300 +0800" stop="20251031230900 +0800">
+		<title lang="zh">奇妙萌可大电影</title>
 	</programme><channel id="&#x54D2;&#x5575;&#x8D5B;&#x4E8B;">
 		<display-name lang="zh">哒啵赛事</display-name>
 	</channel><programme channel="&#x54D2;&#x5575;&#x8D5B;&#x4E8B;" start="20251031000000 +0800" stop="20251031000100 +0800">
@@ -11636,6 +11644,12 @@
 		<title lang="zh">《八段锦》推荐第41期</title>
 	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20251031195000 +0800" stop="20251031203600 +0800">
 		<title lang="zh">03_三生三世枕上书</title>
+	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20251031203600 +0800" stop="20251031210600 +0800">
+		<title lang="zh">《A咖秀》推荐第11期</title>
+	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20251031210600 +0800" stop="20251031215300 +0800">
+		<title lang="zh">04_三生三世枕上书</title>
+	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20251031215300 +0800" stop="20251031222300 +0800">
+		<title lang="zh">《八段锦》推荐第41期</title>
 	</programme><channel id="&#x52A8;&#x4F5C;&#x7535;&#x5F71;">
 		<display-name lang="zh">动作电影</display-name>
 	</channel><programme channel="&#x52A8;&#x4F5C;&#x7535;&#x5F71;" start="20251031000000 +0800" stop="20251031000900 +0800">
@@ -11926,6 +11940,8 @@
 		<title lang="zh">《八段锦》推荐第41期</title>
 	</programme><programme channel="&#x60CA;&#x609A;&#x60AC;&#x7591;" start="20251031201900 +0800" stop="20251031215100 +0800">
 		<title lang="zh">昆仑神宫</title>
+	</programme><programme channel="&#x60CA;&#x609A;&#x60AC;&#x7591;" start="20251031215100 +0800" stop="20251031222100 +0800">
+		<title lang="zh">《A咖秀》推荐第11期</title>
 	</programme><channel id="&#x7CBE;&#x54C1;&#x4F53;&#x80B2;">
 		<display-name lang="zh">精品体育</display-name>
 	</channel><programme channel="&#x7CBE;&#x54C1;&#x4F53;&#x80B2;" start="20251031000000 +0800" stop="20251031001200 +0800">

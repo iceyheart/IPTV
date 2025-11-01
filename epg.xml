@@ -9756,6 +9756,12 @@
 		<title lang="zh">艺术里的奥林匹克4K 油画b7棋手</title>
 	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20251101140500 +0800" stop="20251101143500 +0800">
 		<title lang="zh">传承 第三季4K 第五集 承心</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20251101143500 +0800" stop="20251101150500 +0800">
+		<title lang="zh">传承 第三季4K 第六集 相生</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20251101150500 +0800" stop="20251101153300 +0800">
+		<title lang="zh">好吃客4K 北京胡同</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20251101153300 +0800" stop="20251101162200 +0800">
+		<title lang="zh">智造美好生活4K 第3集 慧 城市</title>
 	</programme><channel id="&#x775B;&#x5F69;&#x9752;&#x5C11;">
 		<display-name lang="zh">睛彩青少</display-name>
 	</channel><programme channel="&#x775B;&#x5F69;&#x9752;&#x5C11;" start="20251101000000 +0800" stop="20251101003000 +0800">
@@ -10088,6 +10094,8 @@
 		<title lang="zh">野蛮女友</title>
 	</programme><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20251101135900 +0800" stop="20251101153400 +0800">
 		<title lang="zh">忽然少年</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20251101153400 +0800" stop="20251101172100 +0800">
+		<title lang="zh">绝密特勤队</title>
 	</programme><channel id="&#x9ED1;&#x8393;&#x52A8;&#x753B;">
 		<display-name lang="zh">黑莓动画</display-name>
 	</channel><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20251101005200 +0800" stop="20251101045300 +0800">
@@ -10106,6 +10114,10 @@
 		<title lang="zh">25_喜羊羊与灰太狼之羊羊小侦探</title>
 	</programme><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20251101130500 +0800" stop="20251101142100 +0800">
 		<title lang="zh">22_猪猪侠之光明守卫者（上部）</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20251101142100 +0800" stop="20251101144600 +0800">
+		<title lang="zh">21_乐</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20251101144600 +0800" stop="20251101164700 +0800">
+		<title lang="zh">01_草船能借到十万支箭吗</title>
 	</programme><channel id="&#x54D2;&#x5575;&#x8D5B;&#x4E8B;">
 		<display-name lang="zh">哒啵赛事</display-name>
 	</channel><programme channel="&#x54D2;&#x5575;&#x8D5B;&#x4E8B;" start="20251101000000 +0800" stop="20251101000100 +0800">
@@ -11434,6 +11446,12 @@
 		<title lang="zh">10_御赐小仵作</title>
 	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20251101135700 +0800" stop="20251101141700 +0800">
 		<title lang="zh">健康推荐</title>
+	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20251101141700 +0800" stop="20251101145700 +0800">
+		<title lang="zh">11_御赐小仵作</title>
+	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20251101145700 +0800" stop="20251101152700 +0800">
+		<title lang="zh">美丽人生</title>
+	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20251101152700 +0800" stop="20251101160700 +0800">
+		<title lang="zh">12_御赐小仵作</title>
 	</programme><channel id="&#x52A8;&#x4F5C;&#x7535;&#x5F71;">
 		<display-name lang="zh">动作电影</display-name>
 	</channel><programme channel="&#x52A8;&#x4F5C;&#x7535;&#x5F71;" start="20251101000000 +0800" stop="20251101001700 +0800">
@@ -11712,6 +11730,10 @@
 		<title lang="zh">鬼吹灯之湘西密藏</title>
 	</programme><programme channel="&#x60CA;&#x609A;&#x60AC;&#x7591;" start="20251101134900 +0800" stop="20251101141900 +0800">
 		<title lang="zh">美丽人生</title>
+	</programme><programme channel="&#x60CA;&#x609A;&#x60AC;&#x7591;" start="20251101141900 +0800" stop="20251101154100 +0800">
+		<title lang="zh">人类削减计划</title>
+	</programme><programme channel="&#x60CA;&#x609A;&#x60AC;&#x7591;" start="20251101154100 +0800" stop="20251101161100 +0800">
+		<title lang="zh">健康推荐</title>
 	</programme><channel id="&#x7CBE;&#x54C1;&#x4F53;&#x80B2;">
 		<display-name lang="zh">精品体育</display-name>
 	</channel><programme channel="&#x7CBE;&#x54C1;&#x4F53;&#x80B2;" start="20251101000000 +0800" stop="20251101001700 +0800">

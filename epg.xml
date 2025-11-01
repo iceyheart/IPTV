@@ -9778,6 +9778,12 @@
 		<title lang="zh">远方的家4K 大运河 什刹海：运河寻踪</title>
 	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20251101201900 +0800" stop="20251101210000 +0800">
 		<title lang="zh">远方的家4K 大运河 北京：古城的复兴</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20251101210000 +0800" stop="20251101210600 +0800">
+		<title lang="zh">美丽中国自然4K 巫山系列 鸟雀育雏记</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20251101211100 +0800" stop="20251101220000 +0800">
+		<title lang="zh">大数据时代4K 第4集 商业之变</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20251101220000 +0800" stop="20251101223000 +0800">
+		<title lang="zh">传承 第三季4K 第五集 承心</title>
 	</programme><channel id="&#x775B;&#x5F69;&#x9752;&#x5C11;">
 		<display-name lang="zh">睛彩青少</display-name>
 	</channel><programme channel="&#x775B;&#x5F69;&#x9752;&#x5C11;" start="20251101000000 +0800" stop="20251101003000 +0800">
@@ -10116,6 +10122,8 @@
 		<title lang="zh">驯龙战</title>
 	</programme><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20251101185500 +0800" stop="20251101210300 +0800">
 		<title lang="zh">这个杀手不太冷</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20251101210300 +0800" stop="20251101224200 +0800">
+		<title lang="zh">地下铁</title>
 	</programme><channel id="&#x9ED1;&#x8393;&#x52A8;&#x753B;">
 		<display-name lang="zh">黑莓动画</display-name>
 	</channel><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20251101005200 +0800" stop="20251101045300 +0800">
@@ -10144,6 +10152,8 @@
 		<title lang="zh">第1话 女孩们的聚会</title>
 	</programme><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20251101190300 +0800" stop="20251101211300 +0800">
 		<title lang="zh">11_赛尔号合集</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20251101211300 +0800" stop="20251101224500 +0800">
+		<title lang="zh">01_假面骑士艾克赛德 （普通话版）</title>
 	</programme><channel id="&#x54D2;&#x5575;&#x8D5B;&#x4E8B;">
 		<display-name lang="zh">哒啵赛事</display-name>
 	</channel><programme channel="&#x54D2;&#x5575;&#x8D5B;&#x4E8B;" start="20251101000000 +0800" stop="20251101000100 +0800">
@@ -11490,6 +11500,10 @@
 		<title lang="zh">《八段锦》推荐第41期</title>
 	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20251101201400 +0800" stop="20251101205900 +0800">
 		<title lang="zh">08_三生三世枕上书</title>
+	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20251101205900 +0800" stop="20251101212900 +0800">
+		<title lang="zh">《健康生活》推荐第一期</title>
+	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20251101212900 +0800" stop="20251101221500 +0800">
+		<title lang="zh">09_三生三世枕上书</title>
 	</programme><channel id="&#x52A8;&#x4F5C;&#x7535;&#x5F71;">
 		<display-name lang="zh">动作电影</display-name>
 	</channel><programme channel="&#x52A8;&#x4F5C;&#x7535;&#x5F71;" start="20251101000000 +0800" stop="20251101001700 +0800">
@@ -11782,6 +11796,8 @@
 		<title lang="zh">《健康生活》推荐第一期</title>
 	</programme><programme channel="&#x60CA;&#x609A;&#x60AC;&#x7591;" start="20251101202500 +0800" stop="20251101214300 +0800">
 		<title lang="zh">古董局中局之国画密码</title>
+	</programme><programme channel="&#x60CA;&#x609A;&#x60AC;&#x7591;" start="20251101214300 +0800" stop="20251101221300 +0800">
+		<title lang="zh">《八段锦》推荐第41期</title>
 	</programme><channel id="&#x7CBE;&#x54C1;&#x4F53;&#x80B2;">
 		<display-name lang="zh">精品体育</display-name>
 	</channel><programme channel="&#x7CBE;&#x54C1;&#x4F53;&#x80B2;" start="20251101000000 +0800" stop="20251101001700 +0800">

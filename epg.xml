@@ -3678,11 +3678,13 @@
 		<title lang="zh">广西海洋天气预报</title>
 	</programme><programme channel="&#x5E7F;&#x897F;&#x536B;&#x89C6;" start="20251101205000 +0800" stop="20251101214000 +0800">
 		<title lang="zh">美丽剧场38集：暗夜与黎明(29)</title>
-	</programme><programme channel="&#x5E7F;&#x897F;&#x536B;&#x89C6;" start="20251101214000 +0800" stop="20251101230000 +0800">
-		<title lang="zh">首播：2025桂林艺术节开幕式</title>
-	</programme><programme channel="&#x5E7F;&#x897F;&#x536B;&#x89C6;" start="20251101230000 +0800" stop="20251101234000 +0800">
+	</programme><programme channel="&#x5E7F;&#x897F;&#x536B;&#x89C6;" start="20251101214000 +0800" stop="20251101220500 +0800">
+		<title lang="zh">首播：广西故事</title>
+	</programme><programme channel="&#x5E7F;&#x897F;&#x536B;&#x89C6;" start="20251101220500 +0800" stop="20251101224000 +0800">
+		<title lang="zh">百寿探秘（精编版）</title>
+	</programme><programme channel="&#x5E7F;&#x897F;&#x536B;&#x89C6;" start="20251101224000 +0800" stop="20251101233000 +0800">
 		<title lang="zh">传奇剧场33集：再造之恩(33)完</title>
-	</programme><programme channel="&#x5E7F;&#x897F;&#x536B;&#x89C6;" start="20251101234000 +0800" stop="20251101235900 +0800">
+	</programme><programme channel="&#x5E7F;&#x897F;&#x536B;&#x89C6;" start="20251101233000 +0800" stop="20251101235900 +0800">
 		<title lang="zh">传奇剧场39集：飞虎队(1)</title>
 	</programme><channel id="&#x9655;&#x897F;&#x536B;&#x89C6;">
 		<display-name lang="zh">陕西卫视</display-name>
@@ -9766,6 +9768,16 @@
 		<title lang="zh">记住乡愁 第八季4K 詹家岗村——岗上人家 禾下乘凉</title>
 	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20251101171800 +0800" stop="20251101174800 +0800">
 		<title lang="zh">味道4K 原味乡间b7北川篇</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20251101174800 +0800" stop="20251101181800 +0800">
+		<title lang="zh">味道4K 原味乡间b7瑞昌篇</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20251101181800 +0800" stop="20251101185800 +0800">
+		<title lang="zh">探索b7发现4K 神秘的墓主（1）</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20251101185800 +0800" stop="20251101193800 +0800">
+		<title lang="zh">荣宝斋4K 第3集 斋藏绝技</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20251101193800 +0800" stop="20251101201900 +0800">
+		<title lang="zh">远方的家4K 大运河 什刹海：运河寻踪</title>
+	</programme><programme channel="&#x7EAF;&#x4EAB;4K" start="20251101201900 +0800" stop="20251101210000 +0800">
+		<title lang="zh">远方的家4K 大运河 北京：古城的复兴</title>
 	</programme><channel id="&#x775B;&#x5F69;&#x9752;&#x5C11;">
 		<display-name lang="zh">睛彩青少</display-name>
 	</channel><programme channel="&#x775B;&#x5F69;&#x9752;&#x5C11;" start="20251101000000 +0800" stop="20251101003000 +0800">
@@ -10102,6 +10114,8 @@
 		<title lang="zh">绝密特勤队</title>
 	</programme><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20251101172100 +0800" stop="20251101185500 +0800">
 		<title lang="zh">驯龙战</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x7535;&#x5F71;" start="20251101185500 +0800" stop="20251101210300 +0800">
+		<title lang="zh">这个杀手不太冷</title>
 	</programme><channel id="&#x9ED1;&#x8393;&#x52A8;&#x753B;">
 		<display-name lang="zh">黑莓动画</display-name>
 	</channel><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20251101005200 +0800" stop="20251101045300 +0800">
@@ -10126,6 +10140,10 @@
 		<title lang="zh">01_草船能借到十万支箭吗</title>
 	</programme><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20251101164700 +0800" stop="20251101182000 +0800">
 		<title lang="zh">01_奶龙之奇妙冒险</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20251101182000 +0800" stop="20251101190300 +0800">
+		<title lang="zh">第1话 女孩们的聚会</title>
+	</programme><programme channel="&#x9ED1;&#x8393;&#x52A8;&#x753B;" start="20251101190300 +0800" stop="20251101211300 +0800">
+		<title lang="zh">11_赛尔号合集</title>
 	</programme><channel id="&#x54D2;&#x5575;&#x8D5B;&#x4E8B;">
 		<display-name lang="zh">哒啵赛事</display-name>
 	</channel><programme channel="&#x54D2;&#x5575;&#x8D5B;&#x4E8B;" start="20251101000000 +0800" stop="20251101000100 +0800">
@@ -11464,6 +11482,14 @@
 		<title lang="zh">营养健康20新</title>
 	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20251101164700 +0800" stop="20251101181600 +0800">
 		<title lang="zh">好嗨的历险记</title>
+	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20251101181600 +0800" stop="20251101185600 +0800">
+		<title lang="zh">营养健康20新</title>
+	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20251101185600 +0800" stop="20251101194400 +0800">
+		<title lang="zh">07_三生三世枕上书</title>
+	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20251101194400 +0800" stop="20251101201400 +0800">
+		<title lang="zh">《八段锦》推荐第41期</title>
+	</programme><programme channel="&#x7231;&#x60C5;&#x559C;&#x5267;" start="20251101201400 +0800" stop="20251101205900 +0800">
+		<title lang="zh">08_三生三世枕上书</title>
 	</programme><channel id="&#x52A8;&#x4F5C;&#x7535;&#x5F71;">
 		<display-name lang="zh">动作电影</display-name>
 	</channel><programme channel="&#x52A8;&#x4F5C;&#x7535;&#x5F71;" start="20251101000000 +0800" stop="20251101001700 +0800">
@@ -11750,6 +11776,12 @@
 		<title lang="zh">逃出无人岛</title>
 	</programme><programme channel="&#x60CA;&#x609A;&#x60AC;&#x7591;" start="20251101172200 +0800" stop="20251101180600 +0800">
 		<title lang="zh">伏湿丸</title>
+	</programme><programme channel="&#x60CA;&#x609A;&#x60AC;&#x7591;" start="20251101180600 +0800" stop="20251101195500 +0800">
+		<title lang="zh">花漾少女杀人事件</title>
+	</programme><programme channel="&#x60CA;&#x609A;&#x60AC;&#x7591;" start="20251101195500 +0800" stop="20251101202500 +0800">
+		<title lang="zh">《健康生活》推荐第一期</title>
+	</programme><programme channel="&#x60CA;&#x609A;&#x60AC;&#x7591;" start="20251101202500 +0800" stop="20251101214300 +0800">
+		<title lang="zh">古董局中局之国画密码</title>
 	</programme><channel id="&#x7CBE;&#x54C1;&#x4F53;&#x80B2;">
 		<display-name lang="zh">精品体育</display-name>
 	</channel><programme channel="&#x7CBE;&#x54C1;&#x4F53;&#x80B2;" start="20251101000000 +0800" stop="20251101001700 +0800">
